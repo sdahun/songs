@@ -8,7 +8,7 @@ set_error_handler(
     }
 );
 
-foreach (glob ('src/*.php') as $validator) {
+foreach (glob (dirname(__FILE__).'/src/*.php') as $validator) {
     echo(str_repeat('-', 50)."\n");
     try {
         require($validator);
