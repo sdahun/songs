@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Atyánk, a te gyermekeid</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Melchior Johann (1813-1873.)</author>
+      <author type="words">Appel W., 1893.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="314"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - kezdő ének</theme>
+      <theme>Egyház</theme>
+      <theme>Ima</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyánk, a te gyermekeid<br/>összegyűltek e helyen,<br/>halld meg szívünk fohászait,<br/>igéd üdvre vezessen!<br/>Urunk, éltesd és üdítsd fel<br/>szent szavaddal szívünket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldásodnak árja folyjon,<br/>s gátja légy a vesztünknek.<br/>Lelked jóra, igazságra<br/>vezéreljen bennünket!<br/>Urunk, éltesd és üdítsd fel<br/>szent szavaddal szívünket!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmeddel óvjál minket,<br/>menedékünk, Istenünk!<br/>Utunkon fényt, áldást hintve<br/>igéd legyen fegyverünk!<br/>Urunk, éltesd és üdítsd fel<br/>szent szavaddal szívünket!</lines>
+    </verse>
+  </lyrics>
+</song>

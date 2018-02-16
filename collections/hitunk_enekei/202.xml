@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Veled járok, Üdvözítőm</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Lawson James, 1886.</author>
+      <author type="words">Lawson James, 1886.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="202"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Erő</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Próba</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veled járok, Üdvözítőm,<br/>őrizd, óvd a lépésem!<br/>Bármily úton vezetsz végig,<br/>veled járok, Mesterem!<br/>Drága véred értem hullott,<br/>ez az üdvöm, jól tudom;<br/>tied éltem véred árán,<br/>veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess engem rögös úton,<br/>vezess bármily ösvényen,<br/>bátran lépek lábnyomodba,<br/>veled járok, Mesterem!<br/>Drága véred értem hullott,<br/>ez az üdvöm, jól tudom;<br/>tied éltem véred árán,<br/>veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha súlyos próbák érnek,<br/>gonosz támad ellenem,<br/>mindezt már te elszenvedted,<br/>veled járok, Mesterem!<br/>Drága véred értem hullott,<br/>ez az üdvöm, jól tudom;<br/>tied éltem véred árán,<br/>veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha részem kínok terhe,<br/>s porba sújt le egészen,<br/>te adsz nékem erőt akkor,<br/>veled járok, Mesterem!<br/>Drága véred értem hullott,<br/>ez az üdvöm, jól tudom;<br/>tied éltem véred árán,<br/>veled járok, Jézusom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha a Jordán sebes habja<br/>összezárul felettem,<br/>te ott jóval előbb jártál,<br/>veled járok, Mesterem!<br/>Drága véred értem hullott,<br/>ez az üdvöm, jól tudom;<br/>tied éltem véred árán,<br/>veled járok, Jézusom!</lines>
+    </verse>
+  </lyrics>
+</song>

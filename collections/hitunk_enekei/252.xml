@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Világosságom vagy, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author type="music">Vulpius Melchior, 1609. (1560-1615.)</author>
+      <author type="words">Gerhardt Paul, 1656. (1607-1676.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="252"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Egyház</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten keresése</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megváltás</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Reménység</theme>
+      <theme>Szeretet</theme>
+      <theme>Szolgálat</theme>
+      <theme>Útmutatás</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Világosságom vagy, Uram,<br/>üdvömet benned látom.<br/>Erődnek árja támogat,<br/>míg földi utam járom.<br/>Nem bánt már gond és félelem,<br/>mit árthat ember énnekem<br/>ezen a bűnös földön?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gonoszság hogyha támad rám,<br/>s fenyeget elnyeléssel:<br/>én Uram védelmemre kél,<br/>s helyettem küzd a vésszel!<br/>Megvéd az áldott égi hős,<br/>ki Sátán ellen mindig győz;<br/>szabaddá tesz a bűntől!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak egyet kérek, Istenem,<br/>Jézusért add meg nékem:<br/>melletted tölthessem híven<br/>időm és teljes éltem;<br/>házadnak tiszta fényében,<br/>választott néped üdvében<br/>gyönyörködjék a lelkem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívemnek legfőbb öröme,<br/>ha téged híven szolgál;<br/>s ha dicsérhetlek szüntelen,<br/>jobb minden földi jónál!<br/>Mert te vagy Isten, védelmem<br/>és sziklaváram énnekem<br/>és biztos menedékem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irányítsd híven éltemet,<br/>terelgess biztos úton,<br/>vezessed úgy a léptemet,<br/>hogy bizton célba jusson.<br/>Mit árthat nékem ellenség,<br/>ha karod óv és áldva véd,<br/>és te vagy az oltalmam?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsérni vágyom szent neved<br/>és fennen magasztalni,<br/>hirdetni égi jóságod<br/>és szívből hálát adni.<br/>Ím dicsérettel áldozom<br/>mindenkor szent oltárodon,<br/>és áldlak tiszta szívből!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Én Uram, halld meg hangomat,<br/>hozzád ha felkiáltok;<br/>irgalmazz nékem, bűnösnek,<br/>mert enyhet, békét vágyok.<br/>Nékem szól igéd, így hiszem,<br/>„Keressetek engem híven!” –<br/>orcádat hadd keressem!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kereslek most is tégedet,<br/>töröld el minden vétkem.<br/>Ne rejtsd el tőlem orcádat,<br/>adj tiszta szívet nékem.<br/>Szolgádat, ó! ne űzzed el,<br/>mindenkor légy hozzám közel:<br/>te vagy az üdvösségem!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>E földön sok a jó barát,<br/>s szeretnek mind ők engem:<br/>emberi jóakaratuk<br/>nem menti meg a lelkem,<br/>megvethet bárki, jól tudom,<br/>megvált és megment Jézusom,<br/>boldogság, béke vár rám.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Egyengesd mindig utamat,<br/>taníts meg szent igédre;<br/>vezérelj biztos ösvényen,<br/>vezessél üdvösségre.<br/>Ne ártson nékem semmi sem,<br/>akármi támad ellenem,<br/>te keljél védelmemre!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Csak benned bízom, Istenem,<br/>míg pályám végigjárom:<br/>eljutok hozzád egykoron,<br/>s orcádat én is látom!<br/>Én lelkem, várj és légy erős,<br/>míg eljövend az égi hős:<br/>az Urat híven várjad!</lines>
+    </verse>
+  </lyrics>
+</song>

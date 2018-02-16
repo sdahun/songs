@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vezess engem, ó! nagy Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Edwards Robert (1796-1862.)</author>
+      <author type="words">Williams William, 1745. (1717-1796.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="258"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Oltalom</theme>
+      <theme>Szorongattatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezess engem, ó! nagy Isten,<br/>földi vándorutamon!<br/>Látod, milyen gyönge vagyok:<br/>hordozz erős karodon!<br/>Égi manna, égi manna, égi manna,<br/>tápláld bágyadt gyermeked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök kőszál, nyílj meg nékem,<br/>gyógyítsd meg a lelkemet!<br/>Tűz- és felhőoszlopoddal<br/>vezesd minden léptemet!<br/>Erős Isten, erős Isten, erős Isten,<br/>légy te pajzsom, fegyverem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha a Jordán partján állok<br/>szívszorongva, aggódón,<br/>oszlasd el a kétség éjét,<br/>vezess által a folyón!<br/>Hálazsoltárt, hálazsoltárt, hálazsoltárt<br/>zengek néked örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

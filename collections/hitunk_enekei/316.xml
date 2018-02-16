@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kegyes Jézus, itt vagyunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Ahle Johann Rudolf, 1664. (1625-1673.)</author>
+      <author type="words">Clausnitzer Tobias, 1663. (1618-1684.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="316"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - kezdő ének</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szombat</theme>
+      <theme>Tanítás</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyes Jézus, itt vagyunk<br/>te szent igéd hallására;<br/>gyúljon fel kívánságunk<br/>üdvösség tanulására,<br/>hogy a földtől elszakadjunk,<br/>csak tehozzád ragaszkodjunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elménket, értelmünket<br/>lelki sötétség fogta be,<br/>de Szentlelked szívünket<br/>tiszta fénnyel úgy töltse be,<br/>hogy csak jót gondoljunk, szóljunk,<br/>mert tetőled kell azt várnunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőségnek napfénye,<br/>Istentől jött világosság!<br/>Indítsd lelkünk készségre,<br/>nyisd meg fülünk, szívünk és szánk!<br/>Hitvallásunk, könyörgésünk,<br/>Jézus Krisztus, halld meg, kérünk!</lines>
+    </verse>
+  </lyrics>
+</song>

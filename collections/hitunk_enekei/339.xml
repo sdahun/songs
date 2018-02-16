@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Isten, vonjad szívemet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Wittenberg, 1529.</author>
+      <author type="words">Perlaky Dávid (1754-1802.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="339"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat</theme>
+      <theme>Isten igéje</theme>
+      <theme>Szombat</theme>
+      <theme>Szombatiskola</theme>
+      <theme>Tanítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Isten, vonjad szívemet<br/>e szent napon magadhoz,<br/>és segíts minden tettemet<br/>így szabnom szent szavadhoz;<br/>add, hogy e pihenésemre<br/>szánt időt épülésemre<br/>és örömödre töltsem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd legyen gyönyörűségem<br/>a te házadba járnom,<br/>s ott tisztem, kötelességem<br/>jó oktatását várnom.<br/>Add látnom, mily bölcs végzésed,<br/>és üdvösséges tetszésed:<br/>hadd szabjam hozzá éltem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha igéd hű tanítója<br/>az ige magvát hinti:<br/>rád hallgatva, égi szódra,<br/>ó! taníts mélyen hinni.<br/>A törvény tanulására<br/>és jóság gyakorlására<br/>te gerjessz kedvet bennem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! add, hogy igéd ereje<br/>átjárja bűnös szívem,<br/>és munkálja idejében<br/>az üdvöm, megtérésem!<br/>S ha járok már jó ösvényen,<br/>hadd fussak híven, serényen<br/>a kitűzött szent célig.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Így e szent nap nagy boldogság<br/>és áldás napja lészen,<br/>és engem itt a mennyország<br/>hű gyermekévé tészen.<br/>S e próbaidő ha lejár,<br/>az örök élet, béke vár<br/>ott nálad égi Atyám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézus Krisztus dicsérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Wittenberg, 1524.</author>
+      <author type="words">1370.</author>
+      <author type="words">Luther Márton, 1524. (1483-1546.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="89"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten testet öltése</theme>
+      <theme>Jézus Krisztus Isten fia</theme>
+      <theme>Jézus Krisztus születése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus Krisztus dicsérünk,<br/>ember lettél érettünk;<br/>egy szűztől nékünk születtél<br/>és örömöt így szereztél.<br/>Irgalmazzál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az örök Atya egy Fia<br/>feküdt ott a jászolba’;<br/>mi gyarló földi testünkbe<br/>az örök Ige öltöze.<br/>Irgalmazzál!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kit világ fel nem foghata,<br/>a szűz ölében tartja;<br/>a menny és föld megtartója<br/>ím eljött ember formába’.<br/>Irgalmazzál!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nagy világosság támadott,<br/>s nékünk örömöt hozott;<br/>a sötét éjben fényt terjeszt,<br/>s a fénynek gyermekévé tesz.<br/>Irgalmazzál!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>E földre szegényen jöve,<br/>rajtunk így könyörüle,<br/>hogy tegyen minket gazdaggá<br/>és angyalihoz méltókká.<br/>Irgalmazzál!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ezt mivelünk mind ő tette,<br/>szerelmét hogy jelentse,<br/>min örül minden keresztyén,<br/>őt mindörökké dicsérvén.<br/>Irgalmazzál!</lines>
+    </verse>
+  </lyrics>
+</song>

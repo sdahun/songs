@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Új mindennap a szeretet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Webbe Samuel, 1782. (1740-1816.)</author>
+      <author type="words">Keble John, 1822. (1792-1866.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="371"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - reggel</theme>
+      <theme>Átadás</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Kegyelem</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megtartás</theme>
+      <theme>Reggel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új mindennap a szeretet,<br/>és áldásával melenget.<br/>A nyugodalmas éj után<br/>te felébresztesz, jó Atyám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új mindennap a kegyelem<br/>és boldogítja életem,<br/>mert megbocsát, mert áraszt fényt,<br/>s így ébreszt bennem új reményt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mindennapi harc alatt<br/>én érzem: mindig velem vagy!<br/>A szívem, lelkem, életem<br/>ím dicsér téged, Istenem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már minden rosszat elvetek,<br/>hogy közeledben lehessek,<br/>hogy hozzád vigyem lelkemet,<br/>naponként hozzád közelebb!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A szereteted, jó Atyám,<br/>úgy árad éjjel-nappal rám,<br/>ó! add, hogy minden új napon<br/>a jelenléted megtartson.</lines>
+    </verse>
+  </lyrics>
+</song>

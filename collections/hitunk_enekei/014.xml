@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérjétek az Urat!</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Genf, 1562.</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="14"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten dicsősége</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten országa</theme>
+      <theme>Öröm</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjétek az Urat!<br/>Áldjátok ő szent voltát!<br/>Dicsérjétek mennyekben,<br/>hol országol kegyesen<br/>az ő nagy dicsőségébe’!<br/>Dicsérjétek hatalmát,<br/>melyből dicső nagy voltát<br/>minden veheti eszébe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjétek őt kürtben,<br/>ékes éneklésekben;<br/>hegedűkben, lantokban<br/>és hangos citerákban<br/>az Úrnak zengedezzetek!<br/>Sípokban, orgonákban,<br/>és más szép muzsikákban<br/>örvendjetek az Istennek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Urat cimbalmokban<br/>és egyéb szerszámokban<br/>mindnyájan dicsérjétek;<br/>citerát pengessetek,<br/>az Úr szent nevét dicsérvén!<br/>Minden lelkes állatok,<br/>Istent magasztaljátok:<br/>dicsőség Istennek! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

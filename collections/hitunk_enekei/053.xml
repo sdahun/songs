@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Gondviselő jó Atyám vagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Crüger Johann, 1649. (1598-1662.)</author>
+      <author type="words">Lévay József (1825-1918.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="53"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Erő</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Ima</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Megtartás</theme>
+      <theme>Oltalom</theme>
+      <theme>Öröm</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gondviselő jó Atyám vagy,<br/>ó! én édes Istenem,<br/>látom én, hogy minden elhagy<br/>e világon, csak te nem!<br/>Hozzád vágyom, benned élek,<br/>üdvöt mástól nem remélek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint az alélt bús virágra<br/>megújító harmatot:<br/>vérző szívem fájdalmára<br/>csak te hintesz balzsamot.<br/>Könnyű sorsom terhe rajtam,<br/>ha imára nyílik ajkam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rám-rám derül ismeretlen<br/>utamon egy kis öröm;<br/>azt is a te véghetetlen<br/>jóságodnak köszönöm;<br/>hálakönnyem tündöklése<br/>a te neved hirdetése.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gyenge vagyok, lankadoznak<br/>buzgóságom szárnyai,<br/>bármily híven vágyakoznak<br/>színed elé szállani;<br/>ó! adj erőt, hogy míg élek,<br/>egyedül csak néked éljek!</lines>
+    </verse>
+  </lyrics>
+</song>

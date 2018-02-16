@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Felséges Isten, hozzád kiáltunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Debrecen, 1569.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="176"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Ártatlanság</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Doxologia</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Ima</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Kegyelem</theme>
+      <theme>Örök élet</theme>
+      <theme>Reménység</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szorongattatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felséges Isten, hozzád kiáltunk nagy keserűséggel,<br/>könyörgünk néked, hogy légy segítséggel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints mireánk, kérünk, Úr Isten, ily nagy szükségünkben,<br/>és segélj minket erőtlenségünkben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha bűneinket te megtartándod, felséges Úr Isten,<br/>vajon ki lészen előtted bűntelen?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincsen ártatlan, nincsen bűn nélkül senki teelőtted,<br/>azért könyörgünk, utunkat vezéreld.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mert csak tenálad vagyon kegyesség és nagy irgalmasság<br/>Krisztus Jézusért, bűnünkből szabadság.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örvendez szívünk, felséges Isten, te ígéretedben,<br/>és hozzánk való nagy kegyességedben.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nagy reménységünk és bizodalmunk légyen az Istenben,<br/>semmit ne bízzunk a mi érdemünkben.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Megszabadultunk a Krisztus által örök kárhozattól,<br/>nincsen félelmünk immár a haláltól.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ó! egy reménység, mennybéli Isten, bizony egy segítség,<br/>te szolgáidnak adj örök életet!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Dicséret néked, Atya Úr Isten, a te szent Fiaddal<br/>és mindörökké Szentlélek Istennel.</lines>
+    </verse>
+  </lyrics>
+</song>

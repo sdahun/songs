@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! Úr Jézus! egeknek nagy királya!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1542. (1510-1569.)</author>
+      <author type="words">Debrecen, 1815.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="131"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten közbenjárása</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Jézus Krisztus győzelme</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Szentlélek</theme>
+      <theme>Tanítás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! Úr Jézus! egeknek nagy királya!<br/>Kinek e földön végződvén munkája<br/>felmentél mennybe s boldogul ott élsz,<br/>mígnem eljössz és mindent megítélsz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És bár e földön nem vagy már testeddel:<br/>de ígérted, Lelkeddel s kegyelmeddel<br/>mitőlünk távol soha nem leszel,<br/>Istenségeddel mindent megteszel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus! esedezz Istennek érettünk,<br/>hogy bocsássa meg, valamit vétettünk;<br/>pótold ki mennyben fogyatkozásunk,<br/>tedd kedvessé ott imádkozásunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szentlelkedet küldd hozzánk tanítónak,<br/>kit érezhessünk mi vigasztalónknak,<br/>ez élet sok keserűségében<br/>öntsön örömöt hívek szívében.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ez a Lélek nyújtson oly reménységet,<br/>hogy mint mi fejünk, te bírsz dicsőséget;<br/>minket is felviszel, tagjaidat,<br/>hogy bírjuk örök szent hajlékidat.</lines>
+    </verse>
+  </lyrics>
+</song>

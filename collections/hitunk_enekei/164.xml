@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten Lelke, béke Lelke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">ifj. Sweney R. (1837-1899.)</author>
+      <author type="words">Stokes Ellwood</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="164"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentlélek Isten</theme>
+      <theme>Békesség</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szív</theme>
+      <theme>Új élet</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten Lelke, béke Lelke,<br/>töltsd be most a szívemet!<br/>Szomjas lelkem téged áhít,<br/>várom már a jöttödet.<br/>Jöjj el már, jöjj el már,<br/>mert a szívünk várva vár;<br/>szomjas lelkem téged áhít,<br/>Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nálad nélkül nincsen békém,<br/>szívem nyugtot nem talál.<br/>Jöjj szívembe, Isten Lelke,<br/>várva várlak, jöjj el már!<br/>Jöjj el már, jöjj el már,<br/>mert a szívünk várva vár;<br/>szomjas lelkem téged áhít,<br/>Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Térdre hullva kérlek téged,<br/>szánd meg gyönge lelkemet;<br/>küldjél rám is égi áldást,<br/>öntsd ki szent szerelmedet!<br/>Jöjj el már, jöjj el már,<br/>mert a szívünk várva vár;<br/>szomjas lelkem téged áhít,<br/>Isten Lelke jöjj el már!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztaságban őrizzed meg,<br/>áldjad, óvjad szívemet;<br/>lelkemet a békességgel,<br/>szent erőddel töltse meg!<br/>Jöjj el már, jöjj el már,<br/>mert a szívünk várva vár;<br/>szomjas lelkem téged áhít,<br/>Isten Lelke jöjj el már!</lines>
+    </verse>
+  </lyrics>
+</song>

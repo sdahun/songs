@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten, csodás nagy szerelmed</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Halle, 1704.</author>
+      <author type="words">Hiller Philipp (1699-1769.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="58"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Béketűrés</theme>
+      <theme>Békesség</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megbocsátás (emberé)</theme>
+      <theme>Szeretet</theme>
+      <theme>Szív</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten, csodás nagy szerelmed<br/>ember fel nem foghatja!<br/>Tetteimet tanácsolja<br/>szíved örök irgalma.<br/>Te vagy az én üdvösségem,<br/>szereteted végtelen!<br/>Pecsételj el Lelked által,<br/>s örök létem elnyerem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd szeressem azt a bűnöst,<br/>aki vétett ellenem;<br/>és a földi küzdelmekben<br/>égi békéd hirdessem!<br/>Megbocsátó szívet adjál,<br/>rosszért jóval fizessek,<br/>Krisztus Jézust hadd kövessem:<br/>tiszta szívből szeressek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmedben hordozz engem,<br/>Égi Atyám, szüntelen;<br/>irgalmassá tedd a szívem,<br/>örök égi kegyelem!<br/>Adj szívembe hosszútűrést<br/>bántalmazó, rossz iránt,<br/>hogy mindenkor könyörögjek<br/>azért is, ki engem bánt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szüntelenül hadd figyeljek<br/>égi szódra, igédre:<br/>„Irgalmatlan ítélet vár<br/>minden keményszívűre!”<br/>Adj hát nékem tiszta szívet,<br/>széppel, jóval teljeset!<br/>Hogyha Jézus ismét eljön,<br/>áldást hozzon s kegyelmet.</lines>
+    </verse>
+  </lyrics>
+</song>

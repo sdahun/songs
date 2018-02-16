@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! Jeruzsálem, szép honom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Reinagle Alexander, 1836. (1799-1877.)</author>
+      <author type="words">Bromehead Joseph</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="146"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten örök uralma</theme>
+      <theme>Isten országa</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! Jeruzsálem, szép honom,<br/>úgy vonzod szívemet,<br/>ó! mikor lelek enyhülést<br/>és örök örömet?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A falad tiszta drágakő,<br/>a kapud drágagyöngy;<br/>és minden utcád színarany<br/>és színes fényözön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A gyönyörűség kertje vagy,<br/>én égi otthonom;<br/>hisz benned béke lakozik<br/>és boldog nyugalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! drága Jézus, Mesterem,<br/>úgy várlak: jöjj el már!<br/>Mert tudom, égi hazámban<br/>a hajlék készen vár!</lines>
+    </verse>
+  </lyrics>
+</song>

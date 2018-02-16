@@ -1,2 +1,2 @@
 # songs
-Lyrics of worship songs in hungarian
+Lyrics of worship songs in Hungarian

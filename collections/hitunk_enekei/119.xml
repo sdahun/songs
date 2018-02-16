@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! ártatlanság Báránya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">XVII. sz.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="119"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Jézus Krisztus Isten Báránya</theme>
+      <theme>Jézus Krisztus királysága</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Kegyelem</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! ártatlanság Báránya,<br/>e világnak ki vagy ára,<br/>megtartója, táplálója,<br/>áldott légy, egek királya!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy érdemlettük ezt tőled,<br/>hogy mi értünk ezt felvegyed?<br/>Hogy szent tested vereséget,<br/>szenvedjen ennyi sérelmet?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár tiszta ártatlanság vagy,<br/>káromlónak is mondanak,<br/>ámde te mégis vesztegelsz,<br/>ily hamis vádra nem felelsz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mivelhogy Isten fiának,<br/>mondod magad Messiásnak:<br/>káromlónak elneveznek,<br/>nem hisznek téged Istennek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldott légy ezért, Jézusunk,<br/>édes megváltó Krisztusunk,<br/>fő tanítónk és orvosunk.<br/>Megszabadító Királyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Alleluja! Ím feltámadt Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Wade J. F. Cantus diversi-ben, 1751.</author>
+      <author type="words">Bliss Philip (1838-1876.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="125"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten feltámadása</theme>
+      <theme>Jézus Krisztus feltámadása</theme>
+      <theme>Jézus Krisztus győzelme</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja! Ím feltámadt<br/>Isten dicső szent Fia!<br/>Legyőzte a sír hatalmát,<br/>bízzál benne, föld fia!<br/>Énekelje minden lélek:<br/>Krisztus él, alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluja! Ím feltámadt,<br/>aki minket üdvözít!<br/>Vigasztalót küldött nékünk,<br/>ó! mily boldog örömhír!<br/>Alleluja, örvendezve<br/>ujjong ma az élő hit!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja! Ím feltámadt<br/>megváltónk, a szent Király!<br/>Azt, ki híven bízik benne,<br/>le nem győzi a halál!<br/>Alleluja, dicsértessél,<br/>Krisztus, örök sziklavár!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tégy foglyoddá, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Martin George, 1862. (1828-1881.)</author>
+      <author type="words">Matheson George (1842-1906.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="192"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Isten bennünk lakozása</theme>
+      <theme>Lelki harc</theme>
+      <theme>Örök élet</theme>
+      <theme>Szív</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tégy foglyoddá, Uram,<br/>hogy így szabad legyek!<br/>Ha néked adom önmagam,<br/>csak győztes lehetek.<br/>Ha egymagam vagyok:<br/>csak vesztes az a harc,<br/>de hogyha foglyod maradok:<br/>te győzedelmet adsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívem oly hideg,<br/>míg nem talál reád:<br/>míg le nem kötöd, tévelyeg,<br/>és hajlik, mint a nád.<br/>Míg láncra nem vered,<br/>csak céltalan bolyong,<br/>ám hogyha vonzza szerelmed:<br/>oly boldogan dobog.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A híved célhoz ér,<br/>és úgy nyer égi trónt,<br/>ha készségesen hozzád tér,<br/>ha mindenről lemond.<br/>Így száz vihar között,<br/>csak győzni fog szívem,<br/>s ha partot ért és kikötött,<br/>majd benned megpihen.</lines>
+    </verse>
+  </lyrics>
+</song>

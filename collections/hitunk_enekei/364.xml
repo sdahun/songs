@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelkem siet hozzád menni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Genf, 1562.</author>
+      <author type="words">Losontzi István (1709-1780.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="364"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - úrvacsora</theme>
+      <theme>Úrvacsora</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem siet hozzád menni,<br/>ámbár gyenge ereje,<br/>kíván asztalodról enni,<br/>ó! életnek kútfeje!<br/>Hogy megelégülhessen,<br/>s benned része lehessen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kedveld, Uram, kegyességét<br/>a te szegény szolgádnak,<br/>éreztessed édességét<br/>elkészült vacsorádnak,<br/>hogy véled egyesüljön,<br/>s lelke benned örüljön.</lines>
+    </verse>
+  </lyrics>
+</song>

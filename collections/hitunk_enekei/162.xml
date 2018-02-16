@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten Lelke, légy velem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Wells Marcus, 1858. (1815-1895.)</author>
+      <author type="words">Wells Marcus, 1858. (1815-1895.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="162"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentlélek Isten</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Mulandóság</theme>
+      <theme>Örök élet</theme>
+      <theme>Szentlélek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten Lelke, légy velem,<br/>őrködj minden léptemen;<br/>biztonságban járjak én<br/>itt az élet ösvényén;<br/>fáradt lelkem készítsd fel,<br/>töltsd be égi békéddel!<br/>Isten Lelke, jöjj, vezess<br/>égi honba engemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten Lelke, jó barát,<br/>kísérj minden vészen át;<br/>űzd el súlyos kételyem,<br/>jóban, rosszban légy velem.<br/>Benned bízom szüntelen,<br/>tápláljad reménységem.<br/>Isten Lelke, jöjj, vezess<br/>égi honba engemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha órám itt lejár,<br/>rám a csönd, a béke vár;<br/>fel van írva már nevem<br/>Jézusért a mennyekben;<br/>álmélkodva láthatom,<br/>mit tett értem Jézusom.<br/>Isten Lelke, jöjj, vezess<br/>égi honba engemet!</lines>
+    </verse>
+  </lyrics>
+</song>

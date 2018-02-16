@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adjunk hálákat az Atya Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Ismeretlen szerző, XVII. század</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="328"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - záró ének</theme>
+      <theme>Doxologia</theme>
+      <theme>Erő</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Oltalom</theme>
+      <theme>Világosság</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjunk hálákat az Atya Istennek,<br/>mennynek és földnek szent teremtőjének,<br/>és embereknek gondviselőjének,<br/>éltetőjének.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert ő mihozzánk atyai szerelmét,<br/>kijelentette drága szent igéjét,<br/>mellyel táplálja híveinek lelkét,<br/>nyújtja kegyelmét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ő megáldja benne reménylőket,<br/>erősít minden erőtelenséget,<br/>világosítja homályos szívünket,<br/>sötét elménket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atya Istennek mind ezekért légyen<br/>dicséret és nagy dicsőség mennyégben,<br/>Fiával s Szentlelkével egyetemben,<br/>örökké! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

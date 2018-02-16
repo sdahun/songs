@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Járuljunk mi az Istennek szent Fiához</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Ismeretlen szerző, 1593 előtt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="209"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Doxologia</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten országa</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Tanítás</theme>
+      <theme>Új élet</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Járuljunk mi az Istennek szent Fiához,<br/>a mi üdvözítő Urunk Jézus Krisztushoz,<br/>mint kegyes és hatalmas szabadítónkhoz,<br/>testi-lelki nyavalyánkban csak egy vigasztalónkhoz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! irgalmas megváltó Fiú Úr Isten,<br/>ki országolsz szent Atyáddal földön és mennyen,<br/>tehozzád esedezünk könyörgésünkben:<br/>segítségül légy minékünk mostani szükségünkben!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok szükségink jóllehet vannak minékünk,<br/>de most néked kiváltképpen ezért könyörgünk:<br/>Szentlelked erőssége légyen mivelünk,<br/>hogy az igaz tudományban épületet vehessünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi elménknek homályát távoztassad el,<br/>ajándékozz engedelmes szívvel, lélekkel,<br/>hogy a te szent igédet vegyük jó kedvvel,<br/>tanulhassuk és éltünkben kövessük nagy örömmel.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Öregbítsed, neveljed bennünk a hitet<br/>és az igaz szeretetet, adj reménységet;<br/>adj minden jóra való igyekezetet,<br/>tiszta lelkiismeretet és szentséges életet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent nevedet engedjed, nyilván vallhassuk,<br/>az ördögöt s e világot megutálhassuk,<br/>és te szent országodba kívánkozhassunk,<br/>felségeddel egyetemben örökké vigadhassunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Légyen néked dicséret és nagy tisztesség,<br/>ki Atyával s Szentlélekkel vagy egy Istenség,<br/>felséges hatalmasság, örök fényesség.<br/>Téged illet mindörökké véghetetlen dicsőség.</lines>
+    </verse>
+  </lyrics>
+</song>

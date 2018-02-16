@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ím megtört szívvel állunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">White James, 1878.</author>
+      <author type="words">Palmer Ray (1808-1887.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="167"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Szív</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ím megtört szívvel állunk<br/>trónodnál, jó Atyánk;<br/>ó! könyörülj meg rajtunk!<br/>Ezt kéri szívünk, szánk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nézd, elszorult a szívünk,<br/>és szemünk csupa könny;<br/>úgy fáj most minden bűnünk,<br/>ó! könnyíts lelkünkön!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr Isten, Lelked által<br/>új utat tárj elénk,<br/>hogy haladhassunk bizton<br/>ez úton tefeléd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A lelkünk reád bízzuk,<br/>mi drága, jó Atyánk,<br/>mert szívünk nálad nyugtot<br/>és enyhülést talál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki, Uram, benned bízik,<br/>azt híven vezeted;<br/>majd koronát adsz néki<br/>és örök életet!</lines>
+    </verse>
+  </lyrics>
+</song>

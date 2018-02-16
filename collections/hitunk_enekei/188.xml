@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tökéletes volt minden tekintetben</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Lengyel József (1770-1822.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="188"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Engedetlenség</theme>
+      <theme>Eredendő bűn</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Teremtés</theme>
+      <theme>Újjászületés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tökéletes volt minden tekintetben,<br/>mind amit, Uram, teremtél kezdetben,<br/>az ember testét te alkotád szépen<br/>és lelkét épen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenmagad képét adtad őreája,<br/>szent ártatlanság volt ékes ruhája,<br/>bölccsé is tetted, hogy téged ismerne<br/>s élvén dicsérne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Első szüleink de félre térének,<br/>a kísértőnek mikor engedének,<br/>már mi mindnyájan, kik tőlük eredtünk,<br/>bűnben születtünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tagjaink mind, és bennünk minden részek<br/>restek a jóra, a gonoszra készek,<br/>nincs erőnk s a jót, noha jónak hisszük,<br/>véghez nem visszük.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fertőbe estünk, Uram, végy ki onnan,<br/>szülvén minket Szentlelkeddel újonnan;<br/>újítsd meg rajtunk, hogy legyünk te néped,<br/>Isteni képed.</lines>
+    </verse>
+  </lyrics>
+</song>

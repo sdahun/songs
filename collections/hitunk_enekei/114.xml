@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! véráztatta szent fej</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="music">Hassler Hans, 1601. (1564-1612.)</author>
+      <author type="words">Gerhardt Paul, 1656. (1607-1676.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="114"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Halál</theme>
+      <theme>Hit</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Megváltás</theme>
+      <theme>Mulandóság</theme>
+      <theme>Örök élet</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! véráztatta szent fej,<br/>te némán szenvedő,<br/>ó! tövis sebzett, megvert<br/>és csúfolt Krisztusfő!<br/>Mily szép és ékes voltál,<br/>most milyen megvetett;<br/>ím száll feléd a zsoltár,<br/>a könnyes dicséret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te nemes, tiszta orca,<br/>kit félt a föld s az ég,<br/>oly mélyen meggyalázva<br/>ó! mennyit szenvedtél!<br/>A szemed tiszta tükrét,<br/>mely csodálatba ejt,<br/>hol leljük szelíd fényét,<br/>ó! ki mondhatja meg?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az orcád üdesége<br/>és szépsége elszállt;<br/>és várt a sírnak éje,<br/>az enyészet reád.<br/>A halál keze sújtott<br/>és mindent elrabolt;<br/>nagy erőd szertefoszlott<br/>és tested immár holt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A keresztfán szenvedtél,<br/>Úr Jézus, miattam,<br/>és amit elviseltél,<br/>azt mind én okoztam.<br/>Mint bűnös, íme élek;<br/>bár halált érdemlek<br/>és esdekelve kérlek,<br/>adj nékem kegyelmet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! ismerj meg, jó pásztor<br/>és fogjad pártomat,<br/>mert íme tőled várom<br/>én minden javamat.<br/>Az ige édes mézét<br/>te adod lelkemnek<br/>s a mennynek békességét<br/>te nyújtod szívemnek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ím előtted megállok,<br/>ó! el ne űzz engem,<br/>én tőled el nem válok<br/>a szenvedésedben:<br/>ha tested összeomlik,<br/>ha végső szavad száll,<br/>mi hozzád engem elvitt,<br/>a hitem, tart karján.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A szívem örvend benned,<br/>a bánat elhagyott,<br/>mert földi szenvedésed<br/>ím üdvhöz juttatott.<br/>Mily boldog üdvösségben<br/>ragyog az életem,<br/>ha keresztednél csöndben<br/>kezedbe helyezem.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Én köszönöm szívemből,<br/>Úr Jézus, hű barát,<br/>hogy értem szeretetből<br/>te szenvedtél halált.<br/>Ó! add, hogy el ne hagyjam<br/>a te nagy hűséged,<br/>és benned megtaláljam<br/>az örök életet.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ó! el ne távozz tőlem,<br/>ha meg kell majd halnom;<br/>a halálküzdelemben<br/>légy vélem, Jézusom.<br/>Ha szorongattatása<br/>lesz az én szívemnek,<br/>légy te vigasztalása<br/>a megtört lelkemnek.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Én vigaszom és pajzsom<br/>a halálban te légy,<br/>és engedd orcád látnom<br/>amint halálra mégy.<br/>Így tégedet szemléllek,<br/>a szívem hőn remél<br/>és hittel átölellek,<br/>s ki így hal meg, az él!</lines>
+    </verse>
+  </lyrics>
+</song>

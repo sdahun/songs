@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsér téged teljes szívem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Lyon, 1551. (1510-1569.)</author>
+      <author type="words">Marot Clément (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="31"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Egyház</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten dicsősége</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten mindentudó</theme>
+      <theme>Megtartás</theme>
+      <theme>Szabadítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsér téged teljes szívem,<br/>én Istenem,<br/>hirdetem neved.<br/>Dicsérlek istenek felett<br/>én tégedet,<br/>mert azt érdemled.<br/>És a te szent egyházadban<br/>imádkozván<br/>neved tisztelem,<br/>áldásodra én kész vagyok,<br/>hálát adok<br/>neked, Istenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öregbül nagy dicsőséged,<br/>mert megteszed,<br/>amit megmondasz.<br/>Ha könyörgök ínségemben,<br/>engem menten<br/>megszabadítasz.<br/>Téged minden földön lakók,<br/>nagy királyok,<br/>Uram, dicsérnek,<br/>mert szent igéd tiszta voltát,<br/>igazságát<br/>eszükbe vették.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez Urat, ki felségesen<br/>csudát teszen,<br/>felmagasztalják.<br/>Mondván: nagy ő dicsősége,<br/>és ereje,<br/>őt azért áldják.<br/>Mert noha ül nagy magasan,<br/>de lát nyilván<br/>alatt valókat;<br/>magas dolgokat is könnyen,<br/>lát élesen,<br/>mind fent, mind alatt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindennemű szükségemben,<br/>ínségemben<br/>megerősítesz;<br/>láttukra ellenségimnek,<br/>kik gyűlölnek,<br/>engem megmentesz.<br/>Amit az Úr egyszer végez,<br/>az jó véghez<br/>megyen mindenütt.<br/>Jó kedved megáll: ne hagyd el,<br/>sőt végezd el<br/>kezed munkáit!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mindenható, örök Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Albert Heinrich, 1642. (1604-1651.)</author>
+      <author type="words">Neumann Kaspar (1648-1715.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="337"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat</theme>
+      <theme>Egyház</theme>
+      <theme>Isten igéje</theme>
+      <theme>Szolgálat</theme>
+      <theme>Szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindenható, örök Isten,<br/>aki mindent alkotál,<br/>születésem óta engem<br/>oltalmadban hordoztál;<br/>e szent napon emeljed<br/>magadhoz a lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, ó! mily boldog ünnep<br/>ez a néked szentelt nap!<br/>Földi gondok tovatűnnek,<br/>szívem néked hálát ad;<br/>Lelked által megnyitád<br/>üdvösségem szent útját.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hála néked ünnepünkért,<br/>melyen örök áldás van,<br/>melyen szívem minden jóért<br/>hálát mondhat boldogan!<br/>Örök jóság, szeretet,<br/>legyen áldott szent neved!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily jó érted élnem, Isten,<br/>szavad édes, mint a méz,<br/>s szent igédet gyűjtögetnem,<br/>mint a szorgos méhecskék.<br/>Boldog, aki mennybe fel,<br/>Uram, hozzád így jut el.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldd meg, Isten, kicsiny nyájad,<br/>Fiad földi örökét;<br/>töltsd ki rá, mert gyönge, fáradt,<br/>örök Lelked erejét,<br/>hogy a mennybe juthassunk<br/>s színről színre láthassunk!</lines>
+    </verse>
+  </lyrics>
+</song>

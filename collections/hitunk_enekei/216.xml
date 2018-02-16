@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hadd menjek, Istenem, mindig feléd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Mason Lowell, 1856. (1792-1872.)</author>
+      <author type="words">Adams Sarah, 1841. (1805-1848.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="216"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Betegségben</theme>
+      <theme>Isten keresése</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Kereszt</theme>
+      <theme>Szenvedés</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd menjek, Istenem,<br/>mindig feléd,<br/>fájdalmak útjain<br/>mindig feléd.<br/>Ó! sok keresztje van,<br/>de ez az én utam,<br/>mert hozzád visz, Uram,<br/>mindig feléd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha este száll reám,<br/>s csöndes helyen<br/>álomra hajtanám<br/>fáradt fejem:<br/>nem lesz, hol nyughatom,<br/>kő lesz a vánkosom,<br/>de álomszárnyakon<br/>szállok feléd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívemtől trónodig<br/>– mily szent csoda –<br/>mennyei grádicsok<br/>fényes sora:<br/>a szent angyalsereg<br/>mind nékem integet;<br/>ó! Uram, hadd megyek<br/>én is feléd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Álomlátás után<br/>hajnal ha kél,<br/>kínos kővánkosom<br/>megáldom én.<br/>Templommá szentelem,<br/>hogy fájdalmas szívem,<br/>Uram, hozzád vigyem,<br/>mindig feléd!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csillagvilágokat<br/>elhagyva már,<br/>elfáradt lelkem is<br/>hazatalál.<br/>Hozzád ha eljutok,<br/>lábadhoz roskadok:<br/>ottan megnyughatok<br/>örökre én!</lines>
+    </verse>
+  </lyrics>
+</song>

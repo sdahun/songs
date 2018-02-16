@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adj, Úr Isten, nékünk Szentlelket</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Huszár Gál, 1574. (-1575.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="3"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentháromság dicsérete</theme>
+      <theme>Bátorítás</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Doxologia</theme>
+      <theme>Hit</theme>
+      <theme>Ima</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten ismerete</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus Isten fia</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Szentlélek</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Úr Isten, nékünk Szentlelket,<br/>szent igédben építs meg minket,<br/>adjad megismernünk természetünket,<br/>tekintsd meg szükségünket, könyörgésünket:<br/>adj igaz hitet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy, Atyánk, örök Úr Isten,<br/>kiben semmi kétségünk nincsen;<br/>neveljed hitünket te szent igédben,<br/>szent Fiadnak, Krisztusnak ismeretében,<br/>üdvösségünkben!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te vagy, Krisztus, mi üdvözítőnk,<br/>szent Atyádnál békesség-szerzőnk;<br/>mi életünk vagy te: lakozzál bennünk,<br/>hogy minden mi dolgunkban téged dicsérjünk<br/>és dicsőítsünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Szentlélek, kérünk tégedet:<br/>bátorítsad a mi szívünket;<br/>vigasztalj meg minket s igazgass minket,<br/>hogy hallván megérthessük te szent igédet,<br/>üdvösségünket!</lines>
+    </verse>
+  </lyrics>
+</song>

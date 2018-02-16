@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelkem drága Jézusa</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Dykes John, 1861. (1823-1876.)</author>
+      <author type="words">Wesley Charles, 1740. (1707-1788.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="256"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Félelem</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Lelki harc</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem drága Jézusa,<br/>hozzád hajt a félelem,<br/>míg tombol a vad tusa,<br/>s nő a vész a tengeren.<br/>Rejts el, rejts el, itt ne hagyj,<br/>míg eláll a fergeteg;<br/>biztonságos révet adj,<br/>s majd fogadd el lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs nékem más enyhelyem,<br/>szívem téged hív, keres;<br/>maradj vélem Mesterem,<br/>őrizzél meg és szeress!<br/>Véled állom a vihart,<br/>hit és erő vagy, te szent,<br/>szárnyad árnyával takard<br/>fejemet, a védtelent!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Téged vágylak, Krisztusom,<br/>benned mindent meglelek;<br/>segíts súlyos sorsomon:<br/>vak vagyok és nagybeteg!<br/>Szent szavadra hallgatok,<br/>tévedés az én bajom,<br/>én hamisság s bűn vagyok,<br/>te igazság s irgalom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelem vagy, égi jó,<br/>mely minden bűnt eltörül,<br/>és gyógyító szent folyó,<br/>mely megtisztít legbelül.<br/>Életkút vagy, lüktetés,<br/>vízmerítni drága hely,<br/>ó! buzogj fel bennem és<br/>öröklétbe felemelj!</lines>
+    </verse>
+  </lyrics>
+</song>

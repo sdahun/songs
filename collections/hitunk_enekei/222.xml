@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Legyen szívünk mindig vidám</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Lowry Robert (1826-1899.)</author>
+      <author type="words">Crosby Fanny (1823-1915.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="222"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Átadás</theme>
+      <theme>Boldogság</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Öröm</theme>
+      <theme>Szív</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen szívünk mindig vidám,<br/>hálatelt az Úr iránt!<br/>Gyermekinek szólít minket<br/>mennyben lakó jó Atyánk.<br/>Minden napon vidám szívvel<br/>dicsérjük az Úr nevét!<br/>Boldog, örömteli szívvel járjuk<br/>életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten hordoz áldott kézzel,<br/>hitharcunkban megsegít;<br/>kegyelméből megtart minket,<br/>győzelemre lelkesít!<br/>Minden napon vidám szívvel<br/>dicsérjük az Úr nevét!<br/>Boldog, örömteli szívvel járjuk<br/>életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha kezét elengedjük,<br/>éj sötétje vesz körül.<br/>Bizonytalan minden léptünk,<br/>szívünk többé nem örül.<br/>Minden napon vidám szívvel<br/>dicsérjük az Úr nevét!<br/>Boldog, örömteli szívvel járjuk<br/>életünknek ösvényét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De a hű szív egyre vidul,<br/>életútja mindig fény.<br/>Szolgáljunk hát Jézusunknak,<br/>követve őt ösvényén!<br/>Minden napon vidám szívvel<br/>dicsérjük az Úr nevét!<br/>Boldog, örömteli szívvel járjuk<br/>életünknek ösvényét!</lines>
+    </verse>
+  </lyrics>
+</song>

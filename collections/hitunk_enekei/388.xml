@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Istene földnek, égnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Gesius Bartholomäus-nál, 1605. (1555-1613.)</author>
+      <author type="words">Knapp Albert-nél (1798-1864.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="388"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - házasság</theme>
+      <theme>Házasságkötés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istene földnek, égnek,<br/>most színed elé lépett<br/>két hivő gyermeked.<br/>Ó! áldd és tartsd meg őket,<br/>kik áldást kérni jöttek,<br/>hogy elnyerjék szent tetszésed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, hogy e perctől kezdve<br/>járjanak kéz a kézbe’,<br/>szent szövetségedben;<br/>és szeretetben élve,<br/>majd egymást óva, védve<br/>éljenek együtt hűségben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím most előtted állnak<br/>és áldásodra várnak,<br/>ó! áldd meg frigyüket,<br/>hadd érezhessék, kérünk,<br/>hogy itt vagy együtt vélük,<br/>ó! vezesd minden léptüket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! add, hogy minden percben<br/>mi tiszta szeretetben<br/>kövessük lábnyomod,<br/>és alázattal kérünk,<br/>kik jót téve is vétünk,<br/>hogy adjad reánk áldásod.</lines>
+    </verse>
+  </lyrics>
+</song>

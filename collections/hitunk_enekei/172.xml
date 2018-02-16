@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsőséges égi Felség!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Darmstadt, 1698.</author>
+      <author type="words">Neander Joachim (1650-1680.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="172"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Isten keresése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Lelki harc</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szeretet</theme>
+      <theme>Szív</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőséges égi Felség!<br/>Íme előtted vagyok;<br/>fáradt szívvel, könnyezéssel<br/>hozzád, Jézus, óhajtok:<br/>hadd leljek rád, hadd leljek rád,<br/>bár hamu és por vagyok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tekints reám, kérlek, Uram,<br/>térítsd hozzád szívemet,<br/>téged kérlek és kereslek,<br/>mint én örökségemet:<br/>hadd leljek rád, hadd leljek rád,<br/>vonj magadhoz engemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem kérek mást és több áldást,<br/>csak örök kegyelmedet,<br/>melyet közlesz, arra költesz,<br/>aki téged hűn szeret.<br/>Hadd leljek rád, hadd leljek rád,<br/>adjál örök életet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E világnak, mint virágnak<br/>szépsége bár légyen sok,<br/>terhemre van s nem kedvemre,<br/>azért keressék mások:<br/>hadd leljek rád, hadd leljek rád,<br/>Uram, ímé kész vagyok!</lines>
+    </verse>
+  </lyrics>
+</song>

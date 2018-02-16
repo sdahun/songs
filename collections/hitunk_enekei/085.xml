@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! üdvözítő Krisztus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Haydn Michael (1737-1806.)</author>
+      <author type="words">Havergal Frances, 1870. (1836-1879.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="85"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten dicsérete</theme>
+      <theme>Hálaadás</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! üdvözítő Krisztus,<br/>te égi pártfogónk,<br/>bár szemünk nem lát téged,<br/>az ajkunk hálát mond!<br/>Ím hódolattal áldunk,<br/>és néked éneklünk,<br/>és téged Úrnak vallunk,<br/>mi örök Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! csodatévő Jézus,<br/>mily nagy a szeretet,<br/>mely áldozatod által<br/>már nékünk megjelent!<br/>Ím hódolattal áldunk,<br/>és néked éneklünk,<br/>és téged Úrnak vallunk,<br/>mi örök Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak benned, Urunk Jézus,<br/>van meg a teljesség,<br/>az erő és a jóság,<br/>az örök dicsőség!<br/>Ím hódolattal áldunk,<br/>és néked éneklünk,<br/>és téged Úrnak vallunk,<br/>mi örök Istenünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hadd jusson ez az ének<br/>tehozzád, Jézusunk<br/>és engedd meg, hogy mindig<br/>csak nálad lakhassunk!<br/>Az örök dicsőségben<br/>majd zeng az énekünk,<br/>és téged Úrnak vallunk,<br/>mi örök Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

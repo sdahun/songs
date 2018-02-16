@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt az éltem, Jézusom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Malan César, 1827. (1787-1864.)</author>
+      <author type="words">Havergal Frances (1836-1879.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="234"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Átadás</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Szolgálat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt az éltem, Jézusom,<br/>oltárodra áldozom!<br/>Néked adom kezemet,<br/>építsd vele művedet,<br/>építsd vele művedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, hogy lábam gyors legyen,<br/>hogy szent igéd terjedjen.<br/>Add, hogy hangom zengje most<br/>üdvre hívó szózatod,<br/>üdvre hívó szózatod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fogadd el az ajkamat,<br/>rá az ige mézét add!<br/>Vedd át minden kincsemet,<br/>szívem, lelkem a tied,<br/>szívem, lelkem a tied!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkem minden szándékát<br/>kedved szerint te formáld!<br/>Ím a szívem, Jézusom,<br/>néked szentelt örök trón,<br/>néked szentelt örök trón!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Urald egész lényemet:<br/>lelkemet és szívemet,<br/>mindenestől hadd legyek<br/>mindörökre a tied,<br/>mindörökre a tied!</lines>
+    </verse>
+  </lyrics>
+</song>

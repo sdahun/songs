@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! áldjuk most őt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Croft William (1678-1727.)</author>
+      <author type="words">Grant Robert, 1833. (1779-1838.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="36"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten örökkévaló</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megtartás</theme>
+      <theme>Oltalom</theme>
+      <theme>Természet</theme>
+      <theme>Világ bizonysága Istenről</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! áldjuk most őt, az égi királyt,<br/>és zengjen szavunk az egeken át!<br/>Te megtartónk, pajzsunk és oltalmazónk,<br/>most nevedet dicséri szent hálaszónk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! áldjuk most őt és nagy kegyelmét,<br/>a szeretetét és szent erejét!<br/>Mint mennydörgés hangját, úgy halljuk szavát,<br/>és viharnak szárnyán ő száguld tovább.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A jóságodat ki mondhatja el?<br/>Az élet, a fény mind hozzád emel;<br/>a hegy és a síkság, az erdő, a szél,<br/>az eső és harmat csak rólad beszél!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oly gyarlók vagyunk, és nincsen erőnk;<br/>te vezetőnk vagy és védelmezőnk.<br/>Nagy kegyelmed kísér az életen át,<br/>mi teremtő Urunk, te örök jóság!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus meghalt bűneinkért</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Szőnyi Benjámin (1717-1794.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="128"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten feltámadása</theme>
+      <theme>Feltámadás</theme>
+      <theme>Jézus Krisztus feltámadása</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Megigazulás</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus meghalt bűneinkért,<br/>harmadnap feltámadott;<br/>mi megigazulásunkért<br/>mindenről számot adott.<br/>Mennyei szent Atyjának,<br/>és ő igazságának<br/>a váltságot megfizette<br/>a bűnösöknek helyette.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életét maga letette<br/>önként és jó kedvéből,<br/>azt maga ismét felvette<br/>Isteni erejéből.<br/>Ó! csudáknak csudája!<br/>Íme az Isten fia<br/>értem életet áldozott,<br/>élővé holtból változott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A meghalt Jézus vére szólt<br/>nékünk oly drága dolgot,<br/>mert e vér Isten vére volt,<br/>bűnt, halált ezzel oldott.<br/>Vér, melynek nincsen mása,<br/>ó! Betlehem forrása!<br/>Ó! Jézus egy áldozatja,<br/>Isten gyönyörű illatja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy ez kedves volt Istennek,<br/>azt azzal megmutatta,<br/>hogy szent testét ő Szentjének<br/>sírban soká nem hagyta.<br/>És a halál kötelét,<br/>a koporsónak tőrét<br/>harmadnap széjjeloldozta,<br/>Fiát fogságból kihozta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus, én megholt életem,<br/>Jézus, feltámadásom,<br/>benned bűntől mentté lettem,<br/>benned igazulásom.<br/>Ó! adj hát segítséget,<br/>lelki elevenséget,<br/>az új életben járásra,<br/>az első feltámadásra!</lines>
+    </verse>
+  </lyrics>
+</song>

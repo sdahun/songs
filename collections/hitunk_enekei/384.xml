@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ez esztendőt áldással</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Batthyány-kódex; Debrecen, 1774.</author>
+      <author type="words">Budai Ézsaiás (1766-1841.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="384"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - újesztendő</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v">
+      <lines>Ez esztendőt áldással,<br/>ez esztendőt áldással<br/>koronázd meg, Úr Isten,<br/>hogy víg hálaadással,<br/>hogy víg hálaadással<br/>dicsérje neved minden.<br/>Tetőled jőnek<br/>kedves napjai az időnek;<br/>nyújts hát, kérünk, bőséget<br/>kezeddel,<br/>tőlünk a békességet<br/>ne vedd el;<br/>de midőn megtartod testünket,<br/>ne hagyd el lelkünket!</lines>
+    </verse>
+  </lyrics>
+</song>

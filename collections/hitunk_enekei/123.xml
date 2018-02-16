@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus Istennek Báránya</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Seklucyan S. ékve, 1559.</author>
+      <author type="words">Régi lengyel ének.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="123"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Jézus Krisztus Isten Báránya</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Kegyelem</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Istennek Báránya,<br/>kínjaidat ég s föld szánja.<br/>A nap, a nap sötétté változik,<br/>a föld, a föld reng és ingadozik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hegyek, halmok süllyedeznek,<br/>a kősziklák repedeznek,<br/>holtak, holtak sírból feltámadnak,<br/>a szent, a szent városban jelt adnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme a templom kárpitja<br/>kettéhasad és megnyitja<br/>helyét, helyét a szentek szentének,<br/>jelét, jelét Jehova frigyének.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mind ezekből ó! mit értsünk?<br/>És szívünkbe vaj? mit véssünk?<br/>Isten, Isten végtelen kegyelmét,<br/>hozzánk, hozzánk csuda nagy szerelmét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fiát a szeretet Atyja<br/>kereszt kínjaira adja,<br/>értünk, értünk hogy eleget tégyen,<br/>urunk, urunk s üdvözítőnk légyen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Köztünk van a Szentek Szentje:<br/>a híveknek ezt jelentse<br/>az ép, az ép kárpit hasadása,<br/>földig, földig kettéhasadása.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézus, ki értünk szenvedtél,<br/>hogy éljünk, halálra mentél:<br/>néked, néked szívből hálát adunk,<br/>holtig, holtig híveid maradunk.</lines>
+    </verse>
+  </lyrics>
+</song>

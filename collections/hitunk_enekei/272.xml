@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mint a szép híves patakra</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="272"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Betegségben</theme>
+      <theme>Bizodalom</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Lelki harc</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szombat</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vágyakozás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint a szép híves patakra<br/>a szarvas kívánkozik,<br/>lelkem úgy óhajt Uramra,<br/>és hozzá fohászkodik;<br/>tehozzád, én Istenem,<br/>szomjuhozik én lelkem,<br/>vajon színed eleidben<br/>mikor jutok élő Isten?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyhullatásim énnékem<br/>kenyerem éjjel-nappal,<br/>midőn azt kérdik éntőlem:<br/>hol Istened, kit vártál?<br/>Ezen lelkem kiontom,<br/>és házadat óhajtom,<br/>hol a hívek seregében<br/>örvendek szép éneklésben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én lelkem, mire csüggedsz el?<br/>Mit kesergesz ennyire?<br/>Bízzál Istenben, nem hágy el,<br/>kiben örvendek végre,<br/>midőn hozzám orcáját,<br/>nyújtja szabadítását;<br/>ó! én kegyelmes Istenem,<br/>mely igen kesereg lelkem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sebessége árvizednek<br/>és a nagy zúgó habok<br/>én rajtam összeütköznek,<br/>mégis hozzád óhajtok;<br/>mert úgy megtartasz nappal,<br/>hogy éjjel vigassággal<br/>dicséreteket éneklek<br/>néked, erős őrizőmnek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mondván: Isten, én kőszálam,<br/>mire felejtesz így el?<br/>Ellenségim vannak rajtam,<br/>gyászban járok veszéllyel.<br/>Mert az ő hamis nyelvek<br/>csontjaimban megsértnek,<br/>mert így bosszantnak ellened:<br/>lássuk, hol vagyon Istened?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Én lelkem, mire csüggedsz el?<br/>Mit kesergesz ennyire?<br/>Bízzál Istenben s nem hágy el,<br/>kiben örvendek végre.<br/>Ki nekem szemlátomást<br/>nyújt kedves szabadulást,<br/>nyilván megmutatja nekem,<br/>hogy csak ő az én Istenem.</lines>
+    </verse>
+  </lyrics>
+</song>

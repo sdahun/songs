@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! áldott óra, meghitt perc</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Bradbury William (1816-1868.)</author>
+      <author type="words">Walford William</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="297"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - áhítat, ima</theme>
+      <theme>Csendesség</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten bennünk lakozása</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Szív</theme>
+      <theme>Üdvbizonyosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! áldott óra, meghitt perc,<br/>mit Istenemmel tölthetek,<br/>az Úrnak zengek éneket,<br/>kitárva néki szívemet.<br/>És hálaszóra nyílik szám,<br/>hogy annyi áldás áradt rám,<br/>sok vész és baj nem árthatott<br/>mert híven védett, hordozott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! meghitt, boldog pillanat,<br/>mely láthatatlan szárnyat ad,<br/>hogy égbe szálljon hő imám,<br/>hol üdv és béke vár reám.<br/>Míg Jézus arcát nézhetem,<br/>az égi szót megérthetem;<br/>és vallom azt, hogy ő szeret,<br/>hogy vélem hordja terhemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! meghitt, csöndes pillanat,<br/>mely lángra gyújt és enyhet ad!<br/>Mert hitszememmel látom már,<br/>az égi otthon készen vár,<br/>hol nem lesz többé fájdalom,<br/>hol üdvösségem megkapom;<br/>s mint áldott emlék megmarad<br/>e boldog, meghitt pillanat.</lines>
+    </verse>
+  </lyrics>
+</song>

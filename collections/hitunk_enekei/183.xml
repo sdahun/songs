@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tiéd e szív!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Rappard Dóra (1842-1923.)</author>
+      <author type="words">Liebich Ehrenfried (1713-1780.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="183"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Békesség</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Megigazulás</theme>
+      <theme>Próba</theme>
+      <theme>Reménység</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szív</theme>
+      <theme>Új élet</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiéd e szív!<br/>Ím néked átadom,<br/>én Istenem, Atyám.<br/>„A világ rossz,<br/>a szíved nékem add!”<br/>E szent igéd hallám.<br/>Most itt van élő áldozatom,<br/>és örvendek, hogy átadhatom.<br/>Tiéd e szív,<br/>tiéd e szív!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiéd e szív!<br/>Ó! vedd el Istenem,<br/>hisz annyit szenvedett!<br/>Fogadd el így,<br/>és tisztítsd meg szegényt;<br/>te nem veted azt meg.<br/>Bár telve van sok vétkes vággyal,<br/>sok bűnnel és sok gonoszsággal<br/>e bűnös szív,<br/>e bűnös szív!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiéd e szív,<br/>mely eddig kőből volt,<br/>most gyönge por csupán.<br/>Békére vágy,<br/>most törten, vétkesen<br/>és szárnyszegetten áll.<br/>Ó! hol tehet le bűnt és vétket,<br/>és hol találhat menedéket<br/>e megtört szív,<br/>e megtört szív?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tiéd e szív!<br/>Én édes Jézusom!<br/>És benned üdvöt lel;<br/>tőled nyer jót<br/>és élte szent javát,<br/>ki rosszat érdemel.<br/>Mert benned leli békességét,<br/>a vigaszát és üdvösségét<br/>e hivő szív,<br/>e hivő szív!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tiéd e szív!<br/>Tedd újjá, ékessé<br/>Szentlélek Istenem!<br/>Te formáld át,<br/>hogy boldog lakhelyed,<br/>a templomod legyen.<br/>Hogy mindig Isten nagy szerelme<br/>és szent reménység éljen benne,<br/>mert új e szív,<br/>mert új e szív!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tiéd e szív!<br/>Ó! védd meg, Jézusom,<br/>ha vész tör ellene.<br/>S ha majd a sír,<br/>e végső próba jő,<br/>légy akkor is vele.<br/>Hogy végső szavam ez lehessen<br/>az ünnepélyes komor percben:<br/>„Tiéd e szív,<br/>tiéd e szív!”</lines>
+    </verse>
+  </lyrics>
+</song>

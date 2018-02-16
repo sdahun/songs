@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Imádjuk őt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Barnes Edwin, 1886.</author>
+      <author type="words">Monsell John (1811-1875.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="20"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Alázatosság</theme>
+      <theme>Átadás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Hívogatás</theme>
+      <theme>Ima</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten igazsága</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Oltalom</theme>
+      <theme>Reménység</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádjuk őt, mint a szentségnek Istenét,<br/>trónjánál térdelve imádjuk őt!<br/>Alázat tömjénjét, szolgálat aranyát<br/>adjuk át hódolva, s dicsérjük őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lábához tedd minden fárasztó terhedet;<br/>átveszi, hordozza helyetted ő!<br/>Könnyedet letörli, imádra megfelel,<br/>utadon mindenütt ő jár elöl.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Attól se félj, hogyha átléped küszöbét,<br/>hogy kicsi még a fény, mely benned gyúlt;<br/>igazság palástja, szeretet melege<br/>remegő lelkednek védelmet nyújt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jöjj hát, ne félj, add át szívednek kincseit,<br/>őnéki mind kedves, mind drága az!<br/>Bús, könnyes éj helyett víg reggelt ad neked;<br/>nála a remény és végső vigasz.</lines>
+    </verse>
+  </lyrics>
+</song>

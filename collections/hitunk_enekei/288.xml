@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A mi szívünk csak tehozzád</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Frankfurt, 1662.</author>
+      <author type="words">Ács Ferenc (1680-1747.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="288"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Bizodalom</theme>
+      <theme>Isten keresése</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megváltás</theme>
+      <theme>Mulandóság</theme>
+      <theme>Örök élet</theme>
+      <theme>Reménység</theme>
+      <theme>Szív</theme>
+      <theme>Üdvösség</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mi szívünk csak tehozzád,<br/>Jézus, Isten Báránya,<br/>óhajtozik, híveidnek<br/>drága fényes aranya,<br/>mert halálunk megrontója,<br/>örök életnek adója<br/>vagy egyedül, Krisztusunk,<br/>üdvözítő Jézusunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csudálkozván nézi elménk<br/>Atyádnak nagy szerelmét,<br/>álmélkodván is szemléli<br/>hozzánk való jó kedvét,<br/>melyet abban megmutatott,<br/>hogy minékünk téged adott;<br/>azért, édes Krisztusunk,<br/>vagy szerelmes Jézusunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szegény bűnös embereknek<br/>üdvösséges reménye,<br/>benned hívőknek öröme,<br/>boldogsága, szépsége:<br/>jövel, jövel hozzánk, kérünk,<br/>mindenkoron légy mivélünk,<br/>mert csak te vagy Krisztusunk<br/>és kegyelmes Jézusunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Reád bízzuk mi magunkat<br/>itt ez árnyék világon,<br/>üdvözítő szerelmedből<br/>könyörülj fiaidon.<br/>Légy vezérünk, oltalmazónk,<br/>kegyes mesterünk, tanítónk,<br/>Édes Atyánk, Krisztusunk,<br/>gondviselő Jézusunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nincsen nékünk itt e földön<br/>maradandó városunk,<br/>hanem repeső elmével<br/>jövendőt óhajtozunk;<br/>ott sok ezer angyalokkal,<br/>téged áldunk szent Atyáddal:<br/>méltó vagy, ó! Krisztusunk,<br/>erre, édes Jézusunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hozzád hajtjuk csak fejünket,<br/>ó! mi édes Megváltónk,<br/>koporsónkba, ha beszállunk,<br/>ott is lessz gyámolítónk.<br/>Benned édesen aluszunk,<br/>eljöveteledig nyugszunk,<br/>és örökké, Krisztusunk,<br/>véled élünk, Jézusunk.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Zörgetőknek megnyittatik<br/>kegyelemnek ajtaja;<br/>megígérte az Úr Jézus,<br/>hogy kérésünk megadja.<br/>Jövel, Jézus és ne késsél,<br/>már mellőlünk el ne térjél:<br/>üdvözíts, ó! Krisztusunk,<br/>mi kegyelmes Jézusunk!</lines>
+    </verse>
+  </lyrics>
+</song>

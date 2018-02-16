@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! Sion, ébredj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Walch James, 1876. (1837-1901.)</author>
+      <author type="words">Thomson Mary, 1870. (1834-1923.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="294"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - küldetés</theme>
+      <theme>Egyház</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Küldetés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! Sion, ébredj, töltsd be küldetésed,<br/>mondd a világnak: hajnalod közel!<br/>Mert nem hagy az, ki népeket teremtett,<br/>senkit sem éjben, bűnben veszni el.<br/>Légy örömmondó, békekövet,<br/>hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mondd minden népnek: elveszett juháért<br/>mit tett a Pásztor – csoda szerelem –<br/>földig hajolt a kárhozott világért,<br/>s hogy ott fenn élhess, ő meghalt itt lenn.<br/>Légy örömmondó, békekövet,<br/>hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Küldj fiaidból, akik nem hiába<br/>élvezik kincsed: hirdessék szavad;<br/>öntsd lelked értük győzelmes imába:<br/>mindent, mit adtál, Krisztus visszaad.<br/>Légy örömmondó, békekövet,<br/>hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Sion, várjad, előbb jön, mint véled,<br/>felfedi titkát minden szív előtt!<br/>Egy lélekért se érjen vádja téged,<br/>hogy temiattad nem látta meg őt.<br/>Légy örömmondó, békekövet,<br/>hirdesd: a Megváltó elközelgetett!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Teremtő Istenünk, Édes Atyánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Brno, 1798.</author>
+      <author type="words">Új Zengedező Mennyei Kar, 1743.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="265"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Gondviselés</theme>
+      <theme>Hit</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megtartás</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szív</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő Istenünk,<br/>Édes Atyánk nékünk!<br/>Hatalmas vagy,<br/>irgalmad nagy:<br/>ínségemben,<br/>szükségemben,<br/>kérlek, engem ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívem benned bízik,<br/>hozzád fohászkodik;<br/>nézz csendesen,<br/>kegyelmesen;<br/>fájdalmimon,<br/>bánatimon<br/>könyörülj kegyesen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tudom, hogy kegyelmed<br/>enyhít mindeneket,<br/>bús szíveket,<br/>sebeseket;<br/>szegénységben,<br/>betegségben<br/>ellankadt fejeket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jelen van az idő,<br/>hogy te, jó segítő,<br/>meghallgatod<br/>siralmimat,<br/>nékem adod<br/>tanácsodat,<br/>mert tudod sorsomat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Azért, ó! Jézusom,<br/>legbölcsebb orvosom,<br/>siess, siess,<br/>és lelkemnek<br/>segítője<br/>légy testemnek,<br/>megepedt szívemnek!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nálad lehetetlen,<br/>tudom, semmi nincsen.<br/>Nyújtsd kezedet:<br/>bús szívemet<br/>és lelkemet<br/>erősítsed,<br/>mert áldlak tégedet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szentlélek Istenünk,<br/>vigasztaló Urunk:<br/>bátoríts meg,<br/>oltalmazz meg;<br/>igaz hitben,<br/>szerelmedben<br/>minden jókkal áldj meg!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Azért, hogy oly szép a föld</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">1838.</author>
+      <author type="words">Pierpoint Folliott, 1864.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="11"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Angyalok</theme>
+      <theme>Gondviselés</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Reménység</theme>
+      <theme>Üdvösség</theme>
+      <theme>Világ bizonysága Istenről</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azért, hogy oly szép a föld,<br/>és a nap oly áldón süt,<br/>s oly sok szép és jó között<br/>nagy szerelmed érezzük:<br/>mindenható Istenünk,<br/>fogadd hálaénekünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért is, hogy úgy szeret<br/>szülő, testvér, jó barát,<br/>és az angyalsereg is<br/>híven vigyáz mireánk:<br/>mindenható Istenünk,<br/>fogadd hálaénekünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nékünk adtad szent Fiad,<br/>reménységünk zálogát;<br/>Lelked híven támogat,<br/>s adsz majd életkoronát.<br/>Mindenható Istenünk,<br/>fogadd hálaénekünk!</lines>
+    </verse>
+  </lyrics>
+</song>

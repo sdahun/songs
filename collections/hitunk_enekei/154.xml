@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jövel, Szentlélek Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Szegedi Kis István (1505-1572.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="154"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentlélek Isten</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Ima</theme>
+      <theme>Isten félelme</theme>
+      <theme>Megtartás</theme>
+      <theme>Növekedés</theme>
+      <theme>Szentlélek</theme>
+      <theme>Tanítás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jövel, Szentlélek Isten,<br/>tarts meg minket igédben,<br/>ne legyünk setétségben:<br/>maradjunk igaz hitben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenteld meg mi szívünket,<br/>világosítsd elménket,<br/>hogy érthessük igédet,<br/>mi édes Mesterünket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj isteni félelmet<br/>és bizonyos értelmet;<br/>igéddel taníts minket,<br/>gerjeszd fel mi szívünket.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vigasztald meg elménket;<br/>mindenben segíts minket;<br/>öregbítsed hitünket,<br/>távoztassad bűnünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hogy téged az Atyával<br/>és az ő szent Fiával<br/>dicsérhessünk mindnyájan<br/>a fényes mennyországban.</lines>
+    </verse>
+  </lyrics>
+</song>

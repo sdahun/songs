@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jó Urunk, nézd, az ellenség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Nürnberg, 1523.</author>
+      <author type="words">Münter Balthasar (1735-1793.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="312"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - a gyülekezet</theme>
+      <theme>Egyház</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Jézus Krisztus királysága</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Lelki harc</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó Urunk, nézd, az ellenség<br/>szent nyájad ellen támad;<br/>ó! légy te velünk, Úr Jézus,<br/>mert ellened ki állhat?<br/>A te hűséged sziklaszál,<br/>ki műved ellen harcba száll,<br/>csak önmagának árthat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint mondád, a te országod<br/>nem e világból való.<br/>Ha támadnak is ellene,<br/>az mind hiábavaló.<br/>Mert elbukik, megszégyenül,<br/>ki esztelenül, hűtlenül<br/>szent műved ellen fordul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent országodat terjeszd ki<br/>a Lelked erejével;<br/>és égi igád tedd reánk<br/>te örök beszédeddel,<br/>hogy dicsőítsen tégedet,<br/>és áldja nagy felségedet<br/>a földön minden lélek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! láttasd ellenségiddel,<br/>kik megcsúfolnak téged,<br/>hogy üdvösség vár rájuk is,<br/>ha hozzád visszatérnek.<br/>S hogy bízva égre nézzenek,<br/>és híven várják jöttödet,<br/>ó! ébressz hitet bennük!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te véren szerzett népedet<br/>ó! tartsd meg igazságban,<br/>hogy megtaláljuk békénket<br/>az örök irgalomban.<br/>A tévelygéstől mentsél meg,<br/>a bűntől őrizd léptünket<br/>és vezess, amíg élünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent reménységgel várnak rád<br/>a benned bízó hívek,<br/>mert visszajöttöd közel van,<br/>ím ujjongnak a szívek.<br/>A rossznak ítéletére,<br/>a jónak üdvösségére<br/>mint igaz bíró jössz el.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó! jöjj el, Jézus, jöjj el már,<br/>s a benned bízót védjed;<br/>a bűn bilincsét törjed szét,<br/>és szabadítsd meg néped.<br/>Hát szállj le hozzánk fényesen,<br/>ó! Jézus Krisztus, ékesen,<br/>mi áldott örökségünk.</lines>
+    </verse>
+  </lyrics>
+</song>

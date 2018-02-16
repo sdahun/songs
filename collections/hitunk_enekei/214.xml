@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Üdvözítő szól</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Grape John (1833-1906.)</author>
+      <author type="words">Hall Elvina (1818-?)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="214"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Hívogatás</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Szív</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Üdvözítő szól:<br/>„Még gyönge gyermek vagy,<br/>légy éber s imádkozz,<br/>így lelsz majd nyugalmat.”<br/>Jézus drága vért<br/>ontott vétkemért;<br/>bűnöm foltja vérpiros,<br/>ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most megtaláltam én<br/>gyógyító Mesterem<br/>és áldó szent kezén<br/>megolvadt kőszívem.<br/>Jézus drága vért<br/>ontott vétkemért;<br/>bűnöm foltja vérpiros,<br/>ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs bennem semmi jó,<br/>de megment kegyelme;<br/>s lemossa azt, mi folt,<br/>a Bárány szent vére!<br/>Jézus drága vért<br/>ontott vétkemért;<br/>bűnöm foltja vérpiros,<br/>ő hófehérre mos!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha Jézus trónjánál<br/>ott állok egykoron,<br/>e szívből hála száll,<br/>és dics zeng ajkamon!<br/>Jézus drága vért<br/>ontott vétkemért;<br/>bűnöm foltja vérpiros,<br/>ő hófehérre mos!</lines>
+    </verse>
+  </lyrics>
+</song>

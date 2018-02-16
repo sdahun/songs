@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az oly emberek nyilván boldogok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="64"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten igéje és törvénye</theme>
+      <theme>Ártatlanság</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Boldogság</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Hálaadás</theme>
+      <theme>Hit</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten keresése</theme>
+      <theme>Isten törvénye</theme>
+      <theme>Szombatiskola</theme>
+      <theme>Tanítás</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az oly emberek nyilván boldogok,<br/>kik igazsággal járnak életükben,<br/>Isten törvényére vagyon gondjok<br/>és aszerint élnek minden időben,<br/>szent bizonyságit akik megőrzik<br/>és az Istent szívük szerint keresik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogok azok is, mondom nyilván,<br/>akik hamisságot nem cselekesznek,<br/>de mindenkor az Úr utaiban<br/>járnak és szent ártatlanságban élnek.<br/>Meghagytad, hogy a te parancsodat,<br/>jól megőrizzük minden mondásodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vajha én oly boldoggá lehetnék,<br/>hogy járhatnék a te szent utaidban,<br/>és engedhetnék szent törvényednek!<br/>Ha parancsodat nézhetném valóban,<br/>és azt szívemben bizonnyal hinném,<br/>hogy soha semmi szégyenbe ne esném!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok néked teljes szívből,<br/>hogy megtanítasz te ítéletidre,<br/>melyek tiszták minden hiba nélkül!<br/>Megtartom és gondom lesz törvényidre,<br/>de kérlek téged, ó! én Istenem,<br/>hogy soha örökké ne hagyj el engem!</lines>
+    </verse>
+  </lyrics>
+</song>

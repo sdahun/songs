@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Bizony meglészen az idő</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Wittenberg, 1529.</author>
+      <author type="words">Ringwaldt Bartholomäus, 1586. (1530-1599.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="142"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Feltámadás</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bizony meglészen az idő,<br/>hogy eljön Isten Fia;<br/>a jókat, gonoszokat ő<br/>nagy ítéletre hívja.<br/>Sírásba fúl a nevetés,<br/>tűz pusztít majd és földrengés,<br/>mint Péter rég megírta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A trombitaszó felharsan,<br/>és hallja minden nemzet;<br/>hangjára majd feltámadnak<br/>a sírban nyugvó testek.<br/>Kik akkor még élni fognak,<br/>egy szóra mind elváltoznak,<br/>az Úrtól megújulnak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majd olvassák az angyalok<br/>a nyitott, égi könyvet;<br/>hisz feljegyeztek minden szót,<br/>és minden földi tettet.<br/>Így mindenki ott meghallja,<br/>és Jézus előtt megvallja,<br/>hogy mit tett életében.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Jézus, segíts véredért<br/>a végső ítéletben,<br/>hogy nevem ott találtassék<br/>az élet szent könyvében.<br/>Bár nincsen erről kétségem,<br/>mert legyőzted ellenségem,<br/>a bűnért megfizettél.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Légy, Uram, nékem szószólóm,<br/>ha jössz az ítéletre;<br/>ím tehozzád fohászkodom,<br/>hadd jussak közeledbe.<br/>És a megváltott hívekkel<br/>vígy örömben a mennybe fel,<br/>mit te szereztél nékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

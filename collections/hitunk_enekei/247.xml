@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ne hagyj elesnem, felséges Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Nagybánkai Mátyás, 1570 előtt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="247"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Betegségben</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Ima</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten igazsága</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Kegyelem</theme>
+      <theme>Kísértés</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megváltás</theme>
+      <theme>Oltalom</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne hagyj elesnem, felséges Isten, keserűségemben!<br/>Te szent Fiadért légy segítséggel: ne essem kétségben,<br/>mert mindenfelől, látod, Úr Isten, vagyok kísértetben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az írás rólad, felséges Isten, bizonnyal azt mondja,<br/>hogy valakinek tebenned vagyon szíve bizodalma,<br/>az olyan ember meg nem szégyenül, mert te vagy oltalma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyermekségemtől fogván, Úr Isten, mind ez ideiglen<br/>téged hívtalak én segítségül minden szükségemben:<br/>mostan is nincsen több bizodalmam sem földön, sem mennyen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bizony nem tudom, kihez forduljak egyébhez náladnál:<br/>mert nincs igazság és irgalmasság sehol senki másnál:<br/>szívem fájdalmát senki nem tudja, Uram, több náladnál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Akármint hányjam-vessem elmémet, felséges Úr Isten,<br/>de vigasztalást sehol nem lelek keserűségemben,<br/>hanem tebenned, felséges Isten és ígéretedben.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Csak te egyedül voltál, Úr Isten, énnékem gyámolóm,<br/>nagy fájdalmimban és romlásimban az én vigasztalóm;<br/>ne hagyj elesnem, megszégyenülnöm, kegyes oltalmazóm.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A szegénységnek nagy kísértete engemet szorongat,<br/>kárvallásomnak bánatja izgat, betegség tántorgat,<br/>mindazáltal csak tetőled várok, Úr Isten, oltalmat.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Irgalmasságnak Ura, Istene és erős kútfeje,<br/>kinek szemei a földre néznek nyomorult szegényre:<br/>hozzád kiáltok, légy segítséggel minden szükségembe.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mely nagy örömem és bizodalmam nékem ezen vagyon,<br/>hogy ígéreted, mint drága zálog, én szívemben vagyon,<br/>Krisztus Jézusért engem meghallgatsz, azt bizonnyal tudom.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Azért könyörgök szent Felségednek, mint jó Istenemnek,<br/>én teremtőmnek és megváltómnak és megszentelőmnek,<br/>hogy légy kegyelmes te szent nevedért az én bűneimnek.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Tudom, előtted, úgymint magamban, bűnös ember vagyok,<br/>de Krisztus Jézus szent haláláért nálad kedves vagyok,<br/>mert őáltala te fiad vagyok, örökösöd vagyok.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Jelentsd meg hozzám, felséges Isten, kegyelmességedet,<br/>és véghetetlen kegyes atyai te nagy szerelmedet,<br/>hogy teljesítsd be könyörgésemre szent ígéretedet.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Add meg, Úr Isten, te szent nevedért, amit tőled kérek<br/>szent Fiad által, teljes szívemből melyért most könyörgek,<br/>mert csak tebenned bízom, Úr Isten, míg e testben élek.</lines>
+    </verse>
+  </lyrics>
+</song>

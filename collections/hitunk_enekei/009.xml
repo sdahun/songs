@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az egek beszélik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1542. (1510-1569.)</author>
+      <author type="words">Marot Clément, 1539. (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="9"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten félelme</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten szolgái</theme>
+      <theme>Isten törvénye</theme>
+      <theme>Megtartás</theme>
+      <theme>Szív</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+      <theme>Világ bizonysága Istenről</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az egek beszélik<br/>és nyilván hirdetik<br/>az Úrnak erejit.<br/>Az ég mennyezeti<br/>szépen kijelenti<br/>kezének munkáit.<br/>A napok egymásnak<br/>tudományt mutatnak<br/>az ő bölcsességéről,<br/>egy éj a más éjnek<br/>beszél az Istennek<br/>Ő nagy dicsőségéről!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs szó, sem tartomány,<br/>holott e tudomány<br/>nem prédikáltatnék;<br/>mindenfelé mégyen<br/>e földkerekségen<br/>beszédük ezeknek.<br/>Írásuk kimégyen<br/>mind e világ végén,<br/>holott a fényes napnak<br/>hajlékot az Isten<br/>helyeztetett szépen<br/>Ő lakó szállásának.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Melyben, mint vőlegény,<br/>reggel felkél szépen,<br/>ő ágyasházából,<br/>és ugyan örvendez,<br/>mint az erős vitéz,<br/>ha futásra indul.<br/>Az égnek egy végén<br/>felkél és elmégyen<br/>gyorsan a más végére;<br/>sehol semmi nincsen<br/>ő hévsége ellen,<br/>ki magát elrejthesse.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Isten törvénye<br/>tiszta, ő beszéde,<br/>lelkeket megtérít;<br/>hűség bizonysága,<br/>kisdedeket abba’<br/>bölcsességre tanít.<br/>Ő parancsolati,<br/>igazak mondási,<br/>mik szívet vigasztalnak,<br/>minden ő törvényi,<br/>tiszták szent beszédi,<br/>szemet világosítnak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Isten félelme<br/>tiszta, mindörökké<br/>megmarad és megáll.<br/>Az ő ítélete<br/>igaz mindenekbe’,<br/>teljes nagy jósággal.<br/>Aranynál, ezüstnél,<br/>és drága köveknél,<br/>sokkal becsületesebb;<br/>ő szerelmessége,<br/>és gyönyörűsége<br/>a méznél is édesebb.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aki szolgál néked,<br/>tanul, Uram, tőled<br/>nagy jó tanulságot.<br/>És ha azt megtartja,<br/>jól lészen ő dolga,<br/>mert veszen jutalmat.<br/>Ki tudná bűninek,<br/>számát esetinek,<br/>és ki gondolhatná meg?<br/>Én sok bűneimet,<br/>titkos vétkeimet,<br/>Uram, nékem bocsásd meg!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szolgádat őrizd meg,<br/>kevélységtől tartsd meg:<br/>ne essék e bűnbe,<br/>és én tiszta lészek,<br/>semmi bűnt nem tészek,<br/>járván te kedvedbe’.<br/>Szájamnak szólása,<br/>szívem gondolatja<br/>kedves legyen tenéked!<br/>Adjad, ó! én Uram,<br/>Kősziklám, megváltóm,<br/>hogy ne vétsek ellened!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Készítsd magad, kedves lélek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Crüger Johann, 1649. (1598-1662.)</author>
+      <author type="words">Franck Johann, 1653. (1618-1677.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="362"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - úrvacsora</theme>
+      <theme>Úrvacsora</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Készítsd magad, kedves lélek,<br/>hagyd a bűnt, a sötétséget,<br/>jöjj a fényes napvilágra,<br/>vágyódj lelki méltóságra!<br/>Nézd, ma üdvözítő Urad<br/>égi asztalához hívat!<br/>Ő, ki földet, mennyet éltet,<br/>kész most találkozni véled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! mint óhajt téged lelkem,<br/>Jézus, üdvöm, én szerelmem!<br/>Égő szívem téged áhít,<br/>égi manna után vágyik.<br/>Nagy a lelkem szomjúsága,<br/>életvíznek árját várja.<br/>Bor és kenyér szent jegyében,<br/>Uram, egyesüljél vélem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog öröm most a részem,<br/>véle megtelt szívem, lelkem:<br/>vajon szent vacsorád titka<br/>szemem ennyire megnyitja,<br/>hogy most tisztán látom, értem<br/>Isten dolgait egészen;<br/>fölmérheti-é az ember<br/>Isten titkát értelemmel?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus, napja életemnek,<br/>Jézus, fénye örömömnek,<br/>Jézus, szívem minden vágya,<br/>lelkem éltető világa!<br/>Hittel lábad elé omlok,<br/>ha a szent jegyekhez nyúlok;<br/>add, hogy benne üdvöm leljem,<br/>neved dicséretét zengjem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram Jézus, szeretetből<br/>értünk jöttél az egekből,<br/>drága élted adtad értünk,<br/>hogy a bűntől óvjad lelkünk.<br/>Bús keresztünket te hordtad,<br/>értünk véredet ontottad:<br/>add, hogy tieid lehessünk,<br/>s rólad híven emlékezzünk!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Égi szeretet tengere:<br/>Jézus, élet eledele,<br/>bűnbánatot adj e perchez,<br/>méltón nyúlni kenyeredhez!<br/>Add, e lelki eledelben<br/>nagy szerelmedet érezzem;<br/>áldj meg vendégedül engem,<br/>mind a földön, mind a mennyben!</lines>
+    </verse>
+  </lyrics>
+</song>

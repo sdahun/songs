@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjjetek, az ige kér</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bázel, 1745.</author>
+      <author type="words">Lorenz E. S. (1890-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="63"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten igéje és törvénye</theme>
+      <theme>Békesség</theme>
+      <theme>Boldogság</theme>
+      <theme>Hívogatás</theme>
+      <theme>Isten igéje</theme>
+      <theme>Öröm</theme>
+      <theme>Szombatiskola</theme>
+      <theme>Tanítás</theme>
+      <theme>Útmutatás</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjjetek, az ige kér,<br/>tanítása égi fény,<br/>élet, út és igazság,<br/>öröm, béke s boldogság.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt az égi bölcsesség,<br/>nem mérte föl ember még,<br/>együgyűt is bölccsé tesz,<br/>csalárdságtól védelmez.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Legyen ez a szent ige<br/>éltünk zsinórmértéke,<br/>mert egyedül ez mutat<br/>üdvösségre jó utat.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten örök, szent szava,<br/>akaratát tanítja;<br/>vezet, hordoz, felemel<br/>öröklétre, mennybe fel.</lines>
+    </verse>
+  </lyrics>
+</song>

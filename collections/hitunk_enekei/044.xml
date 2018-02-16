@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mely igen jó az Úr Istent dicsérni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1778.</author>
+      <author type="words">Sztárai Mihály (-1575.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="44"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Egyház</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten igazsága</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Megtérés</theme>
+      <theme>Növekedés</theme>
+      <theme>Reggel</theme>
+      <theme>Teremtés</theme>
+      <theme>Új élet</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mely igen jó az Úr Istent dicsérni,<br/>felségednek, én Uram, énekelni,<br/>szent nevedet dicsérvén magasztalni,<br/>és mindenütt e világon hirdetni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igen reggel irgalmadat hirdetni,<br/>igazságodról éjjel gondolkodni,<br/>hegedűvel, orgonával zengetni,<br/>minden éneklő szerszámmal tisztelni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csudaképpen én vigasztalást veszek.<br/>Cselekedetidre hogyha tekintek,<br/>kezeidnek munkájában örvendek,<br/>teremtőmnek, Megváltómnak éneklek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha szívemben, lelkemben meggondolom,<br/>mily nagyoknak dolgaidat én látom,<br/>mélységesnek jótétedet találom,<br/>Uram, azon oly igen csodálkozom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vagy, Uram, én lelkemet éltetvén,<br/>ki nem örülsz bűnösnek elveszésén,<br/>de inkább örvendesz ő megtérésén,<br/>mindörökké tartó boldog életén.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Rólad, Uram, akik megemlékeznek,<br/>az igazak, kik igaz hitben lesznek,<br/>mint a pálma, úgy szintén ők zöldellnek,<br/>mint cédrusfák, ugyan meggyökereznek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Istennek ő házába plántáltatnak,<br/>anyaszentegyházban megvirágoznak,<br/>mindenkoron néki gyümölcsöt hoznak,<br/>igaz hittel jámbor életet vallnak.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vallást tesznek minden emberek előtt,<br/>hogy az Isten igaz mindenek fölött,<br/>hamisságot soha nem cselekedett,<br/>mint kőszikla, ő ád nagy erősséget.</lines>
+    </verse>
+  </lyrics>
+</song>

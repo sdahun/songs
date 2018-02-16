@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Most búcsút mondok néked</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Lipcse, 1615.</author>
+      <author type="words">Herberger Valerius, 1614. (1562-1627.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="224"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Átadás</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Boldogság</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Megváltás</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Próba</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szív</theme>
+      <theme>Vágyakozás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most búcsút mondok néked,<br/>te csalfa, rossz világ!<br/>Bár csábít léha élet,<br/>a kétes boldogság.<br/>A mennyben vágyom élni,<br/>a szívem odaszáll:<br/>és ott a fény honában<br/>majd örökségem vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! Jézus Krisztus, rejtsd el<br/>tebenned éltemet,<br/>mert ezer tövis bántja<br/>és tépi szívemet!<br/>De fájdalmaim árját<br/>te megrövidíted,<br/>s én dicsőítlek téged,<br/>mint boldog gyermeked.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívem templomában<br/>ott díszlik szent neved,<br/>és békét ad a szívnek<br/>megváltó kereszted.<br/>Ó! világítsd az utam,<br/>hogy el ne tévedjek,<br/>s ha megfutottam pályám,<br/>majd véled élhessek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! rejtsd el kegyelemből<br/>én árva lelkemet,<br/>hogy egykor én is lássam<br/>nagy dicsőségedet.<br/>Mert boldog az, ki végül<br/>tenálad kopogtat,<br/>s még boldogabb, ki véled<br/>mindvégig megmarad!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! mindenható Isten,<br/>te óvjad lelkemet;<br/>s az élet szent könyvébe<br/>írjad be nevemet.<br/>Az örök élet kincse,<br/>ó, hadd legyen enyém,<br/>hogy dicsőséged zengjem<br/>majd mindörökre én.</lines>
+    </verse>
+  </lyrics>
+</song>

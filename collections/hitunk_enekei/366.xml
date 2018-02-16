@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Minden munkám, hitharcom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Ebeling Johann, 1666. (1637-1676.)</author>
+      <author type="words">Waldenburg (Szilézia), 1734 körül.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="366"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - reggel</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Lelki harc</theme>
+      <theme>Oltalom</theme>
+      <theme>Reggel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden munkám, hitharcom<br/>Jézusommal kezdem,<br/>megsegít ő, jól tudom,<br/>tanácsával engem.<br/>Szent nevével ébredek,<br/>szent nevével alszom;<br/>Jézus vezet engemet,<br/>míg bevégzem harcom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kora reggel ajkamon<br/>Jézus neve csendül,<br/>minden utam ráhagyom,<br/>erőm meg nem rendül.<br/>Reggel, este, éjszaka<br/>Jézus menedékem:<br/>bármi bajom támadna,<br/>soha nem kell félnem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha Jézus van velem,<br/>semmi rossz nem érhet!<br/>Megvéd minden baj ellen:<br/>senkitől sem félek!<br/>Bizodalmam benne van,<br/>erejében bízom,<br/>erős karja oltalmam,<br/>megvéd, tudom, bizton.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha minden dolgomat<br/>Jézusommal kezdem,<br/>bántó, kínzó gondolat<br/>nem gyötri a lelkem.<br/>Öröm, béke, boldogság<br/>lesz az osztályrészem,<br/>s végül életkoronát<br/>ád a mennyben nékem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Minden dolgom, Jézusom,<br/>szent kezedbe tettem,<br/>te őrködjél sorsomon<br/>egész életemben.<br/>Uram, minden dolgomat<br/>te nevedben kezdem:<br/>add reám áldásodat<br/>mindörökké. Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

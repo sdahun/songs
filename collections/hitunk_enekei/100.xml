@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Új világosság jelenék</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Batthyány-kódex, 1550 körül</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="100"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten élete és munkája</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Doxologia</theme>
+      <theme>Erő</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Jézus Krisztus örök Ige</theme>
+      <theme>Jézus Krisztus születése</theme>
+      <theme>Oltalom</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új világosság jelenék,<br/>ó tévelygés csendesedék;<br/>Isten Igéje jelenék,<br/>újonnan nékünk adaték.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Evangéliom erejét,<br/>Krisztust, áldott szent Igéjét,<br/>Atya Isten nagy jó kedvét,<br/>megmutatá ő kegyelmét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kit sok száz esztendeiglen<br/>eltitkolt volt Atya Isten,<br/>mint megmondá jövendölvén<br/>Ámos próféta könyvében.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ezt a mi hitetlenségünk<br/>és nagy tehetetlenségünk,<br/>érdemlette tévelygésünk,<br/>emberbeli reménységünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Igaz az Isten igéje,<br/>kivel él ember elméje,<br/>kinek megmarad ereje<br/>és el nem vész ő reménye.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kérünk, Úr Isten, tégedet,<br/>erősítsd meg híveidet,<br/>hogy vehessük szent Igédet<br/>és vallhassuk te hitedet.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mert csak te vagy bizodalmunk,<br/>ördög ellen nagy gyámolunk,<br/>testünk ellen diadalmunk,<br/>e világ ellen oltalmunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsőség légyen Atyának<br/>és egyetlenegy Fiának;<br/>ezeknek ajándékának,<br/>a dicső Szentháromságnak.</lines>
+    </verse>
+  </lyrics>
+</song>

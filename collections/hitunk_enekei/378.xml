@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Fáradt vagyok, lenyugszom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Nürnberg, 1544.</author>
+      <author type="words">Hensel Luise (1798-1876.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="378"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - este</theme>
+      <theme>Este</theme>
+      <theme>Este</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fáradt vagyok, lenyugszom,<br/>álmos szemem lehunyom.<br/>A te szemed, jó Atyám,<br/>vigyázzon az éjjel rám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ami rosszat ma tettem,<br/>bocsássad meg, Istenem,<br/>Jézus vére s kegyelmed<br/>törölje el vétkemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretteim, Istenem,<br/>nyugodjanak kezedben.<br/>Minden ember: kicsi, nagy,<br/>érezze, hogy vele vagy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beteg szívnek enyhet adj,<br/>aki sír, azt vigasztald.<br/>Őrizz engem, jó Atyám;<br/>sötét éjjel vigyázz rám.</lines>
+    </verse>
+  </lyrics>
+</song>

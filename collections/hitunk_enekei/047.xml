@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én lelkem áldjad Istent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Kugelmann Hans-nál, 1540. (1519-1542.)</author>
+      <author type="words">Gramann Johann, 1540. (1487-1541.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="47"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Angyalok</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Doxologia</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Hálaadás</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten félelme</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Megváltás</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Mulandóság</theme>
+      <theme>Oltalom</theme>
+      <theme>Szentlélek</theme>
+      <theme>Új élet</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én lelkem áldjad Istent<br/>és dicsérd drága szent nevét;<br/>és számon tartsd, hogy itt lent<br/>mily áldást hullat rád az ég.<br/>Ő hordta bűnöd terhét<br/>és nagy gyöngeséged,<br/>és érted adva éltét<br/>szent oltalmába vett.<br/>A lelked sasként szárnyal,<br/>és élted megújul:<br/>az Úr tesz törvényt majdan,<br/>s az ős-rossz elpusztul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megismertette vélünk<br/>nagy irgalmasságát az Úr;<br/>szent oltalmában élünk,<br/>és jóságának árja hull.<br/>A bűnöst el nem hagyja,<br/>mert szív szerint ítél,<br/>és irgalmának napja<br/>csak áldást hintve kél.<br/>A megbocsátó jóság<br/>a mélyből felemel,<br/>és bűneinknek árját<br/>a tenger nyeli el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint gyermekének atyja,<br/>az Isten nékünk megbocsát,<br/>s hogy éljünk, értünk adta<br/>az üdvösségnek zálogát.<br/>Ő tudja, hogy mily gyarlók,<br/>mily porszemek vagyunk;<br/>mint sárgult őszi lombok<br/>mind hullunk, hervadunk;<br/>az életünk e földön<br/>oly könnyedén elszáll,<br/>mint játszi röpke szellő,<br/>mely gyorsan messze jár.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily irgalommal teljes<br/>mi megtartó nagy Istenünk,<br/>mert szent karjába felvesz,<br/>és így tesz jóra jót velünk.<br/>S ki féli most és áldja<br/>az Úr örök nevét,<br/>azt üdvösségre várja<br/>a menny, a fényes ég.<br/>Te angyalkar, zengd ott fent<br/>az Úr dicsőségét,<br/>én lelkem áldjad Istent,<br/>és hirdesd szent nevét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Most hála légyen néked<br/>ó! Istenség, szent Háromság,<br/>és áldd meg azzal néped,<br/>mit Lelked irgalomból ád.<br/>Ím mindig bízunk benned,<br/>ó! légy sziklavárunk,<br/>és töltsd ki áldott Lelked,<br/>hogy véled járhassunk!<br/>Ez óra áldást adjon,<br/>mely hódolatra hív,<br/>hogy hálát zengve mondjon<br/>majd áment minden szív.</lines>
+    </verse>
+  </lyrics>
+</song>

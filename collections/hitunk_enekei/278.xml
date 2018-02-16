@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úgy legyen minden, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Dachstein Wolfgang, 1525. (-1530.)</author>
+      <author type="words">Bienemann Kaspar, 1582. (1540-1591.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="278"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Becsületesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Gondviselés</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Mulandóság</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy legyen minden, Istenem,<br/>mint te azt elrendelted!<br/>Benned van minden reményem,<br/>add nekem szent kegyelmed.<br/>Irgalmad tart meg engemet,<br/>léptemet, Uram, vezessed,<br/>mert így a legjobb nékem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adj becsületet, hűséget,<br/>és vágyat szent igédre;<br/>ments tévelygéstől engemet,<br/>hogy jussak üdvösségre.<br/>A jóra segíts vigyáznom,<br/>s az igaz úton megállnom<br/>én teljes életemben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha elér örök végzésed,<br/>és nékem meg kell halnom,<br/>kísérje akkor kegyelmed<br/>én múló nyugovásom.<br/>Pihenjek békén, csöndesen,<br/>adj boldog véget, Istenem,<br/>a Jézus által. Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

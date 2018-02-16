@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Felséges Úr Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Giardini Felice de, 1769. (1716-1796.)</author>
+      <author type="words">Ismeretlen szerző, 1757.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentháromság dicsérete</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Ima</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten bennünk lakozása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus királysága</theme>
+      <theme>Szentlélek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felséges Úr Isten,<br/>imában, énekben<br/>légy segítőnk;<br/>Urunk a mennyekben,<br/>győzelmes egyetlen,<br/>uralkodj szívünkben,<br/>légy vezetőnk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mennyei vigaszunk,<br/>tanúbizonyságunk,<br/>vezetőnk vagy;<br/>hatalmad végtelen,<br/>munkálkodj szívünkben,<br/>Szentlélek Úr Isten,<br/>ó! el ne hagyj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úgy legyen minden most,<br/>ahogyan akarod,<br/>e földön itt.<br/>Hadd lássuk fényedet,<br/>királyi lényedet,<br/>s dicsérjen tégedet<br/>mind, aki hív!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szép tündöklő hajnalcsillag</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Nicolai Philipp, 1591. (1556-1608.)</author>
+      <author type="words">Nicolai Philipp, 1591. (1556-1608.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="75"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten dicsérete</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus Isten fia</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Megváltás</theme>
+      <theme>Öröm</theme>
+      <theme>Tanítás</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szép tündöklő hajnalcsillag,<br/>s az égnek igaz éke vagy,<br/>jesszének szép vesszeje!<br/>Te Dávid király magzatja<br/>és királyoknak Királya,<br/>én lelkem vőlegénye!<br/>Kedves,<br/>kegyes,<br/>kellemetes,<br/>milyen ékes<br/>és fenséges,<br/>gazdagsággal dicsőséges!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! gyöngyös, drága korona,<br/>Isten és ember szent fia,<br/>menny áldott, jó gyümölcse!<br/>A szívnek te vagy liljoma,<br/>édes evangélioma<br/>és kedvességnek kincse!<br/>Jézus,<br/>Jézus,<br/>hozsiánna,<br/>égi manna,<br/>mellyel élek,<br/>téged el nem feledhetlek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! öntsed az én szívembe,<br/>szerelmed tüzét lelkembe,<br/>én drága jáspiskövem!<br/>Hogy ága legyek törzsednek,<br/>és élő tagja testednek,<br/>s benned leljem örömem!<br/>Engedj<br/>benned,<br/>szeretetben,<br/>nagy örömben<br/>gyarapodnom;<br/>tőled semmi el ne vonjon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A mennyből fénylik öröm rám,<br/>amidőn szemed énreám<br/>oly kegyelmesen tekint.<br/>Ó! Uram Jézus, szent Lelked,<br/>szent igéd, s áldó szerelmed<br/>csak jóra tanít és int.<br/>Ilyen<br/>híven<br/>tarts öledben,<br/>táplálj engem<br/>mindvégiglen,<br/>mert fogadtad szent igédben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teremtő Atya Úr Isten,<br/>te engem örök időkben<br/>szent Fiadban szerettél,<br/>ki engem magának jegyzett,<br/>Szentlélekkel elpecsételt,<br/>s a lelkem benne remél.<br/>Vigadj<br/>és adj,<br/>szívem, hálát,<br/>Istent imádd,<br/>hogy a mennyben<br/>üdvösséget szerzett nékem.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hadd szóljon most az orgona,<br/>gyönyörűséges muzsika,<br/>énekszók is zengjenek!<br/>Hogy megváltó Jézusomnak,<br/>drága szép, kedves Uramnak<br/>szerelmében örvendjek!<br/>Szépen<br/>zengjen,<br/>vigasságos,<br/>buzgóságos<br/>hálaének,<br/>dicséret az Úr Istennek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ím örvend, vigad a szívem,<br/>mert drága kincsem az Isten,<br/>ki mindenekben minden.<br/>Ő engem dicséretére<br/>a mennybe visz nagy örömre,<br/>min ujjong most a szívem.<br/>Ámen,<br/>ámen,<br/>Jézusomat,<br/>koronámat<br/>várom hittel,<br/>vágyakozva, buzgó szívvel.</lines>
+    </verse>
+  </lyrics>
+</song>

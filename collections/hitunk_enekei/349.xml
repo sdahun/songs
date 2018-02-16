@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én bensőm, csendesedj</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Darmstadt, 1698.</author>
+      <author type="words">Löscher Valentin (1673-1749.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="349"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat kezdet</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Szolgálat</theme>
+      <theme>Szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én bensőm, csendesedj,<br/>és nyugodj meg az Úrban;<br/>ő adta kezdetben,<br/>s e nyugalomnap itt van.<br/>Szent szeretetben kell<br/>e napot töltenünk,<br/>és Isten orcáját<br/>most buzgón keresnünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma öröm napja van,<br/>az Úr igéjét halljuk;<br/>ez alkalmas idő,<br/>hogy nevét magasztaljuk!<br/>Ki ezt a szent napot<br/>szándékkal töri meg,<br/>az Isten gyermeke<br/>és híve nem lehet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hadd menjek én is el<br/>az Úrnak templomába!<br/>Ráhelyezem szívem<br/>az Úr szent oltárára.<br/>És megnyugodva most<br/>szent akaratában,<br/>csak azt mívelem én,<br/>mit üzen szavában.</lines>
+    </verse>
+  </lyrics>
+</song>

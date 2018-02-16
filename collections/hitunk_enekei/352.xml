@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Már újra száll az esthomály</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Oakeley Herbert, 1874. (1830-1903.)</author>
+      <author type="words">Longfellow Samuel, 1859.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="352"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat vég</theme>
+      <theme>Este</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Már újra száll az esthomály,<br/>és néped téged együtt áld.<br/>Az esti ének száll feléd,<br/>visszhangzik tőle föld és ég!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A küzdő lélek itt kapott<br/>szívére áldott balzsamot;<br/>most zsoltárt zeng és hő imát,<br/>s a szívét néked adja át.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sötéten jő az est, az éj,<br/>egyedül nálad van csak fény…<br/>Bár alszik már a nagy világ:<br/>te őrzöl minket, jó Atyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

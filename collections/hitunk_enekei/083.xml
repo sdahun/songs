@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Krisztusról zeng dalunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Giardini Felice de, 1769. (1716-1796.)</author>
+      <author type="words">Wolcott Samuel, 1869.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="83"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten dicsérete</theme>
+      <theme>Betegségben</theme>
+      <theme>Hívogatás</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztusról zeng dalunk,<br/>Krisztus szól általunk:<br/>jöjjetek már,<br/>sírók és könnyezők,<br/>betegek, szenvedők,<br/>bűnösök, tévelygők,<br/>Jézus úgy vár!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztusról zeng dalunk,<br/>Krisztus hív általunk:<br/>jöjjetek hát,<br/>bűnigát hordozók,<br/>csüggedők, fáradók,<br/>nyugalmat óhajtók,<br/>Krisztus megáld.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Róla szól énekünk,<br/>eljön majd érettünk,<br/>váratlanul;<br/>új szívet ád nekünk,<br/>örök lesz életünk,<br/>zengjen hát énekünk:<br/>áldott az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

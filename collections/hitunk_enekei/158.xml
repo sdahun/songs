@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jövel Szentlélek Úr Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Debrecen, 1778.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="158"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentlélek Isten</theme>
+      <theme>Átadás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Doxologia</theme>
+      <theme>Gondviselés</theme>
+      <theme>Hit</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten igéje</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Oltalom</theme>
+      <theme>Szentlélek</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jövel Szentlélek Úr Isten,<br/>ki Atyával vagy egy Isten;<br/>tégy mivelünk kegyelmesen<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnösök vagyunk előtted,<br/>mert nem fogadtuk intésed;<br/>bűneinket elfedezzed<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldd meg, Szentlélek, szívünket.<br/>Szenteld meg a mi lelkünket,<br/>újítsd meg természetünket<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Viseljed a mi gondunkat,<br/>néked adtuk mi magunkat,<br/>vezéreld a mi utunkat<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szentlélek! kérünk, irgalmazz,<br/>és minden bűntől oltalmazz,<br/>kárhozat ellen légy támasz<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Minden keserűségünkben<br/>és életünknek rendiben<br/>bátoríts minket hitünkben<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az igaz hitnek gyümölcsét,<br/>a szeretet egyességét;<br/>plántálj mindenütt jó hitet<br/>a Krisztusnak érdeméért!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szentlélek! kérünk tégedet,<br/>oltalmazd a te igédet;<br/>ismerhessünk meg tégedet<br/>a Krisztusnak kegyelméért!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Dicsőség Atya Istennek,<br/>Fiúnak, Üdvözítőnknek,<br/>a Szentlélek Úr Istennek,<br/>Szentháromság egy Istennek!</lines>
+    </verse>
+  </lyrics>
+</song>

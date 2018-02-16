@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vihar zúg és tenger zajlik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Jude William, 1887. (1851-1892.)</author>
+      <author type="words">Alexander Cecil, 1852. (1823-1895.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="250"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Hívogatás</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vihar zúg és tenger zajlik,<br/>életünknek tengere,<br/>Jézus ajkán tisztán hallik:<br/>„Kövess engem, jöjj ide!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hív ma Jézus, hív ma téged,<br/>karja fog, hogy el ne ess:<br/>ha a bálvány így szól néked:<br/>„Velem jöjj csak, és szeress.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha roskad gyönge vállam,<br/>bűnöm súlya földre nyom;<br/>„Enyhet, békét találsz nálam!” –<br/>szavad, Jézus, égbe von.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uram, hozzád vágyik lelkem,<br/>eléd tárom terhemet,<br/>legyek mindig – ó! ezt esdem! –<br/>érted élő gyermeked!</lines>
+    </verse>
+  </lyrics>
+</song>

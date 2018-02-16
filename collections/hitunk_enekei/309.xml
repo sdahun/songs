@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Semmit ne bánkódjál, Krisztus szent serege</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="music">Székely Balázs, 1546.</author>
+      <author type="words">Szkárosi Horvát András, 1549. (-1549.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="309"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - a gyülekezet</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Egyház</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Kísértés</theme>
+      <theme>Megtartás</theme>
+      <theme>Oltalom</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vigasztalás</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Semmit ne bánkódjál, Krisztus szent serege,<br/>mert nem árthat néked senki gyűlölsége,<br/>noha e világnak rajtad dühössége,<br/>de nem hágy szégyenben Krisztus őfelsége.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Királyi nemzet vagy, noha te kicsiny vagy,<br/>az Atya Istennél bizony te kedves vagy;<br/>ő szent Fia által már te is fia vagy,<br/>minden dicsőségben, higgyed, hogy részes vagy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogyha te igazán a Krisztusban bízol,<br/>higgyed, hogy lélekben Istennél gyarapszol;<br/>ha Krisztus véréből igaz hittel iszol:<br/>higgyed, hogy örökké meg nem szomjúhozol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Akármint halásszon az ördög utánad,<br/>az ő tagjaiban dühösködjék rajtad,<br/>mint tőrrel, fegyverrel siessen utánad,<br/>ha Krisztusban bízol, higgyed, az sem árthat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oltalmazza Krisztus az ő szent egyházát,<br/>miként a jó pásztor saját juhocskáját;<br/>valaki hallgatja a Krisztus mondását,<br/>viseli mindenkor szorgalmatos gondját.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Siess most mihozzánk, Krisztus, segélj minket,<br/>a te szent igéddel neveljed hitünket.<br/>És te Szentlelkeddel bírjad életünket,<br/>hogy minden dolgunkban dicsérhessünk téged.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Igaz fogadásod és minden beszéded,<br/>nyilván vagyon immár minden dicsőséged;<br/>ne hagyd elpusztulni e kicsiny sereget,<br/>melyért a keresztfán vallál nagy gyötrelmet!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Senkiben nem bízik az anyaszentegyház,<br/>hanem csak tebenned, ki minket oltalmazsz,<br/>és igazságoddal mindenkoron táplálsz,<br/>te szent sebeiddel minket megvigasztalsz.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hálát adunk néked, mennybéli nagy Isten,<br/>ki vagy egy szentségben és három személyben.<br/>Ne hagyj elrettennünk keserűségünkben,<br/>halálunk óráján ne essünk kétségben!</lines>
+    </verse>
+  </lyrics>
+</song>

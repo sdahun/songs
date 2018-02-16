@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldás kísérjen az úton</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Nicolai Philipp, 1599. (1556-1608.)</author>
+      <author type="words">Knak Gustav, 1849. (1806-1878.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="387"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - búcsúzás</theme>
+      <theme>Búcsúzás</theme>
+      <theme>Isten keresése</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v">
+      <lines>Áldás kísérjen az úton,<br/>az Úr kegyelme tartsa számon<br/>és óvja minden lépéstek.<br/>Jézus Krisztus vezéreljen,<br/>a viharban meg napsütésben,<br/>és béke legyen veletek!<br/>Az Úrban éljetek,<br/>és mentek legyetek<br/>tévelygéstől.<br/>Az Úr Istent<br/>keressétek,<br/>hő imádságban egymásért!</lines>
+    </verse>
+  </lyrics>
+</song>

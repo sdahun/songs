@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vajon fenn a fény honában</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Rice Elihu, 1886.</author>
+      <author type="words">Hastings Horace, 1873.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="386"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - búcsúzás</theme>
+      <theme>Búcsúzás</theme>
+      <theme>Egyház</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vajon fenn a fény honában<br/>látjuk-é majd ott egymást?<br/>Hol már gond és bánat nincsen,<br/>lesz-e víg találkozás?<br/>Szól az Úr, szól az Úr:<br/>„Drága népem együtt lészen,<br/>fényes égi trónomnál<br/>újra együtt lesz a nyáj!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vajon egykor fenn a trónnál<br/>Isten minden gyermekét<br/>látjuk-é, ha Jézus Krisztus<br/>győztes kézzel int felénk?<br/>Szól az Úr, szól az Úr:<br/>„Drága népem együtt lészen,<br/>fényes égi trónomnál<br/>újra együtt lesz a nyáj!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Látjuk-é az égi város<br/>drága, csillogó falát?<br/>Látjuk-é majd építőjét,<br/>Jézust, s áldott orcáját?<br/>Szól az Úr, szól az Úr:<br/>„Drága népem együtt lészen,<br/>fényes égi trónomnál<br/>újra együtt lesz a nyáj!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Halljuk-é az égi kórust,<br/>angyalének szent szavát?<br/>Zengjük-é ott majd az Úrnak,<br/>hálazsoltár szózatát?<br/>Szól az Úr, szól az Úr:<br/>„Drága népem együtt lészen,<br/>fényes égi trónomnál<br/>újra együtt lesz a nyáj!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kit e földön úgy szerettünk,<br/>látjuk-é majd újra ott?<br/>Ó! hogy vágyik erre szívünk;<br/>hisszük azt, hogy megadod!<br/>Szól az Úr, szól az Úr:<br/>„Drága népem együtt lészen,<br/>fényes égi trónomnál<br/>újra együtt lesz a nyáj!”</lines>
+    </verse>
+  </lyrics>
+</song>

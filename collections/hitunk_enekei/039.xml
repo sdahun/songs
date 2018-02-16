@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Perelj, Uram, perlőimmel</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="39"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bátorítás</theme>
+      <theme>Egyház</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Lelki harc</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perelj, Uram, perlőimmel,<br/>harcolj én ellenségimmel,<br/>te paizsodat ragadd elő,<br/>én segedelmemre állj elő!<br/>Dárdádat nyújtsd ki kezeddel,<br/>ellenségimet kergesd el!<br/>Mondjad ezt az én lelkemnek:<br/>tégedet én megsegítlek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérlek téged szüntelen<br/>nagy sűrű gyülekezetben<br/>és nagy roppant sereg nép előtt<br/>téged dicsérlek minden fölött.<br/>Ne engedd, hogy örüljenek,<br/>akik ok nélkül gyűlölnek;<br/>ellenségimet fordítsd el,<br/>ne gúnyoljanak szemükkel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Már azok énekeljenek,<br/>kik igazamnak örülnek,<br/>mondván: hála legyen az Úrnak,<br/>ki nyugalmat ád szolgájának!<br/>Én nyelvem igazságodat,<br/>hirdeti nagy jóvoltodat,<br/>dicséretedet nagy híven<br/>éneklem minden időben.</lines>
+    </verse>
+  </lyrics>
+</song>

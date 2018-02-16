@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, add, hogy véled járjam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Nürnberg, 1688.</author>
+      <author type="words">Spitta Philipp, 1833. (1801-1859.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="284"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Bizodalom</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Mulandóság</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, add, hogy véled járjam<br/>földi vándorutamat,<br/>légy te biztos, erős váram,<br/>leljek benned oltalmat!<br/>Te adsz éltet, te adsz erőt,<br/>bizodalmat lelkemnek;<br/>mint az élő szőlővessző<br/>táplálja a fürtöket.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajtad kívül senkim sincsen,<br/>aki értem annyit tett,<br/>legyen véred örök kincsem,<br/>az váltott meg engemet.<br/>Ne imádnám, ne szeretném<br/>azt, ki éltét áldozá;<br/>mindhalálig ne követném,<br/>ne lennék én hű hozzá?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram Jézus, veled járok<br/>bánatban és örömben,<br/>érted élek, tied vagyok,<br/>mindörökre légy velem!<br/>Engedelmes szolgád leszek,<br/>akkor is, ha halni hívsz,<br/>mert ki híven jár itt veled,<br/>meghalni is mindig kész.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maradj velem itt e földön,<br/>hogyha napom alkonyul,<br/>hogyha lejár egyszer időm,<br/>s reám sötét éj borul.<br/>Nyújtsd ki akkor áldó kezed,<br/>mondjad: „Szolgám végeztél,<br/>bízva hajtsd le fáradt fejed,<br/>mert ki itt hisz, ott is él.”</lines>
+    </verse>
+  </lyrics>
+</song>

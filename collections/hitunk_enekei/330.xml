@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! maradj kegyelmeddel mivelünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Vulpius Melchior, 1609. (1560-1615.)</author>
+      <author type="words">Stegmann Josua, 1627. (1588-1632.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="330"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - záró ének</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten igéje</theme>
+      <theme>Oltalom</theme>
+      <theme>Útmutatás</theme>
+      <theme>Világosság</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! maradj kegyelmeddel<br/>mivelünk, Jézusunk,<br/>hogy a bűnös világnak<br/>tőribe ne jussunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! maradj szent igéddel<br/>mivelünk, Megváltónk,<br/>e földi vándorlásban<br/>te légy útmutatónk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! maradj, világosság,<br/>mivelünk fényeddel,<br/>te vezess a sötétben,<br/>hogy ne tévedjünk el.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! maradj áldásoddal<br/>mivelünk, Úr Isten,<br/>szent kegyelmed áraszd ránk<br/>minden szükséginkben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! maradj oltalmaddal<br/>mivelünk, hű pajzsunk,<br/>e világ diadalmat<br/>ne vehessen rajtunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó! maradj hűségeddel<br/>mivelünk, szent Isten,<br/>adj erőt, hogy megálljunk<br/>mindvégig a hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

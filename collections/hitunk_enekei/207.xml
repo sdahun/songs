@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hordozd híven Jézus nevét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Doane William, 1899. (1832-1916.)</author>
+      <author type="words">Baxter Lillian (1809-1874.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="207"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Békesség</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Öröm</theme>
+      <theme>Reménység</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hordozd híven Jézus nevét,<br/>bú és bánat gyermeke;<br/>vigaszt nyújt, ha fáj a lelked,<br/>balzsam ez a szívedre!<br/>Áldott név, drága név,<br/>te a mennynek öröme,<br/>áldott név, drága név,<br/>te a földnek reménye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Járjál szüntelen e névvel,<br/>pajzs ez, védő fegyvered,<br/>és ha megkísért az élet,<br/>hívd csak, hívd e szent nevet!<br/>Áldott név, drága név,<br/>te a mennynek öröme,<br/>áldott név, drága név,<br/>te a földnek reménye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus drága szent nevére<br/>minden szívben béke él,<br/>védőn átölel a karja,<br/>zengjük híven énekét.<br/>Áldott név, drága név,<br/>te a mennynek öröme,<br/>áldott név, drága név,<br/>te a földnek reménye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majd ha véget ért a pályánk,<br/>trónjánál, ha térdelünk,<br/>őt, az üdvözítő Jézust,<br/>áldja hálaénekünk:<br/>áldott név, drága név,<br/>te a mennynek öröme,<br/>áldott név, drága név,<br/>te a földnek reménye.</lines>
+    </verse>
+  </lyrics>
+</song>

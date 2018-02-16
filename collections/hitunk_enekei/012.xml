@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Drága dolog az Úr Istent dicsérni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1778.</author>
+      <author type="words">Skaricza Máté, 1590. (1544-1591.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="12"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Betegségben</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten mindentudó</theme>
+      <theme>Szelídség</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drága dolog az Úr Istent dicsérni,<br/>színe előtt kegyesen énekelni;<br/>ékes dolog szent nevét magasztalni,<br/>a híveknek ő előtte szolgálni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő gyógyít meg szomorodott szíveket,<br/>vigasztalja az elalélt lelkeket,<br/>Ő enyhít meg sok keserűségeket,<br/>mind testi, mind lelki betegségeket.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Felséges Úr a mi mennyei Urunk,<br/>oly nagy erős és hatalmas királyunk,<br/>kinek bölcsességitől távol állunk,<br/>értelmében mert véget nem találunk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az őnéki csodálatos tanácsa,<br/>hogy a szelídeket felmagasztalja,<br/>de a kevély gonoszokat utálja,<br/>és azokat a földig megalázza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Énekeljünk néki hálaadással,<br/>vigasságos hangicsáló szerszámmal,<br/>beszélgessünk a mi kegyes Urunkkal,<br/>magasztalván őtet imádságunkkal.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dicsérd azért, Jeruzsálem, Uradat!<br/>Keresztyénség, magasztald Megváltódat!<br/>Áldjad, Sion, mennyei királyodat!<br/>Híveknek serege, te szent Atyádat!</lines>
+    </verse>
+  </lyrics>
+</song>

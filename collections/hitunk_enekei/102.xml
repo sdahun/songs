@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Isten annyira szerette</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Debrecen, 1806.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="102"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten élete és munkája</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus Isten ember</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Megigazulás</theme>
+      <theme>Megváltás</theme>
+      <theme>Oltalom</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Isten annyira szerette<br/>a bűnös világot,<br/>hogy szent Fiát adná érette,<br/>s általa váltságot:<br/>amit végzett örök tanácsa<br/>az időknek előtte,<br/>hogy a bűnös embert megváltsa,<br/>azt szent Fia megtette.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ama mennyei hatalmasság<br/>megszánta estünket:<br/>az Ige, ó! nagy irgalmasság!<br/>felvevé testünket;<br/>magasztalunk azért, Istenünk,<br/>imádunk és tisztelünk,<br/>mert ki állhat immár ellenünk,<br/>midőn Isten van velünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! magasságos Isten Fia!<br/>Erős menedékünk!<br/>Boldogságunknak ami híja<br/>volt, megadtad nékünk.<br/>Megbékéltettél szent Atyáddal<br/>s így vigasztalást nyújtál;<br/>nékünk evangéliomoddal<br/>világosságot nyújtál.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te szegénységed gazdagságunk,<br/>balzsamunk fájdalmad,<br/>nyomorúságod boldogságunk,<br/>életünk halálod!<br/>Dicsőség legyen azért néked,<br/>felséges Úr Istenünk!<br/>Szívünkből magasztalunk téged,<br/>mindaddig, míglen élünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Téged, Isten, dicsérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Bécs, 1774.</author>
+      <author type="words">Nicetas Te Deumából, Franz Ignaz, 1771. (1719-1790.) </author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="5"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentháromság dicsérete</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten dicsősége</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Megtartás</theme>
+      <theme>Megváltás</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Szentlélek</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged, Isten, dicsérünk,<br/>nagy erődet áldva áldjuk;<br/>hódolattal tisztelünk,<br/>műveidet hogyha látjuk;<br/>mindig áldott szent és nagy,<br/>változatlan Isten vagy!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mind az, ki a mennyben él,<br/>minden angyal, kérub, szeráf,<br/>minden tiszta, égi lény<br/>hódolattal fordul hozzád,<br/>himnuszt mond és éneket:<br/>„Szent! Szent! Szent vagy!” zengenek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent a győztes Cebáoth,<br/>szent az angyalsereg Ura!<br/>Bajban, vészben ő megóv:<br/>ő az örök élet útja!<br/>Menny, föld, tenger és a lég<br/>zengje, áldja nagy nevét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Földünk minden szegletén<br/>áld az ember, dicsér téged,<br/>zengő hozsannájaként<br/>száll feléd a hálaének;<br/>téged áld szent Fiadért,<br/>drága Egyszülöttedért.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isten Lelke, téged is<br/>áld és dicsér hálás néped;<br/>vigasztalsz és jóra intsz,<br/>áldást hintesz ontva fényed.<br/>Szent és örök vagy te is:<br/>híven élni te segíts.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Isten áldott, szent Fia,<br/>értünk hagytad ott a mennyet;<br/>égi trónod elhagyva<br/>értünk hordtad szent kereszted;<br/>minden bűnünk elvevéd,<br/>hoztad Isten kegyelmét.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nyitva már a fényes menny<br/>minden benned bízó lénynek;<br/>véled élünk majd ott fenn<br/>égi Atyánk örökében.<br/>Visszajöttöd itt van már:<br/>boldog az, ki készen vár!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Irgalommal nézz le ránk,<br/>engedd látnunk áldott kegyed;<br/>adj, ó! nékünk, jó Atyánk,<br/>bátor szívet, élő hitet:<br/>benned bízunk, légy velünk,<br/>tarts meg minket, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

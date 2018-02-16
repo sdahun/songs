@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjj be, ó! jöjj be, szívem nyitva áll</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Atkinson Frederick, 1870. (1841-1897.)</author>
+      <author type="words">Moule H. C. G.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="194"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Megtérés</theme>
+      <theme>Oltalom</theme>
+      <theme>Öröm</theme>
+      <theme>Szív</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj be, ó! jöjj be, szívem nyitva áll,<br/>hallom a hangod, drága Üdvkirály!<br/>Száll már az éjjel, vihar közeleg,<br/>rád várok, Jézus, védd meg lelkemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemnek háza, nézd, milyen komor,<br/>benne csak kétség, félelem honol,<br/>asztala, ágya üres, vetetlen,<br/>így várni téged, ó! hogy szégyellem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úgy várlak mégis, jöjj be, Jézusom,<br/>dísztelen szívem néked átadom.<br/>Csak terád vár e vigasztalan hely,<br/>szent lényed megtöltheti örömmel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívemen, érzem, változtatnom kell,<br/>ó! tedd meg, Jézus, égi erőddel!<br/>És teremts rendet, amint akarod;<br/>tedd, Uram, széppé e kis hajlékot!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vedd át a szívem, Uram Jézusom,<br/>s méltó lesz hozzád szívbéli lakom;<br/>eltűnik onnan bűn és félelem,<br/>ó! jöjj be, jöjj be, drága Mesterem!</lines>
+    </verse>
+  </lyrics>
+</song>

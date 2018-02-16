@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Térj magadhoz, drága Sion</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Luttenberger Tihanyi Ágost, 1890. (1846-1899.)</author>
+      <author type="words">Paul Joachim (1636-1708.) után Jeszenszky Károly, 1890.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="251"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Egyház</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Félelem</theme>
+      <theme>Gondviselés</theme>
+      <theme>Hit</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megtartás</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Oltalom</theme>
+      <theme>Próba</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Térj magadhoz, drága Sion,<br/>van még néked Istened,<br/>ki atyádként felkaroljon,<br/>s szívét ossza meg veled!<br/>Azt bünteti, kit szeret,<br/>másképp ő nem is tehet:<br/>Sion, ezt hát jól gondold meg,<br/>s szabj határt bús gyötrelmednek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hullámok ha rémítenek<br/>mérhetetlen víz felett,<br/>s a habok közt szíved remeg,<br/>hogy sírod is ott leled;<br/>ha aludni látod őt,<br/>ki reményed és erőd:<br/>Sion, soha ne feledd el:<br/>ő megvívhat tengerekkel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár hegy, halmok rengenének,<br/>miket égi kéz emelt,<br/>s indulása a nagy égnek<br/>végromlásra adna jelt:<br/>ezt látva is el ne hidd,<br/>hogy ez a perc elveszít;<br/>Sion, addig meg nem dőlhetsz,<br/>míg oltalmad Istentől lesz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár könnyűid omlanának<br/>gyöngyökül a tengerbe,<br/>és elhalván hangja szádnak,<br/>csak pihegnél, mint gerle,<br/>bár vér volna bíborod,<br/>s kő megszánná nyomorod:<br/>Sion, ne félj a gonosztól,<br/>baj nem ér, míg benne bízol!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bár hordozzad zsarnok láncát,<br/>érjen kínos rab-halál,<br/>ha hitedet el nem játszád,<br/>utad égbe nyitva áll.<br/>Örvendj mindig és vigadj,<br/>emlékezz, ki népe vagy!<br/>Sion, nincs több Isten egynél,<br/>benne hát ne kételkedjél!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó! ne csüggedj, ím az estnek<br/>már leszállnak árnyai;<br/>kihez ajkid oly hőn esdnek,<br/>halld: Atyádnak hangja hív!<br/>Ő gyalázat, kín helyett<br/>néked jobbján ad helyet;<br/>Sion, a menny lesz te részed,<br/>föld gyötrelmét hát ne nézzed!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Végső áldást mondj hazádra,<br/>mely távolról int feléd,<br/>égi honnak a határa<br/>van már hozzád közelébb.<br/>Édes érzés mért fog el,<br/>melytől olvad szív, kebel?<br/>Sion, minden másképp lesz ott,<br/>el fog tűnni nagy sírásod.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Angyalok, ti fényes lelkek,<br/>zengjetek víg éneket,<br/>mert ki most a sírba tér meg<br/>nyer majd örök életet;<br/>s örvend egykor a mennyben<br/>megdicsőült seregben.<br/>Sion, onnan számkivetni<br/>nem fog téged soha senki.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Erőnek és hitnek Lelke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="music">Halle, 1704.</author>
+      <author type="words">Spitta Philipp, 1833. (1801-1859.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="155"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentlélek Isten</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Bátorítás</theme>
+      <theme>Béketűrés</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Bizodalom</theme>
+      <theme>Hit</theme>
+      <theme>Lelki harc</theme>
+      <theme>Reménység</theme>
+      <theme>Szelídség</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szeretet</theme>
+      <theme>Tanítás</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erőnek és hitnek Lelke,<br/>tanítónk és nevelőnk,<br/>alkotója minden jónak,<br/>amit Isten kezd bennünk,<br/>egykor te a prófétáknak,<br/>királyoknak seregét,<br/>szent hadát a hitvallóknak,<br/>erős kézzel vezetéd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ajándékid sokaságát<br/>áraszd bőven mireánk,<br/>segítsd bátor, bízó szívvel<br/>megvallanunk jó Atyánk;<br/>adj erőt, hogy szent oltárán<br/>feláldozzuk életünk,<br/>és a hitnek nagy harcában<br/>győzedelmet nyerhessünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ábrahámnak bizodalmát,<br/>reménységét add nekünk,<br/>akadályt és gátat törve,<br/>add, hogy végül győzhessünk;<br/>add hogy éltünk minden percét<br/>Istenünknek szenteljük,<br/>kegyelmében ne csak tétlen,<br/>rest szolgaként reméljünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mózes lelki gazdagságát,<br/>szelídségét add nekünk;<br/>társaink ha bűnbe esnek,<br/>könyörögjünk érettük.<br/>Érző lelket adj minékünk,<br/>részvétteljes új szívet;<br/>add, hogy híven képviseljük<br/>a te drága igédet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dávid harci merészségét,<br/>elszántságát add nekünk,<br/>hogy bízva a kősziklában<br/>minden gáton áttörjünk.<br/>Ellenséget, jóbarátot,<br/>add, hogy híven szeressünk,<br/>és hogy teljes bűnbánattal<br/>kegyelmedet keressük.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Illés erős, bátor lelkét<br/>add minékünk, jó Atyánk,<br/>hogy a hitben, igazságban<br/>megállhassunk igazán.<br/>Bálványisten szobra előtt<br/>soha meg ne hajoljunk,<br/>add, hogy téged mindig bátran,<br/>hű tanúként megvalljunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adj szívünkbe erős hitet,<br/>apostoli szent tüzet,<br/>hadd terjedjen minden tájon<br/>ajkunkról az üzenet;<br/>szentelt ajkú hű követek,<br/>tanítványok hadd legyünk,<br/>kik hirdetjük igazságod<br/>vidám szívvel mindenütt!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>István hitét, békességét,<br/>reménységét add nekünk,<br/>ha a bűnnek gonoszsága<br/>viharként tör ellenünk;<br/>sűrű éjnek nagy sötétjét<br/>öröm fénye törje át,<br/>végső próba éjszakáján<br/>lássuk Jézus orcáját!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Erőnek és hitnek Lelke,<br/>tanítónk és nevelőnk,<br/>alkotója minden jónak,<br/>amit Isten kezd bennünk;<br/>Isten Lelke, benned bíztak<br/>pátriárkák, próféták,<br/>tanítványid s hitvallóid,<br/>jövel, áradj most reánk!</lines>
+    </verse>
+  </lyrics>
+</song>

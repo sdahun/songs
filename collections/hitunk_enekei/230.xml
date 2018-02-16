@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Csak haladj, csak haladj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Halle, 1704.</author>
+      <author type="words">Schmidt Johann, 1704. (1669-1745.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="230"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Béketűrés</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Egyház</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Hit</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Kísértés</theme>
+      <theme>Lelki harc</theme>
+      <theme>Öröm</theme>
+      <theme>Próba</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szeretet</theme>
+      <theme>Új élet</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak haladj, csak haladj,<br/>fényben haladj szent Sion,<br/>égjen hited fénylő lángja,<br/>mint a boldog frigynapon;<br/>vágyjon lelked hűs forrásra,<br/>keskeny utad, Sion, el ne hagyd;<br/>csak haladj, csak haladj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenvedj csak, szenvedj csak,<br/>próbád, Sion, bármily nagy;<br/>tűrjed a gúnyt, a bánatot,<br/>mindhalálig hű maradj;<br/>koronád, nézd, miként ragyog!<br/>Sion, hogyha az őskígyó mar,<br/>szenvedj csak, szenvedj csak!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne kövesd, ne kövesd<br/>a világnak csábjait!<br/>Ígérget az jó hírnevet,<br/>kincse mégsem boldogít;<br/>hogyha dicsér, ha kinevet,<br/>Sion, ne bánd, sohase feledd:<br/>ne kövesd, ne kövesd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vizsgáld meg, vizsgáld meg,<br/>ne higgy minden léleknek;<br/>hogyha édes szóval csábít,<br/>vigyázz, el ne tévelyedj;<br/>próbáld meg és majd elválik:<br/>menny vagy pokol küldött követet?<br/>Vizsgáld meg, vizsgáld meg!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Közeledj, közeledj,<br/>Sion lánya, Istenhez;<br/>lelked töltsd meg erejével,<br/>igyekezz, hogy el ne vessz;<br/>szőlővessződ termésével<br/>hálát adva, Sion, örvendezz!<br/>Közeledj, közeledj!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Készen légy, készen légy,<br/>égjen benned szeretet;<br/>mutasd meg a nagy világnak,<br/>benned ez mit teremtett.<br/>Menyasszonyként Urad várjad,<br/>Sion, égő mécsest tartva élj;<br/>készen légy; készen légy!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Őrizd meg, őrizd meg<br/>hűségedet, hitedet;<br/>langymelegnek ne találtass,<br/>jutalmad ím közelget.<br/>Hogy a rossznak ellenállhass,<br/>Sion, végig tartsd meg hitedet:<br/>őrizd meg, őrizd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

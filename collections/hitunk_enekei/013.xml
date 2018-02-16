@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úrnak szolgái mindnyájan</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore, 1551. (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="13"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Egyház</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Szolgálat</theme>
+      <theme>Szombat</theme>
+      <theme>Teremtés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úrnak szolgái mindnyájan,<br/>áldjátok az Urat vígan,<br/>kik az ő házában éjjel<br/>vigyázván, vagytok hűséggel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felemelvén kezeteket,<br/>dicsérjétek Istenteket,<br/>szívből néki hálát adván,<br/>Őt áldjátok minduntalan!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megáldjon téged az Isten<br/>a Sionról kegyelmesen,<br/>ki teremtette az eget,<br/>a földet és mindeneket!</lines>
+    </verse>
+  </lyrics>
+</song>

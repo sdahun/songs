@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Néped oly várva vár</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Giardini Felice de, 1769. (1716-1796.)</author>
+      <author type="words">Koszta János</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="137"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Örök élet</theme>
+      <theme>Vágyakozás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Néped oly várva vár,<br/>Jézusunk, jöjj el már,<br/>ez hő imánk.<br/>Töröld a könnyeket,<br/>gyógyítsd a szíveket,<br/>hozd el a szenteknek<br/>örök honát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Néped oly várva vár,<br/>Jézusunk jöjj el már,<br/>szívünk eped:<br/>mentsd meg a csüggedőt,<br/>emeld fel, Jézus, őt,<br/>adj néki új erőt:<br/>Szentlelkedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néped oly várva vár,<br/>Jézusunk, jöjj el már,<br/>Nagy Főpapunk,<br/>úgy várunk tégedet,<br/>áraszd ránk fényedet,<br/>adj örök életet,<br/>Úr Jézusunk!</lines>
+    </verse>
+  </lyrics>
+</song>

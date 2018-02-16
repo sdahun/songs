@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent karod, Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Vulpius Melchior, 1609. (1560-1615.)</author>
+      <author type="words">Oser Friedrich, 1865. (1820-1891.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="241"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Jézus Krisztus győzelme</theme>
+      <theme>Lelki harc</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent karod, Jézus, oly erős,<br/>megsegít minden bajban!<br/>Segítsd meg árva népedet,<br/>miként a messzi múltban!<br/>Nappal és éjjel harcolunk,<br/>egyedül benned bízhatunk:<br/>légy velünk minden harcban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Melletted, drága Mesterünk,<br/>tudjuk, hogy bizton győzünk!<br/>Leküzdünk bátran minden bajt,<br/>és hálazsoltárt zengünk.<br/>Előre! bátran, szüntelen:<br/>közel a végső győzelem;<br/>korona lesz az ékünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tombol az ádáz ellenség,<br/>de minket meg nem rémít:<br/>lelkünket áldott szent karod<br/>és angyalszárnyak védik!<br/>Bizalmunk, Jézus, benned van,<br/>győzhetünk életharcunkban,<br/>ha véled járunk végig.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, életemnek, öröme szívemnek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Crüger Johann, 1653. (1598-1662.)</author>
+      <author type="words">Franck Johann, 1650. (1618-1677.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="226"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Bátorítás</theme>
+      <theme>Kereszt</theme>
+      <theme>Kísértés</theme>
+      <theme>Lelki harc</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Oltalom</theme>
+      <theme>Öröm</theme>
+      <theme>Reménység</theme>
+      <theme>Szeretet</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, életemnek,<br/>öröme szívemnek,<br/>én ékességem.<br/>Ó! mint óhajt lelkem,<br/>kíván az én szívem,<br/>édes reményem!<br/>Isten áldott, szent Fia,<br/>tekívüled senki nincsen,<br/>szívem kit szeressen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te árnyékodban<br/>nyugszom bátorságban<br/>félelmim ellen.<br/>Tombolhat a vihar,<br/>a pusztító, szilaj,<br/>mert te vagy velem.<br/>Lelkem, ne féld a halált,<br/>hatalma már nem árt néked,<br/>Jézus megvéd téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ama régi kígyó,<br/>bűnre, rosszra hívó,<br/>törhet ellenem.<br/>Tőle én nem félek,<br/>békességben élek,<br/>s nevedet zengem.<br/>Sem magasság, sem mélység<br/>nem választ el Istenemtől,<br/>örök szerelmétől.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vessz el, mulandó kincs,<br/>Jézus, kívüled nincs<br/>békém, örömem.<br/>Világ méltósága,<br/>fénye, hiúsága<br/>nem kell már nekem.<br/>Tőled, Jézus, szívemet<br/>a keresztnek gyalázatja<br/>el nem választhatja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vessz el, bűn, rút féreg,<br/>halált hozó méreg,<br/>megutált szívem.<br/>Napfény ki ne hozzon,<br/>éj-homályban hagyjon,<br/>ne lásson szemem:<br/>távozz gőg és kevélység,<br/>nem kelletek gonosz vétkek,<br/>megváltam tőletek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ne légy lelkem már bús,<br/>mert ímé a Jézus<br/>hozzád közelget.<br/>Sűrű könnyeidbe,<br/>keserűségidbe<br/>elegyít mézet:<br/>keresztszenvedésim közt<br/>öröme lész a szívemnek,<br/>Jézus, életemnek!</lines>
+    </verse>
+  </lyrics>
+</song>
