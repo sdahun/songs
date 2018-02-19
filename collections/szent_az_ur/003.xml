@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Te nevedben mi együtt vagyunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="3"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Te nevedben mi együtt vagyunk.<br/>Jézus, nevedben ím együtt vagyunk.<br/>Hallgasd meg imánk mikor Hozzád járulunk,<br/>életigéddel táplálj, hű Urunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Mutassátok meg úgy a hitetek,<br/>hogy az Én szavaimnak engedtek!<br/>Hogyha Vélem és egymással egyek lesztek,<br/>minden kérésetekre felelek.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Te nevedben mi együtt vagyunk.<br/>Jézus nevedben ím együtt vagyunk.<br/>Eggyé tégy szentségben minket, ez óhajunk,<br/>használj munkádban, drága hű Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szeretet áradjon köztünk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Dave Bilbrough</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="37"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretet áradjon köztünk;<br/>szeretet gyúljon mi bennünk.<br/>Szeretet töltse be szívünk,<br/>add ezt nekünk, ó, Urunk.<br/>Hadd legyünk testvéri szívvel,<br/>mindnyájan egyek Benned.<br/>Lobbantsa lángra szívünket szereteted.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hogyha szentségedet nézem, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c1</verseOrder>
+    <authors>
+      <author type="music">Wayne Perrin</author>
+      <author type="music">Cathy Perrin</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogyha szentségedet nézem, Uram,<br/>hogyha szereteted szemlélem,<br/>minden, ami körülvesz<br/>árnyék lesz a Te fényedben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor öröm él a szívemben,<br/>mikor rabul ejt a szeretet,<br/>minden, ami körülvesz<br/>árnyék lesz a Te fényedben.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imádlak én, imádlak én,<br/>ameddig csak élek imádlak én.<br/>Imádlak én, imádlak én,<br/>ameddig csak élek, imádlak én.</lines>
+    </verse>
+  </lyrics>
+</song>

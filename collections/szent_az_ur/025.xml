@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mily nagy az én Uram!</title>
+    </titles>
+    <verseOrder>o1 o2</verseOrder>
+    <authors>
+      <author type="music">Michael O'Shields</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="25"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Mily nagy az én Uram!<br/>Oly méltó a dicséretre.<br/>Mily nagy az én Uram!<br/>Oly méltó a dicséretre.<br/>---<br/>Mily nagy az én Uram!<br/>Oly méltó a dicséretre.<br/>Mily nagy az én Uram!<br/>Ő méltó egyedül!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Hozsánna! Áldott sziklavár,<br/>nagy Istenem, Te légy életem Királya.<br/>Hozsánna! Áldott sziklavár,<br/>nagy Istenem, Te légy életem Királya.</lines>
+    </verse>
+  </lyrics>
+</song>

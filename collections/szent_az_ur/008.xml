@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hadd dicsérlek Téged!</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Arthur Tannous</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd dicsérlek Téged!<br/>Hadd mondja a szám: szeretlek!<br/>Te vagy minden énnekem.<br/>Hát magasztaltassék fel szent Neved.<br/>Jézusom, dicsérlek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fennen hirdetem: szeretlek.<br/>Te vagy minden énnekem.<br/>Hát áldassék a Te nagy neved!<br/>Áldassék a Te nagy neved!<br/>Áldassék a Te nagy, szent neved!</lines>
+    </verse>
+  </lyrics>
+</song>

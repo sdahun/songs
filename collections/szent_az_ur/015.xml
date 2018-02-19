@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jelenléted takar engem</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author type="music">Andrew Culverwell</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jelenléted takar engem,<br/>igazságod befed teljesen.<br/>Uram, szentséged a rejtekem.<br/>Úr Jézus, rejts engem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A Te menedékedben nem érhet baj,<br/>biztonságban vagyok karjaidban.<br/>Mutasd meg, hogy nincs ok félelemre.<br/>Úr Jézus, rejts engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha szárnyaid takarnak oltalmazva,<br/>jöhetne szél, vihar, nem bántana.<br/>Szívemben elcsitul a félelem.<br/>Úr Jézus, rejts engem.</lines>
+    </verse>
+  </lyrics>
+</song>

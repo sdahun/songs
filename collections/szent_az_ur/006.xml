@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Emeld fel szemed Jézusra!</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emeld fel szemed Jézusra!<br/>Nézd arcát, hogy mily tündöklő.<br/>Közelében gondjaid oszlanak,<br/>Tőle árad az égi erő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emeld szemeid Jézusra!<br/>Őt helyezzed minden elé!<br/>Megerősít, támogat naponta,<br/>míg eléred a mennyei célt.</lines>
+    </verse>
+  </lyrics>
+</song>

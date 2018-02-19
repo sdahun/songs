@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten fia</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">John Wimber</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten fia, dicsérünk Téged!<br/>Jézus, Urunk, e dal Tiéd!<br/>Jöjj most, Isten Lelke,<br/>éledjen bennünk szeretet!<br/>Jézus, hálát adunk,<br/>megmentettél minket.<br/>Dicsérünk! Dicsérünk!<br/>Dicsérünk, áldozatodért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Életünk ajánljuk Néked.<br/>Fogadd szívünk, tisztítsd azt meg!<br/>Töltsd be szeretettel,<br/>tedd élő fává életünk!<br/>Hulljon Lélek-eső,<br/>mely felüdít minket.<br/>Dicsérünk! Dicsérünk!<br/>Dicsérünk, áldozatodért!</lines>
+    </verse>
+  </lyrics>
+</song>

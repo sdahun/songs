@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mikor napod oly kietlen</title>
+    </titles>
+    <verseOrder>o1 o2 o3</verseOrder>
+    <authors>
+      <author type="music">George Mysels</author>
+      <author type="words">J. Maloy Roach</author>
+      <author type="translation" lang="hu">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Mikor napod oly kietlen<br/>és sivár az életed,<br/>ne hagyd szíved csüggedni,<br/>tartsd mindig eszedben:</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Csak egy kicsi kis fény kell,<br/>egy kicsi gyertya a sötétben, el ne ess.<br/>Ahhoz, hogy messze láss,<br/>csak egy kicsi gyertya,<br/>melyhez egy kis szikra kell.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Így, ha mindnyájan elmondanánk egy imát,<br/>hogy Földünk megújuljon, s szabad legyen,<br/>és ha életünk lángja gyertyaként égne,<br/>fénye mindent betöltne.</lines>
+    </verse>
+  </lyrics>
+</song>
