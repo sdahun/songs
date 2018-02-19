@@ -5,7 +5,7 @@ From now in Hungarian:
 # Automatikus és kézi ellenőrzések
 Új énekszöveg beküldése előtt kérlek futtasd le az automatikus szövegellenőrzőket az alábbi módon:
 ```
-> php utils/validators/validator.php
+> php utils/validate.php
 ```
 Az automatikus ellenőrzők jelenleg az alábbi feladatokat végzik el:
 1. Az énekszöveget tartalmazó xml fájl megfelel-e az OpenLyrics xml formátumnak

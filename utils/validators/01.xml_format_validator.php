@@ -1,7 +1,6 @@
 <?php
 
 define ('RNG_PATH', dirname(__FILE__).'/openlyrics-0.8.rng');
-define ('COLLECTIONS_PATH', realpath (dirname(__FILE__) . '/../../../collections'));
 
 $invalid_count = 0;
 echo("Validate xml files for openlyrics 0.8 format...\n");

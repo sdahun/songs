@@ -1,7 +1,5 @@
 <?php
 
-define ('COLLECTIONS_PATH', realpath (dirname(__FILE__) . '/../../../collections'));
-
 require(dirname(__FILE__).'/syllable_exceptions.php');
 
 
