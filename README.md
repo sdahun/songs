@@ -30,7 +30,9 @@ Az átalakítás megkezdése előtt testre kell szabni a végeredményt:
 * Az énekszöveg soronként új sorba kerüljön, vagy sorfolytonosan automatikus tördelésű legyen?
   * Ha a sorok új sorba kerülnek, legyen-e nagybetűsítve minden sor első betűje?
   * Ha sorfolytonos legyen, akkor legyen-e elválasztó perjel (/) a sorok között?
-* Legyen-e utolsó utáni dia, amelyen szerepel az elsődleges énekeskönyv rövidítése és az ének száma (keresési célból)?
+* Az ismétlődő diák csak egyszer, az első előfordulásokkor jelenjenek meg, vagy az összes előforduláskor ismétlődjenek?
+* Legyen-e utolsó utáni üres dia?
+  * Szerepeljen-e ezen a dián az elsődleges énekeskönyv rövidítése és az ének száma (keresési célból)?
 * Az összes énekeskönyvet át kell alakítani, vagy csak a kiválasztott(ak)at?
 * A végeredmény egy, vagy több fájlba tördelve kerüjön átalakításra?
 
