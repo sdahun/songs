@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ő hív, jövel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="425"/>
+      <songbook name="Üdv- és adventi énekek" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ő hív, jövel, feléd ragyog a fény!<br/>Még van hely a Bárány menyegzőjén,<br/>van hely, van hely!<br/>Ó lépj be hát ma még!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fut az idő, a nap leáldozik,<br/>az éj leszáll és a fény elmúlik.<br/>Van hely, van hely!<br/>Ó lépj be hát ma még!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az ünnepi tágas terem de szép,<br/>lépj be s a vőlegény vendége légy!<br/>Van hely, van hely!<br/>Ó lépj be hát ma még!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már nemsoká egészen telve lesz!<br/>Még van számodra hely, azért siess!<br/>Van hely, van hely!<br/>Ó lépj be hát ma még!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Még van ott hely, az ajtó nyitva áll;<br/>Nem késő még testvérem, lépj be már!<br/>Van hely, van hely!<br/>Ó lépj be hát ma még!</lines>
+    </verse>
+  </lyrics>
+</song>

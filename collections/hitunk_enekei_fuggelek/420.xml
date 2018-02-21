@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Halljátok? Jézus hívogat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="420"/>
+      <songbook name="Üdv- és adventi énekek" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halljátok? Jézus hívogat:<br/>„Utánam jöjjetek!”<br/>Bár utunkon tövis fakad,<br/>de mennybe felvezet.<br/>Óh emberek, hát jöjjetek,<br/>találtok édes nyughelyet!<br/>Hol örökké örvendenek<br/>a boldog seregek!<br/>Mily édes sors óh ez,<br/>óh mily sors, óh mily sors!<br/>Mily édes sors leend<br/>Jézus ölében fent.<br/>A szentek száma végtelen<br/>az Úr menyegzőjén jelen,<br/>s éneklik: Bárány, dics neked,<br/>a győzelem tied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halljátok zengeni Siont?<br/>Ha egy bűnös megtér,<br/>az összes mennysereg ujjong,<br/>öröm örömre kél.<br/>Jézus vérét dicséri mind,<br/>hogy ily csudát tett most megint.<br/>Isten hatalmát hirdetik,<br/>ki bűnöst üdvözít.<br/>Mily édes sors óh ez,<br/>óh mily sors, óh mily sors!<br/>Mily édes sors leend<br/>Jézus ölében fent.<br/>A szentek száma végtelen<br/>az Úr menyegzőjén jelen,<br/>s éneklik: Bárány, dics neked,<br/>a győzelem tied.</lines>
+    </verse>
+  </lyrics>
+</song>

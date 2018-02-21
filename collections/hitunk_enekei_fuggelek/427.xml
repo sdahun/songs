@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jövel az élet vizéhez</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="427"/>
+      <songbook name="Üdv- és adventi énekek" entry="168"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jövel az élet vizéhez,<br/>szomjazó és fáradott!<br/>Enyhül itt bűneid terhe,<br/>megszűnik gond s bánatod.</lines>
+    </verse>
+    <verse name="c">
+      <lines>Jöjj hát ide, ne tétovázz!<br/>Itt égi üdv s örök nyugtot találsz.<br/>Itt van az élet forrása;<br/>gyógyhelyed ez egyedül!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj megújulni e vízhez,<br/>s hit hatja át szívedet;<br/>eltűnik itten a régi<br/>s kezdesz egy új életet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj hát e víz kútfejéhez,<br/>nézd milyen dúsan ömöl!<br/>Tiszta lesz ettől az elméd<br/>s zord kebeled felüdül.</lines>
+    </verse>
+  </lyrics>
+</song>

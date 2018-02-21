@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dolgaimban, utaimban</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="410"/>
+      <songbook name="Üdv- és adventi énekek" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dolgaimban, utaimban<br/>örömmel énekelek,<br/>de legnagyobb boldogságom<br/>szombaton a dicsének.<br/>Óh az Úrnak szent szombatja,<br/>mely minden napok felett,<br/>örömével átragyogja<br/>gonddal terhelt szívemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden gond és bánat szűnik,<br/>hálával telik szívem,<br/>mert a drága szombatnapon<br/>csak az Úrnál időzöm.<br/>Óh az Úrnak szent szombatja,<br/>mely minden napok felett,<br/>örömével átragyogja<br/>gonddal terhelt szívemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bár idegen földön zengem<br/>reménységem énekét,<br/>mégis tudom nemsokára<br/>az ígért földön leszek.<br/>Óh az Úrnak szent szombatja,<br/>mely minden napok felett,<br/>örömével átragyogja<br/>gonddal terhelt szívemet.</lines>
+    </verse>
+  </lyrics>
+</song>

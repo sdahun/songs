@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus szeretetéről énekelek</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="432"/>
+      <songbook name="Üdv- és adventi énekek" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szeretetéről énekelek,<br/>arról ki először szeretett engem,<br/>lejött a földre, hagyta az egeket:<br/>a „Golgotán szenvedett és halt értem.”</lines>
+    </verse>
+    <verse name="c">
+      <lines>Taníts hűen Téged szeretni,<br/>taníts mindig, híven követni.<br/>Én magamtól mit sem tehetek,<br/>vezess kedves Üdvözítőm, követlek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Még mielőtt könnyeim folytak volna:<br/>Ő régen könnyeket hullatott értem,<br/>még mielőtt gyenge imám lett volna:<br/>Ő már régen imádkozott érettem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez az isteni szeretet végtelen,<br/>nem foghatja fel sem az ég, sem a föld;<br/>ez isteni szeretet, az intelem<br/>megtisztítja lelkemet bűneimtől.</lines>
+    </verse>
+  </lyrics>
+</song>

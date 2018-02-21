@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nincs helyed Jézus számára?</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c v4 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="429"/>
+      <songbook name="Üdv- és adventi énekek" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincs helyed Jézus számára?<br/>Aki bűnöd viselé,<br/>vár szívednek ajtajánál,<br/>Nem vonzódol-e felé?</lines>
+    </verse>
+    <verse name="c">
+      <lines>Bűnös, van-e hely szívedben,<br/>bevenni az üdv Urát?<br/>Míg a kegyidő jelen van,<br/>nyisd meg szíved ajtaját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Földi örömök számára<br/>tárt tenálad a kebel,<br/>de Jézus számára nincsen<br/>a szívedben semmi hely?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ami hiú, ami múló,<br/>azt készséggel fogadod,<br/>de ami üdvödre való,<br/>önmagadtól eldobod.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fogadd Jézus a szívedbe,<br/>aki megment s üdvözít;<br/>örök élet van őbenne,<br/>ez az élet lesz tiéd.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Szentlelket ne űzzed el</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c v4 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="424"/>
+      <songbook name="Üdv- és adventi énekek" entry="155"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Szentlelket ne űzzed el,<br/>a világba vissza ne térj,<br/>Üdvözítődhöz futnod kell.<br/>Mikor? S miért ma nem? Miért?</lines>
+    </verse>
+    <verse name="c">
+      <lines>Miért ma nem?<br/>Óh mért ma nem?<br/>Mikor teszed?<br/>Miért ma nem?<br/>Miért ma nem?<br/>Óh mért ma nem?<br/>Mikor teszed?<br/>Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki tudja meddig élsz te még?<br/>Siess, míg kedvez a jelen,<br/>elérni az élet vizét!<br/>Mikor teszed? Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit nyújt tenéked a világ?<br/>Játéka semmivé leszen.<br/>Lépj a megnyílt üdvajtón át.<br/>Mikor teszed? Óh mért ma nem?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megváltónk bűnöst elfogad,<br/>téged is üdvre felviszen.<br/>Keskeny útjára von, haladj,<br/>kövesd hamar! Óh mért ma nem?</lines>
+    </verse>
+  </lyrics>
+</song>

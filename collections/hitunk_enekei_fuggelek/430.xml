@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Pál apostol, a pogányok nagy tanítója</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="430"/>
+      <songbook name="Üdv- és adventi énekek" entry="183"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pál apostol, a pogányok nagy tanítója,<br/>legyen a mi csüggedt lelkünk bátorítója!<br/>Hithajónkkal szeljük bátran a lét tengerét,<br/>hogy egykor mint Pál, mi is elérjük a nagy célt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmasan zúg a vihar, zajlik a tenger,<br/>Hithajónk már-már elsüllyed, remeg az ember!<br/>Csak egy férfi áll nyugton a hajó fedelén,<br/>Pál az, ki szól: bátorság! Egy híján sem lészen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fel hát bátran a cél felé Pál apostollal,<br/>vár a révben Üdvözítőnk a koronával!<br/>Ő törli le homlokodról a verejtéket<br/>és beviszen a dicsőség honába téged!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjj Megváltódhoz, óh jöjj siess!</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="422"/>
+      <songbook name="Üdv- és adventi énekek" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Megváltódhoz, óh jöjj siess!<br/>Most van időd rá, még ma kövesd!<br/>Áldani kész ő, jöjj meg ne vesd,<br/>nyájasan int, hogy: jöjj!</lines>
+    </verse>
+    <verse name="c">
+      <lines>Dicső, dicső lesz majd életünk,<br/>ha a bűntől egykor ment leszünk.<br/>S a szép Kánaán lesz lakhelyünk.<br/>Jézus, óh nézz, jövök.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj csak gyermekem és halld szavát,<br/>add neki szíved, ne késs tovább!<br/>Ő örök biztos menhelyet ád,<br/>kelj fel, óh kelj fel s jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak higgy erősen, elfogad ő,<br/>érezed-e már, hogy íme jő?<br/>Nagy szerelmével átkarol ő,<br/>óh bűnös, jöjj csak jöjj!</lines>
+    </verse>
+  </lyrics>
+</song>
