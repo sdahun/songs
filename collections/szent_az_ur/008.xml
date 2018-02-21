@@ -4,7 +4,7 @@
     <titles>
       <title>Hadd dicsérlek Téged!</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
+    <verseOrder>o1 o2</verseOrder>
     <authors>
       <author type="music">Arthur Tannous</author>
       <author type="words">Szilvási Ágota</author>
@@ -14,10 +14,10 @@
     </songbooks>
   </properties>
   <lyrics>
-    <verse name="v1">
+    <verse name="o1">
       <lines>Hadd dicsérlek Téged!<br/>Hadd mondja a szám: szeretlek!<br/>Te vagy minden énnekem.<br/>Hát magasztaltassék fel szent Neved.<br/>Jézusom, dicsérlek.</lines>
     </verse>
-    <verse name="v2">
+    <verse name="o2">
       <lines>Fennen hirdetem: szeretlek.<br/>Te vagy minden énnekem.<br/>Hát áldassék a Te nagy neved!<br/>Áldassék a Te nagy neved!<br/>Áldassék a Te nagy, szent neved!</lines>
     </verse>
   </lyrics>

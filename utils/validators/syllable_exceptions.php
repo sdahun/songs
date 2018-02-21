@@ -23,12 +23,6 @@ $linecount_exceptions = [
 
     'szent_az_ur/007.xml;v2;3',
 
-    'szent_az_ur/008.xml;v2;1',
-    'szent_az_ur/008.xml;v2;2',
-    'szent_az_ur/008.xml;v2;3',
-    'szent_az_ur/008.xml;v2;4',
-    'szent_az_ur/008.xml;v2;5',
-
     'szent_az_ur/009.xml;v2;5',
 
     'szent_az_ur/010.xml;v2;1',
