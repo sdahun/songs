@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A napfelkeltétől</title>
+    </titles>
+    <verseOrder>v1 v1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>Dicsérd, dicsérd!<br/>Dicsérd, dicsérd!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.</lines>
+    </verse>
+  </lyrics>
+</song>

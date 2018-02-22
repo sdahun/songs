@@ -466,6 +466,10 @@
 | 4. | [A mélyből hozzád száll szavam](https://github.com/sdahun/songs/blob/master/collections/hozsanna/004.xml) |
 | 5. | [A mennybe’ fenn](https://github.com/sdahun/songs/blob/master/collections/hozsanna/005.xml) |
 | 6. | [A Mester itt van](https://github.com/sdahun/songs/blob/master/collections/hozsanna/006.xml) |
+| 7. | [A napfelkeltétől](https://github.com/sdahun/songs/blob/master/collections/hozsanna/007.xml) |
+| 8. | [A reményem csak Te vagy](https://github.com/sdahun/songs/blob/master/collections/hozsanna/008.xml) |
+| 9. | [A szívemet átadom én](https://github.com/sdahun/songs/blob/master/collections/hozsanna/009.xml) |
+| 10. | [A Te hűséged az egekig ér](https://github.com/sdahun/songs/blob/master/collections/hozsanna/010.xml) |
 
 # Szent az Úr (/szent_az_ur)
 
