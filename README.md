@@ -3,10 +3,13 @@
 # Magyar nyelvű Istent dicsőítő énekek gyűjteménye
 
 Ebben a repoban gyűjtjük össze a gyülekezeteinkben és rendezvényeinken énekelt énekek
-szövegeit OpenLyrics xml formátumban. Ezt a formátumot a legelterjedtebb énekvetítő
-programok képesek importálni, de az /utils mappában található átalakító program
-segítségével az énekszövegek megjelenése testre is szabható. Az átalakító program
-php nyelven íródott, így minden operációs rendszer alatt futtatható (a php telepítése után).
+szövegeit OpenLyrics xml formátumban. Az eddig összegyűjtött énekszövegek listája a
+[Tartalomjegyzékben](https://github.com/sdahun/songs/blob/master/Contents.md) tekinthető meg.
+
+Az OpenLyrics formátumot a legelterjedtebb énekvetítő programok képesek importálni,
+de az /utils mappában található átalakító program segítségével az énekszövegek megjelenése
+testre is szabható. Az átalakító program php nyelven íródott, így minden operációs rendszer
+alatt futtatható (a php telepítése után).
 
 # Támogatott szoftverek (tervezet)
 Az énekek az itt felsorolt szoftverek számára lesznek átalakíthatóak:
