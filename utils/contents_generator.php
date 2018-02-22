@@ -23,7 +23,10 @@ foreach (glob ($basepath . '/*') as $collection) {
     }
 
     $title = $xml->properties->titles->title[0]->__toString();
-    $contents .= '| ' . $songnumber . ' | ' . $title . " |\n";
+    $contents .= 
+      '| ' . $songnumber . '. '.
+      '| [' . $title . '](https://github.com/sdahun/songs/blob/master/collections/' . 
+      basename($collection) . '/' . basename($songfile) . ") |\n";
   }
   $contents .= "\n";
 }
