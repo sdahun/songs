@@ -1,8 +1,10 @@
 <?php
 
-$contents = '';
 $rootpath = realpath (__DIR__ . '/..');
 $basepath =  $rootpath . '/collections';
+$github_url = 'https://github.com/sdahun/songs/blob/master/collections/';
+
+$contents = '';
 
 foreach (glob ($basepath . '/*') as $collection) {
   if (!is_dir ($collection)) continue;
@@ -13,20 +15,19 @@ foreach (glob ($basepath . '/*') as $collection) {
 
     $sb = $xml->properties->songbooks->songbook[0];
     $songnumber = $sb['entry'];
+
     if (!$bookheader) {
-        $bookheader = true;
-        $songbook = $sb['name']->__toString();
-        $contents .= 
-            '# ' . $sb['name']->__toString() . ' (/' . basename($collection) . ")\n\n" .
-            "| Ssz. | Az ének címe/kezdete |\n" .
-            "| ---: | :------------------- |\n";
+      $bookheader = true;
+      $contents .= 
+        '# ' . $sb['name']->__toString() . ' (/' . basename($collection) . ")\n\n" .
+        "| Ssz. | Az ének címe/kezdete |\n" .
+        "| ---: | :------------------- |\n";
     }
 
     $title = $xml->properties->titles->title[0]->__toString();
     $contents .= 
       '| ' . $songnumber . '. '.
-      '| [' . $title . '](https://github.com/sdahun/songs/blob/master/collections/' . 
-      basename($collection) . '/' . basename($songfile) . ") |\n";
+      '| [' . $title . '](' . $github_url . basename($collection) . '/' . basename($songfile) . ") |\n";
   }
   $contents .= "\n";
 }
