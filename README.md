@@ -1,18 +1,15 @@
 # Lyrics of worship songs in Hungarian
 
-From now in Hungarian:
+# Magyar nyelvű Istent dicsőítő énekek gyűjteménye
 
-# Automatikus és kézi ellenőrzések
-Új énekszöveg beküldése előtt kérlek futtasd le az automatikus szövegellenőrzőket az alábbi módon:
-```
-> php utils/validate.php
-```
-Az automatikus ellenőrzők jelenleg az alábbi feladatokat végzik el:
-1. Az énekszöveget tartalmazó xml fájl megfelel-e az OpenLyrics xml formátumnak
-2. Szótagszám ellenőrzés az azonos típusú versszakok soraiban
+Ebben a repoban gyűjtjük össze a gyülekezeteinkben és rendezvényeinken énekelt énekek
+szövegeit OpenLyrics xml formátumban. Ezt a formátumot a legelterjedtebb énekvetítő
+programok képesek importálni, de az /utils mappában található átalakító program
+segítségével az énekszövegek megjelenése testre is szabható. Az átalakító program
+php nyelven íródott, így minden operációs rendszer alatt futtatható (a php telepítése után).
 
 # Támogatott szoftverek (tervezet)
-Az énekek az itt felsorolt szoftverek számára átalakíthatók:
+Az énekek az itt felsorolt szoftverek számára lesznek átalakíthatóak:
 * [OpenLP](https://openlp.org) - ingyenes, nyílt forrású gyülekezeti dicsőítés vetítő szoftver
 * [Quelea](https://quelea.org) - ingyenes gyülekezeti vetítő szoftver
 * [FreeWorship](https://www.freeworship.org.uk/) - ingyenes, hatékony gyülekezeti vetítő szoftver
@@ -38,6 +35,15 @@ Az átalakítás megkezdése előtt testre kell szabni a végeredményt:
 
 A megadott beállítások mentésre kerülnek a /compilations/compile.settings.ini fájlba, így az énekek frissítése esetén a beállítások újra felhasználhatók lesznek egy újabb átalakításhoz.
 Az elkészült, átalakított fájlok a /compilations mappába kerülnek.
+
+# Automatikus és kézi ellenőrzések
+Új énekszöveg beküldése előtt kérlek futtasd le az automatikus szövegellenőrzőket az alábbi módon:
+```
+> php utils/validate.php
+```
+Az automatikus ellenőrzők jelenleg az alábbi feladatokat végzik el:
+1. Az énekszöveget tartalmazó xml fájl megfelel-e az OpenLyrics xml formátumnak
+2. Szótagszám ellenőrzés az azonos típusú versszakok soraiban
 
 # Linkek
 * [Adventista technikusok fóruma](http://technika.adventista.hu)
