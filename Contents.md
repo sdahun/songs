@@ -1,10 +1,12 @@
-# Dicsérem Neved 3 (/dicserem_neved_3)
+# Tartalomjegyzék
+
+## Dicsérem Neved 3 (/dicserem_neved_3)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 2. | [A hegyek, s tengerek felett](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_3/002.xml) |
 
-# Erőm és Énekem az Úr (/erom_es_enekem_az_ur)
+## Erőm és Énekem az Úr (/erom_es_enekem_az_ur)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -13,7 +15,7 @@
 | 3. | [Áldásoddal megyünk](https://github.com/sdahun/songs/blob/master/collections/erom_es_enekem_az_ur/003.xml) |
 | 4. | [Áldjon meg téged](https://github.com/sdahun/songs/blob/master/collections/erom_es_enekem_az_ur/004.xml) |
 
-# Hitünk énekei (/hitunk_enekei)
+## Hitünk énekei (/hitunk_enekei)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -411,7 +413,7 @@
 | 392. | [Béke veled!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/392.xml) |
 | 393. | [Nyugodjál békén, fáradt szív](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/393.xml) |
 
-# Hitünk énekei (/hitunk_enekei_fuggelek)
+## Hitünk énekei (/hitunk_enekei_fuggelek)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -456,7 +458,7 @@
 | 432. | [Jézus szeretetéről énekelek](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/432.xml) |
 | 433. | [Mondjátok, meghalt-e az Úr](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/433.xml) |
 
-# Hozsánna énekes (/hozsanna)
+## Hozsánna énekes (/hozsanna)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -471,7 +473,7 @@
 | 9. | [A szívemet átadom én](https://github.com/sdahun/songs/blob/master/collections/hozsanna/009.xml) |
 | 10. | [A Te hűséged az egekig ér](https://github.com/sdahun/songs/blob/master/collections/hozsanna/010.xml) |
 
-# Szent az Úr (/szent_az_ur)
+## Szent az Úr (/szent_az_ur)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |

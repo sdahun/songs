@@ -4,7 +4,7 @@ $rootpath = realpath (__DIR__ . '/..');
 $basepath =  $rootpath . '/collections';
 $github_url = 'https://github.com/sdahun/songs/blob/master/collections/';
 
-$contents = '';
+$contents = "# Tartalomjegyzék\n\n";
 
 foreach (glob ($basepath . '/*') as $collection) {
   if (!is_dir ($collection)) continue;
@@ -19,7 +19,7 @@ foreach (glob ($basepath . '/*') as $collection) {
     if (!$bookheader) {
       $bookheader = true;
       $contents .= 
-        '# ' . $sb['name']->__toString() . ' (/' . basename($collection) . ")\n\n" .
+        '## ' . $sb['name']->__toString() . ' (/' . basename($collection) . ")\n\n" .
         "| Ssz. | Az ének címe/kezdete |\n" .
         "| ---: | :------------------- |\n";
     }
