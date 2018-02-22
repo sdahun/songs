@@ -472,6 +472,8 @@
 | 8. | [A reményem csak Te vagy](https://github.com/sdahun/songs/blob/master/collections/hozsanna/008.xml) |
 | 9. | [A szívemet átadom én](https://github.com/sdahun/songs/blob/master/collections/hozsanna/009.xml) |
 | 10. | [A Te hűséged az egekig ér](https://github.com/sdahun/songs/blob/master/collections/hozsanna/010.xml) |
+| 11. | [A Te nevedben mi együtt vagyunk](https://github.com/sdahun/songs/blob/master/collections/hozsanna/011.xml) |
+| 12. | [A tegnap terhe](https://github.com/sdahun/songs/blob/master/collections/hozsanna/012.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

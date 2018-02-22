@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Te nevedben mi együtt vagyunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Te nevedben mi együtt vagyunk,<br/>Jézus nevedben mi együtt vagyunk.<br/>Hallgasd meg imánk mikor Hozzád járulunk,<br/>életvizeddel táplálj hű Urunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Úgy mutassátok meg a hitetek,<br/>hogy az Én szavaimnak engedtek!<br/>Hogyha Velem és egymással egyek lesztek,<br/>minden kérésetekre felelek.”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Te nevedben mi együtt vagyunk,<br/>Jézus nevedben mi együtt vagyunk.<br/>Tégy eggyé minket szentségben, ez óhajunk,<br/>használj munkádban, drága hű Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

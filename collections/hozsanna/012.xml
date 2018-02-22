@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A tegnap terhe</title>
+    </titles>
+    <verseOrder>v1 c1 v1 e</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A tegnap terhe már a tegnapé,<br/>a holnap árnya még a holnapé.<br/>Minden új reggelen örök<br/>útitársam köszönthetem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jó reggelt, Uram Jézus!<br/>Jó reggelt öröm,<br/>jó reggelt békesség,<br/>jó reggelt kegyelem!</lines>
+    </verse>
+    <verse name="e">
+      <lines>Jó reggelt, Uram Jézus!<br/>Jó reggelt öröm,<br/>jó reggelt békesség,<br/>jó reggelt kegyelem!<br/>Jó reggelt kegyelem!</lines>
+    </verse>
+  </lyrics>
+</song>
