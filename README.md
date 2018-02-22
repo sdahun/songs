@@ -47,6 +47,7 @@ Az elkészült, átalakított fájlok a /compilations mappába kerülnek.
 Az automatikus ellenőrzők jelenleg az alábbi feladatokat végzik el:
 1. Az énekszöveget tartalmazó xml fájl megfelel-e az OpenLyrics xml formátumnak
 2. Szótagszám ellenőrzés az azonos típusú versszakok soraiban
+3. Annak ellenőrzése, hogy minden versszak szerepel-e legalább egyszer a versszaksorrendben és a versszaksorrendben szereplő versszakok léteznek-e
 
 # Linkek
 * [Adventista technikusok fóruma](http://technika.adventista.hu)
