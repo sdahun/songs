@@ -465,6 +465,7 @@
 | 3. | [A keresztfánál](https://github.com/sdahun/songs/blob/master/collections/hozsanna/003.xml) |
 | 4. | [A mélyből hozzád száll szavam](https://github.com/sdahun/songs/blob/master/collections/hozsanna/004.xml) |
 | 5. | [A mennybe’ fenn](https://github.com/sdahun/songs/blob/master/collections/hozsanna/005.xml) |
+| 6. | [A Mester itt van](https://github.com/sdahun/songs/blob/master/collections/hozsanna/006.xml) |
 
 # Szent az Úr (/szent_az_ur)
 
