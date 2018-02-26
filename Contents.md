@@ -1,10 +1,28 @@
 # Tartalomjegyzék
 
+## Dicsérem Neved 1 (/dicserem_neved_1)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 7. | [Akkor majd táncolva](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_1/007.xml) |
+
+## Dicsérem Neved 2 (/dicserem_neved_2)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 13. | [A vakok látnak](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_2/013.xml) |
+
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 2. | [A hegyek, s tengerek felett](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_3/002.xml) |
+
+## Dicsérem Neved 4 (/dicserem_neved_4)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 6. | [Adj imádó szívet](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_4/006.xml) |
 
 ## Erőm és Énekem az Úr (/erom_es_enekem_az_ur)
 
@@ -474,6 +492,9 @@
 | 10. | [A Te hűséged az egekig ér](https://github.com/sdahun/songs/blob/master/collections/hozsanna/010.xml) |
 | 11. | [A Te nevedben mi együtt vagyunk](https://github.com/sdahun/songs/blob/master/collections/hozsanna/011.xml) |
 | 12. | [A tegnap terhe](https://github.com/sdahun/songs/blob/master/collections/hozsanna/012.xml) |
+| 13. | [A vakok látnak](https://github.com/sdahun/songs/blob/master/collections/hozsanna/013.xml) |
+| 14. | [Akkor majd táncolva](https://github.com/sdahun/songs/blob/master/collections/hozsanna/014.xml) |
+| 15. | [Adj imádó szívet](https://github.com/sdahun/songs/blob/master/collections/hozsanna/015.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

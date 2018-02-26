@@ -13,6 +13,9 @@ $linecount_exceptions = [
 
     'dicserem_neved_3/002.xml;v2;4',
 
+    'dicserem_neved_4/006.xml;v2;3',
+    'dicserem_neved_4/006.xml;v2;6',
+
     'erom_es_enekem_az_ur/003.xml;v2;3',
     'erom_es_enekem_az_ur/003.xml;v2;4',
 
@@ -31,6 +34,9 @@ $linecount_exceptions = [
     
     'hozsanna/013.xml;v2;1',
     'hozsanna/013.xml;v2;2',
+
+    'hozsanna/015.xml;v2;3',
+    'hozsanna/015.xml;v2;6',
 
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',
