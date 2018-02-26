@@ -8,6 +8,30 @@ $linecount_exceptions = [
   
   //format: file;verse;line
   $syllable_exceptions = [
+    'dicserem_neved_2/013.xml;v2;1',
+    'dicserem_neved_2/013.xml;v2;2',
+
+    'dicserem_neved_3/002.xml;v2;4',
+
+    'erom_es_enekem_az_ur/003.xml;v2;3',
+    'erom_es_enekem_az_ur/003.xml;v2;4',
+
+    'hozsanna/001.xml;v2;1',
+    'hozsanna/001.xml;v2;3',
+    'hozsanna/001.xml;v2;4',
+    'hozsanna/001.xml;v2;5',
+    'hozsanna/001.xml;v2;6',
+    'hozsanna/001.xml;v2;7',
+    'hozsanna/001.xml;v2;8',
+
+    'hozsanna/002.xml;v2;4',
+
+    'hozsanna/003.xml;v5;3',
+    'hozsanna/003.xml;v5;4',
+    
+    'hozsanna/013.xml;v2;1',
+    'hozsanna/013.xml;v2;2',
+
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',
   
@@ -51,24 +75,6 @@ $linecount_exceptions = [
 
     'szent_az_ur/038.xml;v2;1',
     'szent_az_ur/038.xml;v2;3',
-
-    'hozsanna/001.xml;v2;1',
-    'hozsanna/001.xml;v2;3',
-    'hozsanna/001.xml;v2;4',
-    'hozsanna/001.xml;v2;5',
-    'hozsanna/001.xml;v2;6',
-    'hozsanna/001.xml;v2;7',
-    'hozsanna/001.xml;v2;8',
-
-    'hozsanna/002.xml;v2;4',
-
-    'hozsanna/003.xml;v5;3',
-    'hozsanna/003.xml;v5;4',
-    
-    'erom_es_enekem_az_ur/003.xml;v2;3',
-    'erom_es_enekem_az_ur/003.xml;v2;4',
-
-    'dicserem_neved_3/002.xml;v2;4',
     
   ];
   

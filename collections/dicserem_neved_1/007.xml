@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Akkor majd táncolva</title>
+    </titles>
+    <verseOrder>o1 o2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="7"/>
+      <songbook name="Hozsánna énekes" entry="14"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Akkor majd táncolva<br/>örül Isten népe,<br/>az ifjak is a vénekkel együtt.<br/>La-la-la…</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Gyászukat vígságra fordítom,<br/>népemet megvigasztalom,<br/>és örömöt szerzek nékik,<br/>rabságból szabadságot,<br/>bánatból megdicsőült drága életet,<br/>ujjongó szívet adok,<br/>egy utat, boldogságot,<br/>igen, mert szeretem őket.</lines>
+    </verse>
+  </lyrics>
+</song>
