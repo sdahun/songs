@@ -32,8 +32,8 @@ class Preferences {
         $prefs = "[main]\n";
         foreach ($this->values as $key => $value)
             if (is_array($value)) {
-                foreach($value as $item)
-                    $prefs .= $key . '[] = ' . var_export ($item, true) . "\n";
+                foreach($value as $ikey => $ivalue)
+                    $prefs .= $key . '[' . $ikey . '] = ' . $ivalue . "\n";
             }
             else {
                 $prefs .= $key . ' = ' . var_export ($value, true) . "\n";

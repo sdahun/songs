@@ -1,5 +1,5 @@
 {
-    "require": {
-       "phpoffice/phppresentation": "dev-master"
+    "autoload": {
+        "psr-4": { "sdahun\\songs\\": "utils/compilers/" }
     }
 }
