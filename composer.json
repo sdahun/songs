@@ -1,4 +1,6 @@
 {
+    "name": "sdahun/songs",
+    "description": "Utility to convert songs from xml to native presenter format",
     "autoload": {
         "psr-4": { "sdahun\\songs\\": "utils/compilers/" }
     }
