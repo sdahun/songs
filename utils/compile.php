@@ -133,7 +133,7 @@ class Compiler {
 
                     $songs = $this->get_range (++$question_nr .
                         ".) Sorold fel a kiválasztott énekek sorszámát\n" .
-                        '    ' . General::get_article($songbook) . '„' . $songbook . "” énekeskönyvből:\n" .
+                        '    ' . General::get_article($songbook) . '"' . $songbook . "\" énekeskönyvből:\n" .
                         '  Válasz? (0 = mind) (pl.: 1-100,150): ');
 
                     $selected_songs[$songbook] = $songs;
@@ -173,7 +173,7 @@ class Compiler {
             $collection = basename($collection_path);
 
             if (in_array('all', $selected_collections) || in_array($collection, $selected_collections)) {
-                echo('  Énekek átalakítása ' . General::get_article($collection) . General::c('„'.$collection.'”')." énekesből...\n");
+                echo('  Énekek átalakítása ' . General::get_article($collection) . General::c('"'.$collection.'"')." énekesből...\n");
 
                 if (in_array('all', $selected_collections))
                     $selected_numbers = '0';
@@ -242,7 +242,7 @@ class Compiler {
         while ( $match != 1) {
             echo ("\n" . General::c($question) . ' ');
 
-            $match = preg_match("/^[0-9,\-]+$/", fgets(STDIN), $regs);
+            $match = preg_match("/^[0-9,\-]+$/", trim(fgets(STDIN)), $regs);
         }
 
         return $regs[0];

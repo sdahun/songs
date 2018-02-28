@@ -15,7 +15,7 @@ class Collections {
             case 'Hitünk énekei':        return 'HE';
             case 'Hozsánna énekes':      return 'HO';
             case 'Szent az Úr':          return 'SZU';
-            default: throw new Exception('Please add „' . $name . '” to the quick search name list!');
+            default: throw new Exception('Please add "' . $name . '" to the quick search name list!');
         }
     }
 

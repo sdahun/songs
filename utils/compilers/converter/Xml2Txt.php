@@ -36,7 +36,7 @@ class Xml2Txt {
             case 'o': return 'Slide';
             case 't': return 'Tag';
             case 'i': return 'Intro';
-            default: throw new Exception('Please add more type: „' . $name . '” !');
+            default: throw new Exception('Please add more type: "' . $name . '" !');
         }
     }
 }
