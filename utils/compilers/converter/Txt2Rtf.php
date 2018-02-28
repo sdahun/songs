@@ -25,9 +25,9 @@ class Txt2Rtf {
                '{\*\pnseclvl8\pnlcltr\pnstart1\pnhang\pnindent720{\pntxtb{(}}{\pntxta{)}}}' . CRLF .
                '{\*\pnseclvl9\pndec\pnstart1\pnhang\pnindent720{\pntxtb{(}}{\pntxta{)}}}' . CRLF;
 
-        $ekezet_txt = array( 0xe1,    0xe9,   0xed,   0xf3,   0xf6,   0xf5,   0xfa,   0xfc,   0xfb,
-                             0xc1,    0xc9,   0xcd,   0xd3,   0xd6,   0xd5,   0xda,   0xdc,   0xdb,
-                             0x84,    0x94,   0x92,    '{',    '}',
+        $ekezet_txt = array("\xe1", "\xe9", "\xed", "\xf3", "\xf6", "\xf5", "\xfa", "\xfc", "\xfb",
+                            "\xc1", "\xc9", "\xcd", "\xd3", "\xd6", "\xd5", "\xda", "\xdc", "\xdb",
+                            "\x84", "\x94", "\x92",    '{',    '}',
                            );
         $ekezet_rtf = array("\'e1", "\'e9", "\'ed", "\'f3", "\'f6", "\'f5", "\'fa", "\'fc", "\'fb",
                             "\'c1", "\'c9", "\'cd", "\'d3", "\'d6", "\'d5", "\'da", "\'dc", "\'db",
