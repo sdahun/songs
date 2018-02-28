@@ -6,6 +6,7 @@ use \ZipArchive;
 use \sdahun\songs\Preferences;
 use \sdahun\songs\converter\General;
 use \sdahun\songs\converter\Xml2Txt;
+use \sdahun\songs\converter\XmlConfigurator;
 
 class TextWriter extends AbstractWriter {
 
@@ -36,14 +37,16 @@ class TextWriter extends AbstractWriter {
 
     public function addSongFile($xml_path) {
         if (file_exists($xml_path)) {
-            if (++$this->file_counter > $this->prefs->get('batch_size')) {
-                $this->close();
-                $this->startNewOutput();
-            }
+            $batch_size = $this->prefs->get('batch_size');
+            if ($batch_size > 0)
+                if (++$this->file_counter > $this->prefs->get('batch_size')) {
+                    $this->close();
+                    $this->startNewOutput();
+                }
 
             $this->zip->addFromString (
                 basename (dirname ($xml_path)) . '/' . basename ($xml_path, '.xml') . '.txt',
-                Xml2Txt::convert (file_get_contents ($xml_path), $this->prefs)
+                Xml2Txt::convert (XmlConfigurator::configure (file_get_contents ($xml_path), $this->prefs))
             );
         }
     }

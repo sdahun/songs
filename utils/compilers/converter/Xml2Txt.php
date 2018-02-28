@@ -4,80 +4,28 @@ namespace sdahun\songs\converter;
 
 use \Exception;
 use \SimpleXmlElement;
-use \sdahun\songs\Preferences;
-use \sdahun\songs\Collections;
+use \sdahun\songs\converter\General;
 
 class Xml2Txt {
-    static public function convert($xmlsrc, Preferences $prefs) {
+    static public function convert($xmlsrc) {
         $xml = new SimpleXmlElement($xmlsrc);
 
         $result = '';
-        if ($prefs->get('intro_slide')) {
-            $title = $xml->properties->titles->title[0]->__toString();
-
-            if (!in_array(substr($title, -1), ['!', '?']))
-                $title .= '...';
-
-            $result .= "Intro\r\n" . $title . "\r\n";
-
-            if ($prefs->get('intro_songbook')) {
-                $result .= "\n" . $xml->properties->songbooks->songbook[0]['name']->__toString() . "\r\n";
-
-                if ($prefs->get('intro_songnumber')) {
-                    $result .= $xml->properties->songbooks->songbook[0]['entry']->__toString() . ". ének\r\n";
-                }
-            }
-            $result .= "\r\n";
-        }
-
-        $verses = [];
         foreach ($xml->lyrics->verse as $verse) {
             $verseName = $verse['name']->__toString();
-            $verseText = self::getInnerXml($verse->lines->asXml());
-            $verses[$verseName] = $verseText;
+            $verseText = General::getInnerXml($verse->lines->asXml());
+            $result .= self::getVerseName (substr ($verseName, 0, 1)) . ' ' . substr ($verseName, 1)."\r\n";
+
+            //Workaround: double new line means new slide in EasyWorship, but CR-LF-LF will do
+            $verseText = str_replace('<br/><br/>', "\r\n\n", $verseText);
+
+            $result .= str_replace('<br/>', "\r\n", $verseText) . "\r\n\r\n";
         }
 
-        $added = [];
-        foreach (explode (' ', $xml->properties->verseOrder->__toString()) as $verse) {
-            if (!$prefs->get('song_repeat_verses') && in_array($verse, $added)) continue;
-            $added[] = $verse;
-            $result .= self::getVerseName (substr ($verse, 0, 1)) . ' ' . substr ($verse, 1)."\r\n";
-
-            $lines = explode('<br/>', $verses[$verse]);
-
-            if ($prefs->get('song_linebreak')) {
-                if ($prefs->get('song_ucfirst'))
-                    array_walk($lines, 
-                        function (&$item, $key) {
-                            $item = mb_convert_case(mb_substr ($item, 0, 1), MB_CASE_UPPER) . mb_substr($item, 1);
-                        }
-                    );
-                $result .= implode("\r\n", $lines) . "\r\n\r\n";
-            }
-            else {
-                if ($prefs->get('song_separator'))
-                    $result .= implode(' / ', $lines) . "\r\n\r\n";
-                else
-                    $result .= implode(' ', $lines) . "\r\n\r\n";
-            }
-        }
-
-        if ($prefs->get('tag_slide')) {
-            $result .= "Tag\n";
-            if ($prefs->get('quick_search'))
-                $result .= Collections::getQuickSearchName($xml->properties->songbooks->songbook[0]['name']) .
-                           sprintf('%03d', $xml->properties->songbooks->songbook[0]['entry']) . "\n";
-        }
-
-        return iconv('utf-8', 'windows-1250', $result);
+        //cut down the double new line at the end of result
+        return iconv('utf-8', 'windows-1250', substr($result, 0, -2));
     }
 
-    static private function getInnerXml($str) {
-        $from = strpos($str, '>') + 1;
-        $to = strrpos($str, '<');
-        return substr($str, $from, $to-$from);
-      }
-      
     static private function getVerseName($name) {
         switch ($name) {
             case 'v': return 'Verse';
@@ -87,6 +35,7 @@ class Xml2Txt {
             case 'e': return 'End';
             case 'o': return 'Slide';
             case 't': return 'Tag';
+            case 'i': return 'Intro';
             default: throw new Exception('Please add more type: „' . $name . '” !');
         }
     }

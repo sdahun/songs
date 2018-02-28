@@ -20,6 +20,12 @@ class General {
         if (in_array($str, ['A', 'Á', 'E', 'É', 'I', 'Í', 'O', 'Ó', 'Ö', 'Ő', 'U', 'Ú', 'Ü', 'Ű']))
           return 'az ';
         return 'a ';
-      }
-      
+    }
+
+
+    public static function getInnerXml($str) {
+        $from = strpos($str, '>') + 1;
+        $to = strrpos($str, '<');
+        return substr($str, $from, $to-$from);
+    }
 }
