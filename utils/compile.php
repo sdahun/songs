@@ -199,6 +199,8 @@ class Compiler {
                 }
             }
         }
+        
+        $writer->close();
 
         echo(General::c("\nAz átalakítás befejeződött.\n"));
 

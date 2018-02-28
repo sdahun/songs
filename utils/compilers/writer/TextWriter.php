@@ -37,9 +37,10 @@ class TextWriter extends AbstractWriter {
 
     public function addSongFile($xml_path) {
         if (file_exists($xml_path)) {
+            ++$this->file_counter;
             $batch_size = $this->prefs->get('batch_size');
             if ($batch_size > 0)
-                if (++$this->file_counter > $this->prefs->get('batch_size')) {
+                if ($this->file_counter > $this->prefs->get('batch_size')) {
                     $this->close();
                     $this->startNewOutput();
                 }
