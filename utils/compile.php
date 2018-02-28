@@ -173,7 +173,7 @@ class Compiler {
             $collection = basename($collection_path);
 
             if (in_array('all', $selected_collections) || in_array($collection, $selected_collections)) {
-                echo('  ' . General::c($collection)."...\n");
+                echo('  Énekek átalakítása ' . General::get_article($collection) . General::c('„'.$collection.'”')." énekesből...\n");
 
                 if (in_array('all', $selected_collections))
                     $selected_numbers = '0';
