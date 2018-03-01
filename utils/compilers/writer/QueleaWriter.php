@@ -5,23 +5,23 @@ namespace sdahun\songs\writer;
 use \ZipArchive;
 use \sdahun\songs\Preferences;
 use \sdahun\songs\converter\General;
-use \sdahun\songs\converter\Xml2Txt;
+use \sdahun\songs\converter\Xml2Qml;
 use \sdahun\songs\converter\XmlConfigurator;
 
-class TextWriter extends AbstractWriter {
+class QueleaWriter extends AbstractWriter {
 
     private $zip;
     private $file_counter;
 
     public function __construct(Preferences $prefs) {
         parent::__construct($prefs);
-        $this->file_extension = '.zip';
+        $this->file_extension = '.qsp';
   
         $this->startNewOutput();
     }
 
     public static function getWriterName() {
-        return 'Szövegfájl';
+        return 'Quelea';
     }
 
     private function startNewOutput() {
@@ -32,7 +32,7 @@ class TextWriter extends AbstractWriter {
         $fname = $this->getNextFile();
         $this->zip->open($path . '/' . $fname, ZipArchive::CREATE);
 
-        echo(General::c("  A szövegfájlok a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname) . "\n");
+        echo(General::c("  A Quelea formátumú énekek a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname) . "\n");
     }
 
     public function close() {
@@ -50,8 +50,8 @@ class TextWriter extends AbstractWriter {
                 }
 
             $this->zip->addFromString (
-                basename (dirname ($xml_path)) . '/' . basename ($xml_path, '.xml') . '.txt',
-                Xml2Txt::convert (XmlConfigurator::configure (file_get_contents ($xml_path), $this->prefs))
+                sprintf('%04d', $this->file_counter) . '.xml',
+                Xml2Qml::convert (XmlConfigurator::configure (file_get_contents ($xml_path), $this->prefs))
             );
         }
     }
