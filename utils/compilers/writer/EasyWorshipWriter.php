@@ -67,7 +67,7 @@ class EasyWorshipWriter extends AbstractWriter {
         $fname = $this->getNextFile();
         file_put_contents($path . '/' . $fname, $stream);
 
-        echo(General::c("  Az EasyWorship formátumú énekek a következő fájlba kerültek:\n    /" . basename($path) . '/' . $fname) . "\n");
+        echo("  Az EasyWorship formátumú énekek a következő fájlba kerültek:\n    /" . basename($path) . '/' . $fname . "\n");
     }
 
     public function addSongFile($xml_path) {

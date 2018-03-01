@@ -32,7 +32,7 @@ class OpenLPWriter extends AbstractWriter {
         $fname = $this->getNextFile();
         $this->zip->open($path . '/' . $fname, ZipArchive::CREATE);
 
-        echo(General::c("  Az OpenLP fájlok a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname) . "\n");
+        echo("  Az OpenLP fájlok a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname . "\n");
     }
 
     public function close() {

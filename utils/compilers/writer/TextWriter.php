@@ -32,7 +32,7 @@ class TextWriter extends AbstractWriter {
         $fname = $this->getNextFile();
         $this->zip->open($path . '/' . $fname, ZipArchive::CREATE);
 
-        echo(General::c("  A szövegfájlok a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname) . "\n");
+        echo("  A szövegfájlok a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname . "\n");
     }
 
     public function close() {

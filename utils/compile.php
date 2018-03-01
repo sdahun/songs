@@ -25,7 +25,7 @@ class Compiler {
 
     public function configure () {
         echo (str_repeat ('=', 60) . "\n");
-        echo (str_repeat (' ', 20) . General::c("ÉNEKSZÖVEG ÁTALAKÍTÓ\n"));
+        echo (str_repeat (' ', 20) . "ÉNEKSZÖVEG ÁTALAKÍTÓ\n");
         echo (str_repeat ('=', 60) . "\n");
 
         if (file_exists ($this->ini_file)) {
@@ -152,7 +152,7 @@ class Compiler {
                 }
             }
         }
-        echo (General::c ("\nA beállításokat elmentettük.\n"));
+        echo ("\nA beállításokat elmentettük.\n");
     }
 
     public function compile () {
@@ -160,19 +160,19 @@ class Compiler {
         if (is_null ($this->prefs)) {
 
             if (!file_exists ($this->ini_file)) {
-                echo (General::c ("\nA beállítások nem érhetők el! Így nem kezdhető meg az átalakítás! :(\n"));
+                echo ("\nA beállítások nem érhetők el! Így nem kezdhető meg az átalakítás! :(\n");
                 return;
             }
             $this->prefs = new Preferences ($this->ini_file);
         }
 
         if (!$this->choice ("Szeretnéd most elkezdeni az átalakítást?", true)) {
-            echo (General::c ("\nRendben, szép napot!\n").str_repeat ('=', 60) . "\n");
+            echo ("\nRendben, szép napot!\n" . str_repeat ('=', 60) . "\n");
             return;
         }
 
         echo (str_repeat ('=', 60) . "\n");
-        echo (General::c("Kis türelmet, az átalakítás folyamatban...\n"));
+        echo ("Kis türelmet, az átalakítás folyamatban...\n");
         
         $writer_name = $this->prefs->get('output_format');
         $writer = new $writer_name($this->prefs);
@@ -185,9 +185,9 @@ class Compiler {
             $collection = basename($collection_path);
 
             if (in_array('all', $selected_collections) || in_array($collection, $selected_collections)) {
-                echo(General::c('  Énekek átalakítása ' .
+                echo('  Énekek átalakítása ' .
                     General::get_article($collection) .
-                    '"'.$collection."\" énekesből...\n"));
+                    '"'.$collection."\" énekesből...\n");
 
                 if (in_array('all', $selected_collections))
                     $selected_numbers = '0';
@@ -216,9 +216,9 @@ class Compiler {
         
         $writer->close();
 
-        echo(General::c("\nAz átalakítás befejeződött.\n"));
+        echo("\nAz átalakítás befejeződött.\n");
 
-        echo(General::c("\nSzép napot!\n").str_repeat ('=', 60) . "\n");
+        echo("\nSzép napot!\n" . str_repeat ('=', 60) . "\n");
     }
 
 
@@ -226,7 +226,7 @@ class Compiler {
         $answer = 'x';
 
         while ( ($answer != 'I') && ($answer != 'N') && ($answer != '') ) {
-            echo ("\n" . General::c($question) . ' (' . ($default ? 'I/n' : 'i/N') . '): ');
+            echo ("\n" . $question  . ' (' . ($default ? 'I/n' : 'i/N') . '): ');
 
             $answer = strtoupper(trim(fgets(STDIN)));
         }
@@ -241,7 +241,7 @@ class Compiler {
         $answer = $min - 1;
 
         while ( ($answer < $min) || ($answer > $max) ) {
-            echo ("\n" . General::c($question) . ' (' . $min . '-' . $max . '): ');
+            echo ("\n" . $question . ' (' . $min . '-' . $max . '): ');
 
             $answer = intval(fgets(STDIN));
         }
@@ -254,7 +254,7 @@ class Compiler {
         $match = 0;
 
         while ( $match != 1) {
-            echo ("\n" . General::c($question) . ' ');
+            echo ("\n" . $question . ' ');
 
             $match = preg_match("/^[0-9,\-]+$/", trim(fgets(STDIN)), $regs);
         }
@@ -268,6 +268,9 @@ class Compiler {
 function main() {
     setlocale(LC_ALL, 'hu_HU.utf8');
     date_default_timezone_set('Europe/Budapest');
+
+    //set windows console to utf-8
+    if (DIRECTORY_SEPARATOR == '\\') exec('chcp 65001');
 
     $root_dir = realpath(__DIR__ . '/..');
 

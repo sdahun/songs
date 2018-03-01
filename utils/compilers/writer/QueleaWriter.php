@@ -32,7 +32,7 @@ class QueleaWriter extends AbstractWriter {
         $fname = $this->getNextFile();
         $this->zip->open($path . '/' . $fname, ZipArchive::CREATE);
 
-        echo(General::c("  A Quelea formátumú énekek a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname) . "\n");
+        echo("  A Quelea formátumú énekek a következő fájlba kerülnek:\n    /" . basename($path) . '/' . $fname . "\n");
     }
 
     public function close() {

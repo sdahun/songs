@@ -3,14 +3,6 @@
 namespace sdahun\songs\converter;
 
 class General {
-
-    public static function c($str) {
-        //mac, linux: stay utf-8
-        if (function_exists('posix_isatty') && posix_isatty(STDOUT)) return $str;
-        //windows: convert to cp852
-        return iconv('utf-8', 'cp852', $str);
-    }
-      
       
     public static function get_article($str) {
         $str = trim($str, '"„” ');
