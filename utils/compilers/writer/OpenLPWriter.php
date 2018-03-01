@@ -15,9 +15,14 @@ class OpenLPWriter extends AbstractWriter {
 
     public function __construct(Preferences $prefs) {
         parent::__construct($prefs);
+        $this->name = "OpenLP";
         $this->file_extension = '.zip';
   
         $this->startNewOutput();
+    }
+
+    public static function getWriterName() {
+        return 'OpenLP';
     }
 
     private function startNewOutput() {

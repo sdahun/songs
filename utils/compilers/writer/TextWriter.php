@@ -15,9 +15,14 @@ class TextWriter extends AbstractWriter {
 
     public function __construct(Preferences $prefs) {
         parent::__construct($prefs);
+        $this->name = 'Szövegfájl';
         $this->file_extension = '.zip';
   
         $this->startNewOutput();
+    }
+
+    public static function getWriterName() {
+        return 'Szövegfájl';
     }
 
     private function startNewOutput() {

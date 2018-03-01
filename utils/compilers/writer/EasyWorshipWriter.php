@@ -21,6 +21,10 @@ class EasyWorshipWriter extends AbstractWriter {
         $this->startNewOutput();
     }
 
+    public static function getWriterName() {
+        return 'EasyWorship';
+    }
+
     private function startNewOutput() {
         $this->file_counter = 0;
         $this->ews = [];

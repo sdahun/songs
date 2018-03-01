@@ -20,6 +20,10 @@ class AbstractWriter {
         $this->momentum = time();
     }
 
+    public static function getWriterName() {
+        return '';
+    }
+
     function getNextFile() {
         $result = 'sdahun_songs-' . date ('Y.m.d_H.i.s', $this->momentum);
 

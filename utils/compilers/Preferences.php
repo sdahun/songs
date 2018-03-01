@@ -36,7 +36,7 @@ class Preferences {
                     $prefs .= $key . '[' . $ikey . '] = ' . $ivalue . "\n";
             }
             else {
-                $prefs .= $key . ' = ' . var_export ($value, true) . "\n";
+                $prefs .= $key . ' = ' . $value . "\n";
             }
 
         if (!file_exists (dirname ($this->ini_file)))

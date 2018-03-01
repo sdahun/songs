@@ -78,20 +78,31 @@ class Compiler {
             $this->prefs->set('quick_search',
                 $this->choice(++$question_nr . '.) Legyen az utolsó utáni üres dián gyorskereső hivatkozás?', false));
 
-        $this->prefs->set('output_format',
-            $this->get_number(++$question_nr .
+        $writers = [];
+        foreach (glob (__DIR__ . '/compilers/writer/*Writer.php') as $writer) {
+            $writerObj = 'sdahun\songs\writer\\' . basename($writer, '.php');
+            $writerName = $writerObj::getWriterName();
+            if ($writerName != '')
+                $writers[$writerName] = $writerObj;
+        }
+
+        ksort($writers, SORT_LOCALE_STRING);
+
+        $question = '';
+        $writer_names = array_keys($writers);
+        for ($i = 0; $i < count($writer_names); $i++) {
+            $question .= '    ' . ($i+1) . '.) ' . $writer_names[$i] . "\n";
+        }
+
+        $format = $this->get_number(++$question_nr .
                 ".) Milyen formátumba kerüljenek az énekek?\n".
-                "    1.) OpenLP\n".
-                "    2.) Quelea\n".
-                "    3.) FreeWorship\n".
-                "    4.) EasyWorship\n".
-                "    5.) PowerPoint\n".
-                "    6.) Szovegfajl\n".
-                "  Válasz?", 1, 6));
+                $question .
+                "  Válasz?", 1, count($writer_names));
+
+        $this->prefs->set('output_format', $writers[$writer_names[$format-1]]);
             
-        if (in_array ($this->prefs->get('output_format'), ['6']))
-            $this->prefs->set('batch_size',
-                $this->get_number(++$question_nr . '.) Hány ének kerüljön egy fájlba? (0 = mind egybe)', 0, 1000));
+        $this->prefs->set('batch_size',
+            $this->get_number(++$question_nr . '.) Hány ének kerüljön egy fájlba? (0 = mind egybe)', 0, 1000));
 
         if ($this->get_number(++$question_nr .
             ".) Mely énekeket szeretnéd átalakítani?\n".
@@ -163,7 +174,8 @@ class Compiler {
         echo (str_repeat ('=', 60) . "\n");
         echo (General::c("Kis türelmet, az átalakítás folyamatban...\n"));
         
-        $writer = WriterFactory::getWriter ($this->prefs);
+        $writer_name = $this->prefs->get('output_format');
+        $writer = new $writer_name($this->prefs);
         
         $selected_songs = $this->prefs->get('selected_songs');
         $selected_collections = array_keys($selected_songs);
@@ -254,6 +266,9 @@ class Compiler {
 
 
 function main() {
+    setlocale(LC_ALL, 'hu_HU.utf8');
+    date_default_timezone_set('Europe/Budapest');
+
     $root_dir = realpath(__DIR__ . '/..');
 
     $collections_dir = $root_dir . '/collections';
