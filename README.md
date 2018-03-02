@@ -32,6 +32,8 @@ Az énekszöveg átalakító az alábbi szoftverek számára készít importálh
 
 Az, hogy egyes szoftvereket miért nem támogatunk, a [nem támogatott szoftverek](./docs/NotSupported.md) oldalon van leírva.
 
+# Közreműködés
+
 Ha szeretnél közreműködni a gyűjtemény bővítésében/javításában, akkor az Adventista technikusok fórumában várjuk a jelentkezésed, valamint a github-on is szívesen fogadjuk a hibajegyeket és a pull request-eket is.
 A közreműködők támogtására készült néhány automatikus és manuális ellenőrzést segítő program, amelyről részletesen
 a [Közreműködőknek](./docs/Contribute.md) szánt oldalon lehet olvasni.
