@@ -24,7 +24,7 @@ Az énekszöveg átalakító használatához szükséges telepítési lépések 
 Az énekszöveg átalakító használatáról részletesen a [Használati utasításban](./docs/Usage.md) lehet olvasni.
 
 # Támogatott szoftverek
-Az énekszöveg átalakító az alábbi szoftverek számára készít beimportálható fájlformátumokat:
+Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
 * [OpenLP](https://openlp.org) - ingyenes, nyílt forrású gyülekezeti dicsőítés vetítő szoftver
 * [Quelea](https://quelea.org) - ingyenes gyülekezeti vetítő szoftver
 * [EasyWorship](https://www.easyworship.com/) - egy hatékony, mégis egyszerű gyülekezeti vetítő szoftver (nem ingyenes)
@@ -34,7 +34,7 @@ Az, hogy egyes szoftvereket miért nem támogatunk, a [nem támogatott szoftvere
 
 Ha szeretnél közreműködni a gyűjtemény bővítésében/javításában, akkor az Adventista technikusok fórumában várjuk a jelentkezésed, valamint a github-on is szívesen fogadjuk a hibajegyeket és a pull request-eket is.
 A közreműködők támogtására készült néhány automatikus és manuális ellenőrzést segítő program, amelyről részletesen
-a [Közreműködőknek](./docs/Contibute.md) szánt oldalon lehet olvasni.
+a [Közreműködőknek](./docs/Contribute.md) szánt oldalon lehet olvasni.
 
 # Linkek
 * [Adventista technikusok fóruma](http://technika.adventista.hu)
