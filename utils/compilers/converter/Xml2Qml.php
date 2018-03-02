@@ -43,7 +43,7 @@ class Xml2Qml {
                 'shadowcolor:0x000000ff$shadowX:0.0$shadowY:0.0$shadowradius:2.0$shadowspread:0.0$'.
                 'shadowuse:true$textposition:-1$textalignment:0</theme>'.
                 '<smalllines>' . self::c($title) . "\n" . self::c($author) .
-                (strlen(ccli) > 0 ? '('.self::c($ccli).')' : '');
+                (strlen($ccli) > 0 ? '('.self::c($ccli).')' : '');
             if (substr($result, -1) != "\n")
                 $result .= "\n";
             

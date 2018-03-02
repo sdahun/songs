@@ -27,9 +27,6 @@ class Xml2Pptx {
         $xml = new SimpleXmlElement($xmlsrc);
         $title = $xml->properties->titles->title[0]->__toString();
 
-        if ($lines <  8) $lines = 8;
-        if ($lines > 15) $lines = 15;
-
         $ppt = new PhpPresentation();
         $layout = $ppt->getLayout();
 
@@ -45,7 +42,9 @@ class Xml2Pptx {
             $verseName = self::getVerseName (substr ($verseName, 0, 1)) . ' ' . substr ($verseName, 1);
             $lyrics = str_replace('<br/>', "\n", General::getInnerXml($verse->lines->asXml()));
             $lines = count(explode("\n", $lyrics));
-
+            if ($lines <  8) $lines = 8;
+            if ($lines > 15) $lines = 15;
+        
             if ($slideId == 0)
                 $slide = $ppt->getActiveSlide();
             else
