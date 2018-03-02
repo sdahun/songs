@@ -10,6 +10,7 @@ A kérdések a következők:
 * **Legyen-e nyitó dia, amin megjelenik az ének címe/kezdete?**
 
   A gyűjtemény szándékosan úgy lett elkészítve, hogy nem tartalmaz nyitó diát. Ennek az az oka, hogy ha szükség van a nyitó diára, akkor azt egyszerűbb legenerálni és beszúrni az összes elé, mint egy meglevő nyitó dia tartalmát módosítani/törölni. Mivel jelenleg egyetlen éneknek sincs nyitó diája, az erre a kérdésre adott igen válasszal az énekeknek lesz nyitó diája:
+
   ![Képernyőfotó a nyitó diáról](./images/01.title_slide.png)
 
   * **A nyitó dián szerepeljen-e az elsődleges énekeskönyv neve?**
@@ -17,12 +18,14 @@ A kérdések a következők:
     Ha az első kérdés alapján lesz nyitó dia, akkor annak tartalma kiegészíthető az elsődleges énekeskönyv nevével.
     Egy ének több énekeskönyvben is szerepelhet, ilyenkor mindegyik előfordulás felsorolásra kerül az ének szövegében,
     de a nyitódiára csak az elsődleges énekeskönyv neve kerül feltüntetésre, ha erre a kérdésre is igen a válasz:
+
     ![Képernyőfotó az elsődleges énekeskönyv nevéről](./images/02.title_with_songbook.png) 
 
   * **A nyitó dián szerepeljen-e az ének elsődleges énekeskönyvbeli száma?**
 
     Ha a nyitó dián szerepel az énekeskönyv neve, akkor feltüntethető az elsődleges énekeskönyvbeli sorszám is az
     erre a kérdésre adott igen válasszal:
+    
     ![Képernyőfotó a teljes nyitó diáról](./images/03.full_title_slide.png)
 
 * **Az énekszöveg soronként új sorba kerüljön, vagy sorfolytonosan automatikus tördelésű legyen?**
