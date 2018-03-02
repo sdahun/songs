@@ -16,7 +16,7 @@ Habár a /collections mappában található, énekszövegeket tartalmazó fájlo
 énekvetítő programok képesek közvetlenül importálni (az OpenLyrics xml formátum miatt),
 ennek ellenére azt javasoljuk, hogy az /utils mappában található, compile.php nevű énekszöveg
 átalakító program segítségével készítsd el a számotokra megfelelő szövegváltozatot.
-Az énekszöveg átalakító PHP nyelven íródott, így minden operációs rendszeren futtatható (a php telepítése után).
+Az énekszöveg átalakító PHP nyelven íródott, így minden operációs rendszeren futtatható (a PHP telepítése után).
 
 Az énekszöveg átalakító használatához szükséges telepítési lépések a
 [Telepítési dokumentációban](./docs/Install.md) találhatók.

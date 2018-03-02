@@ -41,7 +41,7 @@ extension=openssl
 A PHP megtalálható a Debian csomagkönyvtáraiban, így a csomagkezelővel egyszerűen telepíthető.
 Terminálból az alábbi paranccsal végezethő el a telepítés:
 
-`apt-get install php-cli php-mbstring`
+`>apt-get install php-cli php-mbstring`
 
 ### 1.3. A PHP telepítése MacOS High Sierra alatt
 MacOS alatt nincs telepítési teendő, az operációs rendszerben alapértelmezetten telepítve van a PHP.
