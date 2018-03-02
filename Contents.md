@@ -24,6 +24,7 @@
 | ---: | :------------------- |
 | 6. | [Adj imádó szívet](https://github.com/sdahun/songs/blob/master/collections/dicserem_neved_4/006.xml) |
 
+
 ## Erőm és Énekem az Úr (/erom_es_enekem_az_ur)
 
 | Ssz. | Az ének címe/kezdete |
@@ -430,51 +431,46 @@
 | 391. | [Minden ember csak halandó](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/391.xml) |
 | 392. | [Béke veled!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/392.xml) |
 | 393. | [Nyugodjál békén, fáradt szív](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/393.xml) |
-
-## Hitünk énekei (/hitunk_enekei_fuggelek)
-
-| Ssz. | Az ének címe/kezdete |
-| ---: | :------------------- |
-| 394. | [Hajoljunk le az Úr előtt](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/394.xml) |
-| 395. | [Téged dicsérni, nagy Isten](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/395.xml) |
-| 396. | [Szent érzelem tölti keblem](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/396.xml) |
-| 397. | [Hívők szent magasztos helye](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/397.xml) |
-| 398. | [Megváltónk lábához leült Mária](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/398.xml) |
-| 399. | [Jó minékünk keresni téged](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/399.xml) |
-| 400. | [Miként a szarvas a folyóvizekre](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/400.xml) |
-| 401. | [Hirdessétek hangos szóval](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/401.xml) |
-| 402. | [Küldd el Atyánk Lelkedet](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/402.xml) |
-| 403. | [Adjátok a szent bibliát kezembe](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/403.xml) |
-| 404. | [Ím ma az egész égbolt](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/404.xml) |
-| 405. | [E szent nap reggele](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/405.xml) |
-| 406. | [A szombat Urunk ajándéka](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/406.xml) |
-| 407. | [Már egy hétnek újra vége](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/407.xml) |
-| 408. | [A munka hat napja után](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/408.xml) |
-| 409. | [Óh nyugalom édes napja](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/409.xml) |
-| 410. | [Dolgaimban, utaimban](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/410.xml) |
-| 411. | [Vidáman készül fel szívem](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/411.xml) |
-| 412. | [Trónod elébe járulunk](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/412.xml) |
-| 413. | [Az Úr napja megérkezett](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/413.xml) |
-| 414. | [Most immár közeleg](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/414.xml) |
-| 415. | [Itt immár az idő](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/415.xml) |
-| 416. | [Az Úr éjfélkor jönni fog](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/416.xml) |
-| 417. | [Eljő az Úr, halleluja!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/417.xml) |
-| 418. | [Jön az ég és föld királya](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/418.xml) |
-| 419. | [A tejjel, mézzel dús hazát](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/419.xml) |
-| 420. | [Halljátok? Jézus hívogat](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/420.xml) |
-| 421. | [Szép honom, otthonom](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/421.xml) |
-| 422. | [Jöjj Megváltódhoz, óh jöjj siess!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/422.xml) |
-| 423. | [Nyájasan szól ma még Megváltónk szava](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/423.xml) |
-| 424. | [A Szentlelket ne űzzed el](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/424.xml) |
-| 425. | [Ő hív, jövel](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/425.xml) |
-| 426. | [Még mostan hangzik folytonost](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/426.xml) |
-| 427. | [Jövel az élet vizéhez](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/427.xml) |
-| 428. | [Keresztény vagy?](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/428.xml) |
-| 429. | [Nincs helyed Jézus számára?](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/429.xml) |
-| 430. | [Pál apostol, a pogányok nagy tanítója](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/430.xml) |
-| 431. | [Öröm van a mennyben](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/431.xml) |
-| 432. | [Jézus szeretetéről énekelek](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/432.xml) |
-| 433. | [Mondjátok, meghalt-e az Úr](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei_fuggelek/433.xml) |
+| 394. | [Hajoljunk le az Úr előtt](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/394.xml) |
+| 395. | [Téged dicsérni, nagy Isten](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/395.xml) |
+| 396. | [Szent érzelem tölti keblem](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/396.xml) |
+| 397. | [Hívők szent magasztos helye](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/397.xml) |
+| 398. | [Megváltónk lábához leült Mária](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/398.xml) |
+| 399. | [Jó minékünk keresni téged](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/399.xml) |
+| 400. | [Miként a szarvas a folyóvizekre](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/400.xml) |
+| 401. | [Hirdessétek hangos szóval](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/401.xml) |
+| 402. | [Küldd el Atyánk Lelkedet](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/402.xml) |
+| 403. | [Adjátok a szent bibliát kezembe](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/403.xml) |
+| 404. | [Ím ma az egész égbolt](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/404.xml) |
+| 405. | [E szent nap reggele](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/405.xml) |
+| 406. | [A szombat Urunk ajándéka](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/406.xml) |
+| 407. | [Már egy hétnek újra vége](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/407.xml) |
+| 408. | [A munka hat napja után](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/408.xml) |
+| 409. | [Óh nyugalom édes napja](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/409.xml) |
+| 410. | [Dolgaimban, utaimban](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/410.xml) |
+| 411. | [Vidáman készül fel szívem](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/411.xml) |
+| 412. | [Trónod elébe járulunk](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/412.xml) |
+| 413. | [Az Úr napja megérkezett](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/413.xml) |
+| 414. | [Most immár közeleg](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/414.xml) |
+| 415. | [Itt immár az idő](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/415.xml) |
+| 416. | [Az Úr éjfélkor jönni fog](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/416.xml) |
+| 417. | [Eljő az Úr, halleluja!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/417.xml) |
+| 418. | [Jön az ég és föld királya](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/418.xml) |
+| 419. | [A tejjel, mézzel dús hazát](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/419.xml) |
+| 420. | [Halljátok? Jézus hívogat](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/420.xml) |
+| 421. | [Szép honom, otthonom](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/421.xml) |
+| 422. | [Jöjj Megváltódhoz, óh jöjj siess!](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/422.xml) |
+| 423. | [Nyájasan szól ma még Megváltónk szava](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/423.xml) |
+| 424. | [A Szentlelket ne űzzed el](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/424.xml) |
+| 425. | [Ő hív, jövel](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/425.xml) |
+| 426. | [Még mostan hangzik folytonost](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/426.xml) |
+| 427. | [Jövel az élet vizéhez](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/427.xml) |
+| 428. | [Keresztény vagy?](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/428.xml) |
+| 429. | [Nincs helyed Jézus számára?](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/429.xml) |
+| 430. | [Pál apostol, a pogányok nagy tanítója](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/430.xml) |
+| 431. | [Öröm van a mennyben](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/431.xml) |
+| 432. | [Jézus szeretetéről énekelek](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/432.xml) |
+| 433. | [Mondjátok, meghalt-e az Úr](https://github.com/sdahun/songs/blob/master/collections/hitunk_enekei/433.xml) |
 
 ## Hozsánna énekes (/hozsanna)
 

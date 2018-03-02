@@ -12,7 +12,7 @@ A lépések a következők:
 Mivel a PHP futtatókörnyezetet minden operációs rendszer alatt másképp kell telepíteni, beállítani,
 ezért ez a lépés rendszerenként külön-külön kerül ismertetésre.
 
-### 1.1 A PHP telepítése Windows alatt
+### 1.1. A PHP telepítése Windows alatt
 A PHP Windows alatt használható verziója a http://windows.php.net/download/ címről tölthető le.
 A weboldalt megnyitva ki kell választani a letöltendő fájlt:
 - VC15 x64 Non Thread Safe - Zip: ezt a változatot 64 bites windows esetén kell használni
@@ -37,13 +37,13 @@ extension=mbstring
 extension=openssl
 ```
 
-### 1.2 A PHP telepítése Debian Linux alatt
+### 1.2. A PHP telepítése Debian Linux alatt
 A PHP megtalálható a Debian csomagkönyvtáraiban, így a csomagkezelővel egyszerűen telepíthető.
 Terminálból az alábbi paranccsal végezethő el a telepítés:
 
 `apt-get install php-cli php-mbstring`
 
-### 1.3 A PHP telepítése MacOS High Sierra alatt
+### 1.3. A PHP telepítése MacOS High Sierra alatt
 MacOS alatt nincs telepítési teendő, az operációs rendszerben alapértelmezetten telepítve van a PHP.
 
 ## 2. Az énekgyűjtemény letöltése
