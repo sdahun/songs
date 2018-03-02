@@ -7,7 +7,7 @@ use \SimpleXmlElement;
 use \sdahun\songs\converter\General;
 
 class Xml2Txt {
-    static public function convert($xmlsrc) {
+    public static function convert($xmlsrc) {
         $xml = new SimpleXmlElement($xmlsrc);
 
         $result = '';
@@ -26,7 +26,7 @@ class Xml2Txt {
         return iconv('utf-8', 'windows-1250', substr($result, 0, -2));
     }
 
-    static private function getVerseName($name) {
+    private static function getVerseName($name) {
         switch ($name) {
             case 'v': return 'Verse';
             case 'c': return 'Chorus';
