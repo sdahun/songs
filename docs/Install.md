@@ -26,6 +26,7 @@ módosítása -> Környezeti változók... nyomógomb -> Felhasználói változ�
 
 A következő teendő, hogy a kicsomagolt mappában található php.ini-production fájlt át kell
 másolni ugyanabba a mappába, php.ini névre.
+
 `C:\PHP>copy php.ini-production php.ini`
 
 Ezt követően a php.ini fájlt meg kell nyitni szerkesztésre a jegyzettömb alkalmazással, majd
@@ -39,6 +40,7 @@ extension=openssl
 ### 1.2 A PHP telepítése Debian Linux alatt
 A PHP megtalálható a Debian csomagkönyvtáraiban, így a csomagkezelővel egyszerűen telepíthető.
 Terminálból az alábbi paranccsal végezethő el a telepítés:
+
 `apt-get install php-cli php-mbstring`
 
 ### 1.3 A PHP telepítése MacOS High Sierra alatt
@@ -53,9 +55,11 @@ A letöltött fájlt ki kell csomagolni egy tetszőleges mappába.
 ## 3. A kiegészítő programkönyvtárak telepítése
 Meg kell nyitni a parancssort (linux, mac alatt: terminal), majd abba a mappába kell lépni,
 ahova kicsomagoltuk az énekgyűjteményt:
+
 `>cd songs-master`
 
 Itt ki kell adnunk a következő parancsot a kiegészítő programkönyvtárak telepítéséhez:
+
 `>php utils/composer.phar install`
 
 Ha ez a parancs lefutott, készen állunk az énekszöveg átalakító használatára.
