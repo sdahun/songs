@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Indulattal soh'se szóljunk</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="434"/>
+      <songbook name="Üdv- és adventi énekek" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indulattal soh’se szóljunk<br/>oly szót, amely sebet ejt,<br/>meg ne nyíljék soha ajkunk,<br/>oly szóra, mely mérget rejt!</lines>
+    </verse>
+    <verse name="c">
+      <lines>Egymást szeressük, mondja Mesterünk,<br/>szeressük egymást mindenekfelett.<br/>Egymást szeressük, ez legyen üdvünk,<br/>hű tanítvány az, ki szeret!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szeretet szent érzelme<br/>hassa által lelkünket!<br/>Helyet ne találjon benne<br/>a harag és gyűlölet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kövessük hát Istenünket,<br/>a szeretet Istenét,<br/>s árasszuk szeretetünket<br/>a világra szerteszét!</lines>
+    </verse>
+  </lyrics>
+</song>
