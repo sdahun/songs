@@ -1,6 +1,10 @@
 <?php
 
 define ('COLLECTIONS_PATH', realpath (dirname(__FILE__) . '/../collections'));
+define ('COMPILATIONS_PATH', realpath (dirname(__FILE__) . '/../compilations'));
+
+setlocale(LC_ALL, 'hu_HU.utf8');
+date_default_timezone_set('Europe/Budapest');
 
 $lasterror = '';
 set_error_handler(
