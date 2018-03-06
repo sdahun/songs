@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Bűnnek tengerében voltam</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="437"/>
+      <songbook name="Üdv- és adventi énekek" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bűnnek tengerében voltam<br/>elmerülve teljesen.<br/>Szörnyű helyzetemről ottan<br/>nem tudtam én semmit sem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó de Jézus látott engem,<br/>s értem mennyből lejöve.<br/>Megkeresett a mélységben,<br/>dics és hála nekie!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kárhozatnak örvényében<br/>forgott lelkem élete.<br/>Az átok nagy sötétjében<br/>el kellett vón’ vesznie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bűnöm átka a mélységbe<br/>rémségesen lesodort.<br/>Lezuhantam és épsége<br/>szívemnek, ah, oda volt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus írta fel az élet<br/>könyvébe a nevemet:<br/>Ő nyújt békét, üdvösséget,<br/>megtisztítja lelkemet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Drága Jézus Te vagy nékem<br/>szabadítóm, mindenem!<br/>Ha szemlélem nagy szerelmed,<br/>hálával kell zengenem:</lines>
+    </verse>
+  </lyrics>
+</song>
