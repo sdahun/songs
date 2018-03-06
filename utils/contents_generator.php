@@ -2,7 +2,7 @@
 
 $rootpath = realpath (__DIR__ . '/..');
 $basepath =  $rootpath . '/collections';
-$github_url = 'https://github.com/sdahun/songs/blob/master/collections/';
+$github_url = './collections/';
 
 $contents = "# Tartalomjegyzék\n\n";
 
