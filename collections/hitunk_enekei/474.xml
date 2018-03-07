@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Fel az áram ellen testvérem!</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="474"/>
+      <songbook name="Üdv- és adventi énekek" entry="478"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fel az áram ellen testvérem!<br/>Küzdjünk ama jobb honba át,<br/>kezeljük erősen evezőnk,<br/>átszelve bátran a vízárt.<br/>S ha zúgnak is a habok néha,<br/>hogy visszaszorítsanak majd,<br/>vesd csak szemed bízva az égre<br/>s leküzdöd csakhamar a bajt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallod-e a távoli hangot?<br/>Mily kedves örömének ez.<br/>A mennyei városból hangzik,<br/>hová a szívünk epedez.<br/>Csak fogd erősen eveződet,<br/>s kezedből azt ki ne bocsásd!<br/>Fel az áram ellen, testvérem,<br/>honunkba érünk majd meglásd!</lines>
+    </verse>
+  </lyrics>
+</song>

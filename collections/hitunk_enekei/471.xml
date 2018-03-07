@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Oly szép az ember, ki a bűnt</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="471"/>
+      <songbook name="Üdv- és adventi énekek" entry="461"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oly szép az ember, ki a bűnt<br/>egészen elveté,<br/>arcáról égi üdv ragyog,<br/>mert szíve Jézusé.<br/>Dicséret hangzik ajkiról,<br/>alázat homlokán<br/>és békesség minden művén,<br/>áldás azok nyomán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily szép, mily szép, ki Jézusé,<br/>kiben a Krisztus látható,<br/>ki Jézust felvevé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A legszebb öltöny, a megtért<br/>hű lélek öltönye,<br/>Oly kedves fénytől tündököl,<br/>igaz fehér szíve.<br/>A szeretet ragyog azon<br/>és mennyei öröm,<br/>rajt’ sok szép erény látható<br/>együtt s külön-külön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha ezt az öltönyt megnyered,<br/>vigyázz lelkem reá<br/>és ne térj attól el soha,<br/>ki azt neked adá.<br/>Ezen világban sok a szenny,<br/>megóvjad öltönyöd!<br/>Ha beszennyezted azt vele,<br/>elvész az örömöd.</lines>
+    </verse>
+  </lyrics>
+</song>

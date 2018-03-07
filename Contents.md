@@ -498,6 +498,23 @@
 | 458. | [Az egész év legszebb szaka](./collections/hitunk_enekei/458.xml) |
 | 459. | [Gyermekek jöjjetek](./collections/hitunk_enekei/459.xml) |
 | 460. | [Ha Megváltónk, ha Megváltónk](./collections/hitunk_enekei/460.xml) |
+| 461. | [Krisztus zászlaja alá egybegyűlünk](./collections/hitunk_enekei/461.xml) |
+| 462. | [Hová oly örömmel gyűlünk](./collections/hitunk_enekei/462.xml) |
+| 463. | [Pásztor keresi a juhát](./collections/hitunk_enekei/463.xml) |
+| 464. | [Egy szép kis helyet ismerek](./collections/hitunk_enekei/464.xml) |
+| 465. | [Óh szombatiskolám, téged](./collections/hitunk_enekei/465.xml) |
+| 466. | [Vígan folyik a kis patak](./collections/hitunk_enekei/466.xml) |
+| 467. | [Megváltóm, ki drága éltedet](./collections/hitunk_enekei/467.xml) |
+| 468. | [Hogyha este fenn az égen](./collections/hitunk_enekei/468.xml) |
+| 469. | [Jöjjetek vígan, zengjük el](./collections/hitunk_enekei/469.xml) |
+| 470. | [Óh vezess a hűs forráshoz](./collections/hitunk_enekei/470.xml) |
+| 471. | [Oly szép az ember, ki a bűnt](./collections/hitunk_enekei/471.xml) |
+| 472. | [Térj be hozzám, Uram!](./collections/hitunk_enekei/472.xml) |
+| 473. | [Boldog akkor leszek én](./collections/hitunk_enekei/473.xml) |
+| 474. | [Fel az áram ellen testvérem!](./collections/hitunk_enekei/474.xml) |
+| 460. | [Mentsváram énnékem az Úr](./collections/hitunk_enekei/475.xml) |
+| 476. | [A megnyitott szent Biblia](./collections/hitunk_enekei/476.xml) |
+| 477. | [Ha komor felhők lengnek éltünk tengerén](./collections/hitunk_enekei/477.xml) |
 
 ## Hozsánna énekes (/hozsanna)
 

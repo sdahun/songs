@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A megnyitott szent Biblia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="476"/>
+      <songbook name="Üdv- és adventi énekek" entry="488"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A megnyitott szent Biblia<br/>javítja meg a helyzetet.<br/>Eme világban általa<br/>mindenki oly boldog lehet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Urunk szava, te égi fény<br/>világíts minden tájon át.<br/>Míg üdvhöz jő az összes nép,<br/>s nap váltja fel az éjszakát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten kegyét, szeretetét,<br/>s lelkünk atyját ismerteti<br/>és az eltévedt lelkeket<br/>igaz ösvényre vezeti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus halálát mondja el<br/>s hogy mily dicsőn feltámadott,<br/>a bűn zsoldját lefizeté<br/>és nekünk életet adott.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>E könyvet Istentől nyerők,<br/>utunknak üdv forrása ez;<br/>ha a sír éje közeleg,<br/>e könyvből ránk fény gerjedez.</lines>
+    </verse>
+  </lyrics>
+</song>
