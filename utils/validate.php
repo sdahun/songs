@@ -26,3 +26,5 @@ foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
     }
 }
 echo(str_repeat('-', 50)."\n");
+
+require(__DIR__ . '/contents_generator.php');
