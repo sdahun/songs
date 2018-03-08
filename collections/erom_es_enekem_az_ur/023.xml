@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Boldog ember</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2</verseOrder>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="23"/>
+    </songbooks>
+    <themes>
+      <theme>Zsolt. 32</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog ember az, ki bűnt nem ismer,<br/>kinek vétke már elfedeztetett.<br/>Néki az Úr bűnt már nem tulajdonít,<br/>lelkében csalárdság nincsen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg elhallgattam megavultak csontjaim,<br/>napestig jajgattam, könnyeztem.<br/>Éjjel, nappal éreztem kezeidet,<br/>szívemre, lelkemre nehezedett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vétkemet bevallottam, bűnöm nem takargattam,<br/>s Te elvetted rólam a bűneim terhét,<br/>szabad, tiszta szívet adtál nekem.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Vétkemet bevallottam, bűnöm nem takargattam,<br/>boldog ember az, kinek szíve bűntelen,<br/>lelkében csalárdság nincsen.</lines>
+    </verse>
+  </lyrics>
+</song>

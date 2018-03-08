@@ -19,6 +19,33 @@ $linecount_exceptions = [
     'erom_es_enekem_az_ur/003.xml;v2;3',
     'erom_es_enekem_az_ur/003.xml;v2;4',
 
+    'erom_es_enekem_az_ur/013.xml;v2;1',
+    'erom_es_enekem_az_ur/013.xml;v2;2',
+    'erom_es_enekem_az_ur/013.xml;v2;3',
+
+    'erom_es_enekem_az_ur/018.xml;v2;1',
+    'erom_es_enekem_az_ur/018.xml;v2;2',
+    'erom_es_enekem_az_ur/018.xml;v3;2',
+
+    'erom_es_enekem_az_ur/022.xml;v2;1',
+    'erom_es_enekem_az_ur/022.xml;v2;2',
+    'erom_es_enekem_az_ur/022.xml;v2;3',
+    'erom_es_enekem_az_ur/022.xml;v3;1',
+    'erom_es_enekem_az_ur/022.xml;v3;2',
+    'erom_es_enekem_az_ur/022.xml;v3;3',
+
+    'erom_es_enekem_az_ur/023.xml;v2;1',
+    'erom_es_enekem_az_ur/023.xml;v2;2',
+    'erom_es_enekem_az_ur/023.xml;v2;4',
+
+    'erom_es_enekem_az_ur/025.xml;v4;1',
+    'erom_es_enekem_az_ur/025.xml;v4;2',
+    'erom_es_enekem_az_ur/025.xml;v4;4',
+
+    'erom_es_enekem_az_ur/028.xml;v2;1',
+    'erom_es_enekem_az_ur/028.xml;v2;2',
+    'erom_es_enekem_az_ur/028.xml;v2;5',
+
     'hozsanna/001.xml;v2;1',
     'hozsanna/001.xml;v2;3',
     'hozsanna/001.xml;v2;4',

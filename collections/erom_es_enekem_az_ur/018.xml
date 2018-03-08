@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr Jézusnak ma tárd ki a szívedet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Graham Kendrick</author>
+      <author type="translation" lang="hu">Mikes Attila</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="18"/>
+    </songbooks>
+    <themes>
+      <theme>Evangélizáció</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr Jézusnak ma tárd ki a szívedet,<br/>hadd formálja át teljesen az életed.<br/>Várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>aki üdvöt ád, (aki üdvöt ád,)<br/>várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>és dicsérd a Királyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő minden foglyot megszabadít, a béna jár,<br/>a poklos gyógyul, hall a süket, a vak is lát.<br/>Várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>aki üdvöt ád, (aki üdvöt ád,)<br/>várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>és dicsérd a Királyt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki terhet hord, ki gyászban jár és könnye hull,<br/>a búját öröm váltja fel és térdre borul.<br/>Várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>aki üdvöt ád, (aki üdvöt ád,)<br/>várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>és dicsérd a Királyt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, fogjad kezünk, Jézusunk és légy velünk,<br/>szent békességed töltse be az életünk.<br/>Várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>aki üdvöt ád, (aki üdvöt ád,)<br/>várd Őt, (várd Őt,) várd Őt, (várd Őt,)<br/>és dicsérd a Királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

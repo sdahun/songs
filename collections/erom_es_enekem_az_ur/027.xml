@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Édes Atyám, Tiéd az ég</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="music">Soproni János</author>
+      <author type="words">Soproni János</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="27"/>
+    </songbooks>
+    <themes>
+      <theme>Istent dicsérő ének</theme>
+      <theme>Közösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Édes Atyám, Tiéd az ég és<br/>Tiéd a föld, a hold és a nap,<br/>ezernyi csillag, megalkotá azt „legyen” szavad.<br/>Kékszínű ég, viharzó tenger,<br/>szikrázó napfény, ősz és a tél,<br/>tavasz virága, nyárnak kalásza,<br/>Téged dicsér.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mélyen meghajtom térdem előtted, Szent Atyám,<br/>őszinte szívvel mondok hálát.<br/>Áldásod, jó kegyelmed gazdagon árad rám,<br/>békét és szent örömöt ád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Édes Atyám, Tiéd a szívem,<br/>Tetőled kaptam új életet.<br/>Azóta érzem mindennap őrző kegyelmedet.<br/>Jönnek bajok, ezer veszély, gond,<br/>próbáltatás és nehéz napok,<br/>nem ártanak, mert Krisztus Jézusban<br/>Tiéd vagyok.</lines>
+    </verse>
+  </lyrics>
+</song>

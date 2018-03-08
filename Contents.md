@@ -1,5 +1,12 @@
 # Tartalomjegyzék
 
+## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 1. | [Zengd Isten nevét](./collections/baptista_gyulekezeti_enekeskonyv/001.xml) |
+| 2. | [Dicsérjétek az Urat](./collections/baptista_gyulekezeti_enekeskonyv/002.xml) |
+
 ## Dicsérem Neved 1 (/dicserem_neved_1)
 
 | Ssz. | Az ének címe/kezdete |
@@ -25,7 +32,7 @@
 | 6. | [Adj imádó szívet](./collections/dicserem_neved_4/006.xml) |
 
 
-## Erőm és Énekem az Úr (/erom_es_enekem_az_ur)
+## Erőm és énekem az Úr (/erom_es_enekem_az_ur)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -33,6 +40,30 @@
 | 2. | [A Krisztus mennybe felméne](./collections/erom_es_enekem_az_ur/002.xml) |
 | 3. | [Áldásoddal megyünk](./collections/erom_es_enekem_az_ur/003.xml) |
 | 4. | [Áldjon meg téged](./collections/erom_es_enekem_az_ur/004.xml) |
+| 5. | [Áldott légy, jó Atyám](./collections/erom_es_enekem_az_ur/005.xml) |
+| 6. | [Áldott légy, mert megváltottál](./collections/erom_es_enekem_az_ur/006.xml) |
+| 7. | [Áldott szavad által](./collections/erom_es_enekem_az_ur/007.xml) |
+| 8. | [Amint vagyok](./collections/erom_es_enekem_az_ur/008.xml) |
+| 9. | [A napfelkeltétől](./collections/erom_es_enekem_az_ur/009.xml) |
+| 10. | [A napkeltétől](./collections/erom_es_enekem_az_ur/010.xml) |
+| 11. | [A tegnap terhe](./collections/erom_es_enekem_az_ur/011.xml) |
+| 12. | [A Te nevedben mi együtt vagyunk](./collections/erom_es_enekem_az_ur/012.xml) |
+| 13. | [Ausgang und Eingang](./collections/erom_es_enekem_az_ur/013.xml) |
+| 14. | [Atyám, két kezedben](./collections/erom_es_enekem_az_ur/014.xml) |
+| 15. | [Az Úr az én jó pásztorom](./collections/erom_es_enekem_az_ur/015.xml) |
+| 16. | [Az Úr csodásan működik](./collections/erom_es_enekem_az_ur/016.xml) |
+| 17. | [Az Úr gondol ránk](./collections/erom_es_enekem_az_ur/017.xml) |
+| 18. | [Az Úr Jézusnak ma tárd ki a szívedet](./collections/erom_es_enekem_az_ur/018.xml) |
+| 19. | [Az Úr jósága, hogy még élünk](./collections/erom_es_enekem_az_ur/019.xml) |
+| 20. | [Az Úrtól béke tereád](./collections/erom_es_enekem_az_ur/020.xml) |
+| 21. | [Az Úr van itt](./collections/erom_es_enekem_az_ur/021.xml) |
+| 22. | [Be still and know](./collections/erom_es_enekem_az_ur/022.xml) |
+| 23. | [Boldog ember](./collections/erom_es_enekem_az_ur/023.xml) |
+| 24. | [Csak nyisd ki a szíved](./collections/erom_es_enekem_az_ur/024.xml) |
+| 25. | [Drága Szentlélek, jöjj](./collections/erom_es_enekem_az_ur/025.xml) |
+| 26. | [Ébredj, bizonyságtévő lélek](./collections/erom_es_enekem_az_ur/026.xml) |
+| 27. | [Édes Atyám, Tiéd az ég](./collections/erom_es_enekem_az_ur/027.xml) |
+| 28. | [Egy hangszer hadd legyek](./collections/erom_es_enekem_az_ur/028.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 

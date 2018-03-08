@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ausgang und Eingang</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Jochen Schwarz</author>
+      <author type="translation" lang="hu">Siklós László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="13"/>
+    </songbooks>
+    <themes>
+      <theme>Odaszánás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ausgang und Eingang,<br/>Anfang und Ende<br/>liegen bei dir, Herr,<br/>füll du uns die Hände.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Szomjúhoz lelkem,<br/>jó reggel, Istenem,<br/>sóvárog testem,<br/>vonj magadhoz engem!”</lines>
+    </verse>
+  </lyrics>
+</song>
