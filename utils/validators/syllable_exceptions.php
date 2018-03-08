@@ -65,6 +65,8 @@ $linecount_exceptions = [
     'hozsanna/015.xml;v2;3',
     'hozsanna/015.xml;v2;6',
 
+    'hozsanna/018.xml;v2;3',
+
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',
   

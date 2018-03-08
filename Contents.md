@@ -566,6 +566,11 @@
 | 13. | [A vakok látnak](./collections/hozsanna/013.xml) |
 | 14. | [Akkor majd táncolva](./collections/hozsanna/014.xml) |
 | 15. | [Adj imádó szívet](./collections/hozsanna/015.xml) |
+| 16. | [Áldásoddal megyünk](./collections/hozsanna/016.xml) |
+| 17. | [Áldjátok az Urat, áldjátok](./collections/hozsanna/017.xml) |
+| 18. | [Áldom szent neved](./collections/hozsanna/018.xml) |
+| 19. | [Áldott légy, Istenem](./collections/hozsanna/019.xml) |
+| 20. | [Áldott szavad által](./collections/hozsanna/020.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
