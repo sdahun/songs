@@ -14,6 +14,8 @@ set_error_handler(
     }
 );
 
+$no_error = true;
+
 foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
     echo(str_repeat('-', 50)."\n");
     try {
@@ -22,9 +24,11 @@ foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
     catch (Exception $e) {
         echo($e->getMessage()."\n");
         echo("Validation suspended at this stage!\n");
+        $no_error = false;
         break;
     }
 }
 echo(str_repeat('-', 50)."\n");
 
-require(__DIR__ . '/contents_generator.php');
+if ($no_error)
+    require(__DIR__ . '/contents_generator.php');
