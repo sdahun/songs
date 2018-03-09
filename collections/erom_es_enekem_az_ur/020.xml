@@ -20,7 +20,7 @@
     <verse name="v1">
       <lines>Az Úrtól béke tereád,<br/>az Úrtól béke tereád,<br/>az Úrtól béke tereád,<br/>az Úrtól béke, béke, béke tereád.</lines>
     </verse>
-    <verse name="v2">
+    <verse name="v2" lang="he">
       <lines>Hevenu shalom alechem,<br/>hevenu shalom alechem,<br/>hevenu shalom alechem,<br/>hevenu shalom, shalom, shalom alechem.</lines>
     </verse>
   </lyrics>

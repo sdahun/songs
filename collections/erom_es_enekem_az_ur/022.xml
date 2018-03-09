@@ -13,13 +13,13 @@
     </themes>
   </properties>
   <lyrics>
-    <verse name="v1">
+    <verse name="v1" lang="en">
       <lines>Be still and know that I am God.<br/>Be still and know that I am God.<br/>Be still and know that I am God.</lines>
     </verse>
-    <verse name="v2">
+    <verse name="v2" lang="en">
       <lines>I am the Lord that heals your pain.<br/>I am the Lord that heals your pain.<br/>I am the Lord that heals your pain.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v3" lang="en">
       <lines>In you, o, Lord, do I put my trust.<br/>In you, o, Lord, do I put my trust.<br/>In you, o, Lord, do I put my trust.</lines>
     </verse>
   </lyrics>
