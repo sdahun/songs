@@ -64,6 +64,10 @@
 | 26. | [Ébredj, bizonyságtévő lélek](./collections/erom_es_enekem_az_ur/026.xml) |
 | 27. | [Édes Atyám, Tiéd az ég](./collections/erom_es_enekem_az_ur/027.xml) |
 | 28. | [Egy hangszer hadd legyek](./collections/erom_es_enekem_az_ur/028.xml) |
+| 29. | [Egymásnak terhét](./collections/erom_es_enekem_az_ur/029.xml) |
+| 30. | [Éjjel, nappal](./collections/erom_es_enekem_az_ur/030.xml) |
+| 31. | [Életutam](./collections/erom_es_enekem_az_ur/031.xml) |
+| 32. | [Elindulunk égő szívvel](./collections/erom_es_enekem_az_ur/032.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -571,6 +575,7 @@
 | 18. | [Áldom szent neved](./collections/hozsanna/018.xml) |
 | 19. | [Áldott légy, Istenem](./collections/hozsanna/019.xml) |
 | 20. | [Áldott szavad által](./collections/hozsanna/020.xml) |
+| 21. | [Álmokat kergettél](./collections/hozsanna/021.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

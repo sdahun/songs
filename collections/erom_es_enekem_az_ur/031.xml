@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Életutam</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">M. Siebald</author>
+      <author type="words">M. Siebald</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="31"/>
+    </songbooks>
+    <themes>
+      <theme>Tanítványság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Életutam míg a Földön járom,<br/>bár ez út néha oly rögös és oly nehéz,<br/>égi célom tán sehol sem látom,<br/>mégis szívemből egy új dal hangja kél!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ott fenn a mennyben vár<br/>az én örök hazám,<br/>hol Krisztust majd megláthatom.<br/>Szívem úgy várja már<br/>e nagy találkozást,<br/>hol mindörökre Őt imádhatom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, most már nem magamban járom,<br/>egy hű barát van, ki mindvégig mellettem áll,<br/>Jézus Krisztus vérével megváltott,<br/>szívemből ez új dal ujjongva száll!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vár engem a béke, örökélet,<br/>mit ember nem gondolt el és szem nem látott még,<br/>hálatelten felcsendül az ének,<br/>szóljon addig míg lelkem hazatér!</lines>
+    </verse>
+  </lyrics>
+</song>
