@@ -15,6 +15,9 @@ foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
 
         if (count($xml->lyrics->verse) > 0) {
             foreach ($xml->lyrics->verse as $verse) {
+                if (isset($verse['lang'])) {
+                    if ($verse['lang'] != 'hu') continue;
+                }
                 $content = $verse->lines->asXML();
                 $content = substr($content, strpos($content, '>')+1);
                 $content = substr($content, 0, strrpos($content, '<'));
