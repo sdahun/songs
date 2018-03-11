@@ -17,8 +17,15 @@ foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
 
     $verseTypes = [];
     $verseCount = count($xml->lyrics->verse);
-    for ($i=0; $i < $verseCount; $i++)
-      $verseTypes[] = $xml->lyrics->verse[$i]['name']->__toString();
+    for ($i=0; $i < $verseCount; $i++) {
+      $verseType = $xml->lyrics->verse[$i]['name']->__toString();
+      if (isset ($verseTypes[$verseType])) {
+        ++$invalid_count;
+        echo('  The "' . $verseType . '" verse name is repeated!'."\n".
+             '    File: '.basename(dirname($file)).'/'.basename($file) . "\n\n");
+      }
+      $verseTypes[] = $verseType;
+    }
 
     foreach ($verseOrder as $vo)
       if (!in_array($vo, $verseTypes)) {
