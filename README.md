@@ -23,6 +23,16 @@ Az énekszöveg átalakító használatához szükséges telepítési lépések 
 
 Az énekszöveg átalakító használatáról részletesen a [Használati utasításban](./docs/Usage.md) lehet olvasni.
 
+# Énekeskönyvek
+
+A gyűjteményekben szereplő énekeskönyvek az alábbi helyeken beszerezhetők:
+* [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu/)
+* [Dicsérem neved 1-5.](http://dicseremneved.hu/)
+* [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur/)
+* [Hitünk énekei](http://adventkiado.hu/)
+* [Hozsánna énekes](http://adventista.hu/)
+* [Szent az Úr](http://adventista.hu/)
+
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
 * [OpenLP](https://openlp.org) - ingyenes, nyílt forrású gyülekezeti dicsőítés vetítő szoftver
