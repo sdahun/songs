@@ -58,6 +58,18 @@ $linecount_exceptions = [
     'erom_es_enekem_az_ur/032.xml;v3;3',
     'erom_es_enekem_az_ur/032.xml;v3;4',
 
+    'erom_es_enekem_az_ur/034.xml;v2;2',
+    'erom_es_enekem_az_ur/034.xml;v2;3',
+
+    'erom_es_enekem_az_ur/038.xml;v2;2',
+    'erom_es_enekem_az_ur/038.xml;v2;3',
+    'erom_es_enekem_az_ur/038.xml;v2;4',
+    'erom_es_enekem_az_ur/038.xml;v2;6',
+    'erom_es_enekem_az_ur/038.xml;v2;8',
+
+    'erom_es_enekem_az_ur/039.xml;v3;5',
+    'erom_es_enekem_az_ur/039.xml;v3;6',
+
     'hozsanna/001.xml;v2;1',
     'hozsanna/001.xml;v2;3',
     'hozsanna/001.xml;v2;4',

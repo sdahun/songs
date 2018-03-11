@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>El Shaddai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 b1 c2</verseOrder>
+    <authors>
+      <author type="music">Michael Card</author>
+      <author type="music">John Thompson</author>
+      <author type="words">Michael Card</author>
+      <author type="words">John Thompson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="33"/>
+    </songbooks>
+    <themes>
+      <theme>Istent dicsérő ének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>El Shaddai, El Shaddai,<br/>örök élő Adonai,<br/>eltelnek évezredek<br/>és Te nem változol meg.<br/>El Shaddai, El Shaddai,<br/>örök élő Adonai.<br/>Rólad szól a szív, a száj,<br/>El Shaddai.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te alkottad az eget,<br/>napot, földet, vizeket.<br/>Ábrahám fiainak<br/>Te jelöltél ki utat.<br/>Szóltál, feltámadt a szél<br/>ott a Vörös tengernél<br/>s néped száraz lábbal kelt át.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A pusztában vezettél,<br/>megbékélést üzentél,<br/>kenyereddel tápláltál,<br/>sasszárnyakon hordoztál.<br/>Mi nem értettük szavad,<br/>elvétettük az utat,<br/>de Te mégis elértél<br/>és Tiednek neveztél.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>El Shaddai, El Shaddai,<br/>örök élő Adonai,<br/>eltelnek évezredek<br/>és Te nem változol meg.<br/>El Shaddai, El Shaddai,<br/>örök élő Adonai.<br/>Életem kezedben már,<br/>El Shaddai.</lines>
+    </verse>
+  </lyrics>
+</song>

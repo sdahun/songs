@@ -68,6 +68,20 @@
 | 30. | [Éjjel, nappal](./collections/erom_es_enekem_az_ur/030.xml) |
 | 31. | [Életutam](./collections/erom_es_enekem_az_ur/031.xml) |
 | 32. | [Elindulunk égő szívvel](./collections/erom_es_enekem_az_ur/032.xml) |
+| 33. | [El Shaddai](./collections/erom_es_enekem_az_ur/033.xml) |
+| 34. | [Emberek vagy angyalok nyelvén](./collections/erom_es_enekem_az_ur/034.xml) |
+| 35. | [Emlékezz meg Teremtődről](./collections/erom_es_enekem_az_ur/035.xml) |
+| 36. | [Én lelkem, zengj szép zsoltárt](./collections/erom_es_enekem_az_ur/036.xml) |
+| 37. | [Erdő mellett estvéledtem](./collections/erom_es_enekem_az_ur/037.xml) |
+| 38. | [Esdve kérlek, Jó Atyám](./collections/erom_es_enekem_az_ur/038.xml) |
+| 39. | [Ez az a nap](./collections/erom_es_enekem_az_ur/039.xml) |
+| 40. | [Este van, imádkozzunk](./collections/erom_es_enekem_az_ur/040.xml) |
+| 41. | [Felséges vagy, Uram](./collections/erom_es_enekem_az_ur/041.xml) |
+| 42. | [Földön és égen](./collections/erom_es_enekem_az_ur/042.xml) |
+| 43. | [Glória szálljon a mennybe fel](./collections/erom_es_enekem_az_ur/043.xml) |
+| 44. | [Give thanks](./collections/erom_es_enekem_az_ur/044.xml) |
+| 45. | [Hála, hogy itt a csendes reggel](./collections/erom_es_enekem_az_ur/045.xml) |
+| 46. | [Hálát adok Néked](./collections/erom_es_enekem_az_ur/046.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -619,6 +633,6 @@
 | 36. | [Szent szavad](./collections/szent_az_ur/036.xml) |
 | 37. | [Szeretet áradjon köztünk](./collections/szent_az_ur/037.xml) |
 | 38. | [Szeretet, szeretet](./collections/szent_az_ur/038.xml) |
-| 39. | [Útaidat, Uram, ismertesd meg](./collections/szent_az_ur/039.xml) |
+| 39. | [Utaidat, Uram, ismertesd meg](./collections/szent_az_ur/039.xml) |
 | 40. | [Van reád gondja az Úrnak](./collections/szent_az_ur/040.xml) |
 
