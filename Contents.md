@@ -6,6 +6,8 @@
 | ---: | :------------------- |
 | 1. | [Zengd Isten nevét](./collections/baptista_gyulekezeti_enekeskonyv/001.xml) |
 | 2. | [Dicsérjétek az Urat](./collections/baptista_gyulekezeti_enekeskonyv/002.xml) |
+| 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
+| 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
 
 ## Dicsérem Neved 1 (/dicserem_neved_1)
 
@@ -82,6 +84,7 @@
 | 44. | [Give thanks](./collections/erom_es_enekem_az_ur/044.xml) |
 | 45. | [Hála, hogy itt a csendes reggel](./collections/erom_es_enekem_az_ur/045.xml) |
 | 46. | [Hálát adok Néked](./collections/erom_es_enekem_az_ur/046.xml) |
+| 47. | [Hálát adok, Uram, az életért](./collections/erom_es_enekem_az_ur/047.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -590,6 +593,10 @@
 | 19. | [Áldott légy, Istenem](./collections/hozsanna/019.xml) |
 | 20. | [Áldott szavad által](./collections/hozsanna/020.xml) |
 | 21. | [Álmokat kergettél](./collections/hozsanna/021.xml) |
+| 22. | [Amikor megérint](./collections/hozsanna/022.xml) |
+| 23. | [Amint vagyok, csak úgy jövök](./collections/hozsanna/023.xml) |
+| 24. | [Amikor úgy érzed](./collections/hozsanna/024.xml) |
+| 25. | [Amint vagyok, sok bűn alatt](./collections/hozsanna/025.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

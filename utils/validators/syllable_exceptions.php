@@ -8,6 +8,8 @@ $linecount_exceptions = [
   
   //format: file;verse;line
   $syllable_exceptions = [
+    'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
+
     'dicserem_neved_2/013.xml;v2;1',
     'dicserem_neved_2/013.xml;v2;2',
 
@@ -93,6 +95,12 @@ $linecount_exceptions = [
 
     'hozsanna/021.xml;v2;1',
     'hozsanna/021.xml;v2;3',
+
+    'hozsanna/023.xml;v2;2',
+
+    'hozsanna/024.xml;v2;2',
+    'hozsanna/024.xml;v2;3',
+    'hozsanna/024.xml;v2;4',
 
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Amikor úgy érzed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 e1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="24"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amikor úgy érzed, hogy minden oly nehéz,<br/>sötét gondok nyomasztják a szívedet,<br/>nem gondolod, hogy valaki lát ilyenkor,<br/>akkor egy csendes hang ezt suttogja neked:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hittel magas hegyet mozdítsz el,<br/>a pusztaság is zöldell,<br/>a nagy tenger hulláma falként félre áll,<br/>hittel a gyenge újra fölkel,<br/>a lankadó erőt nyer,<br/>a hit hatalma történelmet átformál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új remény ébred és a felhők oszlanak,<br/>legördülnek terheid, és felsóhajtasz,<br/>kezed önkéntelenül mozdul az ég felé,<br/>ott van Atyád, aki örökkön örökké él!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A hit legyőzhetetlen,<br/>a legnagyobb erő,<br/>Jézus, a hit fejedelme,<br/>aki eljövendő!</lines>
+    </verse>
+  </lyrics>
+</song>
