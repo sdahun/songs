@@ -12,7 +12,7 @@ function get_inner_xml($str) {
 
 $invalid_count = 0;
 echo("Validate syllables in verses...\n");
-foreach ($all_files as $collection_path => $colelction_files) {
+foreach ($all_files as $collection_path => $collection_files) {
 
   echo('  Validating '.basename($collection_path)."...\n");
   foreach ($collection_files as $file) {
