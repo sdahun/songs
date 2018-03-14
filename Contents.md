@@ -14,6 +14,7 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 7. | [Akkor majd táncolva](./collections/dicserem_neved_1/007.xml) |
+| 29. | [Atyám, két kezedben](./collections/dicserem_neved_1/029.xml) |
 
 ## Dicsérem Neved 2 (/dicserem_neved_2)
 
@@ -85,6 +86,7 @@
 | 45. | [Hála, hogy itt a csendes reggel](./collections/erom_es_enekem_az_ur/045.xml) |
 | 46. | [Hálát adok Néked](./collections/erom_es_enekem_az_ur/046.xml) |
 | 47. | [Hálát adok, Uram, az életért](./collections/erom_es_enekem_az_ur/047.xml) |
+| 48. | [Hálát adunk, jó Istenünk](./collections/erom_es_enekem_az_ur/048.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -597,6 +599,8 @@
 | 23. | [Amint vagyok, csak úgy jövök](./collections/hozsanna/023.xml) |
 | 24. | [Amikor úgy érzed](./collections/hozsanna/024.xml) |
 | 25. | [Amint vagyok, sok bűn alatt](./collections/hozsanna/025.xml) |
+| 26. | [Atyám, két kezedben](./collections/hozsanna/026.xml) |
+| 27. | [Az, aki bennünk](./collections/hozsanna/027.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
