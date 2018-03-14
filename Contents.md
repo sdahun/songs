@@ -8,6 +8,7 @@
 | 2. | [Dicsérjétek az Urat](./collections/baptista_gyulekezeti_enekeskonyv/002.xml) |
 | 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
 | 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
+| 258. | [Az Úr gondol ránk](./collections/baptista_gyulekezeti_enekeskonyv/258.xml) |
 
 ## Dicsérem Neved 1 (/dicserem_neved_1)
 
@@ -601,6 +602,9 @@
 | 25. | [Amint vagyok, sok bűn alatt](./collections/hozsanna/025.xml) |
 | 26. | [Atyám, két kezedben](./collections/hozsanna/026.xml) |
 | 27. | [Az, aki bennünk](./collections/hozsanna/027.xml) |
+| 28. | [Az Isten jó](./collections/hozsanna/028.xml) |
+| 29. | [Az Úr gondol ránk](./collections/hozsanna/029.xml) |
+| 30. | [Az isteni út](./collections/hozsanna/030.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

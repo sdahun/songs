@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr gondol ránk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="258"/>
+      <songbook name="Hozsánna énekes" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr gondol ránk,<br/>az Úr gondol ránk.<br/>Az Úr gondol ránk és Ő megáld.<br/>Az Úr gondol ránk és Ő megáld.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Isten jó</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Isten Jó!<br/>Az Isten Jó!<br/>Az Isten Jó!<br/>Isten jó hozzám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiát adta!<br/>Fiát adta!<br/>Fiát adta!<br/>Isten jó hozzám!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Meghalt értem!<br/>Meghalt értem!<br/>Meghalt értem!<br/>Isten jó hozzám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Feltámadott!<br/>Feltámadott!<br/>Feltámadott!<br/>Isten jó hozzám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Eljön értem!<br/>Eljön értem!<br/>Eljön értem!<br/>Isten jó hozzám!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Felvisz mennybe!<br/>Felvisz mennybe!<br/>Felvisz mennybe!<br/>Isten jó hozzám!</lines>
+    </verse>
+  </lyrics>
+</song>
