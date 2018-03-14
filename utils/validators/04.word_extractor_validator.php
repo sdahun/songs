@@ -2,14 +2,11 @@
 
 $wordlist = [];
 echo("Extracting words for manual spellchecking...\n");
-foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
-    if (!is_dir($collection)) continue;
-
-    //skip given collection
-    if (basename($collection) == 'hitunk_enekei') continue;
+foreach ($all_files as $collection_path => $collection_files) {
   
-    echo('  Extracting '.basename($collection)."...\n");
-    foreach (glob ($collection . '/*.xml') as $file) {
+    echo('  Extracting '.basename($collection_path)."...\n");
+    foreach ($collection_files as $file) {
+        if (!file_exists($file)) continue;
 
         $xml = simplexml_load_string (str_replace ('xmlns=', 'ns=', file_get_contents($file)));
 

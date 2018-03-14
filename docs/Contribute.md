@@ -31,3 +31,12 @@ Sub GetSpellingErrors()
     Next J
 End Sub
 ```
+# Részleges ellenőrzés
+Az énekgyűjtemény teljes újraellenőrzésén kívül lehetőség van a legutóbb módosított/létrehozott fájlok
+ellenőrzésére is. Feltételei:
+- a gépen legyen telepítve és PATH környezeti változóban elérhetővé téve a git parancs
+- a gyűjtemény git repository-ként legyen le-clone-olva
+Ebben az esetben a következő paranccsal csak a módosított/új fájlok kerülnek ellenőrzésre:
+```
+> php utils/validate.php diff
+```

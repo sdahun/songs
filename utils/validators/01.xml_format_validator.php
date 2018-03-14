@@ -4,11 +4,11 @@ define ('RNG_PATH', dirname(__FILE__).'/openlyrics-0.8.rng');
 
 $invalid_count = 0;
 echo("Validate xml files for openlyrics 0.8 format...\n");
-foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
-  if (!is_dir($collection)) continue;
-  
-  echo('  Validating '.basename($collection)."...\n");
-  foreach( glob ($collection.'/*.xml') as $file) {
+
+foreach ($all_files as $collection_path => $collection_files) {
+  echo('  Validating '.basename($collection_path)."...\n");
+  foreach( $collection_files as $file) {
+    if (!file_exists($file)) continue;
     $xml = new DOMDocument();
     $xml->load($file);
     if (!$xml->relaxNGValidate(RNG_PATH)) {

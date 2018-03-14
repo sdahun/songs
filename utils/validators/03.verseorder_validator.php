@@ -3,11 +3,11 @@
 
 $invalid_count = 0;
 echo("Validate verseorder...\n");
-foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
-  if (!is_dir($collection)) continue;
-  
-  echo('  Validating '.basename($collection)."...\n");
-  foreach (glob ($collection . '/*.xml') as $file) {
+foreach ($all_files as $collection_path => $collection_files) {
+
+  echo('  Validating '.basename($collection_path)."...\n");
+  foreach ($collection_files as $file) {
+    if (!file_exists($file)) continue;
 
     $xml = simplexml_load_string (str_replace ('xmlns=', 'ns=', file_get_contents($file)));
 

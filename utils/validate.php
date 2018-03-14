@@ -14,6 +14,30 @@ set_error_handler(
     }
 );
 
+$all_files = [];
+
+if (isset($argv[1]) && $argv[1] == 'diff') {
+    $result = shell_exec('git status --porcelain 2>&1');
+    preg_match_all('/^...collections\/(.*)\/(.*)$/m', $result, $regs);
+    for ($i = 0; $i < count($regs[0]); $i++) {
+        $key = COLLECTIONS_PATH . '/' . $regs[1][$i];
+        if (!isset($all_files[$key]))
+            $all_files[$key] = [$key . '/' . $regs[2][$i]];
+        else
+            $all_files[$key][] = $key . '/' . $regs[2][$i];
+    }
+}
+else {
+    foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
+        if (!is_dir($collection)) continue;
+
+        $all_files[$collection] = [];
+        foreach( glob ($collection.'/*.xml') as $file)
+            $all_files[$collection][] = $file;    
+    }  
+}
+
+
 $no_error = true;
 
 foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {

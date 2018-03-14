@@ -12,11 +12,11 @@ function get_inner_xml($str) {
 
 $invalid_count = 0;
 echo("Validate syllables in verses...\n");
-foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
-  if (!is_dir($collection)) continue;
-  
-  echo('  Validating '.basename($collection)."...\n");
-  foreach (glob ($collection . '/*.xml') as $file) {
+foreach ($all_files as $collection_path => $colelction_files) {
+
+  echo('  Validating '.basename($collection_path)."...\n");
+  foreach ($collection_files as $file) {
+    if (!file_exists($file)) continue;
 
     $xml = simplexml_load_string (str_replace ('xmlns=', 'ns=', file_get_contents($file)));
     $display_file = basename(dirname($file)).'/'.basename($file);
