@@ -40,8 +40,9 @@ else {
 
 $no_error = true;
 
+echo(str_repeat('=', 50)."\n");
+
 foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
-    echo(str_repeat('-', 50)."\n");
     try {
         require($validator);
     }
@@ -51,8 +52,10 @@ foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
         $no_error = false;
         break;
     }
+    echo(str_repeat('-', 50)."\n");
 }
-echo(str_repeat('-', 50)."\n");
 
-if ($no_error)
+if ($no_error) {
     require(__DIR__ . '/contents_generator.php');
+    echo(str_repeat('=', 50)."\n");
+}    
