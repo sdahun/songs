@@ -88,6 +88,10 @@
 | 46. | [Hálát adok Néked](./collections/erom_es_enekem_az_ur/046.xml) |
 | 47. | [Hálát adok, Uram, az életért](./collections/erom_es_enekem_az_ur/047.xml) |
 | 48. | [Hálát adunk, jó Istenünk](./collections/erom_es_enekem_az_ur/048.xml) |
+| 49. | [Halleluja, áldd az Urat](./collections/erom_es_enekem_az_ur/049.xml) |
+| 50. | [Halleluja, zengve zeng hálaének](./collections/erom_es_enekem_az_ur/050.xml) |
+| 51. | [Hallottál-e arról](./collections/erom_es_enekem_az_ur/051.xml) |
+| 52. | [Ha megvallom bűneimet](./collections/erom_es_enekem_az_ur/052.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
