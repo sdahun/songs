@@ -64,7 +64,7 @@ class Xml2Qml {
             case 'c': return 'Chorus';
             case 'p': return 'Pre-Chorus';
             case 'b': return 'Bridge';
-            case 'e': return 'End';
+            case 'e': return 'Tag'; // no "end" tag in quelea 2018.0!
             case 'o': return 'Slide';
             case 't': return 'Tag';
             case 'i': return 'Intro';
