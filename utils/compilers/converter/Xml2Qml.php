@@ -62,12 +62,15 @@ class Xml2Qml {
         switch ($name) {
             case 'v': return 'Verse';
             case 'c': return 'Chorus';
-            case 'p': return 'Pre-Chorus';
-            case 'b': return 'Bridge';
-            case 'e': return 'Tag'; // no "end" tag in quelea 2018.0!
-            case 'o': return 'Slide';
             case 't': return 'Tag';
+            case 'p': return 'Pre-Chorus';
+//            case 'd': return 'Coda'; // existing type in Quelea 2018.0
+            case 'b': return 'Bridge';
             case 'i': return 'Intro';
+//            case 'r': return 'Outro'; //existing type in Quelea 2018.0
+//            case 'l': return 'Interlude'; //existing type in Quelea 2018.0
+            case 'e': return 'Ending';
+            case 'o': return 'Tag'; // no "slide", or "other" tag in quelea 2018.0!
             default: throw new Exception('Please add more type: "' . $name . '" !');
         }
     }
