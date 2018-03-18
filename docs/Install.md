@@ -37,6 +37,10 @@ extension=mbstring
 extension=openssl
 ```
 
+Ha a php indításakor egy felugró ablakban az a hibaüzenet jelenik meg, hogy hiányzik a vcruntime140.dll fájl,
+akkor a http://windows.php.net/download weboldal bal oldali sávjában a "VC11, VC14 & VC15" bekezdésben a
+VC15 sor mellett található két hivatkozás közül még le kell tölteni az operációs rendszernek megfelelő csomagot és telepíteni.
+
 ### 1.2. A PHP telepítése Debian Linux alatt
 A PHP megtalálható a Debian csomagkönyvtáraiban, így a csomagkezelővel egyszerűen telepíthető.
 Terminálból az alábbi paranccsal végezethő el a telepítés:
