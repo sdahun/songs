@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hív már az Úr</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="music">Spirituálé</author>
+      <author type="translation" lang="hu">Déri Balázs, 1984</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="55"/>
+    </songbooks>
+    <themes>
+      <theme>Jézus visszajövetele</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hív már az Úr, hív az Úr,<br/>itt hagyom a földi gondokat.<br/>Hív már az Úr, hív az Úr,<br/>itt hagyom a földi gondokat.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ott fenn majd folyton zeng a dal.<br/>Itt hagyom a földi gondokat.<br/>Ott nem lesz többé sírás, jaj.<br/>Itt hagyom a földi gondokat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, testvér, kelj föl, indulj el,<br/>itt hagyom a földi gondokat.<br/>Mert Jézus mondta: kész a hely,<br/>itt hagyom a földi gondokat.</lines>
+    </verse>
+  </lyrics>
+</song>

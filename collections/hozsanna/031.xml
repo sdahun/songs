@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr irgalma végtelen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="31"/>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr irgalma végtelen,<br/>ezt folyton érzem én.<br/>Ha bár nincs semmi érdemem,<br/>Ő mégis hord kezén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs arra szó, sem gondolat,<br/>mi jóval áld az Úr.<br/>Ha lankadok, Ő szárnyat ad,<br/>és terhem mind lehull.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok itt a bűn és küzdelem,<br/>az orkán zúgva dúl.<br/>De minden vészben, tengeren<br/>megtart, megvéd az Úr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha véget ér az életem,<br/>új otthont nyújt az ég.<br/>Ott még szebb hangon zenghetem<br/>a Bárány énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -9,6 +9,7 @@
 | 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
 | 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
 | 258. | [Az Úr gondol ránk](./collections/baptista_gyulekezeti_enekeskonyv/258.xml) |
+| 270. | [Az Úr irgalma végtelen](./collections/baptista_gyulekezeti_enekeskonyv/270.xml) |
 
 ## Dicsérem Neved 1 (/dicserem_neved_1)
 
@@ -92,6 +93,11 @@
 | 50. | [Halleluja, zengve zeng hálaének](./collections/erom_es_enekem_az_ur/050.xml) |
 | 51. | [Hallottál-e arról](./collections/erom_es_enekem_az_ur/051.xml) |
 | 52. | [Ha megvallom bűneimet](./collections/erom_es_enekem_az_ur/052.xml) |
+| 53. | [Hinni taníts, Uram](./collections/erom_es_enekem_az_ur/053.xml) |
+| 54. | [Hiszek, Uram](./collections/erom_es_enekem_az_ur/054.xml) |
+| 55. | [Hív már az Úr](./collections/erom_es_enekem_az_ur/055.xml) |
+| 57. | [Hozzád jövünk, Uram](./collections/erom_es_enekem_az_ur/056.xml) |
+| 57. | [Hozsánna, hozsánna](./collections/erom_es_enekem_az_ur/057.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -609,6 +615,7 @@
 | 28. | [Az Isten jó](./collections/hozsanna/028.xml) |
 | 29. | [Az Úr gondol ránk](./collections/hozsanna/029.xml) |
 | 30. | [Az isteni út](./collections/hozsanna/030.xml) |
+| 31. | [Az Úr irgalma végtelen](./collections/hozsanna/031.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
