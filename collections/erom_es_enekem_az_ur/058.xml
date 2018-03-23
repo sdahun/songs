@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hűséged végtelen</title>
+      <title>Great Is Thy Faithfulness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">William M. Runyan, 1923</author>
+      <author type="words">Thomas O. Chisholm, 1923</author>
+      <author type="translation" lang="hu">Gerzsenyi László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="58"/>
+    </songbooks>
+    <themes>
+      <theme>Hálaadás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hűséged végtelen, Atyám, nagy Isten,<br/>elhat a mennybe az egek fölé.<br/>Irgalmad nem fogy a múló idővel,<br/>ki voltál, az maradsz mindörökké.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hűséged végtelen, hűséged végtelen,<br/>minden nap új áldás árad reám.<br/>Hiányom pótolod hatalmas kézzel:<br/>hűséged végtelen, Uram, hozzám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A tél, a nyár, az ősz, a feslő tavasz,<br/>a nap, a hold s a nagy csillagsereg<br/>ezt zengi szüntelen együttes karban:<br/>Te vagy az irgalom, a szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eltörlöd bűnömet, békéd vesz körül,<br/>velem vagy, s lényed úgy megvidámít!<br/>Erőt adsz mára, a holnapra reményt.<br/>Áldásod ontja rám bő árjait.</lines>
+    </verse>
+  </lyrics>
+</song>

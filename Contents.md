@@ -98,6 +98,9 @@
 | 55. | [Hív már az Úr](./collections/erom_es_enekem_az_ur/055.xml) |
 | 57. | [Hozzád jövünk, Uram](./collections/erom_es_enekem_az_ur/056.xml) |
 | 57. | [Hozsánna, hozsánna](./collections/erom_es_enekem_az_ur/057.xml) |
+| 58. | [Hűséged végtelen](./collections/erom_es_enekem_az_ur/058.xml) |
+| 59. | [Így szól ma tehozzád Jézus](./collections/erom_es_enekem_az_ur/059.xml) |
+| 60. | [I love You, Lord](./collections/erom_es_enekem_az_ur/060.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
@@ -616,6 +619,8 @@
 | 29. | [Az Úr gondol ránk](./collections/hozsanna/029.xml) |
 | 30. | [Az isteni út](./collections/hozsanna/030.xml) |
 | 31. | [Az Úr irgalma végtelen](./collections/hozsanna/031.xml) |
+| 32. | [Az Úr örömmel](./collections/hozsanna/032.xml) |
+| 33. | [Az Úr van itt](./collections/hozsanna/033.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

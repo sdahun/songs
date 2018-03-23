@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr örömmel</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr örömmel tölti be a szívemet,<br/>az Ő öröme az én erőm!<br/>Szívem ujjong örömében<br/>és dicséretét zengem,<br/>az Úr örömöt ad nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

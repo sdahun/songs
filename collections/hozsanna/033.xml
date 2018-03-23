@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr van itt</title>
+    </titles>
+    <verseOrder>v1 v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr van itt, (az Úr van itt),<br/>a te Istened, (a te Istened),<br/>Ő vár rád, (Ő vár rád),<br/>Ő vár rád! (Ő vár rád!)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hogy elmondja,<br/>mennyire szeret,<br/>a legdrágábbat adta érted.<br/>Az Ő fiát, (az Ő fiát),<br/>aki most is él, (aki most is él),<br/>s uralkodik mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>
