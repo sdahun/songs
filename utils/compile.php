@@ -198,6 +198,8 @@ class Compiler {
                 if ($selected_numbers == '0')
                     $selected_numbers = '1-1000';
 
+                $writer->writeCollectionHeader($collection_path);
+
                 foreach (explode(',', $selected_numbers) as $range) {
                     $songs = explode('-', $range);
 

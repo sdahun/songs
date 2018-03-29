@@ -34,4 +34,8 @@ class AbstractWriter {
 
         return $result;
     }
+
+    function writeCollectionHeader($collection_path) {
+        return;
+    }
 }
