@@ -50,7 +50,7 @@ a [Közreműködőknek](./docs/Contribute.md) szánt oldalon lehet olvasni.
 
 # Énekszövegek Android telefonra
 
-Az itt található legfrissebb énekszöveg változatok nem egyszerűen, be belevarázsolhatók a Hitünk Énekei nevű Google Play alkalmazásba. Ennek a [lépésenkénti leírása](./docs/Android.md) a linkre kattintva olvasható.
+Az itt található legfrissebb énekszöveg változatok nem egyszerűen, de belevarázsolhatók a Hitünk Énekei nevű Google Play alkalmazásba. Ennek a [lépésenkénti leírása](./docs/Android.md) a linkre kattintva olvasható.
 
 # Linkek
 * [Adventista technikusok fóruma](http://technika.adventista.hu)
