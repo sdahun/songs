@@ -76,7 +76,7 @@ foreach (glob (__DIR__.'/../collections/*') as $collection) {
     }
 }
 
-$result = "#Énekeskönyvek tárgymutatói\n\n";
+$result = "# Énekeskönyvek tárgymutatói\n\n";
 
 foreach($fnames as $fname) {
     $result .= '* ['.basename($fname, '_index.md').']('.basename($fname).")\n";
