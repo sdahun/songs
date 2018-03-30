@@ -56,6 +56,7 @@ foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
 }
 
 if ($no_error) {
+    require(__DIR__ . '/index_generator.php');
     require(__DIR__ . '/contents_generator.php');
     echo("Please check words in /compilations/wordlist.txt before commiting!\n");
     echo(str_repeat('=', 50)."\n");

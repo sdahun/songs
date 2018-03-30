@@ -4,7 +4,8 @@
 
 Itt gyűjtjük össze a gyülekezeteinkben és rendezvényeinken énekelt énekek
 szövegeit OpenLyrics xml formátumban. Az eddig összegyűjtött énekszövegek listája az
-[Énekek tartalomjegyzékében](./Contents.md) tekinthető meg.
+[Énekek tartalomjegyzékében](./Contents.md) tekinthető meg, az énekeskönyvek tárgymutatói
+pedig a [Tárgymutatóban](./docs/index/README.md) olvashatók.
 
 Azért választottuk ezt a felületet az énekszövegek gyűjtésére, mert a verziókezelésnek
 köszönhetően mindenki követni tudja azt, hogy az utolsó frissítése óta milyen új énekszövegek
