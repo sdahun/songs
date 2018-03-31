@@ -10,6 +10,7 @@
 | 007 | [A mi Urunk szent](../../collections/dicserem_neved_2/007.xml) |
 | 009 | [A sír üres](../../collections/dicserem_neved_2/009.xml) |
 | 010 | [A tegnap terhe](../../collections/dicserem_neved_2/010.xml) |
+| 013 | [A vakok látnak](../../collections/dicserem_neved_2/013.xml) |
 
 ## Bűnbánat és megújulás
 

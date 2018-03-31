@@ -9,6 +9,10 @@
       <songbook name="Dicsérem Neved 2" entry="13"/>
       <songbook name="Hozsánna énekes" entry="13"/>
     </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Lk 7,22</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
