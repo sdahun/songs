@@ -10,6 +10,27 @@ $linecount_exceptions = [
   $syllable_exceptions = [
     'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
 
+    'dicserem_neved_2/006.xml;v2;2',
+
+    'dicserem_neved_2/009.xml;v2;1',
+    'dicserem_neved_2/009.xml;v3;1',
+    'dicserem_neved_2/009.xml;v3;2',
+
+    'dicserem_neved_2/011.xml;v2;1',
+    'dicserem_neved_2/011.xml;v2;3',
+    'dicserem_neved_2/011.xml;v2;4',
+    'dicserem_neved_2/011.xml;v3;1',
+    'dicserem_neved_2/011.xml;v3;2',
+    'dicserem_neved_2/011.xml;v3;3',
+    'dicserem_neved_2/011.xml;v3;4',
+    'dicserem_neved_2/011.xml;v3;5',
+
+    'dicserem_neved_2/012.xml;v2;1',
+    'dicserem_neved_2/012.xml;v2;3',
+    'dicserem_neved_2/012.xml;v3;1',
+    'dicserem_neved_2/012.xml;v3;3',
+    'dicserem_neved_2/012.xml;v3;4',
+
     'dicserem_neved_2/013.xml;v2;1',
     'dicserem_neved_2/013.xml;v2;2',
 

@@ -83,3 +83,4 @@ foreach($fnames as $fname) {
 }
 
 file_put_contents(__DIR__.'/../docs/index/README.md', $result);
+echo('Indices (re)generated successfully!'."\n");

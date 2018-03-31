@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ahogy nézlek Téged</title>
+      <title>Whenever I See</title>
+    </titles>
+    <copyright>© 1994 Maranatha! Music Word Music, LLC</copyright>
+    <verseOrder>v1 c1 c2 c1</verseOrder>
+    <ccliNo>1600123</ccliNo>
+    <authors>
+      <author>Geoff Bullock</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Dicséret és imádat</theme>
+      <theme>2Kor 5,1</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ahogy nézlek Téged, elszáll minden félelem.<br/>Ahogy szól szelíd szavad, nem kérdezek már.<br/>Amikor érzem: itt vagy, Szent Szellemed hoz közel.<br/>Erős karod átölel, és új élet tölt el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A mennyben van otthonom, szívem szárnyal szabadon.<br/>Lelkem megnyugszik benned, átitatja keneted.<br/>A halál itt véget ér, mert nem hagy el a remény,<br/>hogy a végén meglátlak ott fenn.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Vezess tovább Istenem, és engedd megértenem<br/>szent célodat, tervedet, kedves akaratod.<br/>Adj próbában kegyelmet, bátorságot, hűséget,<br/>hogy mindvégig győztesen álljak meg hitben.</lines>
+    </verse>
+  </lyrics>
+</song>

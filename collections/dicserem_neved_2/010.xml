@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A tegnap terhe</title>
+    </titles>
+    <verseOrder>v1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="10"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>JSir 3, 23-24</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A tegnap terhe már a tegnapé,<br/>a holnap árnya még a holnapé.<br/>Minden új reggelen<br/>örök útitársam köszönthetem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jó reggelt, Uram, Jézus!<br/>Jó reggelt, öröm!<br/>Jó reggelt, békesség!<br/>Jó reggelt, kegyelem!</lines>
+    </verse>
+  </lyrics>
+</song>
