@@ -4,18 +4,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 078 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
-| 085 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
-| 086 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 78 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 85 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
+| 86 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
 
 ## A Fiú Isten feltámadása
 
@@ -58,16 +58,16 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
-| 088 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
-| 089 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
-| 090 | [Egy drága Gyermek született](../../collections/hitunk_enekei/090.xml) |
-| 091 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 094 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 88 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
+| 89 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
+| 90 | [Egy drága Gyermek született](../../collections/hitunk_enekei/090.xml) |
+| 91 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 94 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
 
 ## A Fiú Isten visszajövetele
 
@@ -90,9 +90,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 097 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 97 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
@@ -123,12 +123,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
 
 ## A Szentlélek Isten
 
@@ -509,10 +509,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
 | 181 | [Jézus téged visszavár!](../../collections/hitunk_enekei/181.xml) |
 | 193 | [Várj, ember szíve, készen!](../../collections/hitunk_enekei/193.xml) |
@@ -527,17 +527,17 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 086 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
-| 094 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 86 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
+| 94 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
 | 129 | [A csillagos nagy ég](../../collections/hitunk_enekei/129.xml) |
 | 135 | [Jézus Krisztus jön a felhőn](../../collections/hitunk_enekei/135.xml) |
 | 141 | [Halld, ó! halld, mily hangos szó](../../collections/hitunk_enekei/141.xml) |
@@ -549,92 +549,92 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
 
 ## Az Atya Isten igéje és törvénye
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
 
 ## Az Atya Isten szeretete és gondviselése
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
 
 ## Becsületesség
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
 | 133 | [Áldott légy Krisztus, e világnak Ura!](../../collections/hitunk_enekei/133.xml) |
 | 254 | [Add nékem szent erőd, Jézus](../../collections/hitunk_enekei/254.xml) |
 | 278 | [Úgy legyen minden, Istenem](../../collections/hitunk_enekei/278.xml) |
@@ -645,11 +645,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
 | 199 | [Krisztusom, kívüled nincs kihez járulnom](../../collections/hitunk_enekei/199.xml) |
 | 216 | [Hadd menjek, Istenem, mindig feléd](../../collections/hitunk_enekei/216.xml) |
@@ -665,27 +665,27 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
@@ -749,16 +749,16 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 155 | [Erőnek és hitnek Lelke](../../collections/hitunk_enekei/155.xml) |
@@ -786,21 +786,21 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
 | 124 | [Áll a Krisztus szent keresztje](../../collections/hitunk_enekei/124.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |
 | 184 | [Most fény tör át a tárt kapun](../../collections/hitunk_enekei/184.xml) |
@@ -822,20 +822,20 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 138 | [Mondd, miért szunnyadsz](../../collections/hitunk_enekei/138.xml) |
@@ -884,28 +884,28 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 124 | [Áll a Krisztus szent keresztje](../../collections/hitunk_enekei/124.xml) |
@@ -938,7 +938,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 155 | [Erőnek és hitnek Lelke](../../collections/hitunk_enekei/155.xml) |
 | 230 | [Csak haladj, csak haladj](../../collections/hitunk_enekei/230.xml) |
@@ -961,17 +961,17 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 113 | [A keresztfát ha nézem én](../../collections/hitunk_enekei/113.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 115 | [Isten örök szeretete](../../collections/hitunk_enekei/115.xml) |
@@ -1006,7 +1006,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
 | 132 | [Egy drága forrást ismerek](../../collections/hitunk_enekei/132.xml) |
@@ -1041,8 +1041,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
 | 158 | [Jövel Szentlélek Úr Isten](../../collections/hitunk_enekei/158.xml) |
@@ -1065,7 +1065,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 208 | [Ó! vezess kézenfogva](../../collections/hitunk_enekei/208.xml) |
 | 235 | [Ki Istenének átad mindent](../../collections/hitunk_enekei/235.xml) |
@@ -1076,16 +1076,16 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
 | 133 | [Áldott légy Krisztus, e világnak Ura!](../../collections/hitunk_enekei/133.xml) |
@@ -1109,14 +1109,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
 | 210 | [Uram, taníts engem arra](../../collections/hitunk_enekei/210.xml) |
 | 230 | [Csak haladj, csak haladj](../../collections/hitunk_enekei/230.xml) |
 | 238 | [Emlékezzél, mi történék](../../collections/hitunk_enekei/238.xml) |
@@ -1149,10 +1149,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
 | 163 | [Jövel, élet Lelke](../../collections/hitunk_enekei/163.xml) |
 | 228 | [Tebenned bízva megyek én](../../collections/hitunk_enekei/228.xml) |
 | 230 | [Csak haladj, csak haladj](../../collections/hitunk_enekei/230.xml) |
@@ -1178,8 +1178,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
 | 110 | [Kezdetben volt az Ige](../../collections/hitunk_enekei/110.xml) |
 | 166 | [Ne szállj perbe énvelem](../../collections/hitunk_enekei/166.xml) |
 | 168 | [Légy irgalmas, Úr Isten](../../collections/hitunk_enekei/168.xml) |
@@ -1191,11 +1191,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |
@@ -1219,10 +1219,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
 | 138 | [Mondd, miért szunnyadsz](../../collections/hitunk_enekei/138.xml) |
 | 156 | [Jövel, Szentlélek Úr Isten](../../collections/hitunk_enekei/156.xml) |
@@ -1280,8 +1280,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 147 | [A bánat éje nem örök](../../collections/hitunk_enekei/147.xml) |
 | 171 | [Bocsásd meg, Úr Isten](../../collections/hitunk_enekei/171.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
@@ -1299,30 +1299,30 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
 | 133 | [Áldott légy Krisztus, e világnak Ura!](../../collections/hitunk_enekei/133.xml) |
 | 158 | [Jövel Szentlélek Úr Isten](../../collections/hitunk_enekei/158.xml) |
 | 203 | [Jóságod, Isten, végtelen](../../collections/hitunk_enekei/203.xml) |
@@ -1355,18 +1355,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
 | 132 | [Egy drága forrást ismerek](../../collections/hitunk_enekei/132.xml) |
 | 156 | [Jövel, Szentlélek Úr Isten](../../collections/hitunk_enekei/156.xml) |
 | 166 | [Ne szállj perbe énvelem](../../collections/hitunk_enekei/166.xml) |
@@ -1396,10 +1396,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 177 | [Mint látod, hűtlen szolgaként](../../collections/hitunk_enekei/177.xml) |
@@ -1415,8 +1415,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |
 | 152 | [Jézus, én bizodalmam](../../collections/hitunk_enekei/152.xml) |
@@ -1432,14 +1432,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 143 | [A jöttöd miként várjam](../../collections/hitunk_enekei/143.xml) |
@@ -1472,33 +1472,33 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 085 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 85 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 118 | [Jézus, élte életemnek](../../collections/hitunk_enekei/118.xml) |
@@ -1530,12 +1530,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 138 | [Mondd, miért szunnyadsz](../../collections/hitunk_enekei/138.xml) |
 | 141 | [Halld, ó! halld, mily hangos szó](../../collections/hitunk_enekei/141.xml) |
 | 159 | [Ó! jöjj el, Isten Lelke](../../collections/hitunk_enekei/159.xml) |
@@ -1560,7 +1560,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
 | 171 | [Bocsásd meg, Úr Isten](../../collections/hitunk_enekei/171.xml) |
 | 304 | [Ó! boldog ház, mely befogadott téged](../../collections/hitunk_enekei/304.xml) |
 
@@ -1568,14 +1568,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 107 | [Mily édes vagy te szeretet](../../collections/hitunk_enekei/107.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
@@ -1600,23 +1600,23 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
 | 133 | [Áldott légy Krisztus, e világnak Ura!](../../collections/hitunk_enekei/133.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
 | 161 | [Szentlélek, végy körül bennünket](../../collections/hitunk_enekei/161.xml) |
@@ -1655,21 +1655,21 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 158 | [Jövel Szentlélek Úr Isten](../../collections/hitunk_enekei/158.xml) |
 | 168 | [Légy irgalmas, Úr Isten](../../collections/hitunk_enekei/168.xml) |
@@ -1690,13 +1690,13 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
 | 197 | [Hozzád kiáltok, én Istenem](../../collections/hitunk_enekei/197.xml) |
 | 233 | [Én minden dolgaimban](../../collections/hitunk_enekei/233.xml) |
 | 271 | [Áldásodat érzi minden](../../collections/hitunk_enekei/271.xml) |
@@ -1708,9 +1708,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 189 | [Ó! Jézus, árva csendben](../../collections/hitunk_enekei/189.xml) |
 | 192 | [Tégy foglyoddá, Uram](../../collections/hitunk_enekei/192.xml) |
@@ -1721,58 +1721,58 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
 | 160 | [Úr Jézus Krisztus, légy velünk](../../collections/hitunk_enekei/160.xml) |
 | 175 | [Minden népek hirdessétek](../../collections/hitunk_enekei/175.xml) |
 | 222 | [Legyen szívünk mindig vidám](../../collections/hitunk_enekei/222.xml) |
@@ -1788,26 +1788,26 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
 
 ## Isten félelme
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 325 | [Úr Jézus, mely igen drága](../../collections/hitunk_enekei/325.xml) |
@@ -1816,23 +1816,23 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 265 | [Teremtő Istenünk, Édes Atyánk](../../collections/hitunk_enekei/265.xml) |
 | 280 | [Hagyd minden utad arra](../../collections/hitunk_enekei/280.xml) |
 
@@ -1840,10 +1840,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
 | 201 | [Úgy jó, amint Isten vezet](../../collections/hitunk_enekei/201.xml) |
 | 233 | [Én minden dolgaimban](../../collections/hitunk_enekei/233.xml) |
 | 251 | [Térj magadhoz, drága Sion](../../collections/hitunk_enekei/251.xml) |
@@ -1853,12 +1853,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
 | 145 | [Az erős Isten, uraknak Ura](../../collections/hitunk_enekei/145.xml) |
 | 247 | [Ne hagyj elesnem, felséges Isten](../../collections/hitunk_enekei/247.xml) |
 
@@ -1866,30 +1866,30 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
 | 107 | [Mily édes vagy te szeretet](../../collections/hitunk_enekei/107.xml) |
 | 145 | [Az erős Isten, uraknak Ura](../../collections/hitunk_enekei/145.xml) |
 | 149 | [Az Úrnak áldott nagy kegyelme](../../collections/hitunk_enekei/149.xml) |
@@ -1927,8 +1927,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
 | 156 | [Jövel, Szentlélek Úr Isten](../../collections/hitunk_enekei/156.xml) |
 | 210 | [Uram, taníts engem arra](../../collections/hitunk_enekei/210.xml) |
 
@@ -1936,14 +1936,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
 | 160 | [Úr Jézus Krisztus, légy velünk](../../collections/hitunk_enekei/160.xml) |
 | 316 | [Kegyes Jézus, itt vagyunk](../../collections/hitunk_enekei/316.xml) |
 | 317 | [Nyíljatok meg égi ajtók](../../collections/hitunk_enekei/317.xml) |
@@ -1954,26 +1954,26 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 168 | [Légy irgalmas, Úr Isten](../../collections/hitunk_enekei/168.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 203 | [Jóságod, Isten, végtelen](../../collections/hitunk_enekei/203.xml) |
@@ -1987,7 +1987,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
 | 172 | [Dicsőséges égi Felség!](../../collections/hitunk_enekei/172.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 177 | [Mint látod, hűtlen szolgaként](../../collections/hitunk_enekei/177.xml) |
@@ -2004,10 +2004,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
 | 178 | [Hallgass meg minket, Úr Isten](../../collections/hitunk_enekei/178.xml) |
 | 273 | [Hogyha néha úgy is érzed](../../collections/hitunk_enekei/273.xml) |
 
@@ -2015,7 +2015,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
 | 144 | [Ébredj ember, hangzik folyton](../../collections/hitunk_enekei/144.xml) |
 | 146 | [Ó! Jeruzsálem, szép honom](../../collections/hitunk_enekei/146.xml) |
 | 148 | [Nincs maradandó városunk](../../collections/hitunk_enekei/148.xml) |
@@ -2028,15 +2028,15 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
 | 232 | [Én áldott Istenem](../../collections/hitunk_enekei/232.xml) |
 | 235 | [Ki Istenének átad mindent](../../collections/hitunk_enekei/235.xml) |
 | 239 | [Istenben bízom én](../../collections/hitunk_enekei/239.xml) |
@@ -2056,19 +2056,19 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
 | 145 | [Az erős Isten, uraknak Ura](../../collections/hitunk_enekei/145.xml) |
 | 168 | [Légy irgalmas, Úr Isten](../../collections/hitunk_enekei/168.xml) |
 | 170 | [Eltévedtem, mint juh](../../collections/hitunk_enekei/170.xml) |
@@ -2107,39 +2107,39 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
 
 ## Isten szeretete
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 097 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 97 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
 | 107 | [Mily édes vagy te szeretet](../../collections/hitunk_enekei/107.xml) |
@@ -2160,22 +2160,22 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
 | 321 | [Adjunk hálát mindnyájan](../../collections/hitunk_enekei/321.xml) |
 
 ## Isten törvénye
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
 | 196 | [Kegyes Jézus, én imádságomra](../../collections/hitunk_enekei/196.xml) |
 | 197 | [Hozzád kiáltok, én Istenem](../../collections/hitunk_enekei/197.xml) |
 | 221 | [Rejts magadba sziklaszál](../../collections/hitunk_enekei/221.xml) |
@@ -2185,29 +2185,29 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 156 | [Jövel, Szentlélek Úr Isten](../../collections/hitunk_enekei/156.xml) |
@@ -2246,13 +2246,13 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
 | 271 | [Áldásodat érzi minden](../../collections/hitunk_enekei/271.xml) |
 | 297 | [Ó! áldott óra, meghitt perc](../../collections/hitunk_enekei/297.xml) |
 | 304 | [Ó! boldog ház, mely befogadott téged](../../collections/hitunk_enekei/304.xml) |
@@ -2262,11 +2262,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
 | 134 | [Napban, holdban, mindenütt](../../collections/hitunk_enekei/134.xml) |
@@ -2283,18 +2283,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
 
 ## Jézus Krisztus Isten Báránya
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
 | 112 | [Krisztus, ártatlan Bárány](../../collections/hitunk_enekei/112.xml) |
 | 119 | [Ó! ártatlanság Báránya](../../collections/hitunk_enekei/119.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
@@ -2306,16 +2306,16 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 078 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
-| 088 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
-| 091 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 78 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
+| 88 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
+| 91 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
 
@@ -2323,33 +2323,33 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 089 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
-| 091 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 89 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
+| 91 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 
 ## Jézus Krisztus dicsérete
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 078 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
-| 085 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
-| 086 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 78 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 85 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
+| 86 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 111 | [A jóság az én pásztorom](../../collections/hitunk_enekei/111.xml) |
@@ -2386,8 +2386,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
@@ -2424,11 +2424,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 088 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 88 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
 | 111 | [A jóság az én pásztorom](../../collections/hitunk_enekei/111.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 131 | [Ó! Úr Jézus! egeknek nagy királya!](../../collections/hitunk_enekei/131.xml) |
@@ -2449,11 +2449,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 119 | [Ó! ártatlanság Báránya](../../collections/hitunk_enekei/119.xml) |
 | 129 | [A csillagos nagy ég](../../collections/hitunk_enekei/129.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |
@@ -2464,9 +2464,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
@@ -2512,14 +2512,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 086 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
-| 097 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 86 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 97 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 119 | [Ó! ártatlanság Báránya](../../collections/hitunk_enekei/119.xml) |
@@ -2539,7 +2539,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 119 | [Ó! ártatlanság Báránya](../../collections/hitunk_enekei/119.xml) |
@@ -2555,18 +2555,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
-| 088 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
-| 089 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
-| 090 | [Egy drága Gyermek született](../../collections/hitunk_enekei/090.xml) |
-| 091 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 094 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
-| 098 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 88 | [Szép rózsabimbó nyílt](../../collections/hitunk_enekei/088.xml) |
+| 89 | [Úr Jézus Krisztus dicsérünk](../../collections/hitunk_enekei/089.xml) |
+| 90 | [Egy drága Gyermek született](../../collections/hitunk_enekei/090.xml) |
+| 91 | [Jer, Isten népe, áldjuk őt](../../collections/hitunk_enekei/091.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 94 | [Ó! Betlehem kis városa](../../collections/hitunk_enekei/094.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 98 | [E világot, bár ez bűnt tett](../../collections/hitunk_enekei/098.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 106 | [Jer, mindnyájan örüljünk](../../collections/hitunk_enekei/106.xml) |
 | 110 | [Kezdetben volt az Ige](../../collections/hitunk_enekei/110.xml) |
@@ -2575,11 +2575,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
@@ -2612,9 +2612,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
@@ -2638,10 +2638,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 085 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
-| 086 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 85 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
+| 86 | [Légy mindörökre áldott](../../collections/hitunk_enekei/086.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 113 | [A keresztfát ha nézem én](../../collections/hitunk_enekei/113.xml) |
 | 115 | [Isten örök szeretete](../../collections/hitunk_enekei/115.xml) |
@@ -2664,7 +2664,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
 | 110 | [Kezdetben volt az Ige](../../collections/hitunk_enekei/110.xml) |
@@ -2673,9 +2673,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
 | 213 | [Én Jézusom, téged a szívem szeret](../../collections/hitunk_enekei/213.xml) |
 | 304 | [Ó! boldog ház, mely befogadott téged](../../collections/hitunk_enekei/304.xml) |
@@ -2685,31 +2685,31 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 054 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 54 | [Nagy kegyelmed és jóságod](../../collections/hitunk_enekei/054.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 119 | [Ó! ártatlanság Báránya](../../collections/hitunk_enekei/119.xml) |
 | 123 | [Jézus Istennek Báránya](../../collections/hitunk_enekei/123.xml) |
 | 130 | [Drága égi kegyelem](../../collections/hitunk_enekei/130.xml) |
@@ -2744,7 +2744,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
 | 206 | [A lábnyomomban járjatok](../../collections/hitunk_enekei/206.xml) |
@@ -2791,7 +2791,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
 | 291 | [Ébredj, bizonyságtévő lélek](../../collections/hitunk_enekei/291.xml) |
 | 292 | [Fel, mert eljő az éjjel](../../collections/hitunk_enekei/292.xml) |
 | 294 | [Ó! Sion, ébredj](../../collections/hitunk_enekei/294.xml) |
@@ -2802,11 +2802,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 155 | [Erőnek és hitnek Lelke](../../collections/hitunk_enekei/155.xml) |
@@ -2866,11 +2866,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 111 | [A jóság az én pásztorom](../../collections/hitunk_enekei/111.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 186 | [Én élek! mondja Istened](../../collections/hitunk_enekei/186.xml) |
@@ -2884,15 +2884,15 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
 
 ## Megigazulás
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 128 | [Jézus meghalt bűneinkért](../../collections/hitunk_enekei/128.xml) |
 | 130 | [Drága égi kegyelem](../../collections/hitunk_enekei/130.xml) |
@@ -2911,19 +2911,19 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
@@ -2951,8 +2951,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 170 | [Eltévedtem, mint juh](../../collections/hitunk_enekei/170.xml) |
 | 171 | [Bocsásd meg, Úr Isten](../../collections/hitunk_enekei/171.xml) |
@@ -2971,19 +2971,19 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
-| 093 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
-| 097 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 93 | [Az öröm napja ez a nap](../../collections/hitunk_enekei/093.xml) |
+| 97 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
@@ -3026,9 +3026,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 137 | [Néped oly várva vár](../../collections/hitunk_enekei/137.xml) |
 | 144 | [Ébredj ember, hangzik folyton](../../collections/hitunk_enekei/144.xml) |
 | 146 | [Ó! Jeruzsálem, szép honom](../../collections/hitunk_enekei/146.xml) |
@@ -3046,12 +3046,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 120 | [Ó! te nagy szenvedő](../../collections/hitunk_enekei/120.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
@@ -3076,14 +3076,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
 | 107 | [Mily édes vagy te szeretet](../../collections/hitunk_enekei/107.xml) |
 | 140 | [Úgy várjuk visszajöttödet](../../collections/hitunk_enekei/140.xml) |
 | 150 | [Mennyei otthonom: Éden](../../collections/hitunk_enekei/150.xml) |
@@ -3106,8 +3106,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
 | 161 | [Szentlélek, végy körül bennünket](../../collections/hitunk_enekei/161.xml) |
 | 170 | [Eltévedtem, mint juh](../../collections/hitunk_enekei/170.xml) |
@@ -3122,36 +3122,36 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 039 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 048 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 39 | [Perelj, Uram, perlőimmel](../../collections/hitunk_enekei/039.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 48 | [Soha el nem hagylak téged](../../collections/hitunk_enekei/048.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
@@ -3221,9 +3221,9 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 143 | [A jöttöd miként várjam](../../collections/hitunk_enekei/143.xml) |
 | 159 | [Ó! jöjj el, Isten Lelke](../../collections/hitunk_enekei/159.xml) |
 | 163 | [Jövel, élet Lelke](../../collections/hitunk_enekei/163.xml) |
@@ -3256,10 +3256,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
 | 336 | [Mily boldog érzés, jó Atyám](../../collections/hitunk_enekei/336.xml) |
 | 341 | [Jézus Krisztus, szép fényes hajnal](../../collections/hitunk_enekei/341.xml) |
 | 342 | [Áldjátok Istent, megköszönve mindent](../../collections/hitunk_enekei/342.xml) |
@@ -3279,15 +3279,15 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 006 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 6 | [Vezess minket, égi Atyánk](../../collections/hitunk_enekei/006.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 118 | [Jézus, élte életemnek](../../collections/hitunk_enekei/118.xml) |
 | 136 | [Ó! Jézus a szívem úgy vár](../../collections/hitunk_enekei/136.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |
@@ -3324,13 +3324,13 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 031 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 055 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 31 | [Dicsér téged teljes szívem](../../collections/hitunk_enekei/031.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 55 | [Száma nincsen, Uram, jótéteményidnek](../../collections/hitunk_enekei/055.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 130 | [Drága égi kegyelem](../../collections/hitunk_enekei/130.xml) |
 | 133 | [Áldott légy Krisztus, e világnak Ura!](../../collections/hitunk_enekei/133.xml) |
@@ -3356,7 +3356,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
 | 155 | [Erőnek és hitnek Lelke](../../collections/hitunk_enekei/155.xml) |
 | 236 | [Én minden vétkem, bűnöm](../../collections/hitunk_enekei/236.xml) |
 | 301 | [Adj, Úr Isten, nékem több áhítatot](../../collections/hitunk_enekei/301.xml) |
@@ -3365,24 +3365,24 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 001 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
-| 002 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 022 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 081 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
+| 1 | [Felséges Úr Isten](../../collections/hitunk_enekei/001.xml) |
+| 2 | [Az Úré minden tisztelet](../../collections/hitunk_enekei/002.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 22 | [Ó! mely boldog ember az](../../collections/hitunk_enekei/022.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 81 | [Dicsőségnek szent királya](../../collections/hitunk_enekei/081.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 131 | [Ó! Úr Jézus! egeknek nagy királya!](../../collections/hitunk_enekei/131.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
@@ -3408,7 +3408,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 172 | [Dicsőséges égi Felség!](../../collections/hitunk_enekei/172.xml) |
 | 183 | [Tiéd e szív!](../../collections/hitunk_enekei/183.xml) |
@@ -3430,10 +3430,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
 | 116 | [Áll szomorún a kopár hegy](../../collections/hitunk_enekei/116.xml) |
 | 117 | [Ha mardos bűnöm, vétkem](../../collections/hitunk_enekei/117.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
@@ -3452,18 +3452,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 204 | [Elmegyek szívesen, Jézus, veled](../../collections/hitunk_enekei/204.xml) |
@@ -3485,10 +3485,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
 | 178 | [Hallgass meg minket, Úr Isten](../../collections/hitunk_enekei/178.xml) |
 | 272 | [Mint a szép híves patakra](../../collections/hitunk_enekei/272.xml) |
 | 307 | [Ó! seregeknek Istene](../../collections/hitunk_enekei/307.xml) |
@@ -3513,18 +3513,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 067 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
-| 068 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
-| 070 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 073 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 67 | [Teljes szívből hozzád esedezem](../../collections/hitunk_enekei/067.xml) |
+| 68 | [Nagy békességük vagyon azoknak](../../collections/hitunk_enekei/068.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 70 | [Emeld fel szíved, füled nyisd meg](../../collections/hitunk_enekei/070.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 73 | [Szent Bibliámat szeretem](../../collections/hitunk_enekei/073.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
 | 325 | [Úr Jézus, mely igen drága](../../collections/hitunk_enekei/325.xml) |
 | 339 | [Úr Isten, vonjad szívemet](../../collections/hitunk_enekei/339.xml) |
 | 353 | [Tekints szombatiskolánkra](../../collections/hitunk_enekei/353.xml) |
@@ -3533,7 +3533,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
 | 166 | [Ne szállj perbe énvelem](../../collections/hitunk_enekei/166.xml) |
 | 176 | [Felséges Isten, hozzád kiáltunk](../../collections/hitunk_enekei/176.xml) |
@@ -3559,23 +3559,23 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 084 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 84 | [Ó! halljad te föld](../../collections/hitunk_enekei/084.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
 | 103 | [Ki mindeneknek Atyja vagy](../../collections/hitunk_enekei/103.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 116 | [Áll szomorún a kopár hegy](../../collections/hitunk_enekei/116.xml) |
@@ -3612,14 +3612,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 072 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 72 | [Hálaadásunkban rólad emlékezünk](../../collections/hitunk_enekei/072.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
 | 131 | [Ó! Úr Jézus! egeknek nagy királya!](../../collections/hitunk_enekei/131.xml) |
 | 149 | [Az Úrnak áldott nagy kegyelme](../../collections/hitunk_enekei/149.xml) |
 | 154 | [Jövel, Szentlélek Isten](../../collections/hitunk_enekei/154.xml) |
@@ -3646,24 +3646,24 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 013 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 025 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 035 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 097 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 13 | [Úrnak szolgái mindnyájan](../../collections/hitunk_enekei/013.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 25 | [Az Isten fényes trónjánál](../../collections/hitunk_enekei/025.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 35 | [Én Uram, teremtőm](../../collections/hitunk_enekei/035.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 97 | [Szeretet, ki teremtettél](../../collections/hitunk_enekei/097.xml) |
 | 188 | [Tökéletes volt minden tekintetben](../../collections/hitunk_enekei/188.xml) |
 | 350 | [Mennynek, földnek teremtője](../../collections/hitunk_enekei/350.xml) |
 
@@ -3671,12 +3671,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 078 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 78 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
 | 263 | [Kegyelmes Isten! Kinek kezében](../../collections/hitunk_enekei/263.xml) |
 
 ## Töredelem
@@ -3691,24 +3691,24 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 008 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 012 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 046 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
-| 049 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
-| 056 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 8 | [Dicsérjed Istened, lelkem, szívem](../../collections/hitunk_enekei/008.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 12 | [Drága dolog az Úr Istent dicsérni](../../collections/hitunk_enekei/012.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 46 | [Tebenned bíztunk eleitől fogva](../../collections/hitunk_enekei/046.xml) |
+| 49 | [A Sionnak hegyén, Úr Isten](../../collections/hitunk_enekei/049.xml) |
+| 56 | [Az Úr csodásan működik](../../collections/hitunk_enekei/056.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
 | 105 | [Az áldott orvos már közel](../../collections/hitunk_enekei/105.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
@@ -3754,19 +3754,19 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 007 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
-| 009 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 018 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
-| 029 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 033 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
-| 034 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
-| 036 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 057 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 078 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
+| 7 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/007.xml) |
+| 9 | [Az egek beszélik](../../collections/hitunk_enekei/009.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 18 | [Áldja Isten szentségét](../../collections/hitunk_enekei/018.xml) |
+| 29 | [Ha áldott kezed műveit](../../collections/hitunk_enekei/029.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 33 | [Áldjad én lelkem, a dicsőség erős királyát](../../collections/hitunk_enekei/033.xml) |
+| 34 | [Ó! felséges Úr, mi kegyes Istenünk](../../collections/hitunk_enekei/034.xml) |
+| 36 | [Ó! áldjuk most őt](../../collections/hitunk_enekei/036.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 57 | [Nagy kegyelmed árad](../../collections/hitunk_enekei/057.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 78 | [Szépséges Jézus, égnek, földnek Ura](../../collections/hitunk_enekei/078.xml) |
 | 367 | [Drága hajnal, üdvözöllek!](../../collections/hitunk_enekei/367.xml) |
 | 374 | [Mily szép az alkonyi óra](../../collections/hitunk_enekei/374.xml) |
 
@@ -3774,7 +3774,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
 | 100 | [Új világosság jelenék](../../collections/hitunk_enekei/100.xml) |
 | 102 | [Az Isten annyira szerette](../../collections/hitunk_enekei/102.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
@@ -3798,10 +3798,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 051 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 51 | [Hű karod véd és oltalmaz](../../collections/hitunk_enekei/051.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
 | 136 | [Ó! Jézus a szívem úgy vár](../../collections/hitunk_enekei/136.xml) |
 | 137 | [Néped oly várva vár](../../collections/hitunk_enekei/137.xml) |
 | 143 | [A jöttöd miként várjam](../../collections/hitunk_enekei/143.xml) |
@@ -3839,10 +3839,10 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 060 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 60 | [Az Úr énnékem őriző pásztorom](../../collections/hitunk_enekei/060.xml) |
 | 126 | [Jézus Krisztus feltámadt!](../../collections/hitunk_enekei/126.xml) |
 | 239 | [Istenben bízom én](../../collections/hitunk_enekei/239.xml) |
 | 254 | [Add nékem szent erőd, Jézus](../../collections/hitunk_enekei/254.xml) |
@@ -3864,7 +3864,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 069 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
+| 69 | [Ó! ne vedd el szent igédet](../../collections/hitunk_enekei/069.xml) |
 | 155 | [Erőnek és hitnek Lelke](../../collections/hitunk_enekei/155.xml) |
 | 174 | [Atya Úr Isten könyörülj rajtam](../../collections/hitunk_enekei/174.xml) |
 | 203 | [Jóságod, Isten, végtelen](../../collections/hitunk_enekei/203.xml) |
@@ -3891,23 +3891,23 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
 | 176 | [Felséges Isten, hozzád kiáltunk](../../collections/hitunk_enekei/176.xml) |
 
 ## Átadás
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 020 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
-| 030 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 096 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 20 | [Imádjuk őt](../../collections/hitunk_enekei/020.xml) |
+| 30 | [Itt van Isten köztünk](../../collections/hitunk_enekei/030.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 96 | [Én lelkem, készülj](../../collections/hitunk_enekei/096.xml) |
 | 107 | [Mily édes vagy te szeretet](../../collections/hitunk_enekei/107.xml) |
 | 113 | [A keresztfát ha nézem én](../../collections/hitunk_enekei/113.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
@@ -3950,19 +3950,19 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 027 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 052 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
-| 059 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
-| 077 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
-| 083 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
-| 085 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 27 | [Ó! bárcsak ezer ajkam volna](../../collections/hitunk_enekei/027.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 52 | [Csak te voltál az oltalmunk](../../collections/hitunk_enekei/052.xml) |
+| 59 | [Én lelkem, zengjél szépen](../../collections/hitunk_enekei/059.xml) |
+| 77 | [Zengd Jézus nevét](../../collections/hitunk_enekei/077.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 83 | [Krisztusról zeng dalunk](../../collections/hitunk_enekei/083.xml) |
+| 85 | [Ó! üdvözítő Krisztus](../../collections/hitunk_enekei/085.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 114 | [Ó! véráztatta szent fej](../../collections/hitunk_enekei/114.xml) |
@@ -4005,22 +4005,22 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 004 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
-| 014 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
-| 015 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 028 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
-| 037 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 041 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
-| 043 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
-| 053 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 075 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 080 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
-| 099 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
+| 4 | [Dicséret a Szentháromságnak](../../collections/hitunk_enekei/004.xml) |
+| 14 | [Dicsérjétek az Urat!](../../collections/hitunk_enekei/014.xml) |
+| 15 | [A jóság Urát áldom én](../../collections/hitunk_enekei/015.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 28 | [Jöjj, mondjunk hálaszót](../../collections/hitunk_enekei/028.xml) |
+| 37 | [Adjatok hálákat az Úrnak](../../collections/hitunk_enekei/037.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 41 | [Irgalmazz, Úr Isten](../../collections/hitunk_enekei/041.xml) |
+| 43 | [Mindenkoron áldom az én Uramat](../../collections/hitunk_enekei/043.xml) |
+| 53 | [Gondviselő jó Atyám vagy](../../collections/hitunk_enekei/053.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 75 | [Szép tündöklő hajnalcsillag](../../collections/hitunk_enekei/075.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 80 | [Az én napom Jézus](../../collections/hitunk_enekei/080.xml) |
+| 99 | [Szívünk vígsággal ma betelt](../../collections/hitunk_enekei/099.xml) |
 | 122 | [Ó! világ, nézd, az Élet](../../collections/hitunk_enekei/122.xml) |
 | 139 | [Ó! jöjj, ó! jöjj, Immánuel](../../collections/hitunk_enekei/139.xml) |
 | 144 | [Ébredj ember, hangzik folyton](../../collections/hitunk_enekei/144.xml) |
@@ -4044,14 +4044,14 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 005 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
-| 017 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
-| 023 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
-| 044 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 5 | [Téged, Isten, dicsérünk](../../collections/hitunk_enekei/005.xml) |
+| 17 | [Ím áldunk, nagy Úr](../../collections/hitunk_enekei/017.xml) |
+| 23 | [Az Úr Sionban trónol](../../collections/hitunk_enekei/023.xml) |
+| 44 | [Mely igen jó az Úr Istent dicsérni](../../collections/hitunk_enekei/044.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 108 | [Isten drága, szent szerelme](../../collections/hitunk_enekei/108.xml) |
 | 116 | [Áll szomorún a kopár hegy](../../collections/hitunk_enekei/116.xml) |
@@ -4096,7 +4096,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 024 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
+| 24 | [Mondjatok dicséretet](../../collections/hitunk_enekei/024.xml) |
 | 306 | [Az egyháznak csak Jézus a fundámentuma](../../collections/hitunk_enekei/306.xml) |
 | 360 | [Az Üdvözítő hív a közös asztalhoz](../../collections/hitunk_enekei/360.xml) |
 | 361 | [Jézusom, megtört testednek jelképe](../../collections/hitunk_enekei/361.xml) |
@@ -4108,18 +4108,18 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 040 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
-| 042 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 064 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
-| 065 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
-| 066 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
-| 071 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 079 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
-| 082 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
+| 40 | [Én életemnek Istene](../../collections/hitunk_enekei/040.xml) |
+| 42 | [Szívemet hozzád emelem](../../collections/hitunk_enekei/042.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 64 | [Az oly emberek nyilván boldogok](../../collections/hitunk_enekei/064.xml) |
+| 65 | [Beszéld meg, mit tégyenek az ifjak](../../collections/hitunk_enekei/065.xml) |
+| 66 | [Én Istenem, taníts utaidra](../../collections/hitunk_enekei/066.xml) |
+| 71 | [Te égből származó](../../collections/hitunk_enekei/071.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 79 | [Uram Jézusom, örök vigaszom](../../collections/hitunk_enekei/079.xml) |
+| 82 | [Üdvözöllek, Üdvözítőm](../../collections/hitunk_enekei/082.xml) |
 | 104 | [Elrejt az Úr szent szárnya oltalmába](../../collections/hitunk_enekei/104.xml) |
 | 109 | [Mennyei Ige, jelenél](../../collections/hitunk_enekei/109.xml) |
 | 111 | [A jóság az én pásztorom](../../collections/hitunk_enekei/111.xml) |
@@ -4155,12 +4155,12 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 010 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
-| 016 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
-| 019 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
-| 021 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 045 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
+| 10 | [Szent vagy, szent vagy, szent vagy](../../collections/hitunk_enekei/010.xml) |
+| 16 | [Dicsérjük Istent, a jóság Istenét](../../collections/hitunk_enekei/016.xml) |
+| 19 | [Úr Isten, néked zeng az ének](../../collections/hitunk_enekei/019.xml) |
+| 21 | [Mért ne zengném én az Istent](../../collections/hitunk_enekei/021.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 45 | [Csak téged dicsér mindenkor az ajkam](../../collections/hitunk_enekei/045.xml) |
 | 121 | [A Bárány Jézus hordozta](../../collections/hitunk_enekei/121.xml) |
 | 136 | [Ó! Jézus a szívem úgy vár](../../collections/hitunk_enekei/136.xml) |
 | 187 | [Tudom és érzem, Jézus enyém](../../collections/hitunk_enekei/187.xml) |
@@ -4172,22 +4172,22 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 003 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
-| 011 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
-| 026 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
-| 032 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
-| 038 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
-| 047 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
-| 050 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
-| 058 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
-| 061 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
-| 062 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
-| 063 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
-| 074 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
-| 076 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
-| 087 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
-| 092 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
-| 095 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
+| 3 | [Adj, Úr Isten, nékünk Szentlelket](../../collections/hitunk_enekei/003.xml) |
+| 11 | [Azért, hogy oly szép a föld](../../collections/hitunk_enekei/011.xml) |
+| 26 | [Úr Isten, mily nagy szent neved](../../collections/hitunk_enekei/026.xml) |
+| 32 | [Egek nagy királya](../../collections/hitunk_enekei/032.xml) |
+| 38 | [Ó! Ábrahám Ura](../../collections/hitunk_enekei/038.xml) |
+| 47 | [Én lelkem áldjad Istent](../../collections/hitunk_enekei/047.xml) |
+| 50 | [Nagy hálát adjunk az Atya Istennek](../../collections/hitunk_enekei/050.xml) |
+| 58 | [Isten, csodás nagy szerelmed](../../collections/hitunk_enekei/058.xml) |
+| 61 | [Mily hatalmas vagy, égi Atyám!](../../collections/hitunk_enekei/061.xml) |
+| 62 | [Szeret az Isten](../../collections/hitunk_enekei/062.xml) |
+| 63 | [Jöjjetek, az ige kér](../../collections/hitunk_enekei/063.xml) |
+| 74 | [Isten küldte drága szózat](../../collections/hitunk_enekei/074.xml) |
+| 76 | [Csak néked él a szívem, lelkem](../../collections/hitunk_enekei/076.xml) |
+| 87 | [Áldott az egek Ura](../../collections/hitunk_enekei/087.xml) |
+| 92 | [A mennyből jövök hozzátok](../../collections/hitunk_enekei/092.xml) |
+| 95 | [Ó! nyíljatok meg szívkapuk](../../collections/hitunk_enekei/095.xml) |
 | 101 | [Légy hálás Jézus Krisztusnak](../../collections/hitunk_enekei/101.xml) |
 | 115 | [Isten örök szeretete](../../collections/hitunk_enekei/115.xml) |
 | 118 | [Jézus, élte életemnek](../../collections/hitunk_enekei/118.xml) |

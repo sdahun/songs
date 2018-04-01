@@ -10,6 +10,7 @@ $bible_abbrev = [
 ];
 
 $fnames = [];
+$book_names = [];
 
 foreach (glob (__DIR__.'/../collections/*') as $collection) {
     if (!is_dir($collection)) continue;
@@ -21,6 +22,9 @@ foreach (glob (__DIR__.'/../collections/*') as $collection) {
         $xml = simplexml_load_string(str_replace('xmlns=', 'ns=', file_get_contents($file)));
 
         $book = $xml->properties->songbooks->songbook[0]['name']->__toString();
+
+        if (!isset($book_names[basename($collection)]))
+            $book_names[basename($collection)] = $book;
 
         if (isset($xml->properties->themes)) {
             foreach($xml->properties->themes->theme as $theme) {
@@ -50,7 +54,7 @@ foreach (glob (__DIR__.'/../collections/*') as $collection) {
 
                     $named_titles[$th][] = [
                         'title' => $xml->properties->titles->title[0]->__toString(),
-                        'number' => basename($file, '.xml'),
+                        'number' => ltrim(basename($file, '.xml'), '0'),
                     ];
                 }
             }
@@ -79,7 +83,7 @@ foreach (glob (__DIR__.'/../collections/*') as $collection) {
 $result = "# Énekeskönyvek tárgymutatói\n\n";
 
 foreach($fnames as $fname) {
-    $result .= '* ['.basename($fname, '_index.md').']('.basename($fname).")\n";
+    $result .= '* ['.$book_names[basename($fname, '_index.md')].']('.basename($fname).")\n";
 }
 
 file_put_contents(__DIR__.'/../docs/index/README.md', $result);
