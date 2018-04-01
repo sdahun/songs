@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt állok jászolod felett</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">J. S. Bach, 1736</author>
+      <author type="words">P. Gerhardt (1607-1676)</author>
+      <author type="translation" lang="hu">Cs. Tóth Kálmán</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="68"/>
+    </songbooks>
+    <themes>
+      <theme>Karácsony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt állok jászolod felett,<br/>Ó Jézusom, Királyom.<br/>Elhoztam minden kincsemet<br/>ajándékul, Megváltóm.<br/>Vedd elmém, lelkem és szívem,<br/>hadd adjam néked mindenem,<br/>hogy kedves légyek néked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem éltem még e föld színén:<br/>Te értem megszülettél;<br/>Még rólad mit sem tudtam én:<br/>tulajdonoddá tettél;<br/>még meg sem formált szent kezed:<br/>már elválasztál engemet,<br/>hogy társam légy e földön.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mély síri éjben vártam én:<br/>fölkelt a nap rám véled.<br/>Terólad ömlik rám a fény,<br/>a béke, boldog élet.<br/>A lélek ékességei;<br/>belőlük hitnek mennyei<br/>szép tisztasága árad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak nézlek boldog szívvel én,<br/>s nem győzlek nézni téged.<br/>Szóm és erőm mind oly szegény,<br/>hogy elmondhassa néked:<br/>bár felfoghatna tégedet<br/>az emberszív és ismeret,<br/>hogy megfejthesse titkod!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Megváltóm egy kérésemet<br/>nem vetheted meg nékem:<br/>hogy szívem mélyén tégedet<br/>hordozzalak hűségben;<br/>hogy bölcsőd, szállásod legyek,<br/>jöjj, Jézus, tölts el engemet<br/>magaddal, nagy örömmel!</lines>
+    </verse>
+  </lyrics>
+</song>

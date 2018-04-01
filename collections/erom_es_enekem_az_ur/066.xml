@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten hív, te el ne küldd</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="66"/>
+    </songbooks>
+    <themes>
+      <theme>Evangélizáció</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten hív: te el ne küldd! Ő látja sorsodat!<br/>Ne küldd el, ha Igéje, mélyen szívedbe hat!<br/>Lásd Ő szeret, még így is szeret!<br/>Elveszi bűneidet,<br/>múltad Övé, új életért,<br/>jöjj és add át szívedet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne küldd el, mert az idő eljött, hogy megragadd!<br/>Ne küldd el, a lét tűnő, s mint a szél elsuhan!<br/>Lásd Ő szeret, még így is szeret!<br/>Elveszi bűneidet,<br/>múltad Övé, új életért,<br/>jöjj és add át szívedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondj igent, mert hőn szeret és meghalt, hogy te élj!<br/>Mondj igent, ő célt mutat, életed értelmét!<br/>Lásd Ő szeret, még így is szeret!<br/>Elveszi bűneidet,<br/>múltad Övé, új életért,<br/>jöjj és add át szívedet!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Imádkozzatok és buzgón kérjetek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Tinódi Sebestyén, 1546</author>
+      <author type="words">Legid. Victor János (1860-1937)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="61"/>
+      <songbook name="Református énekeskönyv" entry="475"/>
+    </songbooks>
+    <themes>
+      <theme>Tanítványság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Imádkozzatok, és buzgón kérjetek!”<br/>Bűnös voltunkért, Uram, ó, ne vess meg!<br/>Tiszta szívet és Szentlelket adj nékünk,<br/>hallgass meg Fiad nevében, ha kérünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Keressetek buzgón és megtaláltok!”<br/>Téged keresünk, Uram: hogy bűn, s átok<br/>erőt ne vegyen mirajtunk, légy nékünk<br/>égi utunk, igazságunk, életünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Zörgessetek buzgón Isten ajtaján!”<br/>Elfáradtunk, Uram, e világ zaján;<br/>ó, nyisd meg az égi béke szép honát,<br/>add, hogy zenghessünk örök halleluját!</lines>
+    </verse>
+  </lyrics>
+</song>

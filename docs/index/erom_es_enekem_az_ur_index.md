@@ -7,6 +7,8 @@
 | 008 | [Amint vagyok](../../collections/erom_es_enekem_az_ur/008.xml) |
 | 052 | [Ha megvallom bűneimet](../../collections/erom_es_enekem_az_ur/052.xml) |
 | 056 | [Hozzád jövünk, Uram](../../collections/erom_es_enekem_az_ur/056.xml) |
+| 062 | [Ím nagy Isten](../../collections/erom_es_enekem_az_ur/062.xml) |
+| 063 | [Irgalmazz, Úr Isten](../../collections/erom_es_enekem_az_ur/063.xml) |
 
 ## Esti ének
 
@@ -16,6 +18,7 @@
 | 030 | [Éjjel, nappal](../../collections/erom_es_enekem_az_ur/030.xml) |
 | 037 | [Erdő mellett estvéledtem](../../collections/erom_es_enekem_az_ur/037.xml) |
 | 040 | [Este van, imádkozzunk](../../collections/erom_es_enekem_az_ur/040.xml) |
+| 069 | [Itt az este](../../collections/erom_es_enekem_az_ur/069.xml) |
 
 ## Evangélizáció
 
@@ -25,6 +28,8 @@
 | 024 | [Csak nyisd ki a szíved](../../collections/erom_es_enekem_az_ur/024.xml) |
 | 035 | [Emlékezz meg Teremtődről](../../collections/erom_es_enekem_az_ur/035.xml) |
 | 059 | [Így szól ma tehozzád Jézus](../../collections/erom_es_enekem_az_ur/059.xml) |
+| 065 | [Istenem, nem értem](../../collections/erom_es_enekem_az_ur/065.xml) |
+| 066 | [Isten hív, te el ne küldd](../../collections/erom_es_enekem_az_ur/066.xml) |
 
 ## Hálaadás
 
@@ -74,6 +79,7 @@
 | ---: | :------------------- |
 | 042 | [Földön és égen](../../collections/erom_es_enekem_az_ur/042.xml) |
 | 043 | [Glória szálljon a mennybe fel](../../collections/erom_es_enekem_az_ur/043.xml) |
+| 068 | [Itt állok jászolod felett](../../collections/erom_es_enekem_az_ur/068.xml) |
 
 ## Közösség
 
@@ -83,6 +89,8 @@
 | 020 | [Az Úrtól béke tereád](../../collections/erom_es_enekem_az_ur/020.xml) |
 | 021 | [Az Úr van itt](../../collections/erom_es_enekem_az_ur/021.xml) |
 | 029 | [Egymásnak terhét](../../collections/erom_es_enekem_az_ur/029.xml) |
+| 067 | [Isten szívén megpihenve](../../collections/erom_es_enekem_az_ur/067.xml) |
+| 070 | [I will stand in the congregation](../../collections/erom_es_enekem_az_ur/070.xml) |
 
 ## Küldetés
 
@@ -107,6 +115,7 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 002 | [A Krisztus mennybe felméne](../../collections/erom_es_enekem_az_ur/002.xml) |
+| 064 | [Isten élő Lelke, jöjj](../../collections/erom_es_enekem_az_ur/064.xml) |
 
 ## Reggeli ének
 
@@ -124,4 +133,5 @@
 | 028 | [Egy hangszer hadd legyek](../../collections/erom_es_enekem_az_ur/028.xml) |
 | 031 | [Életutam](../../collections/erom_es_enekem_az_ur/031.xml) |
 | 053 | [Hinni taníts, Uram](../../collections/erom_es_enekem_az_ur/053.xml) |
+| 061 | [Imádkozzatok és buzgón kérjetek](../../collections/erom_es_enekem_az_ur/061.xml) |
 

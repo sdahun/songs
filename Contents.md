@@ -113,6 +113,16 @@
 | 58. | [Hűséged végtelen](./collections/erom_es_enekem_az_ur/058.xml) |
 | 59. | [Így szól ma tehozzád Jézus](./collections/erom_es_enekem_az_ur/059.xml) |
 | 60. | [I love You, Lord](./collections/erom_es_enekem_az_ur/060.xml) |
+| 61. | [Imádkozzatok és buzgón kérjetek](./collections/erom_es_enekem_az_ur/061.xml) |
+| 62. | [Ím nagy Isten](./collections/erom_es_enekem_az_ur/062.xml) |
+| 63. | [Irgalmazz, Úr Isten](./collections/erom_es_enekem_az_ur/063.xml) |
+| 64. | [Isten élő Lelke, jöjj](./collections/erom_es_enekem_az_ur/064.xml) |
+| 65. | [Istenem, nem értem](./collections/erom_es_enekem_az_ur/065.xml) |
+| 66. | [Isten hív, te el ne küldd](./collections/erom_es_enekem_az_ur/066.xml) |
+| 67. | [Isten szívén megpihenve](./collections/erom_es_enekem_az_ur/067.xml) |
+| 68. | [Itt állok jászolod felett](./collections/erom_es_enekem_az_ur/068.xml) |
+| 69. | [Itt az este](./collections/erom_es_enekem_az_ur/069.xml) |
+| 70. | [I will stand in the congregation](./collections/erom_es_enekem_az_ur/070.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
