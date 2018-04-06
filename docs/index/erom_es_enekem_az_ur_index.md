@@ -45,6 +45,7 @@
 | 48 | [Hálát adunk, jó Istenünk](../../collections/erom_es_enekem_az_ur/048.xml) |
 | 54 | [Hiszek, Uram](../../collections/erom_es_enekem_az_ur/054.xml) |
 | 58 | [Hűséged végtelen](../../collections/erom_es_enekem_az_ur/058.xml) |
+| 72 | [Jézus hű megváltó](../../collections/erom_es_enekem_az_ur/072.xml) |
 
 ## Húsvét
 
@@ -65,6 +66,7 @@
 | 49 | [Halleluja, áldd az Urat](../../collections/erom_es_enekem_az_ur/049.xml) |
 | 50 | [Halleluja, zengve zeng hálaének](../../collections/erom_es_enekem_az_ur/050.xml) |
 | 60 | [I love You, Lord](../../collections/erom_es_enekem_az_ur/060.xml) |
+| 71 | [Jézus, dicsőség néked](../../collections/erom_es_enekem_az_ur/071.xml) |
 
 ## Jézus visszajövetele
 

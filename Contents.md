@@ -123,6 +123,8 @@
 | 68. | [Itt állok jászolod felett](./collections/erom_es_enekem_az_ur/068.xml) |
 | 69. | [Itt az este](./collections/erom_es_enekem_az_ur/069.xml) |
 | 70. | [I will stand in the congregation](./collections/erom_es_enekem_az_ur/070.xml) |
+| 71. | [Jézus, dicsőség néked](./collections/erom_es_enekem_az_ur/071.xml) |
+| 72. | [Jézus hű megváltó](./collections/erom_es_enekem_az_ur/072.xml) |
 
 ## Hitünk énekei (/hitunk_enekei)
 
