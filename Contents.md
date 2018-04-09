@@ -645,6 +645,10 @@
 | 31. | [Az Úr irgalma végtelen](./collections/hozsanna/031.xml) |
 | 32. | [Az Úr örömmel](./collections/hozsanna/032.xml) |
 | 33. | [Az Úr van itt](./collections/hozsanna/033.xml) |
+| 34. | [Békét ad Ő](./collections/hozsanna/034.xml) |
+| 35. | [Boldog ember](./collections/hozsanna/035.xml) |
+| 36. | [Csak Istennél csendesül el](./collections/hozsanna/036.xml) |
+| 37. | [Dávid egykor, mint pásztorfiú](./collections/hozsanna/037.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
