@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>E zord időben</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="41"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E zord időben felcsendül e<br/>drága üzenet,<br/>irgalomról szól,<br/>hű Megváltóról.<br/>Már rég kívántál szabadulást<br/>bűnnek mélyéből,<br/>földünkre jött Jézus,<br/>trónjáról, a Mennyből.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halld meg e jó hírt:<br/>Isten szeret!<br/>Ő megbocsátja bűneidet.<br/>Kitárt karjával Ő haza vár,<br/>úgy szeret Isten,<br/>jöjj siess már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az ő fényében nincs sötétség,<br/>nem hagy egyedül,<br/>add át szívedet,<br/>boldog így lehetsz.<br/>Ha Jézus vére eltörölte<br/>minden bűnödet,<br/>énekelje szíved<br/>e szent üzenetet:</lines>
+    </verse>
+  </lyrics>
+</song>

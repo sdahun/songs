@@ -649,6 +649,11 @@
 | 35. | [Boldog ember](./collections/hozsanna/035.xml) |
 | 36. | [Csak Istennél csendesül el](./collections/hozsanna/036.xml) |
 | 37. | [Dávid egykor, mint pásztorfiú](./collections/hozsanna/037.xml) |
+| 38. | [Dicsérd](./collections/hozsanna/038.xml) |
+| 39. | [Dicséri, áldja szüntelen](./collections/hozsanna/039.xml) |
+| 40. | [Halotti sírnak ajtaján](./collections/hozsanna/040.xml) |
+| 41. | [E zord időben](./collections/hozsanna/041.xml) |
+| 42. | [Ébredj fel alvó](./collections/hozsanna/042.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
