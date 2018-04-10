@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Égi Atyánk</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Égi Atyánk, szeretünk Téged,<br/>fölemeljük most nagy<br/>és szent neved.<br/>Hozzád szálljon fel<br/>a hódolat, dicséret,<br/>a Te országod épüljön ma fel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hatalmas az Úr, Ő az Isten,<br/>ki volt, ki van és lesz mindörökké!<br/>Hatalmas az Úr, Ő az Isten,<br/>uralma végtelen!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

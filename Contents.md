@@ -654,6 +654,9 @@
 | 40. | [Halotti sírnak ajtaján](./collections/hozsanna/040.xml) |
 | 41. | [E zord időben](./collections/hozsanna/041.xml) |
 | 42. | [Ébredj fel alvó](./collections/hozsanna/042.xml) |
+| 43. | [Édesatyám](./collections/hozsanna/043.xml) |
+| 44. | [Égi Atyánk](./collections/hozsanna/044.xml) |
+| 45. | [Egy szív érettem dobogott](./collections/hozsanna/045.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
