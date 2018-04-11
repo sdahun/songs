@@ -5,8 +5,13 @@
       <title>Amint vagyok</title>
     </titles>
     <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">William Batchelder Bradbury (1816-1868)</author>
+      <author type="words">Charlotte Elliott (1789-1871)</author>
+    </authors>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="6"/>
+      <songbook name="Erőm és énekem az Úr" entry="8"/>
     </songbooks>
     <themes>
       <theme>Bűnbánat és megújulás</theme>

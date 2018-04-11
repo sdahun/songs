@@ -5,8 +5,12 @@
       <title>Az Úr gondol ránk</title>
     </titles>
     <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="words">Gerzsenyi László, 1984</author>
+    </authors>
     <songbooks>
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="258"/>
+      <songbook name="Erőm és énekem az Úr" entry="17"/>
       <songbook name="Hozsánna énekes" entry="29"/>
     </songbooks>
   </properties>

@@ -7,6 +7,7 @@
     <verseOrder>v1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="8"/>
+      <songbook name="Hozsánna énekes" entry="8"/>
     </songbooks>
     <themes>
       <theme>Dicséret és imádat</theme>
@@ -15,7 +16,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>A reményem csak Te vagy, Jézus,<br/>a reményem csak Te vagy!<br/>Korán reggel és késő éjjel<br/>a reményem csak Te vagy.</lines>
+      <lines>A reményem csak Te vagy.<br/>Jézus, a reményem csak Te vagy!<br/>Korán reggel és késő éjjel<br/>a reményem csak Te vagy.</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,6 +11,7 @@
     </authors>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="8"/>
+      <songbook name="Dicsérem Neved 2" entry="6"/>
     </songbooks>
     <themes>
       <theme>Bűnbűnat</theme>
@@ -24,7 +25,7 @@
       <lines>Amint vagyok, te elfogadsz,<br/>bűneimből feloldozasz.<br/>Tebenned bízva üdvöt adsz,<br/>Isten Báránya, ím, jövök!</lines>
     </verse>
     <verse name="v3">
-      <lines>Amint vagyok, nincs akadály:<br/>Előled semmi el nem zár.<br/>Tied vagyok egészen már,<br/>Isten Báránya, ím, jövök!</lines>
+      <lines>Amint vagyok, nincs akadály:<br/>előled semmi el nem zár.<br/>Tied vagyok egészen már,<br/>Isten Báránya, ím, jövök!</lines>
     </verse>
   </lyrics>
 </song>

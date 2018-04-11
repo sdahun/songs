@@ -4,9 +4,10 @@
     <titles>
       <title>A Mester itt van</title>
     </titles>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>o1 o1 o2 o2</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="4"/>
+      <songbook name="Hozsánna énekes" entry="6"/>
     </songbooks>
     <themes>
       <theme>Bizonyságtétel és megvallás</theme>
@@ -14,8 +15,11 @@
     </themes>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>A Mester itt van, ma is gyógyít,<br/>Jézus gyógyít és szabaddá tesz.<br/>A Mester itt van, ma is gyógyít,<br/>Jézus gyógyít és szabaddá tesz.<br/>Ne vidd tovább a terhedet,<br/>Ő letörli minden könnyedet,<br/>gyászod nagy örömre fordul!</lines>
+    <verse name="o1">
+      <lines>A Mester itt van,<br/>ma is gyógyít,<br/>Jézus gyógyít<br/>és szabaddá tesz.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Ne vidd tovább a terhedet,<br/>Ő letörli minden könnyedet,<br/>gyászod nagy örömre fordul!</lines>
     </verse>
   </lyrics>
 </song>
