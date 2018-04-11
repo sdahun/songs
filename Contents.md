@@ -41,6 +41,7 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 2. | [A hegyek, s tengerek felett](./collections/dicserem_neved_3/002.xml) |
+| 34. | [Együtt áldunk](./collections/dicserem_neved_3/034.xml) |
 
 ## Dicsérem Neved 4 (/dicserem_neved_4)
 
@@ -657,6 +658,11 @@
 | 43. | [Édesatyám](./collections/hozsanna/043.xml) |
 | 44. | [Égi Atyánk](./collections/hozsanna/044.xml) |
 | 45. | [Egy szív érettem dobogott](./collections/hozsanna/045.xml) |
+| 46. | [Egy új nap](./collections/hozsanna/046.xml) |
+| 47. | [Egyedül csak te vagy](./collections/hozsanna/047.xml) |
+| 48. | [Egyet kérek Tőled](./collections/hozsanna/048.xml) |
+| 49. | [Egymásnak terhét](./collections/hozsanna/049.xml) |
+| 50. | [Együtt áldunk](./collections/hozsanna/050.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
