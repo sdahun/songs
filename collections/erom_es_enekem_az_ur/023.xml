@@ -7,6 +7,7 @@
     <verseOrder>v1 v2 c1 c2</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="23"/>
+      <songbook name="Hozsánna énekes" entry="35"/>
     </songbooks>
     <themes>
       <theme>Zsolt 32</theme>
@@ -14,16 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Boldog ember az, ki bűnt nem ismer,<br/>kinek vétke már elfedeztetett.<br/>Néki az Úr bűnt már nem tulajdonít,<br/>lelkében csalárdság nincsen.</lines>
+      <lines>Boldog ember az,<br/>ki bűnt nem ismer,<br/>kinek vétke már elfedeztetett.<br/>Néki az Úr<br/>bűnt már nem tulajdonít,<br/>lelkében csalárdság nincsen.</lines>
     </verse>
     <verse name="v2">
-      <lines>Míg elhallgattam megavultak csontjaim,<br/>napestig jajgattam, könnyeztem.<br/>Éjjel, nappal éreztem kezeidet,<br/>szívemre, lelkemre nehezedett.</lines>
+      <lines>Míg elhallgattam<br/>megavultak csontjaim,<br/>napestig jajgattam, könnyeztem.<br/>Éjjel, nappal<br/>éreztem kezeidet,<br/>szívemre, lelkemre nehezedett.</lines>
     </verse>
     <verse name="c1">
-      <lines>Vétkemet bevallottam, bűnöm nem takargattam,<br/>s Te elvetted rólam a bűneim terhét,<br/>szabad, tiszta szívet adtál nekem.</lines>
+      <lines>Vétkemet bevallottam,<br/>bűnöm nem takargattam,<br/>s Te elvetted rólam<br/>a bűneim terhét,<br/>szabad, tiszta szívet<br/>adtál nekem.</lines>
     </verse>
     <verse name="c2">
-      <lines>Vétkemet bevallottam, bűnöm nem takargattam,<br/>boldog ember az, kinek szíve bűntelen,<br/>lelkében csalárdság nincsen.</lines>
+      <lines>Vétkemet bevallottam,<br/>bűnöm nem takargattam,<br/>boldog ember az,<br/>kinek szíve bűntelen,<br/>lelkében csalárdság nincsen.</lines>
     </verse>
   </lyrics>
 </song>

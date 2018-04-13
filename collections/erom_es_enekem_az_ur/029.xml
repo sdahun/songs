@@ -13,6 +13,7 @@
     </authors>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="29"/>
+      <songbook name="Hozsánna énekes" entry="49"/>
     </songbooks>
     <themes>
       <theme>Közösség</theme>
@@ -24,10 +25,10 @@
       <lines>Egymásnak terhét ha hordozzátok,<br/>úgy tesztek Jézus szava szerint.<br/>Egymásnak terhét csak hordozzátok,<br/>mint arra Jézus példája int!</lines>
     </verse>
     <verse name="v1">
-      <lines>Sok a baj, betegség, sok a gond, nehézség:<br/>honnan jő ilyenkor segítség?</lines>
+      <lines>Sok a baj, betegség,<br/>sok a gond, nehézség:<br/>honnan jő ilyenkor segítség?</lines>
     </verse>
     <verse name="v2">
-      <lines>Lelkünk bűnterhét Ő önként vállalta át;<br/>lássuk meg mi is hát más baját!</lines>
+      <lines>Lelkünk bűnterhét Ő<br/>önként vállalta át,<br/>lássuk meg mi is hát más baját!</lines>
     </verse>
   </lyrics>
 </song>

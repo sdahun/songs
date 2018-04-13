@@ -4,17 +4,18 @@
     <titles>
       <title>A napfelkeltétől</title>
     </titles>
-    <verseOrder>v1 v1 e1</verseOrder>
+    <verseOrder>v1 v1 c1 v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="7"/>
+      <songbook name="Erőm és énekem az Úr" entry="9"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>Dicsérd, dicsérd!<br/>Dicsérd, dicsérd!</lines>
+      <lines>A napfelkeltétől,<br/>míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.</lines>
     </verse>
-    <verse name="e1">
-      <lines>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.<br/>A napfelkeltétől míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.</lines>
+    <verse name="c1">
+      <lines>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.</lines>
     </verse>
   </lyrics>
 </song>

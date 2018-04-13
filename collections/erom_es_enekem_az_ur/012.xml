@@ -7,6 +7,8 @@
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="12"/>
+      <songbook name="Hozsánna énekes" entry="11"/>
+      <songbook name="Szent az Úr" entry="3"/>
     </songbooks>
     <themes>
       <theme>Közösség</theme>
@@ -17,7 +19,7 @@
       <lines>A Te nevedben mi együtt vagyunk.<br/>Jézus nevedben mi együtt vagyunk.<br/>Hallgasd meg imánk, mikor Hozzád járulunk,<br/>életvizeddel táplálj hű Urunk!</lines>
     </verse>
     <verse name="v2">
-      <lines>Úgy mutassátok meg a hitetek,<br/>hogy az Én szavaimnak engedtek!<br/>Hogyha Velem és egymással egyek lesztek,<br/>minden kérésetekre felelek.</lines>
+      <lines>„Úgy mutassátok meg a hitetek,<br/>hogy az Én szavaimnak engedtek!<br/>Hogyha Velem és egymással egyek lesztek,<br/>minden kérésetekre felelek.”</lines>
     </verse>
     <verse name="v3">
       <lines>A Te nevedben mi együtt vagyunk.<br/>Jézus nevedben mi együtt vagyunk.<br/>Tégy eggyé minket szentségben, ez óhajunk,<br/>használj munkádban, drága hű Urunk!</lines>

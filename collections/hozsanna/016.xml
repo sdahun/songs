@@ -4,20 +4,24 @@
     <titles>
       <title>Áldásoddal megyünk</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="16"/>
+      <songbook name="Erőm és énekem az Úr" entry="3"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Áldásoddal megyünk, megyünk innen el,<br/>néked énekelünk boldog éneket.<br/>Maradj mindig velünk, ha útra kelünk,<br/>őrizd életünk minden nap.</lines>
+      <lines>Áldásoddal megyünk,<br/>megyünk innen el,<br/>néked énekelünk<br/>boldog éneket.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maradj mindig velünk,<br/>ha útra kelünk,<br/>őrizd életünk<br/>minden nap.</lines>
     </verse>
     <verse name="v2">
-      <lines>Minden nap dicsérünk Téged, jó Uram!<br/>Néked éneklünk vidáman, boldogan.<br/>Maradj mindig velünk, ha útra kelünk,<br/>őrizd életünk minden nap.</lines>
+      <lines>Minden nap dicsérünk<br/>Téged, jó Uram!<br/>Néked énekelünk<br/>vidáman, boldogan.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ó, hadd menjünk Feléd, tekintsünk Terád,<br/>Szentlelked erejét add nekünk tovább.<br/>Maradj mindig velünk, ha útra kelünk,<br/>őrizd életünk minden nap.</lines>
+      <lines>Ó, hadd menjünk Feléd,<br/>tekintsünk Terád,<br/>Szentlelked erejét<br/>add nekünk tovább.</lines>
     </verse>
   </lyrics>
 </song>
