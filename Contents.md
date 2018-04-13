@@ -668,6 +668,11 @@
 | 53. | [Élet van Tebenned](./collections/hozsanna/053.xml) |
 | 54. | [Életem, csak kegyelem](./collections/hozsanna/054.xml) |
 | 55. | [Elhatároztam](./collections/hozsanna/055.xml) |
+| 56. | [Élj másokért!](./collections/hozsanna/056.xml) |
+| 57. | [Eljön Ő](./collections/hozsanna/057.xml) |
+| 58. | [Eljött az óra](./collections/hozsanna/058.xml) |
+| 59. | [Elmúlik ez a világ](./collections/hozsanna/059.xml) |
+| 60. | [Emberek vagy angyalok nyelvén](./collections/hozsanna/060.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

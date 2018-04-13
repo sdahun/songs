@@ -82,7 +82,7 @@ $linecount_exceptions = [
     'erom_es_enekem_az_ur/032.xml;v3;4',
 
     'erom_es_enekem_az_ur/034.xml;v2;2',
-    'erom_es_enekem_az_ur/034.xml;v2;3',
+    'erom_es_enekem_az_ur/034.xml;v2;4',
 
     'erom_es_enekem_az_ur/038.xml;v2;2',
     'erom_es_enekem_az_ur/038.xml;v2;3',
@@ -175,6 +175,19 @@ $linecount_exceptions = [
     'hozsanna/055.xml;v2;1',
     'hozsanna/055.xml;v2;2',
     'hozsanna/055.xml;v2;3',
+
+    'hozsanna/058.xml;v3;1',
+    'hozsanna/058.xml;v3;4',
+
+    'hozsanna/059.xml;v2;1',
+    'hozsanna/059.xml;v2;2',
+    'hozsanna/059.xml;v2;3',
+    'hozsanna/059.xml;v2;4',
+    'hozsanna/059.xml;v2;5',
+    'hozsanna/059.xml;v2;8',
+
+    'hozsanna/060.xml;v2;2',
+    'hozsanna/060.xml;v2;4',
 
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',

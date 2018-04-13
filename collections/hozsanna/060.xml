@@ -1,21 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
   <properties>
     <titles>
       <title>Emberek vagy angyalok nyelvén</title>
     </titles>
     <verseOrder>v1 c1 v2 c1</verseOrder>
-    <authors>
-      <author type="music">Soproni János</author>
-      <author type="words">Soproni János</author>
-    </authors>
     <songbooks>
-      <songbook name="Erőm és énekem az Úr" entry="34"/>
       <songbook name="Hozsánna énekes" entry="60"/>
+      <songbook name="Erőm és énekem az Úr" entry="34"/>
     </songbooks>
-    <themes>
-      <theme>1Kor 13</theme>
-    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
