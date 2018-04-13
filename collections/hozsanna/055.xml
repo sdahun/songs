@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elhatároztam</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elhatároztam, követem Jézust,<br/>elhatároztam követem Jézust,<br/>elhatároztam követem Jézust,<br/>nincs visszaút, nincs visszaút.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mögöttem a világ, előttem a kereszt,<br/>mögöttem a világ, előttem Jézus,<br/>mögöttem a világ, előttem a kereszt,<br/>nincs visszaút, nincs visszaút.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Határozd el most, követed Jézust,<br/>határozd el most, követed Jézust,<br/>határozd el most, követed Jézust,<br/>nincs visszaút, nincs visszaút.</lines>
+    </verse>
+  </lyrics>
+</song>

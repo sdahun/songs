@@ -663,6 +663,11 @@
 | 48. | [Egyet kérek Tőled](./collections/hozsanna/048.xml) |
 | 49. | [Egymásnak terhét](./collections/hozsanna/049.xml) |
 | 50. | [Együtt áldunk](./collections/hozsanna/050.xml) |
+| 51. | [Éjjel, nappal](./collections/hozsanna/051.xml) |
+| 52. | [El Shaddai](./collections/hozsanna/052.xml) |
+| 53. | [Élet van Tebenned](./collections/hozsanna/053.xml) |
+| 54. | [Életem, csak kegyelem](./collections/hozsanna/054.xml) |
+| 55. | [Elhatároztam](./collections/hozsanna/055.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

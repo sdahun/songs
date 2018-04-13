@@ -13,6 +13,7 @@
     </authors>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="33"/>
+      <songbook name="Hozsánna énekes" entry="52"/>
     </songbooks>
     <themes>
       <theme>Istent dicsérő ének</theme>
@@ -23,7 +24,7 @@
       <lines>El Shaddai, El Shaddai,<br/>örök élő Adonai,<br/>eltelnek évezredek<br/>és Te nem változol meg.<br/>El Shaddai, El Shaddai,<br/>örök élő Adonai.<br/>Rólad szól a szív, a száj,<br/>El Shaddai.</lines>
     </verse>
     <verse name="v1">
-      <lines>Te alkottad az eget,<br/>napot, földet, vizeket.<br/>Ábrahám fiainak<br/>Te jelöltél ki utat.<br/>Szóltál, feltámadt a szél<br/>ott a Vörös tengernél<br/>s néped száraz lábbal kelt át.</lines>
+      <lines>Te alkottad az eget,<br/>napot, földet, vizeket.<br/>Ábrahám fiainak<br/>Te jelöltél ki utat.<br/>Szóltál, feltámadt a szél<br/>ott a Vörös-tengernél<br/>s néped száraz lábbal kelt át.</lines>
     </verse>
     <verse name="b1">
       <lines>A pusztában vezettél,<br/>megbékélést üzentél,<br/>kenyereddel tápláltál,<br/>sasszárnyakon hordoztál.<br/>Mi nem értettük szavad,<br/>elvétettük az utat,<br/>de Te mégis elértél<br/>és Tiednek neveztél.</lines>

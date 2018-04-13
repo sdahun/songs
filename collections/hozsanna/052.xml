@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>El Shaddai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="52"/>
+      <songbook name="Erőm és énekem az Úr" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Él Shaddai, Él Shaddai,<br/>örök élő Adonai!<br/>Eltelnek évezredek<br/>és te nem változol meg!<br/>Él Shaddai, Él Shaddai,<br/>örök élő Adonai.<br/>Rólad szól a szív és száj,<br/>Él Shaddai.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Te alkottad az eget,<br/>napot, földet, vizeket.<br/>Ábrahám fiainak<br/>te jelöltél ki utat.<br/>Szóltál s feltámadt a szél<br/>ott a Vörös-tengernél<br/>s néped száraz lábbal kelt át!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A pusztában vezettél,<br/>megbékélést üzentél.<br/>Kenyereddel tápláltál,<br/>sasszárnyakon hordoztál.<br/>Mi nem értettük szavad,<br/>elvétettük az utat,<br/>de Te mégis elértél<br/>és tiednek neveztél.</lines>
+    </verse>
+  </lyrics>
+</song>

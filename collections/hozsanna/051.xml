@@ -5,18 +5,10 @@
       <title>Éjjel, nappal</title>
     </titles>
     <verseOrder>c1 v1 c1 v2 c1</verseOrder>
-    <authors>
-      <author type="music">Spirituálé</author>
-      <author type="translation" lang="hu">Hányik Mária, 1980</author>
-      <author type="translation" lang="hu">Hégely László, 1980</author>
-    </authors>
     <songbooks>
-      <songbook name="Erőm és énekem az Úr" entry="30"/>
       <songbook name="Hozsánna énekes" entry="51"/>
+      <songbook name="Erőm és énekem az Úr" entry="30"/>
     </songbooks>
-    <themes>
-      <theme>Esti ének</theme>
-    </themes>
   </properties>
   <lyrics>
     <verse name="c1">
