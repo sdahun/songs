@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Fejet hajt a mindenség</title>
+    </titles>
+    <verseOrder>o1 o2 o1 o2 o3 o4</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Fejet hajt a mindenség<br/>lábaid előtt.<br/>Neked hódol Föld és Ég,<br/>minden Rólad beszél.<br/>Mondjuk hát:<br/>Szent vagy Urunk,<br/>szent vagy Urunk!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Téged áldunk és imádunk...<br/>Kegyelmed rám talált,<br/>nincsen hasonló Hozzád.<br/>Téged áldunk és imádunk,<br/>nincs más,<br/>szerelmed oly csodás.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Élő Jézus, hű Megváltó,<br/>drága főpap, egyetlen pásztor.<br/>Mennyen, Földön<br/>minden meghajol,<br/>minden élő csak Néked hódol.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Szent vagy, szent vagy<br/>és fenséges.<br/>Örök Isten, a Felkent, a Győztes.<br/>Angyalkórus zengi himnuszát:<br/>Méltó, méltó, méltó a Bárány!</lines>
+    </verse>
+  </lyrics>
+</song>

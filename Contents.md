@@ -683,6 +683,11 @@
 | 68. | [Ez a szó: szeretet](./collections/hozsanna/068.xml) |
 | 69. | [Ez az a nap](./collections/hozsanna/069.xml) |
 | 70. | [Ez az öröm el ne múljék](./collections/hozsanna/070.xml) |
+| 71. | [Fejet hajt a mindenség](./collections/hozsanna/071.xml) |
+| 72. | [Fényed](./collections/hozsanna/072.xml) |
+| 73. | [Fel vígan ünnepelj](./collections/hozsanna/073.xml) |
+| 74. | [Fölveszem a dicséret köntösét](./collections/hozsanna/074.xml) |
+| 75. | [Futunk, s nem lankadunk](./collections/hozsanna/075.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

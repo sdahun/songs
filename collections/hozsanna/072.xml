@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Fényed</title>
+    </titles>
+    <verseOrder>o1 o2 o3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Mit árt ember nekem,<br/>hisz Te vagy Istenem,<br/>miért rettegnék,<br/>hisz a Nap és Hold Tiéd.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Miért csüggedjek,<br/>hisz nagyságod ismerem,<br/>miért adnám fel,<br/>hisz csak jókat tervezel.<br/>E világon sok baj vár ránk,<br/>de mindezt legyőzted Te már!</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Fényed,<br/>minden csillagot túlragyog,<br/>szíved<br/>tisztább, mint a fehér hó.<br/>Fényed, lelkem betölti erővel,<br/>hogy veled járjak.</lines>
+    </verse>
+  </lyrics>
+</song>
