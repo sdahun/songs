@@ -678,6 +678,11 @@
 | 63. | [Én lelkem zengj](./collections/hozsanna/063.xml) |
 | 64. | [Én még mit sem tudtam Rólad](./collections/hozsanna/064.xml) |
 | 65. | [Énekelj az Úrnak](./collections/hozsanna/065.xml) |
+| 66. | [Erőt adsz minden helyzetben](./collections/hozsanna/066.xml) |
+| 67. | [Esdve kérlek, jó Atyám](./collections/hozsanna/067.xml) |
+| 68. | [Ez a szó: szeretet](./collections/hozsanna/068.xml) |
+| 69. | [Ez az a nap](./collections/hozsanna/069.xml) |
+| 70. | [Ez az öröm el ne múljék](./collections/hozsanna/070.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
