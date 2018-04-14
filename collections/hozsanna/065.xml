@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Énekelj az Úrnak</title>
+    </titles>
+    <verseOrder>c1 c1 v1 c1 c1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="65"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Énekelj az Úrnak teljes szívedből!<br/>Énekelj az Úrnak teljes szívedből!<br/>Mindig magasztald, mindig Őt dicsérd,<br/>őrzi élted, vezet téged:<br/>zengjed szent nevét.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hogyha túl sok gond szántja homlokod,<br/>Jézus akkor sem hagy el!<br/>Vedd fel kereszted, indulj, így kövesd,<br/>ó, menj, bízva nézz rá fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő a nagy király, trónja mennyben áll,<br/>Jézus, Főpap, Messiás,<br/>értünk visszajön, akkor lesz öröm,<br/>s látjuk Jézust örökkön!</lines>
+    </verse>
+  </lyrics>
+</song>

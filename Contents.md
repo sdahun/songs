@@ -673,6 +673,11 @@
 | 58. | [Eljött az óra](./collections/hozsanna/058.xml) |
 | 59. | [Elmúlik ez a világ](./collections/hozsanna/059.xml) |
 | 60. | [Emberek vagy angyalok nyelvén](./collections/hozsanna/060.xml) |
+| 61. | [Emlékezzél meg](./collections/hozsanna/061.xml) |
+| 62. | [Én fel sem foghatom](./collections/hozsanna/062.xml) |
+| 63. | [Én lelkem zengj](./collections/hozsanna/063.xml) |
+| 64. | [Én még mit sem tudtam Rólad](./collections/hozsanna/064.xml) |
+| 65. | [Énekelj az Úrnak](./collections/hozsanna/065.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
