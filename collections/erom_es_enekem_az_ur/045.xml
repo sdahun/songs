@@ -11,6 +11,7 @@
     </authors>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="45"/>
+      <songbook name="Hozsánna énekes" entry="83"/>
     </songbooks>
     <themes>
       <theme>Reggeli ének</theme>
@@ -18,13 +19,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hála, hogy itt a csendes reggel,<br/>hála, hogy éjre nappal jő:<br/>hála, hogy minden órám gondját<br/>elhordozza Ő.</lines>
+      <lines>Hála, hogy itt a csendes reggel,<br/>hála, hogy éjre nappal jő;<br/>hála, hogy minden órám gondját<br/>elhordozza Ő.</lines>
     </verse>
     <verse name="v2">
-      <lines>Hála barátért, testvérszívért,<br/>hála, hogy bennük bízhatom,<br/>hála, hogy minden ellenségnek<br/>békéd hozhatom.</lines>
+      <lines>Hála barátért, testvérszívért,<br/>hála, hogy bennük bízhatom;<br/>hála, hogy minden ellenségnek<br/>békéd hozhatom.</lines>
     </verse>
     <verse name="v3">
-      <lines>Hála a munka áldásáért,<br/>hála a boldog percekért,<br/>hála, hogy adtál dalt is, fényt is,<br/>adtál szép zenét.</lines>
+      <lines>Hála a munka áldásáért,<br/>hála a boldog percekért;<br/>hála, hogy adtál dalt is, fényt is,<br/>adtál szép zenét.</lines>
     </verse>
   </lyrics>
 </song>
