@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyertek dicsérjük együtt</title>
+    </titles>
+    <verseOrder>o1 o2 o3 o1 o2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="77"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Gyertek, dicsérjük együtt<br/>Izrael Szentjét,<br/>mert Ő a Megváltó!<br/>Gyertek, dicsérjük együtt<br/>Izrael Szentjét,<br/>mert Ő a Megváltó!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Emeld fel kezedet,<br/>nyisd meg a szívedet,<br/>mert Ő a te Szabadítód!<br/>Emeld fel kezedet,<br/>nyisd meg a szívedet,<br/>mert Ő a te Szabadítód!</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Gyertek, gyertek,<br/>menjünk fel az Úr hegyére,<br/>vígasságnak lakhelyére,<br/>ujjongjunk Ő előtte,<br/>táncoljunk Ő előtte,<br/>az Ő neve, az Ő neve:<br/>ott lakik az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -688,6 +688,11 @@
 | 73. | [Fel vígan ünnepelj](./collections/hozsanna/073.xml) |
 | 74. | [Fölveszem a dicséret köntösét](./collections/hozsanna/074.xml) |
 | 75. | [Futunk, s nem lankadunk](./collections/hozsanna/075.xml) |
+| 76. | [Gyermekként jött](./collections/hozsanna/076.xml) |
+| 77. | [Gyertek dicsérjük együtt](./collections/hozsanna/077.xml) |
+| 78. | [Ha Isten békéje lakja szívemet](./collections/hozsanna/078.xml) |
+| 79. | [Ha mástól már segítség nem jő](./collections/hozsanna/079.xml) |
+| 80. | [Ha napjában csak egyszer](./collections/hozsanna/080.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
