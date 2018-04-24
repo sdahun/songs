@@ -703,6 +703,11 @@
 | 88. | [Hallottál-e arról](./collections/hozsanna/088.xml) |
 | 89. | [Hevenu shalom](./collections/hozsanna/089.xml) |
 | 90. | [Hinni taníts, Uram](./collections/hozsanna/090.xml) |
+| 91. | [Hintsd szerteszét](./collections/hozsanna/091.xml) |
+| 92. | [Hív már az Úr](./collections/hozsanna/092.xml) |
+| 93. | [Hívlak, Uram, várlak, Uram](./collections/hozsanna/093.xml) |
+| 94. | [Hozsánna!](./collections/hozsanna/094.xml) |
+| 95. | [Hozzád száll az énekem](./collections/hozsanna/095.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
