@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hevenu shalom</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1" lang="he">
+      <lines>Hevenu shalom alehem,<br/>hevenu shalom alehem!<br/>Hevenu shalom alehem,<br/>hevenu shalom, shalom,<br/>shalom alehem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Legyen a béke te veled,<br/>legyen a béke teveled!<br/>Legyen a béke teveled,<br/>legyen a béke, béke,<br/>béke teveled!</lines>
+    </verse>
+  </lyrics>
+</song>

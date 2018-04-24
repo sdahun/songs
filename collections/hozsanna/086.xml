@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hálát adva áldja Istent</title>
+    </titles>
+    <verseOrder>o1 o2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="86"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Hálát adva áldja Istent,<br/>áldja Istent, mi él.<br/>Róla zeng minden,<br/>mennyben és itt lenn,<br/>zengve az Ő szent nevét.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Az Úrhoz, az Úrhoz<br/>száll hála, dicséret.<br/>Mert Ő teremtő nagy Úr.<br/>Minden teremtmény<br/>adjon ma hálát,<br/>méltó erre az Úr.</lines>
+    </verse>
+  </lyrics>
+</song>

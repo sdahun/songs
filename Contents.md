@@ -698,6 +698,11 @@
 | 83. | [Hála, hogy itt a csendes reggel](./collections/hozsanna/083.xml) |
 | 84. | [Halál völgye ott már nem lesz többé](./collections/hozsanna/084.xml) |
 | 85. | [Hálát adok Uram](./collections/hozsanna/085.xml) |
+| 86. | [Hálát adva áldja Istent](./collections/hozsanna/086.xml) |
+| 87. | [Halleluja, zengve zeng hálaének](./collections/hozsanna/087.xml) |
+| 88. | [Hallottál-e arról](./collections/hozsanna/088.xml) |
+| 89. | [Hevenu shalom](./collections/hozsanna/089.xml) |
+| 90. | [Hinni taníts, Uram](./collections/hozsanna/090.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
