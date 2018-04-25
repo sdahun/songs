@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jelenléted erőt ad nekem</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="105"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jelenléted erőt ad nekem,<br/>jelenléted Uram, Istenem.<br/>Jelenléted, – itt van lakhelyem,<br/>hol megérintesz kegyelmeddel.<br/>Sziklád rejtekében, szent jelenlétedben.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hadd járjak ott,<br/>hol a nagy folyó sem áraszt majd el,<br/>hol a lábam sziklán áll.<br/>Ó, rejts el ott,<br/>hol a perzselő tűz nem éget meg,<br/>ahol Te vagy, Atyám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hadd járjak ott,<br/>hol a gonosz karja nem ér majd el,<br/>hol a szent vér árad rám.<br/>Ó, rejts el ott,<br/>hol a sötétség sem rémiszt engem,<br/>ahol Te vagy, Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

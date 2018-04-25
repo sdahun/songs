@@ -713,6 +713,11 @@
 | 98. | [Indulj az úton](./collections/hozsanna/098.xml) |
 | 99. | [Isten élő Lelke, jöjj](./collections/hozsanna/099.xml) |
 | 100. | [Isten szeret, örvendj hát!](./collections/hozsanna/100.xml) |
+| 101. | [Istenem, nem értem](./collections/hozsanna/101.xml) |
+| 102. | [Itt állok előtted, kérlek, Uram](./collections/hozsanna/102.xml) |
+| 103. | [Itt vagyok most, Jó Uram](./collections/hozsanna/103.xml) |
+| 104. | [Jézus feltámadt a sírból](./collections/hozsanna/104.xml) |
+| 105. | [Jelenléted erőt ad nekem](./collections/hozsanna/105.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

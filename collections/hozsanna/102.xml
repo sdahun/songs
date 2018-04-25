@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt állok előtted, kérlek, Uram</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt állok előtted,<br/>kérlek, Uram, ne vess meg!<br/>Itt állok előtted,<br/>kérlek, Uram, ne vess meg!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vajon merre menjek,<br/>hol találok nyugalmat?<br/>Nálad van a bocsánat!<br/>Vajon merre menjek,<br/>hol találok nyugalmat?<br/>Nálad van a bocsánat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemből tehozzád<br/>száll, Uram, az imádság.<br/>Szívemből tehozzád<br/>száll, Uram, az imádság.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kérlek, el ne hagyjon<br/>nagy kegyelmed: vezessen!<br/>Tarts, Uram, a kezedben!<br/>Kérlek, el ne hagyjon<br/>nagy kegyelmed: vezessen!<br/>Tarts, Uram, a kezedben!</lines>
+    </verse>
+  </lyrics>
+</song>
