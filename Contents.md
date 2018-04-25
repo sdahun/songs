@@ -708,6 +708,11 @@
 | 93. | [Hívlak, Uram, várlak, Uram](./collections/hozsanna/093.xml) |
 | 94. | [Hozsánna!](./collections/hozsanna/094.xml) |
 | 95. | [Hozzád száll az énekem](./collections/hozsanna/095.xml) |
+| 96. | [Hűséged végtelen](./collections/hozsanna/096.xml) |
+| 97. | [Igazságban, szentségben](./collections/hozsanna/097.xml) |
+| 98. | [Indulj az úton](./collections/hozsanna/098.xml) |
+| 99. | [Isten élő Lelke, jöjj](./collections/hozsanna/099.xml) |
+| 100. | [Isten szeret, örvendj hát!](./collections/hozsanna/100.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
