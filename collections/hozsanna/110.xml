@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, neved oly csodálatos</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="110"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, neved oly csodálatos,<br/>Jézus, lényed oly kívánatos.<br/>Jézus, néked mondok éneket,<br/>Te vagy ékes mindenek felett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Sáron legszebb rózsája,<br/>Jézus, völgyek legszebb virága.<br/>Jézus, szívem hódoljon neked,<br/>Te vagy ékes mindenek felett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, eljövendő nagy Király,<br/>Jézus, akit minden szentje vár.<br/>Jézus, tiéd minden tisztelet,<br/>Te vagy ékes, mindenek felett.</lines>
+    </verse>
+  </lyrics>
+</song>

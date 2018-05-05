@@ -718,6 +718,11 @@
 | 103. | [Itt vagyok most, Jó Uram](./collections/hozsanna/103.xml) |
 | 104. | [Jézus feltámadt a sírból](./collections/hozsanna/104.xml) |
 | 105. | [Jelenléted erőt ad nekem](./collections/hozsanna/105.xml) |
+| 106. | [Jézus hív, hogy szabad lehess](./collections/hozsanna/106.xml) |
+| 107. | [Jézus, hű Megváltó](./collections/hozsanna/107.xml) |
+| 108. | [Jézus, jöjj közénk](./collections/hozsanna/108.xml) |
+| 109. | [Jézus neve fenséges!](./collections/hozsanna/109.xml) |
+| 110. | [Jézus, neved oly csodálatos](./collections/hozsanna/110.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
