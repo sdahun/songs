@@ -723,6 +723,11 @@
 | 108. | [Jézus, jöjj közénk](./collections/hozsanna/108.xml) |
 | 109. | [Jézus neve fenséges!](./collections/hozsanna/109.xml) |
 | 110. | [Jézus, neved oly csodálatos](./collections/hozsanna/110.xml) |
+| 111. | [Jézus szíve megbocsát](./collections/hozsanna/111.xml) |
+| 112. | [Jézus, tiszta lényed nézve](./collections/hozsanna/112.xml) |
+| 113. | [Jézus Úr, Ő a mi Istenünk](./collections/hozsanna/113.xml) |
+| 114. | [Jézus visszajön](./collections/hozsanna/114.xml) |
+| 115. | [Jézussal járok mindennap](./collections/hozsanna/115.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
