@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jó barátom a Nap</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó barátom a Nap,<br/>világít nekem minden nap,<br/>és arról mesél,<br/>hogy valaki szeret engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó barátom a Hold,<br/>világít nekem mindenhol,<br/>és arról mesél,<br/>hogy valaki szeret engem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Barátaim a csillagok,<br/>a felhő és a szél.<br/>Jó barátom a nevetés,<br/>mert Jézusról mesél.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Barátaim a csillagok,<br/>a felhő és a szél.<br/>Jó barátom a nevetés,<br/>mert mind rólad mesél.</lines>
+    </verse>
+  </lyrics>
+</song>

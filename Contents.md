@@ -728,6 +728,11 @@
 | 113. | [Jézus Úr, Ő a mi Istenünk](./collections/hozsanna/113.xml) |
 | 114. | [Jézus visszajön](./collections/hozsanna/114.xml) |
 | 115. | [Jézussal járok mindennap](./collections/hozsanna/115.xml) |
+| 116. | [Jó Atyám imádlak](./collections/hozsanna/116.xml) |
+| 117. | [Jó Atyám, kitárom szívem](./collections/hozsanna/117.xml) |
+| 118. | [Jó Atyánk, úgy szeretünk](./collections/hozsanna/118.xml) |
+| 119. | [Jó barátom a Nap](./collections/hozsanna/119.xml) |
+| 120. | [Jobb az engedelmesség](./collections/hozsanna/120.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
