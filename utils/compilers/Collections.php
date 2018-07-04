@@ -8,6 +8,7 @@ class Collections {
 
     static public function getQuickSearchName($name) {
         switch ($name) {
+            case 'Adj zengő éneket':                 return 'A';
             case 'Baptista gyülekezeti énekeskönyv': return 'B';
             case 'Dicsérem Neved 1':                 return 'T';
             case 'Dicsérem Neved 2':                 return 'U';

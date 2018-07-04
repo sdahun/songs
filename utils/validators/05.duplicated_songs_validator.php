@@ -4,6 +4,7 @@ require('duplicate_exceptions.php');
 
 function get_collection_name ($name) {
   switch ($name) {
+    case 'Adj zengő éneket':                 return 'adj_zengo_eneket';
     case 'Baptista gyülekezeti énekeskönyv': return 'baptista_gyulekezeti_enekeskonyv';
     case 'Dicsérem Neved 1':                 return 'dicserem_neved_1';
     case 'Dicsérem Neved 2':                 return 'dicserem_neved_2';
