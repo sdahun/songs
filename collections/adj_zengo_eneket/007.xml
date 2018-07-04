@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldásoddal megyünk</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author type="music">Deák Gábor</author>
+      <author type="words">Kádár Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket" entry="7"/>
+      <songbook name="Erőm és énekem az Úr" entry="3"/>
+      <songbook name="Hozsánna énekes" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldásoddal megyünk,<br/>megyünk innen el.<br/>Boldog már a szívünk,<br/>Néked énekel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maradj mindig velünk,<br/>ha útra kelünk,<br/>őrizd életünk<br/>mindenkor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Menjünk mindig Feléd,<br/>tekintsünk Terád!<br/>Szentlelked erejét<br/>add nékünk tovább!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Őrízz, hogy a kezünk<br/>legyen tiszta kéz!<br/>Szólj ránk, hogy a szívünk<br/>legyen mindig kész!</lines>
+    </verse>
+  </lyrics>
+</song>

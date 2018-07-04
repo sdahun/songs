@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A mennyben fenn a trónusnál</title>
+      <title>Before The Throne Of God Above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+    <authors>
+      <author type="music">Vikki Cook</author>
+      <author type="translation" lang="hu">Révész Árpád</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket" entry="4"/>
+      <songbook name="Hozsánna énekes" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mennyben fenn a trónusnál<br/>a Krisztus értem közbenjár,<br/>Nagy Főpap, égi kezesem,<br/>örökre biztos védelmem.<br/>Markába véste nevemet,<br/>szívébe írta: nem feled.<br/>Örökké Ő lesz pártfogóm,<br/>elnémul minden vádolóm,<br/>elnémul minden vádolóm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikor a Sátán megkísért,<br/>és vádol megbánt bűnökért:<br/>Jézusra nézek, áldom Őt,<br/>a bűneimből megmentőt.<br/>Ő halt meg minden vétkemért,<br/>a bűntelen a bűnösért.<br/>Isten, a bíró fölmentett,<br/>Krisztusra nézve engedett,<br/>Krisztusra nézve engedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Íme, a Bárány, Ő van ott,<br/>feltámadt és üdvöt hozott.<br/>Ő mondta: „Megváltód vagyok”,<br/>nem vonja vissza, mit adott.<br/>A Bárány vére volt az ár,<br/>Őnála többé nincs halál!<br/>Krisztusban üdvöm készen vár,<br/>ott fenn az Isten trónjánál,<br/>ott fenn az Isten trónjánál.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A Bárány vére volt az ár,<br/>Őnála többé nincs halál!<br/>Krisztusban üdvöm készen vár,<br/>ott fenn az Isten trónjánál,<br/>ott fenn az Isten trónjánál.</lines>
+    </verse>
+  </lyrics>
+</song>

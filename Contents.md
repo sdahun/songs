@@ -1,5 +1,17 @@
 # Tartalomjegyzék
 
+## Adj zengő éneket (/adj_zengo_eneket)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 1. | [A fényes Nap immár elnyugodott](./collections/adj_zengo_eneket/001.xml) |
+| 2. | [A kegyelmed köszönöm Neked](./collections/adj_zengo_eneket/002.xml) |
+| 3. | [A mélyből Hozzád száll szavam](./collections/adj_zengo_eneket/003.xml) |
+| 4. | [A mennyben fenn a trónusnál](./collections/adj_zengo_eneket/004.xml) |
+| 5. | [A napfelkeltétől](./collections/adj_zengo_eneket/005.xml) |
+| 6. | [Áldalak, jó Uram](./collections/adj_zengo_eneket/006.xml) |
+| 7. | [Áldásoddal megyünk](./collections/adj_zengo_eneket/007.xml) |
+
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
 | Ssz. | Az ének címe/kezdete |
