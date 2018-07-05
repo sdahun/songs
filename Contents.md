@@ -18,6 +18,8 @@
 | 12. | [Áldott légy, Istenem](./collections/adj_zengo_eneket/012.xml) |
 | 13. | [Alleluja (Ébredj, ember)](./collections/adj_zengo_eneket/013.xml) |
 | 14. | [Atyám, két kezedben](./collections/adj_zengo_eneket/014.xml) |
+| 15. | [Az Istenhez az én szómat](./collections/adj_zengo_eneket/015.xml) |
+| 16. | [Az Úr csodásan működik](./collections/adj_zengo_eneket/016.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
