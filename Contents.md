@@ -1,6 +1,6 @@
 # Tartalomjegyzék
 
-## Adj zengő éneket (/adj_zengo_eneket)
+## Adj zengő éneket! (/adj_zengo_eneket)
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
@@ -11,6 +11,7 @@
 | 5. | [A napfelkeltétől](./collections/adj_zengo_eneket/005.xml) |
 | 6. | [Áldalak, jó Uram](./collections/adj_zengo_eneket/006.xml) |
 | 7. | [Áldásoddal megyünk](./collections/adj_zengo_eneket/007.xml) |
+| 8. | [Áldd, lelkem, Istened](./collections/adj_zengo_eneket/008.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
