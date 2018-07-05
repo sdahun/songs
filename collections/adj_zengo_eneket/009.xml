@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldjad lelkem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="music">Soproni János</author>
+      <author type="words">Soproni János</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad lelkem, áldjad életem,<br/>mindig áldjad az Urat!<br/>Szálljon hálánk drága illata,<br/>mely a szívemből fakad!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden reggel, délben, vagy ha jő az est:<br/>szálljon hálaáldozat!<br/>Áldjad lelkem, áldjad életem,<br/>mindig áldjad az Urat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Jézus, Isten szent Fia<br/>elhagyta dicső honát.<br/>És mint Bárány, mert úgy szeretett,<br/>értünk adta Önmagát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalmas és jóságos az Úr,<br/>vétkeinkre nem tekint.<br/>Nem cselekszik és nem is fizet<br/>Ő a bűneink szerint.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ismer minket, látja életünk,<br/>tudja, hogy porból vagyunk.<br/>Ám Előtte bűnbánó szívvel<br/>mindig leborulhatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

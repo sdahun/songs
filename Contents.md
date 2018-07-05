@@ -12,6 +12,8 @@
 | 6. | [Áldalak, jó Uram](./collections/adj_zengo_eneket/006.xml) |
 | 7. | [Áldásoddal megyünk](./collections/adj_zengo_eneket/007.xml) |
 | 8. | [Áldd, lelkem, Istened](./collections/adj_zengo_eneket/008.xml) |
+| 9. | [Áldjad lelkem](./collections/adj_zengo_eneket/009.xml) |
+| 10. | [Áldjon meg téged](./collections/adj_zengo_eneket/010.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
