@@ -20,6 +20,10 @@
 | 14. | [Atyám, két kezedben](./collections/adj_zengo_eneket/014.xml) |
 | 15. | [Az Istenhez az én szómat](./collections/adj_zengo_eneket/015.xml) |
 | 16. | [Az Úr csodásan működik](./collections/adj_zengo_eneket/016.xml) |
+| 17. | [Az Úrnak zengjen az ének](./collections/adj_zengo_eneket/017.xml) |
+| 18. | [Az Úr jósága](./collections/adj_zengo_eneket/018.xml) |
+| 19. | [Csak Istenben nyugoszik meg szívem](./collections/adj_zengo_eneket/019.xml) |
+| 20. | [Csak Istené legyen minden dicsőség](./collections/adj_zengo_eneket/020.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
