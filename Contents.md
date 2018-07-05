@@ -14,6 +14,10 @@
 | 8. | [Áldd, lelkem, Istened](./collections/adj_zengo_eneket/008.xml) |
 | 9. | [Áldjad lelkem](./collections/adj_zengo_eneket/009.xml) |
 | 10. | [Áldjon meg téged](./collections/adj_zengo_eneket/010.xml) |
+| 11. | [Áldjuk a mennyei Atyát](./collections/adj_zengo_eneket/011.xml) |
+| 12. | [Áldott légy, Istenem](./collections/adj_zengo_eneket/012.xml) |
+| 13. | [Alleluja (Ébredj, ember)](./collections/adj_zengo_eneket/013.xml) |
+| 14. | [Atyám, két kezedben](./collections/adj_zengo_eneket/014.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
@@ -748,6 +752,10 @@
 | 118. | [Jó Atyánk, úgy szeretünk](./collections/hozsanna/118.xml) |
 | 119. | [Jó barátom a Nap](./collections/hozsanna/119.xml) |
 | 120. | [Jobb az engedelmesség](./collections/hozsanna/120.xml) |
+| 121. | [Jöjj és ünnepelj](./collections/hozsanna/121.xml) |
+| 122. | [Jöjj, itt az idő, hogy dicsérd](./collections/hozsanna/122.xml) |
+| 123. | [Jöjj, Izráel, ne félj](./collections/hozsanna/123.xml) |
+| 124. | [Jöjjetek, örvendjünk az Úr előtt](./collections/hozsanna/124.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

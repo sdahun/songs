@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjj és ünnepelj</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj és ünnepelj,<br/>új dalt énekelj,<br/>új dalt énekelj az Úrnak!<br/>Jöjj és ünnepelj,<br/>új dalt énekelj,<br/>új dalt énekelj az Úrnak!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szívemből örvendve hát<br/>a lelkemből látva arcát,<br/>a menny felé kinyújtom kezem,<br/>azért, mit tett, csak dicsérhetem.</lines>
+    </verse>
+  </lyrics>
+</song>

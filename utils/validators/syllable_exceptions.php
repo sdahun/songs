@@ -8,6 +8,13 @@ $linecount_exceptions = [
   
   //format: file;verse;line
   $syllable_exceptions = [
+    'adj_zengo_eneket/011.xml;v2;5',
+    'adj_zengo_eneket/011.xml;v3;5',
+
+    'adj_zengo_eneket/013.xml;v2;3',
+    'adj_zengo_eneket/013.xml;v3;1',
+    'adj_zengo_eneket/013.xml;v3;3',
+
     'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
 
     'dicserem_neved_2/006.xml;v2;2',
@@ -247,6 +254,9 @@ $linecount_exceptions = [
     'hozsanna/117.xml;v2;5',
 
     'hozsanna/120.xml;v2;1',
+
+    'hozsanna/124.xml;v2;1',
+    'hozsanna/124.xml;v2;4',
 
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',
