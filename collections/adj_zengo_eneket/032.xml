@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Földtől az égig</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c1 v1</verseOrder>
+    <authors>
+      <author type="music">Dobner Illés</author>
+      <author type="words">Dobner Illés</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Földtől az égig ér ez a nagy szerelem.<br/>Az égtől a földig lenyúlsz és fogod kezem.<br/>Naptól Holdig kitárom karom, s várlak.<br/>Szívtől szájig mosolygok, mikor meglátlak,<br/>mosolygok, mikor meglátlak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rá kellett jönnöm, nem tudok élni Nélküled.<br/>Nincs választásom, boldogságom Belőled ered.<br/>A szíved fogtam és saját szívembe zártam.<br/>Kérlek, érezd mindig otthon magad nálam,<br/>mindig otthon magad nálam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A távoli fények annyira szépek,<br/>mégis a legfőbb kincs,<br/>hogy itt lüktetsz bennem,<br/>bár a kezemben semmi egyéb már nincs.</lines>
+    </verse>
+  </lyrics>
+</song>

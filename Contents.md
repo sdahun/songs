@@ -34,6 +34,11 @@
 | 28. | [Emlékezzél meg](./collections/adj_zengo_eneket/028.xml) |
 | 29. | [Erdő mellett estvéledtem](./collections/adj_zengo_eneket/029.xml) |
 | 30. | [Erőt adsz minden helyzetben](./collections/adj_zengo_eneket/030.xml) |
+| 31. | [Felnézek rád, csodás kereszt](./collections/adj_zengo_eneket/031.xml) |
+| 32. | [Földtől az égig](./collections/adj_zengo_eneket/032.xml) |
+| 33. | [Fel, barátim](./collections/adj_zengo_eneket/033.xml) |
+| 34. | [Gyertek, dicsérjük együtt](./collections/adj_zengo_eneket/034.xml) |
+| 35. | [Gyertyaláng](./collections/adj_zengo_eneket/035.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
