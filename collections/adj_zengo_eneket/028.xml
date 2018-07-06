@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg</title>
+      <title>Think About His Love</title>
+    </titles>
+    <verseOrder>v1 v2 v1 e1</verseOrder>
+    <authors>
+      <author type="music">Walt Harrah</author>
+      <author type="words">Walt Harrah</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="28"/>
+      <songbook name="Hozsánna énekes" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emlékezzél meg az Úr jóságáról,<br/>emlékezzél meg oltalmáról!<br/>Mert olyan magas, mint az ég,<br/>hűsége és megtartó kegyelme hozzánk.<br/>Nagy az Ő kegyelme népe iránt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viharokban Ő erős várunk,<br/>mikor szélvész dúl, karjába zár.<br/>Amilyen távol van napkelet,<br/>oly messze veti el tőlünk bűneinket.<br/>Nem fogy el irgalma népe iránt.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nagy az Ő kegyelme népe iránt.</lines>
+    </verse>
+  </lyrics>
+</song>

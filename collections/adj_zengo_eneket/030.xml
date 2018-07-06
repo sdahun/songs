@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
   <properties>
     <titles>
       <title>Erőt adsz minden helyzetben</title>
+      <title>You Are My All In All</title>
     </titles>
     <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Dennis Jernigan</author>
+    </authors>
     <songbooks>
-      <songbook name="Hozsánna énekes" entry="66"/>
       <songbook name="Adj zengő éneket!" entry="30"/>
+      <songbook name="Hozsánna énekes" entry="66"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -18,7 +22,7 @@
       <lines>Jézus, hű bárány,<br/>áldom szent neved!<br/>Jézus, hű bárány,<br/>áldom szent neved!</lines>
     </verse>
     <verse name="v2">
-      <lines>Elvetted bűnöm, szégyenem,<br/>köszönöm, hogy újjá lettem,<br/>Te vagy a mindenem!<br/>Felemelsz, hogyha elbukom,<br/>szentlelked betölt, jól tudom,<br/>Te vagy a mindenem.</lines>
+      <lines>Elvetted bűnöm, szégyenem,<br/>köszönöm, hogy újjá lettem,<br/>Te vagy a mindenem!<br/>Felemelsz, hogyha elbukom,<br/>Szentlelked betölt, jól tudom,<br/>Te vagy a mindenem.</lines>
     </verse>
   </lyrics>
 </song>

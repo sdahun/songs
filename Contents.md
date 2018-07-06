@@ -29,6 +29,11 @@
 | 23. | [Együtt a sereg](./collections/adj_zengo_eneket/023.xml) |
 | 24. | [Elindulunk égő szívvel](./collections/adj_zengo_eneket/024.xml) |
 | 25. | [Eljöttem, hogy áldjam](./collections/adj_zengo_eneket/025.xml) |
+| 26. | [Emeld fel a szemedet az égre](./collections/adj_zengo_eneket/026.xml) |
+| 27. | [Énekeljetek](./collections/adj_zengo_eneket/027.xml) |
+| 28. | [Emlékezzél meg](./collections/adj_zengo_eneket/028.xml) |
+| 29. | [Erdő mellett estvéledtem](./collections/adj_zengo_eneket/029.xml) |
+| 30. | [Erőt adsz minden helyzetben](./collections/adj_zengo_eneket/030.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
