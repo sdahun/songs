@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Csend van bennem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 c1</verseOrder>
+    <authors>
+      <author>Vándor Gyula</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csend van bennem, és emlékezem,<br/>képe a múltnak, ím megjelen.<br/>Vétket látok, gondozó kezet,<br/>szennyből, a sárból mind kivezet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>M’ért szeret Isten, m’ért szeret még?<br/>Hogy lehet, m’ért nem mondja ki: elég!<br/>Féltő karja újra átölel,<br/>áttört kezéhez szívem közel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csend van bennem, és emlékezem,<br/>mily sok ajándék, nagy kegyelem.<br/>Mily sok áldás, mily sok türelem<br/>kísérte végig az életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csend van bennem, és emlékezem,<br/>sokszor volt könnyes mindkét szemem.<br/>Oly sok bánat, fájdalom is ért,<br/>Hozzá futottam irgalomért.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csend van bennem, és emlékezem,<br/>hála, dicséret él szívemen.<br/>Hogy köszönjek múltat és jelent,<br/>holnapom védő, őrző kezet.</lines>
+    </verse>
+  </lyrics>
+</song>

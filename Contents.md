@@ -24,6 +24,11 @@
 | 18. | [Az Úr jósága](./collections/adj_zengo_eneket/018.xml) |
 | 19. | [Csak Istenben nyugoszik meg szívem](./collections/adj_zengo_eneket/019.xml) |
 | 20. | [Csak Istené legyen minden dicsőség](./collections/adj_zengo_eneket/020.xml) |
+| 21. | [Csend van bennem](./collections/adj_zengo_eneket/021.xml) |
+| 22. | [Csak Benned](./collections/adj_zengo_eneket/022.xml) |
+| 23. | [Együtt a sereg](./collections/adj_zengo_eneket/023.xml) |
+| 24. | [Elindulunk égő szívvel](./collections/adj_zengo_eneket/024.xml) |
+| 25. | [Eljöttem, hogy áldjam](./collections/adj_zengo_eneket/025.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
