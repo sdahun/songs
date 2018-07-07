@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hála, hogy itt a csendes reggel</title>
+      <title>Danke für diesen guten Morgen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 e1</verseOrder>
+    <authors>
+      <author type="music">Martin Gotthard Schneider</author>
+      <author type="words">Martin Gotthard Schneider</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="37"/>
+      <songbook name="Erőm és énekem az Úr" entry="45"/>
+      <songbook name="Hozsánna énekes" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hála, hogy itt a csendes reggel,<br/>hála, hogy éjre nappal jő.<br/>Hála, hogy minden órám gondját<br/>elhordozza Ő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hála barátért, testvérszívért,<br/>hála, hogy bennük bízhatom.<br/>Hála, hogy minden ellenségnek<br/>békéd hozhatom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hála a munka áldásáért,<br/>hála a boldog percekért.<br/>hála, hogy adtál dalt is, fényt is,<br/>adtál szép zenét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hála, ha olykor bánat támad,<br/>hála mindegyik jó szóért.<br/>Hála, hogy éltem intésedre<br/>céljához elér.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hála, hogy a Te Igéd jár át,<br/>hála, hogy a Te Lelked hív.<br/>Hála, szeretet áldó árját<br/>érzi minden szív.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hála, hogy a Te szent nagy fényed<br/>– hála! – szívemen átragyog.<br/>Hála azért is, ím, hogy Néked<br/>hálát adhatok.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hála azért is, ím, hogy Néked<br/>hálát adhatok.</lines>
+    </verse>
+  </lyrics>
+</song>

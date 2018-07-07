@@ -39,6 +39,11 @@
 | 33. | [Fel, barátim](./collections/adj_zengo_eneket/033.xml) |
 | 34. | [Gyertek, dicsérjük együtt](./collections/adj_zengo_eneket/034.xml) |
 | 35. | [Gyertyaláng](./collections/adj_zengo_eneket/035.xml) |
+| 36. | [Ha szívemben Istennek békéje él](./collections/adj_zengo_eneket/036.xml) |
+| 37. | [Hála, hogy itt a csendes reggel](./collections/adj_zengo_eneket/037.xml) |
+| 38. | [Hajnalórán lelkem ébred](./collections/adj_zengo_eneket/038.xml) |
+| 39. | [Hálát adok, Uram](./collections/adj_zengo_eneket/039.xml) |
+| 40. | [Hívlak, Uram](./collections/adj_zengo_eneket/040.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
