@@ -7,7 +7,8 @@
     </titles>
     <verseOrder>v1 c1 v2 c1 c1</verseOrder>
     <authors>
-      <author>Dennis Jernigan</author>
+      <author type="music">Dennis Jernigan</author>
+      <author type="words">Dennis Jernigan</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="30"/>

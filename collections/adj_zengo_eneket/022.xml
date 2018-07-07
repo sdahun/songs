@@ -6,7 +6,8 @@
     </titles>
     <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-      <author>Géczy Katalin</author>
+      <author type="music">Géczy Katalin</author>
+      <author type="words">Géczy Katalin</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="22"/>

@@ -6,7 +6,8 @@
     </titles>
     <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 c1</verseOrder>
     <authors>
-      <author>Vándor Gyula</author>
+      <author type="music">Vándor Gyula</author>
+      <author type="words">Vándor Gyula</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="21"/>

@@ -7,7 +7,8 @@
     </titles>
     <verseOrder>v1 c1 v1 c1 c1</verseOrder>
     <authors>
-      <author>Edith McNeill</author>
+      <author type="music">Edith McNeill</author>
+      <author type="words">Edith McNeill</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="18"/>

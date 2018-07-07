@@ -6,7 +6,8 @@
     </titles>
     <verseOrder>v1</verseOrder>
     <authors>
-      <author>Draskóczy László</author>
+      <author type="music">Draskóczy László</author>
+      <author type="words">Draskóczy László</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="10"/>

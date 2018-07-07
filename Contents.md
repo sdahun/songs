@@ -44,6 +44,9 @@
 | 38. | [Hajnalórán lelkem ébred](./collections/adj_zengo_eneket/038.xml) |
 | 39. | [Hálát adok, Uram](./collections/adj_zengo_eneket/039.xml) |
 | 40. | [Hívlak, Uram](./collections/adj_zengo_eneket/040.xml) |
+| 41. | [Hozzád jövünk, Uram](./collections/adj_zengo_eneket/041.xml) |
+| 42. | [Hozzád száll az énekem](./collections/adj_zengo_eneket/042.xml) |
+| 43. | [Hús-vér templom](./collections/adj_zengo_eneket/043.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
@@ -154,7 +157,7 @@
 | 53. | [Hinni taníts, Uram](./collections/erom_es_enekem_az_ur/053.xml) |
 | 54. | [Hiszek, Uram](./collections/erom_es_enekem_az_ur/054.xml) |
 | 55. | [Hív már az Úr](./collections/erom_es_enekem_az_ur/055.xml) |
-| 57. | [Hozzád jövünk, Uram](./collections/erom_es_enekem_az_ur/056.xml) |
+| 56. | [Hozzád jövünk, Uram](./collections/erom_es_enekem_az_ur/056.xml) |
 | 57. | [Hozsánna, hozsánna](./collections/erom_es_enekem_az_ur/057.xml) |
 | 58. | [Hűséged végtelen](./collections/erom_es_enekem_az_ur/058.xml) |
 | 59. | [Így szól ma tehozzád Jézus](./collections/erom_es_enekem_az_ur/059.xml) |

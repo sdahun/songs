@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
   <properties>
     <titles>
       <title>Hozzád jövünk, Uram</title>
     </titles>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
-      <songbook name="Erőm és énekem az Úr" entry="57"/>
+      <songbook name="Erőm és énekem az Úr" entry="56"/>
+      <songbook name="Adj zengő éneket!" entry="41"/>
     </songbooks>
     <themes>
       <theme>Bűnbűnat</theme>

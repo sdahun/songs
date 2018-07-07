@@ -7,7 +7,8 @@
     </titles>
     <verseOrder>v1 c1 c1 v1 c1 c1 e1</verseOrder>
     <authors>
-      <author>Craig Terndrup</author>
+      <author type="music">Craig Terndrup</author>
+      <author type="words">Craig Terndrup</author>
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="23"/>
