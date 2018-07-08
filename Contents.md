@@ -54,6 +54,11 @@
 | 48. | [Imádság](./collections/adj_zengo_eneket/048.xml) |
 | 49. | [Imádkozzatok és buzgón kérjetek](./collections/adj_zengo_eneket/049.xml) |
 | 50. | [Indulj és menj](./collections/adj_zengo_eneket/050.xml) |
+| 51. | [Indulj az úton](./collections/adj_zengo_eneket/051.xml) |
+| 52. | [Isten hord karjain](./collections/adj_zengo_eneket/052.xml) |
+| 53. | [Isten velünk! Viszontlátásra!](./collections/adj_zengo_eneket/053.xml) |
+| 54. | [Istenem, nem értem](./collections/adj_zengo_eneket/054.xml) |
+| 55. | [Itt az este](./collections/adj_zengo_eneket/055.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
