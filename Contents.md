@@ -47,6 +47,13 @@
 | 41. | [Hozzád jövünk, Uram](./collections/adj_zengo_eneket/041.xml) |
 | 42. | [Hozzád száll az énekem](./collections/adj_zengo_eneket/042.xml) |
 | 43. | [Hús-vér templom](./collections/adj_zengo_eneket/043.xml) |
+| 44. | [Hű pásztorunk, vezesd a Te árva nyájadat](./collections/adj_zengo_eneket/044.xml) |
+| 45. | [Hűséged végtelen](./collections/adj_zengo_eneket/045.xml) |
+| 46. | [Így szól ma tehozzád Jézus](./collections/adj_zengo_eneket/046.xml) |
+| 47. | [Ima a magyar népért](./collections/adj_zengo_eneket/047.xml) |
+| 48. | [Imádság](./collections/adj_zengo_eneket/048.xml) |
+| 49. | [Imádkozzatok és buzgón kérjetek](./collections/adj_zengo_eneket/049.xml) |
+| 50. | [Indulj és menj](./collections/adj_zengo_eneket/050.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

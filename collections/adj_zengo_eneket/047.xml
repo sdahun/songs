@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ima a magyar népért</title>
+    </titles>
+    <verseOrder>v1 c1 c1 e1</verseOrder>
+    <authors>
+      <author type="music">Mézes Áron</author>
+      <author type="words">Mézes Áron</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, jövök Hozzád e nemzetért,<br/>a magyar népért könyörgöm.<br/>Add, hogy megtaláljon Téged,<br/>és megláthasson a problémák között!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bocsájtsd meg vétkeinket!<br/>Gyógyítsd meg sebeinket!<br/>Szentlélek, söpörj végig az országon!<br/>Hozd az ébredést és a felüdülést!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hozd az ébredést és a felüdülést!<br/>Hozd az ébredést és a felüdülést!<br/>Hozd a gyógyulást és a szabadulást!</lines>
+    </verse>
+  </lyrics>
+</song>
