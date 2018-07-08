@@ -27,6 +27,7 @@ Az énekszöveg átalakító használatáról részletesen a [Használati utasí
 # Énekeskönyvek
 
 A gyűjteményekben szereplő énekeskönyvek az alábbi helyeken beszerezhetők:
+* [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu)
 * [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu/)
 * [Dicsérem neved 1-5.](http://dicseremneved.hu/)
 * [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur/)
