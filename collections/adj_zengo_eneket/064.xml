@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek Istenünk</title>
+      <title>Veni Sancte Spiritus</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="music">Ando Drom együttes</author>
+      <author type="words">II. (Jámbor) Róbert</author>
+      <author type="translation" lang="hu">Sík Sándor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, Szentlélek Istenünk,<br/>add a mennyből érzenünk<br/>Fényességed sugarát,<br/>Fényességed sugarát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, szegények Atyja, Te,<br/>bőkezűség Istene!<br/>Fényed szívünk hassa át,<br/>Fényed szívünk hassa át!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj el, jöjj, Szentlélek, jöjj el, jöjj!<br/>Jöjj el, jöjj, Szentlélek, jöjj el, jöjj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogságos tiszta fény,<br/>szállj meg szívünk rejtekén!<br/>Híveidnek napja légy,<br/>híveidnek napja légy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jónak adj jutalmazást,<br/>üdvösséges kimúlást!<br/>Adj örökös örömet,<br/>adj örökös örömet!</lines>
+    </verse>
+  </lyrics>
+</song>

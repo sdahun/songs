@@ -64,6 +64,11 @@
 | 58. | [Jézus életem](./collections/adj_zengo_eneket/058.xml) |
 | 59. | [Jézus a mi oltalmunk](./collections/adj_zengo_eneket/059.xml) |
 | 60. | [Jézus, neved oly csodálatos](./collections/adj_zengo_eneket/060.xml) |
+| 61. | [Jézus, Messiás](./collections/adj_zengo_eneket/061.xml) |
+| 62. | [Jézus, Te égi szép](./collections/adj_zengo_eneket/062.xml) |
+| 63. | [Jézus, Te vagy minden álmom](./collections/adj_zengo_eneket/063.xml) |
+| 64. | [Jöjj, Szentlélek Istenünk](./collections/adj_zengo_eneket/064.xml) |
+| 65. | [Jézus, véred megtisztít](./collections/adj_zengo_eneket/065.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

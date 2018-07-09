@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, Te égi szép</title>
+      <title>Jesus, det eneste</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Caroline Volla Sørlie</author>
+      <author type="words">Ole Theodor Moe</author>
+      <author type="translation" lang="hu">Túrmezei Erzsébet</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, Te égi szép, tündöklő fényű név,<br/>legszentebb itt alant a föld színén!<br/>Benned van irgalom, Terólad zeng dalom,<br/>erőd magasztalom, ragyogj felém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az élet száz veszély, én lelkem, mégse félj,<br/>míg Ő tart karjain, hű Mestered!<br/>Elhagynak emberek, mit árt, ha Ő veled?<br/>Töröld le könnyedet, Jézus szeret!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akaratod nekem mutasd meg szüntelen,<br/>ne rejtsd el, Mesterem, tetszésedet!<br/>Alázattal tele, hadd merüljek bele,<br/>hisz idegenben jár itt gyermeked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztíts meg teljesen, szentelj meg, hadd legyen<br/>fényedből fénysugár az életem!<br/>Míg a homályon át, a lelkem otthonát,<br/>világosságodat elérhetem!</lines>
+    </verse>
+  </lyrics>
+</song>
