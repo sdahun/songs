@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus a mi oltalmunk</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">Pálhegyi Dávid</author>
+      <author type="words">Pálhegyi Dávid</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jézus a mi oltalmunk, erősségünk,<br/>ha ránk szakad minden baj,<br/>mégse félünk.<br/>Ő a mi páncélunk, erős pajzsunk,<br/>ha ránk tör az ellenség,<br/>Benne bízunk.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ez a föld széthullik, minden hegy elomlik,<br/>de egy Kőszikla örökké áll.<br/>Tajtékzik a tenger, gyilkol a sok fegyver,<br/>nékünk mégsem árt a halál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eladó már minden, örömöd mégsincsen,<br/>ha ez a forrás nem árad rád.<br/>Ő az, aki ingyen, már od’adott mindent,<br/>értünk áldozva Önmagát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fogták, elítélték és megfeszítették,<br/>Isten fiát mi helyettünk.<br/>Nincsen már ítélet, vád sohasem érhet,<br/>vére eltörölt minden bűnt.</lines>
+    </verse>
+  </lyrics>
+</song>

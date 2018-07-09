@@ -59,6 +59,11 @@
 | 53. | [Isten velünk! Viszontlátásra!](./collections/adj_zengo_eneket/053.xml) |
 | 54. | [Istenem, nem értem](./collections/adj_zengo_eneket/054.xml) |
 | 55. | [Itt az este](./collections/adj_zengo_eneket/055.xml) |
+| 56. | [Itt van Isten köztünk](./collections/adj_zengo_eneket/056.xml) |
+| 57. | [Jézus a jó Pásztor](./collections/adj_zengo_eneket/057.xml) |
+| 58. | [Jézus életem](./collections/adj_zengo_eneket/058.xml) |
+| 59. | [Jézus a mi oltalmunk](./collections/adj_zengo_eneket/059.xml) |
+| 60. | [Jézus, neved oly csodálatos](./collections/adj_zengo_eneket/060.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

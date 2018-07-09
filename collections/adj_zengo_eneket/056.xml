@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt van Isten köztünk</title>
+      <title>Gott ist gegenwärtig</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Neander Joachim, 1680. (1650-1680.)</author>
+      <author type="words">Tersteegen Gerhard, 1729. (1697-1769.)</author>
+      <author type="translation" lang="hu">Csomasz Tóth Kálmán</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="56"/>
+      <songbook name="Hitünk énekei" entry="30"/>
+      <songbook name="Református énekeskönyv" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt van Isten köztünk,<br/>jertek őt imádni,<br/>hódolattal Elé állni!<br/>Itt van a középen,<br/>minden csendre térve<br/>Őelőtte hulljon térdre!<br/>Az, aki<br/>hirdeti<br/>s hallja itt az Igét:<br/>adja Néki szívét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt van Isten köztünk:<br/>Ő, kit éjjel-nappal<br/>angyalsereg áld s magasztal.<br/>Szent, szent, szent az Isten!<br/>Néki énekelnek<br/>a mennyei fényes lelkek.<br/>Halld, Urunk,<br/>szózatunk,<br/>ha mi, semmiségek<br/>áldozunk tenéked!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csodálatos Felség,<br/>hadd dicsérlek Téged,<br/>hadd szolgáljon lelkem Néked!<br/>Angyaloknak módján<br/>színed előtt állván,<br/>bárcsak mindig orcád látnám!<br/>Add nékem<br/>mindenben<br/>Te kedvedben járnom,<br/>Istenem, királyom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Általjársz te mindent,<br/>rám ragyogni engedd<br/>életadó áldott Lelked!<br/>Mint a kis virág is<br/>magától kibomlik,<br/>rá ha csöndes fényed omlik.<br/>Hagyj, Uram,<br/>vidáman<br/>fényességed látnom<br/>s országod munkálnom!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Egyszerűvé formálj<br/>belső, lelkiképpen,<br/>békességben, csöndességben.<br/>Tisztogasd meg szívem:<br/>tisztaságod lássam<br/>lélekben és igazságban!<br/>Szívemmel<br/>mindig fel-<br/>szállhassak sasszárnyon:<br/>csak Te légy világom!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jöjj és lakozz bennem:<br/>hadd legyen már itt lenn<br/>templomoddá szívem, lelkem!<br/>Mindig Közellévő:<br/>jelentsd Magad nékem,<br/>ne lakhasson más e szívben!<br/>Már itt lenn<br/>mindenben<br/>csakis Téged lásson,<br/>leborulva áldjon!</lines>
+    </verse>
+  </lyrics>
+</song>
