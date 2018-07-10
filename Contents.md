@@ -69,6 +69,11 @@
 | 63. | [Jézus, Te vagy minden álmom](./collections/adj_zengo_eneket/063.xml) |
 | 64. | [Jöjj, Szentlélek Istenünk](./collections/adj_zengo_eneket/064.xml) |
 | 65. | [Jézus, véred megtisztít](./collections/adj_zengo_eneket/065.xml) |
+| 66. | [Jöjj, az Úr vár reád](./collections/adj_zengo_eneket/066.xml) |
+| 67. | [Jöjj, Izráel](./collections/adj_zengo_eneket/067.xml) |
+| 68. | [Jövel, jövel Immánuel](./collections/adj_zengo_eneket/068.xml) |
+| 69. | [Kegyelmes Isten](./collections/adj_zengo_eneket/069.xml) |
+| 70. | [Kenyered és borod](./collections/adj_zengo_eneket/070.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

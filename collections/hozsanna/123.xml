@@ -7,6 +7,7 @@
     <verseOrder>o1 o2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="123"/>
+      <songbook name="Adj zengő éneket!" entry="67"/>
     </songbooks>
   </properties>
   <lyrics>
