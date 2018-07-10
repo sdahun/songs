@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kész az én szívem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+    <authors>
+      <author type="music">Lázár Attila</author>
+      <author type="words">Lázár Attila</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="71"/>
+    </songbooks>
+    <themes>
+      <theme>Zsolt 58,8-11</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kész az én szívem,<br/>Uram, Néked zeng a dalom.<br/>Elő hát, hárfa, lant,<br/>hadd keltsem fel a hajnalt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent az Úr, jó az Úr,<br/>hirdetem a népek között,<br/>mert az Ő hűsége felhőkig ér!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igazság, hatalom<br/>Igéd minden egyes szava.<br/>Szívemben rejtem el,<br/>soha el nem felejtem!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Szent az Úr, jó az Úr,<br/>hirdetem a népek között,<br/>mert az Ő kegyelme az égig ér!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -74,6 +74,11 @@
 | 68. | [Jövel, jövel Immánuel](./collections/adj_zengo_eneket/068.xml) |
 | 69. | [Kegyelmes Isten](./collections/adj_zengo_eneket/069.xml) |
 | 70. | [Kenyered és borod](./collections/adj_zengo_eneket/070.xml) |
+| 71. | [Kész az én szívem](./collections/adj_zengo_eneket/071.xml) |
+| 72. | [Ki Istenének átad mindent](./collections/adj_zengo_eneket/072.xml) |
+| 73. | [Kiálts az Úrnak](./collections/adj_zengo_eneket/073.xml) |
+| 74. | [Krisztus feltámadott](./collections/adj_zengo_eneket/074.xml) |
+| 75. | [Küldj el, Jézus](./collections/adj_zengo_eneket/075.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
