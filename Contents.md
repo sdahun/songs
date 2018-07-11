@@ -84,6 +84,11 @@
 | 78. | [Légy az igaz álmom](./collections/adj_zengo_eneket/078.xml) |
 | 79. | [Legyen áldás az úton](./collections/adj_zengo_eneket/079.xml) |
 | 80. | [Lelki próbáimban, Jézus, légy velem](./collections/adj_zengo_eneket/080.xml) |
+| 81. | [Magányos voltam](./collections/adj_zengo_eneket/081.xml) |
+| 82. | [Menjetek be kapuin](./collections/adj_zengo_eneket/082.xml) |
+| 83. | [Messziről száll dalunk](./collections/adj_zengo_eneket/083.xml) |
+| 84. | [Mikor látom egeidet](./collections/adj_zengo_eneket/084.xml) |
+| 85. | [Minden nap veled leszek](./collections/adj_zengo_eneket/085.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
