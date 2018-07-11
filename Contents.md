@@ -79,6 +79,11 @@
 | 73. | [Kiálts az Úrnak](./collections/adj_zengo_eneket/073.xml) |
 | 74. | [Krisztus feltámadott](./collections/adj_zengo_eneket/074.xml) |
 | 75. | [Küldj el, Jézus](./collections/adj_zengo_eneket/075.xml) |
+| 76. | [Küldd Szentlelked](./collections/adj_zengo_eneket/076.xml) |
+| 77. | [Láncom lehullt](./collections/adj_zengo_eneket/077.xml) |
+| 78. | [Légy az igaz álmom](./collections/adj_zengo_eneket/078.xml) |
+| 79. | [Legyen áldás az úton](./collections/adj_zengo_eneket/079.xml) |
+| 80. | [Lelki próbáimban, Jézus, légy velem](./collections/adj_zengo_eneket/080.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

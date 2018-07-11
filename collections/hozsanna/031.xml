@@ -7,6 +7,7 @@
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="31"/>
+      <songbook name="Adj zengő éneket!" entry="77"/>
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>
     </songbooks>
   </properties>

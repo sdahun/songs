@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Küldd Szentlelked</title>
+      <title>O the Deep, Deep Love of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+    <authors>
+      <author type="music">Thomas John Williams</author>
+      <author type="words">Samuel Trevor Francis</author>
+      <author type="translation" lang="hu">Dr. Somogyi Imre</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Küldd Szentlelked, kérlek, ó, Uram,<br/>küldd hő, buzgó imámra!<br/>Hogy tanítson, vigasztaljon<br/>és vezessen utadra!<br/>Bűnteherrel, messze Tőled,<br/>sötét éjben bolyongtam.<br/>Tűzoszloppal, égi fénnyel<br/>vezess, vezess, ó, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghallgattál, s fényt gyújtottál,<br/>minőt soha nem láttam.<br/>Bús lelkemmel, tört szívemmel<br/>szent örömre találtam.<br/>Ó, én lelkem, hirdesd széjjel,<br/>mint jött Isten tefeléd!<br/>Mint jött Jézus, és üdvödért<br/>föláldozta életét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Népmilliók, zarándokok,<br/>Téged, ó, Uram, keresnek.<br/>Hallasd szavad, ó, Megváltóm,<br/>s küldd vezérül Lelkedet!<br/>Hadd leljenek fényt és erőt,<br/>zúgjon ének, örömár:<br/>Te vagy Jézus, Isten Fia,<br/>mindörökké Úr Király!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Te vagy Jézus, Isten Fia,<br/>mindörökké Úr Király!</lines>
+    </verse>
+  </lyrics>
+</song>
