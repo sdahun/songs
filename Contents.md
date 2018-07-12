@@ -89,6 +89,11 @@
 | 83. | [Messziről száll dalunk](./collections/adj_zengo_eneket/083.xml) |
 | 84. | [Mikor látom egeidet](./collections/adj_zengo_eneket/084.xml) |
 | 85. | [Minden nap veled leszek](./collections/adj_zengo_eneket/085.xml) |
+| 86. | [Minden, mi él](./collections/adj_zengo_eneket/086.xml) |
+| 87. | [Mindig csak Rólad énekelnék](./collections/adj_zengo_eneket/087.xml) |
+| 88. | [Mindnyájan vétkeztek](./collections/adj_zengo_eneket/088.xml) |
+| 89. | [Mint szarvas hűs vízforrásra](./collections/adj_zengo_eneket/089.xml) |
+| 90. | [Nagy hálát adjunk az Atya Istennek](./collections/adj_zengo_eneket/090.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

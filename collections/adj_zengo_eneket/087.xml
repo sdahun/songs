@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mindig csak Rólad énekelnék</title>
+      <title>I Could Sing Of Your Love Forever</title>
+    </titles>
+    <copyright>© 1994 Curious? Music UK</copyright>
+    <verseOrder>v1 v2 c1 b1 c1 v1 v2 c1</verseOrder>
+    <ccliNo>1043199</ccliNo>
+    <authors>
+      <author type="music">Martin Smith</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="87"/>
+      <songbook name="Hozsánna énekes" entry="2"/>
+      <songbook name="Dicsérem Neved 3" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A hegyek s tengerek felett<br/>folyóid zúgják, hogy szeretsz,<br/>én megnyitom szívem,<br/>hogy gyógyításod szabaddá tegyen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendek igazságodon,<br/>magasztallak mindennapon,<br/>örökké éneklek<br/>és szereteted áldom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mindig csak Rólad énekelnék,<br/>mindig csak Rólad énekelnék!<br/>Mindig csak Rólad énekelnék,<br/>mindig csak Rólad énekelnék!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szívem ujjong, s táncol,<br/>nem érti a világ.<br/>De amikor meglátnak,<br/>nagy öröm lesz majd<br/>és minden ember táncol!</lines>
+    </verse>
+  </lyrics>
+</song>
