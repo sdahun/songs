@@ -94,6 +94,11 @@
 | 88. | [Mindnyájan vétkeztek](./collections/adj_zengo_eneket/088.xml) |
 | 89. | [Mint szarvas hűs vízforrásra](./collections/adj_zengo_eneket/089.xml) |
 | 90. | [Nagy hálát adjunk az Atya Istennek](./collections/adj_zengo_eneket/090.xml) |
+| 91. | [Nagy Istenem](./collections/adj_zengo_eneket/091.xml) |
+| 92. | [Nagy Király](./collections/adj_zengo_eneket/092.xml) |
+| 93. | [Nagy Úr](./collections/adj_zengo_eneket/093.xml) |
+| 94. | [Napfivér, Holdnővér](./collections/adj_zengo_eneket/094.xml) |
+| 95. | [Nagy vagy Te, Isten](./collections/adj_zengo_eneket/095.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

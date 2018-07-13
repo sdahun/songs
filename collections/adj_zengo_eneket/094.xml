@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Napfivér, Holdnővér</title>
+      <title>Brother Sun, Sister Moon</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Donovan Philips Leitch</author>
+      <author type="words">Donovan Philips Leitch</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fivérem Nap és nővérem Hold,<br/>oly ritkán látlak, hallom hangotok.<br/>Nyomaszt a sok gyötrelem és gond.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fivérem Szél, Levegő és Ég,<br/>nyisd ki szemem, hogy lássam, ami szép!<br/>Körülölel a ragyogás, dicsfény.<br/>Mert Isten része minden földi lény,<br/>érzem jóságát, szívem újra él.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fivérem Nap és nővérem Hold,<br/>most végre látok, s hallom hangotok!<br/>Megölelném az egész világot!</lines>
+    </verse>
+  </lyrics>
+</song>

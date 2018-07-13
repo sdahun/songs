@@ -5,6 +5,7 @@
 $linecount_exceptions = [
     'szent_az_ur/013.xml;v2',
     'adj_zengo_eneket/070.xml;v3',
+    'adj_zengo_eneket/094.xml;v2',
   ];
   
   //format: file;verse;line
@@ -106,6 +107,11 @@ $linecount_exceptions = [
     'adj_zengo_eneket/089.xml;v2;1',
     'adj_zengo_eneket/089.xml;v2;3',
     'adj_zengo_eneket/089.xml;v3;1',
+
+    'adj_zengo_eneket/091.xml;v2;3',
+    'adj_zengo_eneket/091.xml;v3;3',
+
+    'adj_zengo_eneket/094.xml;v3;3',
 
     'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
 
