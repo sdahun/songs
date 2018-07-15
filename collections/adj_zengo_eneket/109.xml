@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Oly jó tudni azt</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="music">Peter Strench</author>
+      <author type="translation" lang="hu">Juhász Gábor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="109"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oly jó tudni azt, kezedben az életem,<br/>Benned, Uram, csak Benned nyugszik el.<br/>Nálad béke vár, vigyázol rám szüntelen,<br/>őrizd meg szívemet, Tiéd hadd legyen!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Gondok jönnek, nő a sötétség,<br/>ki tudja, mit hoz a jövő.<br/>Ám nem félek, tudom, nem hagysz el,<br/>mindig itt vagy mellettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Próbák érnek, s én elfáradok,<br/>szorongok, elfog a csüggedés.<br/>Jöjj, Uram, hát és tégy szabaddá,<br/>bátran hadd menjek tovább!</lines>
+    </verse>
+  </lyrics>
+</song>

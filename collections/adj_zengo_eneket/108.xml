@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, Uram, a Te Igéd lámpás</title>
+      <title>Thy Word</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="music">Amy Lee Grant</author>
+      <author type="music">Michael Whitaker Smith</author>
+      <author type="words">Amy Lee Grant</author>
+      <author type="words">Michael Whitaker Smith</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ó, Uram, a Te Igéd lámpás,<br/>utamon a fényforrás!<br/>Ó, Uram, a Te Igéd lámpás,<br/>utamon a fényforrás!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amikor kísért szorongás, csüggedés,<br/>ott vagy, így nem félek.<br/>És erőt veszek, Veled tovább megyek,<br/>míg az út véget ér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem felejtem el, hogy Te vagy itt közel,<br/>Jézus van mellettem!<br/>Nincs olyan veszély, amit ne ismernél,<br/>Te vagy, ki örökké élsz!</lines>
+    </verse>
+  </lyrics>
+</song>

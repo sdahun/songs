@@ -109,6 +109,11 @@
 | 103. | [Ó, halld meg, Uram](./collections/adj_zengo_eneket/103.xml) |
 | 104. | [Ó, hova visz az út?](./collections/adj_zengo_eneket/104.xml) |
 | 105. | [Ó, jöjj, ó jöjj, Üdvözítő](./collections/adj_zengo_eneket/105.xml) |
+| 106. | [Ó, terjeszd ki, Jézusom](./collections/adj_zengo_eneket/106.xml) |
+| 107. | [Olyan örömöt, mint a forrás](./collections/adj_zengo_eneket/107.xml) |
+| 108. | [Ó, Uram, a Te Igéd lámpás](./collections/adj_zengo_eneket/108.xml) |
+| 109. | [Oly jó tudni azt](./collections/adj_zengo_eneket/109.xml) |
+| 110. | [Ott a messze földön](./collections/adj_zengo_eneket/110.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
