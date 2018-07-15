@@ -104,6 +104,11 @@
 | 98. | [Nem lesz egyedül a szívem](./collections/adj_zengo_eneket/098.xml) |
 | 99. | [Ó! Ábrahám Ura](./collections/adj_zengo_eneket/099.xml) |
 | 100. | [Ó, Atya Isten, irgalmas nagy Úr](./collections/adj_zengo_eneket/100.xml) |
+| 101. | [Ó! felséges Úr, mi kegyes Istenünk](./collections/adj_zengo_eneket/101.xml) |
+| 102. | [Ó, hála az Úrnak](./collections/adj_zengo_eneket/102.xml) |
+| 103. | [Ó, halld meg, Uram](./collections/adj_zengo_eneket/103.xml) |
+| 104. | [Ó, hova visz az út?](./collections/adj_zengo_eneket/104.xml) |
+| 105. | [Ó, jöjj, ó jöjj, Üdvözítő](./collections/adj_zengo_eneket/105.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
