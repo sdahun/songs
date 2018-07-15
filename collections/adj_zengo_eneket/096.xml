@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ne félj, ne aggódj</title>
+      <title>Nada te turbe</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Jacques Berthier</author>
+      <author type="words">Taizé Community</author>
+      <author type="translation" lang="hu">Bálint Zsolt</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="96"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne félj, ne aggódj,<br/>ne sírj, ne bánkódj!<br/>ha tiéd Isten,<br/>tiéd már minden!<br/>Ne félj, ne aggódj,<br/>ne sírj, ne bánkódj:<br/>elég Ő néked!</lines>
+    </verse>
+    <verse name="v2" lang="es">
+      <lines>Nada te turbe,<br/>nada te’espante;<br/>quien a Dios tiene<br/>nada le falta.<br/>Nada te turbe,<br/>nada te’espante:<br/>sólo Dios basta.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -99,6 +99,11 @@
 | 93. | [Nagy Úr](./collections/adj_zengo_eneket/093.xml) |
 | 94. | [Napfivér, Holdnővér](./collections/adj_zengo_eneket/094.xml) |
 | 95. | [Nagy vagy Te, Isten](./collections/adj_zengo_eneket/095.xml) |
+| 96. | [Ne félj, ne aggódj](./collections/adj_zengo_eneket/096.xml) |
+| 97. | [Ne félj, mert megváltottalak](./collections/adj_zengo_eneket/097.xml) |
+| 98. | [Nem lesz egyedül a szívem](./collections/adj_zengo_eneket/098.xml) |
+| 99. | [Ó! Ábrahám Ura](./collections/adj_zengo_eneket/099.xml) |
+| 100. | [Ó, Atya Isten, irgalmas nagy Úr](./collections/adj_zengo_eneket/100.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

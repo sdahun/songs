@@ -113,6 +113,17 @@ $linecount_exceptions = [
 
     'adj_zengo_eneket/094.xml;v3;3',
 
+    'adj_zengo_eneket/096.xml;v2;2',
+    'adj_zengo_eneket/096.xml;v2;3',
+    'adj_zengo_eneket/096.xml;v2;6',
+    'adj_zengo_eneket/096.xml;v2;7',
+
+    'adj_zengo_eneket/097.xml;v2;1',
+    'adj_zengo_eneket/097.xml;v2;2',
+    'adj_zengo_eneket/097.xml;v2;3',
+    'adj_zengo_eneket/097.xml;v2;5',
+    'adj_zengo_eneket/097.xml;v2;8',
+
     'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
 
     'dicserem_neved_2/006.xml;v2;2',

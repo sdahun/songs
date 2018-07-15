@@ -1,8 +1,8 @@
 # Adj zengő éneket! - Tárgymutató
 
-## Bűnbűnat
+## Ésa 43,1
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
-| 41 | [Hozzád jövünk, Uram](../../collections/adj_zengo_eneket/041.xml) |
+| 97 | [Ne félj, mert megváltottalak](../../collections/adj_zengo_eneket/097.xml) |
 
