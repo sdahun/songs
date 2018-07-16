@@ -12,7 +12,7 @@ $bible_abbrev = [
 $fnames = [];
 $book_names = [];
 
-foreach (glob (COLLECTIONS_PATH . '/collections/*') as $collection) {
+foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
     if (!is_dir ($collection)) continue;
 
     $colname = basename ($collection);
@@ -88,5 +88,5 @@ foreach($fnames as $fname) {
     $result .= '* ['.$book_names[basename($fname, '_index.md')].']('.basename($fname).")\n";
 }
 
-file_put_contents( ROOT_DIR . '/docs/index/README.md', $result);
+file_put_contents( ROOT_PATH . '/docs/index/README.md', $result);
 echo('Indices (re)generated successfully!'."\n");
