@@ -119,6 +119,11 @@
 | 113. | [Rejts most el](./collections/adj_zengo_eneket/113.xml) |
 | 114. | [Róla beszél fű, virág](./collections/adj_zengo_eneket/114.xml) |
 | 115. | [Semmi sem tökéletes](./collections/adj_zengo_eneket/115.xml) |
+| 116. | [Siess, keresztyén, lelki jót hallani](./collections/adj_zengo_eneket/116.xml) |
+| 117. | [Siessetek, hamar lejár](./collections/adj_zengo_eneket/117.xml) |
+| 118. | [Simuljon mindig](./collections/adj_zengo_eneket/118.xml) |
+| 119. | [Sok számos esztendőket](./collections/adj_zengo_eneket/119.xml) |
+| 120. | [Sűrű sötét van mindenfelé](./collections/adj_zengo_eneket/120.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

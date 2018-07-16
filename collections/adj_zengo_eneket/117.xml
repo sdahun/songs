@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Siessetek, hamar lejár</title>
+    </titles>
+    <verseOrder>v1 v2 e1</verseOrder>
+    <authors>
+      <author type="music">Füle Lajos</author>
+      <author type="words">Füle Lajos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siessetek, hamar lejár!<br/>Kegyelme már régóta vár.<br/>Ma még lehet, ma még szabad,<br/>borulj le a kereszt alatt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elszáll a perc, az életed,<br/>ma még, ha jössz, elérheted!<br/>Ne késs tovább, ne várj tovább,<br/>ma kérd Atyád bocsánatát!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ne késs tovább, ne várj tovább,<br/>ma kérd Atyád bocsánatát!</lines>
+    </verse>
+  </lyrics>
+</song>
