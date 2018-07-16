@@ -27,6 +27,7 @@ Az énekszöveg átalakító használatáról részletesen a [Használati utasí
 # Énekeskönyvek
 
 A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési lehetőségeinek linkjei:
+
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
 | [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/77) (115/150) |
