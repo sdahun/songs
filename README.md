@@ -31,16 +31,16 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
 | [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/77) (115/150) |
-| [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu/) | ![Feldolgozottság](http://progressed.io/bar/1) (6/559) |
-| [Dicsérem neved 1.](http://dicseremneved.hu/) | ![Feldolgozottság](http://progressed.io/bar/1) (3/224) |
-| [Dicsérem neved 2.](http://dicseremneved.hu/) | ![Feldolgozottság](http://progressed.io/bar/6) (13/230) |
-| [Dicsérem neved 3.](http://dicseremneved.hu/) | ![Feldolgozottság](http://progressed.io/bar/1) (2/200) |
-| [Dicsérem neved 4.](http://dicseremneved.hu/) | ![Feldolgozottság](http://progressed.io/bar/1) (2/222) |
-| [Dicsérem neved 5.](http://dicseremneved.hu/) | ![Feldolgozottság](http://progressed.io/bar/0) (0/225) |
-| [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur/) | ![Feldolgozottság](http://progressed.io/bar/50) (72/143) |
-| [Hitünk énekei](http://adventkiado.hu/) | ![Feldolgozottság](http://progressed.io/bar/100) (477/477) |
-| [Hozsánna énekes](http://adventista.hu/) | ![Feldolgozottság](http://progressed.io/bar/57) (124/219) |
-| [Szent az Úr](http://adventista.hu/) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
+| [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (6/560) |
+| [Dicsérem Neved 1.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (3/224) |
+| [Dicsérem Neved 2.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/6) (13/230) |
+| [Dicsérem Neved 3.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (2/200) |
+| [Dicsérem Neved 4.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (2/222) |
+| [Dicsérem Neved 5.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/0) (0/225) |
+| [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur) | ![Feldolgozottság](http://progressed.io/bar/50) (72/143) |
+| [Hitünk énekei](http://adventkiado.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (477/477) |
+| [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/57) (124/219) |
+| [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:

@@ -12,19 +12,21 @@ $bible_abbrev = [
 $fnames = [];
 $book_names = [];
 
-foreach (glob (__DIR__.'/../collections/*') as $collection) {
-    if (!is_dir($collection)) continue;
+foreach (glob (COLLECTIONS_PATH . '/collections/*') as $collection) {
+    if (!is_dir ($collection)) continue;
 
+    $colname = basename ($collection);
     $bible_titles = [];
     $named_titles = [];
 
-    foreach(glob($collection . '/*.xml') as $file) {
+    foreach (glob ($collection . '/*.xml') as $file) {
+
         $xml = simplexml_load_string(str_replace('xmlns=', 'ns=', file_get_contents($file)));
 
         $book = $xml->properties->songbooks->songbook[0]['name']->__toString();
 
-        if (!isset($book_names[basename($collection)]))
-            $book_names[basename($collection)] = $book;
+        if (!isset ($book_names[$colname]))
+            $book_names[$colname] = $book;
 
         if (isset($xml->properties->themes)) {
             foreach($xml->properties->themes->theme as $theme) {
@@ -70,11 +72,11 @@ foreach (glob (__DIR__.'/../collections/*') as $collection) {
             foreach ($songs as $song) {
                 $result .= 
                     '| ' . $song['number'] . ' | [' . $song['title'] .
-                    '](../../collections/' . basename($collection) . '/' . sprintf('%03d', $song['number']) . ".xml) |\n";
+                    '](../../collections/' . $colname . '/' . sprintf('%03d', $song['number']) . ".xml) |\n";
             }
             $result .= "\n";
         }
-        $fname = __DIR__.'/../docs/index/'.basename($collection).'_index.md';
+        $fname = ROOT_PATH . '/docs/index/' . $colname . '_index.md';
         $fnames[] = $fname;
         file_put_contents($fname, $result);
     }
@@ -86,5 +88,5 @@ foreach($fnames as $fname) {
     $result .= '* ['.$book_names[basename($fname, '_index.md')].']('.basename($fname).")\n";
 }
 
-file_put_contents(__DIR__.'/../docs/index/README.md', $result);
+file_put_contents( ROOT_DIR . '/docs/index/README.md', $result);
 echo('Indices (re)generated successfully!'."\n");

@@ -1,7 +1,8 @@
 <?php
 
-define ('COLLECTIONS_PATH', realpath (dirname(__FILE__) . '/../collections'));
-define ('COMPILATIONS_PATH', realpath (dirname(__FILE__) . '/../compilations'));
+define ('ROOT_PATH', realpath (dirname (__FILE__) . '/..'));
+define ('COLLECTIONS_PATH', ROOT_PATH . '/collections');
+define ('COMPILATIONS_PATH', ROOT_PATH . '/compilations');
 
 setlocale(LC_ALL, 'hu_HU.utf8');
 date_default_timezone_set('Europe/Budapest');
@@ -56,8 +57,17 @@ foreach (glob (dirname(__FILE__).'/validators/*_validator.php') as $validator) {
 }
 
 if ($no_error) {
-    require(__DIR__ . '/index_generator.php');
-    require(__DIR__ . '/contents_generator.php');
+    foreach (glob (dirname(__FILE__).'/generators/*_generator.php') as $generator) {
+        try {
+            require($generator);
+        }
+        catch (Exception $e) {
+            echo($e->getMessage()."\n");
+            echo("Metadata lists generation suspended at this stage!\n");
+            break;
+        }
+    }
+
     echo("Please check words in /compilations/wordlist.txt before commiting!\n");
     echo(str_repeat('=', 50)."\n");
 }    
