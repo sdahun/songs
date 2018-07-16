@@ -114,6 +114,11 @@
 | 108. | [Ó, Uram, a Te Igéd lámpás](./collections/adj_zengo_eneket/108.xml) |
 | 109. | [Oly jó tudni azt](./collections/adj_zengo_eneket/109.xml) |
 | 110. | [Ott a messze földön](./collections/adj_zengo_eneket/110.xml) |
+| 111. | [Őrizd minden percem](./collections/adj_zengo_eneket/111.xml) |
+| 112. | [Rád bízom](./collections/adj_zengo_eneket/112.xml) |
+| 113. | [Rejts most el](./collections/adj_zengo_eneket/113.xml) |
+| 114. | [Róla beszél fű, virág](./collections/adj_zengo_eneket/114.xml) |
+| 115. | [Semmi sem tökéletes](./collections/adj_zengo_eneket/115.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
@@ -132,6 +137,7 @@
 | ---: | :------------------- |
 | 7. | [Akkor majd táncolva](./collections/dicserem_neved_1/007.xml) |
 | 29. | [Atyám, két kezedben](./collections/dicserem_neved_1/029.xml) |
+| 183. | [Róla beszél fű, virág](./collections/dicserem_neved_1/183.xml) |
 
 ## Dicsérem Neved 2 (/dicserem_neved_2)
 
@@ -163,6 +169,7 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 6. | [Adj imádó szívet](./collections/dicserem_neved_4/006.xml) |
+| 174. | [Rejts most el](./collections/dicserem_neved_4/174.xml) |
 
 
 ## Erőm és énekem az Úr (/erom_es_enekem_az_ur)

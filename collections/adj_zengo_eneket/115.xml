@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Semmi sem tökéletes</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 e1</verseOrder>
+    <authors>
+      <author type="music">Bródy János</author>
+      <author type="words">Bródy János</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A végtelenhez mérve semmi sem tökéletes,<br/>az ember nyughatatlanul mégis mindig keres.<br/>Az örökös vándorút véget soha nem ér,<br/>s ha nincsen gyökered, elvisz a szél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindenkinek vannak különös vágyai,<br/>de felelősséggel tartozol, ha számít rád valaki.<br/>Lehet belőle száz is, az az egy többet ér,<br/>s ha elfelejtenéd, elvisz a szél.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jól csak a szívével lát az ember,<br/>ami lényeges, az a szemnek láthatatlan.<br/>Az igazságot átérzi a lelkünk,<br/>de te is tudod, hogy kimondhatatlan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A végtelenhez mérve szinte nem is létezünk,<br/>a csillagévek óráin egy perc az életünk.<br/>Az ember önmagában semmit sem ér,<br/>s ha nincsen barátod, elvisz a szél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden sivatag egy kutat rejt valahol,<br/>s ha lelked mélyén rátalálsz, már nem csodálkozol.<br/>Az ember ezen a Földön csak egyszer él,<br/>s ha nincsen barátod, elvisz a szél.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Elvisz a szél, elvisz a szél.</lines>
+    </verse>
+  </lyrics>
+</song>
