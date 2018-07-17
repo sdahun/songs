@@ -124,6 +124,11 @@
 | 118. | [Simuljon mindig](./collections/adj_zengo_eneket/118.xml) |
 | 119. | [Sok számos esztendőket](./collections/adj_zengo_eneket/119.xml) |
 | 120. | [Sűrű sötét van mindenfelé](./collections/adj_zengo_eneket/120.xml) |
+| 121. | [Szálljon hangunk](./collections/adj_zengo_eneket/121.xml) |
+| 122. | [Székely asztali áldás](./collections/adj_zengo_eneket/122.xml) |
+| 123. | [Szent vagy, szent vagy, szent vagy](./collections/adj_zengo_eneket/123.xml) |
+| 124. | [Szentlélek, jövel](./collections/adj_zengo_eneket/124.xml) |
+| 125. | [Szentlélek Isten, jöjj szívünkbe](./collections/adj_zengo_eneket/125.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

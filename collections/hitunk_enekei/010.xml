@@ -11,6 +11,8 @@
     </authors>
     <songbooks>
       <songbook name="Hitünk énekei" entry="10"/>
+      <songbook name="Adj zengő éneket!" entry="123"/>
+      <songbook name="Református énekeskönyv" entry="488"/>
     </songbooks>
     <themes>
       <theme>Az Atya Isten dicsérete</theme>

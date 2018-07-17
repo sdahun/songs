@@ -30,7 +30,7 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
-| [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/80) (120/150) |
+| [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/83) (125/150) |
 | [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (6/560) |
 | [Dicsérem Neved 1.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (3/224) |
 | [Dicsérem Neved 2.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/6) (13/230) |

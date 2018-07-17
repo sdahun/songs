@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Székely asztali áldás</title>
+    </titles>
+    <verseOrder>v1 v2 e1</verseOrder>
+    <authors>
+      <author type="music">Berkesi Sándor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="122"/>
+    </songbooks>
+    <themes>
+      <theme>Mt 6,26</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki asztalt terítesz az égi madárnak,<br/>teríts asztalt, teríts szegénynek s árvának!<br/>Nyújtsd ki Atyánk, nyújtsd ki jóságos kezedet,<br/>adj a koldusnak is tápláló kenyeret!<br/>Ételben, italban legyen bőven részünk,<br/>gondviselő Atyánk, könyörögve kérünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gondviselő Atyánk, asztalodtól kelve<br/>szívből hálát adunk kezünk összetéve!<br/>Áldd meg ezt a házat s ennek a gazdáját,<br/>fordítsd vissza néki a vendéglátását!<br/>Szánd meg a szegényt, a szenvedőt s az árvát,<br/>a Benned bízóknak viseld mindig gondját!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>
