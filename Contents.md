@@ -129,6 +129,11 @@
 | 123. | [Szent vagy, szent vagy, szent vagy](./collections/adj_zengo_eneket/123.xml) |
 | 124. | [Szentlélek, jövel](./collections/adj_zengo_eneket/124.xml) |
 | 125. | [Szentlélek Isten, jöjj szívünkbe](./collections/adj_zengo_eneket/125.xml) |
+| 126. | [Szentlélek, úgy kérünk](./collections/adj_zengo_eneket/126.xml) |
+| 127. | [Te csak az Istennek országát keresd](./collections/adj_zengo_eneket/127.xml) |
+| 128. | [Te felemelsz](./collections/adj_zengo_eneket/128.xml) |
+| 129. | [Te vagy a fény](./collections/adj_zengo_eneket/129.xml) |
+| 130. | [Tégy eggyé, Urunk](./collections/adj_zengo_eneket/130.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

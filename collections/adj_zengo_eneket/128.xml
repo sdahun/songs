@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Te felemelsz</title>
+      <title>You Raise Me Up</title>
+    </titles>
+    <copyright>2002 Peermusic III, Ltd. Remaining portion is unaffiliated</copyright>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <ccliNo>4434612</ccliNo>
+    <authors>
+      <author type="music">Rolf Undsæt Løvland</author>
+      <author type="words">Brendan Graham</author>
+      <author type="translation" lang="hu">Fenyvesi Attila</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kimerült már és elfáradt a lelkem,<br/>sok gond és baj, mi szívem nyomja el.<br/>És mikor szótlan vártam Rád a csendben,<br/>halkan jöttél, leültél mellettem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És felemelsz, hogy az ormok csúcsán álljak,<br/>és felemelsz, mikor a hullám támad rám!<br/>Erőm nagyobb, mert vállad támaszt engem!<br/>És felemelsz, hogy egy jobb ember legyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincsen élet szenvedések nélkül,<br/>nyugtalan szívem háborogva ver.<br/>De mikor jössz, úgy elragad egy érzés:<br/>a végtelen pillanatra az enyém!</lines>
+    </verse>
+  </lyrics>
+</song>

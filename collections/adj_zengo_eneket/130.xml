@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tégy eggyé, Urunk</title>
+      <title>Father Make Us One</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author type="music">Rick Ridings</author>
+      <author type="words">Rick Ridings</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tégy eggyé, Urunk!<br/>Tégy eggyé, Urunk!<br/>Hogy meglássa a világ: Te eljöttél!<br/>Tégy eggyé, Urunk!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó, mily szép és gyönyörűséges<br/>a testvérekkel egységben lenni!<br/>Az Úr áldása bőven árad ránk,<br/>mint túlcsorduló olaj.</lines>
+    </verse>
+  </lyrics>
+</song>
