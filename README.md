@@ -42,6 +42,8 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/57) (124/219) |
 | [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
 
+A gyűjteményben jelenleg 880 darab ének található.
+
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
 * [OpenLP](https://openlp.org) - ingyenes, nyílt forrású gyülekezeti dicsőítés vetítő szoftver

@@ -58,6 +58,8 @@ $datas = [
     ],
 ];
 
+$sumSongCount = 0;
+
 $result =
   "# Énekeskönyvek\n\n".
   "A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési lehetőségeinek linkjei:\n\n".
@@ -71,11 +73,14 @@ foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
     if (!isset($datas[$colname])) continue;
 
     $songcount = count (glob ($collection . '/*.xml'));
+    $sumSongCount += $songcount;
     $result .= 
         '| [' . $datas[$colname]['name'] . '](' . $datas[$colname]['download'].') | '.
         '![Feldolgozottság](http://progressed.io/bar/' . round ($songcount / $datas[$colname]['count'] * 100) .
         ') (' . $songcount . '/' . $datas[$colname]['count'] . ') |' . "\n";
 }
+
+$result .= "\nA gyűjteményben jelenleg ".$sumSongCount." darab ének található.\n";
 
 $readme = ROOT_PATH . '/README.md';
 $content = file_get_contents($readme);
