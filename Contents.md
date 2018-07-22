@@ -134,6 +134,11 @@
 | 128. | [Te felemelsz](./collections/adj_zengo_eneket/128.xml) |
 | 129. | [Te vagy a fény](./collections/adj_zengo_eneket/129.xml) |
 | 130. | [Tégy eggyé, Urunk](./collections/adj_zengo_eneket/130.xml) |
+| 131. | [Tégy, Uram, engem áldássá](./collections/adj_zengo_eneket/131.xml) |
+| 132. | [Tehozzád teljes szívből](./collections/adj_zengo_eneket/132.xml) |
+| 133. | [Tied a dicsőség](./collections/adj_zengo_eneket/133.xml) |
+| 134. | [Tüzed, Uram Jézus](./collections/adj_zengo_eneket/134.xml) |
+| 135. | [Teremts bennem tiszta szívet](./collections/adj_zengo_eneket/135.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 

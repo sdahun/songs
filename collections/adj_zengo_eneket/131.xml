@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tégy, Uram, engem áldássá</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Füle Lajos</author>
+      <author type="words">Füle Lajos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tégy, Uram, engem áldássá,<br/>Lelkedet úgy várom!<br/>Tedd Te a szívem hálássá,<br/>hogy Neked szolgáljon!<br/>Bárhová küldesz, ajkamról<br/>zengjen az új ének!<br/>Tégy, Uram, engem áldássá,<br/>oly sok a bús élet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tégy, Uram, engem testvérré,<br/>Lelkedet úgy kérem!<br/>Tedd Te a szívem, tedd késszé,<br/>bízni a testvérben!<br/>Sejteni engedd, mit érez:<br/>boldog-e, szenved-e?<br/>Vígy közelebb a testvérhez,<br/>népedet tedd eggyé!</lines>
+    </verse>
+  </lyrics>
+</song>
