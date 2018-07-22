@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Uram, az éltem</title>
+      <title>Change My Heart, O God</title>
+      <title>Cambiame Señor</title>
+    </titles>
+    <copyright>© 1982 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v1 e1</verseOrder>
+    <ccliNo>5524521</ccliNo>
+    <authors>
+      <author type="music">Eddie Espinoza</author>
+      <author type="words">Eddie Espinoza</author>
+      <author type="translation" lang="hu">Simonfalvi Lajos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="140"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, az éltem<br/>kezedbe tettem,<br/>nem félek többé,<br/>áldlak örökké!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kezedben hadd legyek<br/>agyag csupán,<br/>áraszd rám Lelkedet,<br/>pecséted nyomd rám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nekem ködös még,<br/>de Te tudod rég,<br/>mi van előttem,<br/>s mi lesz belőlem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmed várom,<br/>Uram, Királyom,<br/>Igéd vezessen<br/>fényben, sötétben.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Áldlak örökké!<br/>Áldlak örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -139,6 +139,11 @@
 | 133. | [Tied a dicsőség](./collections/adj_zengo_eneket/133.xml) |
 | 134. | [Tüzed, Uram Jézus](./collections/adj_zengo_eneket/134.xml) |
 | 135. | [Teremts bennem tiszta szívet](./collections/adj_zengo_eneket/135.xml) |
+| 136. | [Úgy gyötört a szomj](./collections/adj_zengo_eneket/136.xml) |
+| 137. | [Úgy szerette Isten](./collections/adj_zengo_eneket/137.xml) |
+| 138. | [Új szívet adj](./collections/adj_zengo_eneket/138.xml) |
+| 139. | [Úr Jézus, kérlek](./collections/adj_zengo_eneket/139.xml) |
+| 140. | [Uram, az éltem](./collections/adj_zengo_eneket/140.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
@@ -148,6 +153,7 @@
 | 2. | [Dicsérjétek az Urat](./collections/baptista_gyulekezeti_enekeskonyv/002.xml) |
 | 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
 | 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
+| 242. | [Új szívet adj](./collections/baptista_gyulekezeti_enekeskonyv/242.xml) |
 | 258. | [Az Úr gondol ránk](./collections/baptista_gyulekezeti_enekeskonyv/258.xml) |
 | 270. | [Az Úr irgalma végtelen](./collections/baptista_gyulekezeti_enekeskonyv/270.xml) |
 
