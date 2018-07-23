@@ -149,6 +149,11 @@
 | 143. | [Uram, Tehozzád futok](./collections/adj_zengo_eneket/143.xml) |
 | 144. | [Várj, és ne félj](./collections/adj_zengo_eneket/144.xml) |
 | 145. | [Velem vándorol utamon Jézus](./collections/adj_zengo_eneket/145.xml) |
+| 146. | [Zengjünk dalt az Úrnak](./collections/adj_zengo_eneket/146.xml) |
+| 147. | [Zörgetve állok kint](./collections/adj_zengo_eneket/147.xml) |
+| 148. | [Mindig velem, Uram](./collections/adj_zengo_eneket/148.xml) |
+| 149. | [Székely Himnusz](./collections/adj_zengo_eneket/149.xml) |
+| 150. | [Himnusz](./collections/adj_zengo_eneket/150.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
@@ -159,6 +164,7 @@
 | 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
 | 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
 | 242. | [Új szívet adj](./collections/baptista_gyulekezeti_enekeskonyv/242.xml) |
+| 246. | [Velem vándorol utamon Jézus](./collections/baptista_gyulekezeti_enekeskonyv/246.xml) |
 | 258. | [Az Úr gondol ránk](./collections/baptista_gyulekezeti_enekeskonyv/258.xml) |
 | 270. | [Az Úr irgalma végtelen](./collections/baptista_gyulekezeti_enekeskonyv/270.xml) |
 

@@ -30,8 +30,8 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
-| [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/97) (145/150) |
-| [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (7/560) |
+| [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](http://progressed.io/bar/100) (150/150) |
+| [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (8/560) |
 | [Dicsérem Neved 1.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (3/224) |
 | [Dicsérem Neved 2.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/6) (13/230) |
 | [Dicsérem Neved 3.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/1) (2/200) |
@@ -42,7 +42,7 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/57) (124/219) |
 | [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
 
-A gyűjteményben jelenleg 885 darab ének található.
+A gyűjteményben jelenleg 891 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:

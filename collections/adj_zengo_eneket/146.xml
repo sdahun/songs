@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Zengjünk dalt az Úrnak</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjünk dalt az Úrnak,<br/>zengjünk dalt az Úrnak,<br/>imádjuk és dicsérjük Őt!<br/>Rajta vígan mindnyájan,<br/>imádjuk és dicsérjük Őt!<br/>Jóságáért dicsérjük Őt,<br/>irgalmáért dicsérjük Őt!<br/>Énekszóval dicsérjük Őt,<br/>imádjuk és dicsérjük Őt!</lines>
+    </verse>
+  </lyrics>
+</song>
