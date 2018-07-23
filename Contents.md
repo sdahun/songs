@@ -144,6 +144,11 @@
 | 138. | [Új szívet adj](./collections/adj_zengo_eneket/138.xml) |
 | 139. | [Úr Jézus, kérlek](./collections/adj_zengo_eneket/139.xml) |
 | 140. | [Uram, az éltem](./collections/adj_zengo_eneket/140.xml) |
+| 141. | [Uram, közel voltam Hozzád](./collections/adj_zengo_eneket/141.xml) |
+| 142. | [Uram, szent vagy](./collections/adj_zengo_eneket/142.xml) |
+| 143. | [Uram, Tehozzád futok](./collections/adj_zengo_eneket/143.xml) |
+| 144. | [Várj, és ne félj](./collections/adj_zengo_eneket/144.xml) |
+| 145. | [Velem vándorol utamon Jézus](./collections/adj_zengo_eneket/145.xml) |
 
 ## Baptista gyülekezeti énekeskönyv (/baptista_gyulekezeti_enekeskonyv)
 
