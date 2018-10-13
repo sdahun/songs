@@ -4,7 +4,7 @@
     <titles>
       <title>Nincs helyed Jézus számára?</title>
     </titles>
-    <verseOrder>v1 c v2 c v3 c v4 c</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="429"/>
       <songbook name="Üdv- és adventi énekek" entry="178"/>
@@ -14,7 +14,7 @@
     <verse name="v1">
       <lines>Nincs helyed Jézus számára?<br/>Aki bűnöd viselé,<br/>vár szívednek ajtajánál,<br/>Nem vonzódol-e felé?</lines>
     </verse>
-    <verse name="c">
+    <verse name="c1">
       <lines>Bűnös, van-e hely szívedben,<br/>bevenni az üdv Urát?<br/>Míg a kegyidő jelen van,<br/>nyisd meg szíved ajtaját.</lines>
     </verse>
     <verse name="v2">

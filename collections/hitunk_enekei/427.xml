@@ -4,7 +4,7 @@
     <titles>
       <title>Jövel az élet vizéhez</title>
     </titles>
-    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="427"/>
       <songbook name="Üdv- és adventi énekek" entry="168"/>
@@ -14,7 +14,7 @@
     <verse name="v1">
       <lines>Jövel az élet vizéhez,<br/>szomjazó és fáradott!<br/>Enyhül itt bűneid terhe,<br/>megszűnik gond s bánatod.</lines>
     </verse>
-    <verse name="c">
+    <verse name="c1">
       <lines>Jöjj hát ide, ne tétovázz!<br/>Itt égi üdv s örök nyugtot találsz.<br/>Itt van az élet forrása;<br/>gyógyhelyed ez egyedül!</lines>
     </verse>
     <verse name="v2">

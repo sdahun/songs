@@ -4,7 +4,7 @@
     <titles>
       <title>A Szentlelket ne űzzed el</title>
     </titles>
-    <verseOrder>v1 c v2 c v3 c v4 c</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="424"/>
       <songbook name="Üdv- és adventi énekek" entry="155"/>
@@ -14,7 +14,7 @@
     <verse name="v1">
       <lines>A Szentlelket ne űzzed el,<br/>a világba vissza ne térj,<br/>Üdvözítődhöz futnod kell.<br/>Mikor? S miért ma nem? Miért?</lines>
     </verse>
-    <verse name="c">
+    <verse name="c1">
       <lines>Miért ma nem?<br/>Óh mért ma nem?<br/>Mikor teszed?<br/>Miért ma nem?<br/>Miért ma nem?<br/>Óh mért ma nem?<br/>Mikor teszed?<br/>Óh mért ma nem?</lines>
     </verse>
     <verse name="v2">

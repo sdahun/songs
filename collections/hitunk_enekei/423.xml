@@ -4,7 +4,7 @@
     <titles>
       <title>Nyájasan szól ma még Megváltónk szava</title>
     </titles>
-    <verseOrder>v1 c v2 v3 v4</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="423"/>
       <songbook name="Üdv- és adventi énekek" entry="151"/>
@@ -14,7 +14,7 @@
     <verse name="v1">
       <lines>Nyájasan szól ma még Megváltónk szava,<br/>hív engem és tégedet!<br/>Várja, hogy szívét neki ki ajánlja,<br/>vár engem és tégedet!</lines>
     </verse>
-    <verse name="c">
+    <verse name="c1">
       <lines>Óh jöjj haza,<br/>fáradt vándor jöjj haza!<br/>Nyájasan szól ma még Megváltónk szava:<br/>Fáradt lélek, jöjj haza!</lines>
     </verse>
     <verse name="v2">

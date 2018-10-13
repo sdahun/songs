@@ -4,7 +4,7 @@
     <titles>
       <title>Jézus szeretetéről énekelek</title>
     </titles>
-    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="432"/>
       <songbook name="Üdv- és adventi énekek" entry="202"/>
@@ -14,7 +14,7 @@
     <verse name="v1">
       <lines>Jézus szeretetéről énekelek,<br/>arról ki először szeretett engem,<br/>lejött a földre, hagyta az egeket:<br/>a „Golgotán szenvedett és halt értem.”</lines>
     </verse>
-    <verse name="c">
+    <verse name="c1">
       <lines>Taníts hűen Téged szeretni,<br/>taníts mindig, híven követni.<br/>Én magamtól mit sem tehetek,<br/>vezess kedves Üdvözítőm, követlek!</lines>
     </verse>
     <verse name="v2">
