@@ -208,7 +208,6 @@
 | 6. | [Adj imádó szívet](./collections/dicserem_neved_4/006.xml) |
 | 174. | [Rejts most el](./collections/dicserem_neved_4/174.xml) |
 
-
 ## Erőm és énekem az Úr (/erom_es_enekem_az_ur)
 
 | Ssz. | Az ének címe/kezdete |
@@ -896,6 +895,12 @@
 | 122. | [Jöjj, itt az idő, hogy dicsérd](./collections/hozsanna/122.xml) |
 | 123. | [Jöjj, Izráel, ne félj](./collections/hozsanna/123.xml) |
 | 124. | [Jöjjetek, örvendjünk az Úr előtt](./collections/hozsanna/124.xml) |
+| 125. | [Kedves barátom](./collections/hozsanna/125.xml) |
+| 126. | [Kelj fel, lelkem](./collections/hozsanna/126.xml) |
+| 127. | [Kenyered és borod](./collections/hozsanna/127.xml) |
+| 128. | [Kész az én szívem](./collections/hozsanna/128.xml) |
+| 129. | [Ki olyan, mint ő](./collections/hozsanna/129.xml) |
+| 130. | [Kicsiny kis fényemmel](./collections/hozsanna/130.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
