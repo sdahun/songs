@@ -901,6 +901,11 @@
 | 128. | [Kész az én szívem](./collections/hozsanna/128.xml) |
 | 129. | [Ki olyan, mint ő](./collections/hozsanna/129.xml) |
 | 130. | [Kicsiny kis fényemmel](./collections/hozsanna/130.xml) |
+| 131. | [Krisztus Úr, a nagy Király](./collections/hozsanna/131.xml) |
+| 132. | [Küldd Szentlelked](./collections/hozsanna/132.xml) |
+| 133. | [Lásd Ő jön](./collections/hozsanna/133.xml) |
+| 134. | [Láttad-é](./collections/hozsanna/134.xml) |
+| 135. | [Lelkem kíván téged](./collections/hozsanna/135.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

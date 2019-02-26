@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelkem kíván téged</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="135"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkem kíván téged,<br/>Megváltó Jézusom,<br/>védpajzsom a neved,<br/>véred boldogságom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csak téged, csakis téged,<br/>Jézus, csakis téged,<br/>csak téged kíván lelkem,<br/>Uram, téged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lelkem kíván téged,<br/>ó, Jézus segíts meg,<br/>hogy mindhalálomig<br/>híven kövesselek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lelkem kíván téged,<br/>örömben, bánatban,<br/>te adhatsz csak erőt,<br/>ha már elfáradtam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lelkem kíván téged,<br/>te légy a vezérem,<br/>várom ígéreted,<br/>ó, tölts be egészen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lelkem kíván téged,<br/>ó, Isten szent Fia,<br/>mert véled lesz részem<br/>az égi korona!</lines>
+    </verse>
+  </lyrics>
+</song>

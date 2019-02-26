@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Krisztus Úr, a nagy Király</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztus Úr, a nagy Király,<br/>halleluja!<br/>Krisztus Úr, a nagy Király,<br/>halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Betlehem, hol földre jött,<br/>halleluja!<br/>És itt élt, a nép között,<br/>halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Golgotán, ki megváltott,<br/>halleluja!<br/>Harmadnap feltámadott,<br/>halleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő tisztít a bűntől meg,<br/>halleluja!<br/>Vére ad új életet,<br/>halleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Egy nap, majd, ha visszejön,<br/>halleluja!<br/>Mily jó lesz ott nála, fönn,<br/>halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>
