@@ -906,6 +906,11 @@
 | 133. | [Lásd Ő jön](./collections/hozsanna/133.xml) |
 | 134. | [Láttad-é](./collections/hozsanna/134.xml) |
 | 135. | [Lelkem kíván téged](./collections/hozsanna/135.xml) |
+| 136. | [Légy csendben](./collections/hozsanna/136.xml) |
+| 137. | [Légy Te az első nékem](./collections/hozsanna/137.xml) |
+| 138. | [Legyen áldás az úton](./collections/hozsanna/138.xml) |
+| 139. | [Még nem is éltem](./collections/hozsanna/139.xml) |
+| 140. | [Megkérdezed](./collections/hozsanna/140.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

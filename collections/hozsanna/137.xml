@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Légy Te az első nékem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy Te az első nékem,<br/>irányítsd életem!<br/>Lelkeddel töltsd be szívem,<br/>újítsd meg teljesen!<br/>Többé nem kell félnem,<br/>ha nem maradsz énbennem,<br/>az életem üres!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Istenem, úgy kérlek,<br/>légy az éltem fénye,<br/>irányítsd a léptem<br/>és töltsd be szívemet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, hogy tested vérzett,<br/>kínok közt szenvedett.<br/>A Golgotán folyt véred,<br/>eltörli bűnömet.<br/>Most már értem, m’ért tetted,<br/>ha elhagy minden ember,<br/>Te itt vagy mellettem.</lines>
+    </verse>
+  </lyrics>
+</song>
