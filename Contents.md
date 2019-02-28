@@ -911,6 +911,11 @@
 | 138. | [Legyen áldás az úton](./collections/hozsanna/138.xml) |
 | 139. | [Még nem is éltem](./collections/hozsanna/139.xml) |
 | 140. | [Megkérdezed](./collections/hozsanna/140.xml) |
+| 141. | [Megváltva](./collections/hozsanna/141.xml) |
+| 142. | [Megtört a teste](./collections/hozsanna/142.xml) |
+| 143. | [Menjetek be kapuin](./collections/hozsanna/143.xml) |
+| 144. | [Menjünk az Úr elé](./collections/hozsanna/144.xml) |
+| 145. | [Messze, fenn egy hegyen](./collections/hozsanna/145.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
