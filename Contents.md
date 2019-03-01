@@ -916,6 +916,11 @@
 | 143. | [Menjetek be kapuin](./collections/hozsanna/143.xml) |
 | 144. | [Menjünk az Úr elé](./collections/hozsanna/144.xml) |
 | 145. | [Messze, fenn egy hegyen](./collections/hozsanna/145.xml) |
+| 146. | [Messziről száll dalunk](./collections/hozsanna/146.xml) |
+| 147. | [Mikor vízen mégy át](./collections/hozsanna/147.xml) |
+| 148. | [Mikor még semmi](./collections/hozsanna/148.xml) |
+| 149. | [Mily szépek, Jeruzsálem](./collections/hozsanna/149.xml) |
+| 150. | [Minden időben áldom](./collections/hozsanna/150.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
