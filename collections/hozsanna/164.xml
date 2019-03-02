@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
   <properties>
     <titles>
       <title>Ne félj, mert megváltottalak</title>
     </titles>
     <verseOrder>c1 c1 v1 c1 c1 v2 c1 c1</verseOrder>
-    <authors>
-      <author type="music">Signum együttes</author>
-    </authors>
     <songbooks>
-      <songbook name="Adj zengő éneket!" entry="97"/>
       <songbook name="Hozsánna énekes" entry="164"/>
+      <songbook name="Adj zengő éneket!" entry="97"/>
     </songbooks>
-    <themes>
-      <theme>Ézs 43,1</theme>
-    </themes>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Ne félj, mert megváltottalak,<br/>neveden szólítottalak,<br/>karjaimba zártalak,<br/>örökre Enyém vagy!</lines>
+      <lines>Ne félj, mert megváltottalak,<br/>neveden szólítottalak,<br/>karjaimba zártalak,<br/>örökre enyém vagy!</lines>
     </verse>
     <verse name="v1">
       <lines>Viruló réteken át,<br/>hűs forrás felé vezetlek!<br/>Pásztorod vagyok,<br/>elveszni senkit sem hagyok,<br/>karom feléd tárom, kiárad áldásom!<br/>Nem rejtőzöm el, szívem a szívednek felel,<br/>amikor úgy érzed,<br/>nyomaszt az élet.</lines>

@@ -931,6 +931,11 @@
 | 158. | [Mit is mondhatnék](./collections/hozsanna/158.xml) |
 | 159. | [Most áldalak](./collections/hozsanna/159.xml) |
 | 160. | [Nagy Istenem](./collections/hozsanna/160.xml) |
+| 161. | [Nagy Király](./collections/hozsanna/161.xml) |
+| 162. | [Ne félj, ne aggódj](./collections/hozsanna/162.xml) |
+| 163. | [Ne félj, Sion](./collections/hozsanna/163.xml) |
+| 164. | [Ne félj, mert megváltottalak](./collections/hozsanna/164.xml) |
+| 165. | [Nem volt reményem](./collections/hozsanna/165.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

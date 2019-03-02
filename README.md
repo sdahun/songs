@@ -39,10 +39,10 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Dicsérem Neved 5.](http://dicseremneved.hu) | ![Feldolgozottság](http://progressed.io/bar/0) (0/225) |
 | [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur) | ![Feldolgozottság](http://progressed.io/bar/50) (72/143) |
 | [Hitünk énekei](http://adventkiado.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (477/477) |
-| [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/73) (160/219) |
+| [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/75) (165/219) |
 | [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
 
-A gyűjteményben jelenleg 927 darab ének található.
+A gyűjteményben jelenleg 932 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
