@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
   <properties>
     <titles>
       <title>Nagy Istenem</title>
-      <title>How Great Thou Art</title>
-      <title>O store Gud</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1 e1</verseOrder>
-    <authors>
-      <author type="music">Adolph Edgren</author>
-      <author type="music">Stuart Wesley Keen Hine</author>
-      <author type="music">svéd népi dallam nyomán</author>
-      <author type="words">Carl Gustav Boberg</author>
-      <author type="words">Stuart Wesley Keen Hine</author>
-      <author type="translation" lang="hu">Déri Balázs</author>
-    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
-      <songbook name="Adj zengő éneket!" entry="91"/>
       <songbook name="Hozsánna énekes" entry="160"/>
+      <songbook name="Adj zengő éneket!" entry="91"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -32,9 +22,6 @@
     </verse>
     <verse name="v3">
       <lines>Ha mennybe hívsz, majd mikor Eléd állok,<br/>megláthatom Te fényességedet.<br/>Ha majd reám szent Arcod vet világot,<br/>leborulok és dicsőítelek!</lines>
-    </verse>
-    <verse name="e1">
-      <lines>Mily nagy vagy Te, mily nagy vagy Te!</lines>
     </verse>
   </lyrics>
 </song>

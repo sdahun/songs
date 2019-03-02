@@ -926,6 +926,11 @@
 | 153. | [Minden új nap](./collections/hozsanna/153.xml) |
 | 154. | [Mint eltévedt bárány](./collections/hozsanna/154.xml) |
 | 155. | [Mint szarvas hűs forrás után](./collections/hozsanna/155.xml) |
+| 156. | [Mint szarvas](./collections/hozsanna/156.xml) |
+| 157. | [Mindörökké hű az Úr](./collections/hozsanna/157.xml) |
+| 158. | [Mit is mondhatnék](./collections/hozsanna/158.xml) |
+| 159. | [Most áldalak](./collections/hozsanna/159.xml) |
+| 160. | [Nagy Istenem](./collections/hozsanna/160.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
