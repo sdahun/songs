@@ -921,6 +921,11 @@
 | 148. | [Mikor még semmi](./collections/hozsanna/148.xml) |
 | 149. | [Mily szépek, Jeruzsálem](./collections/hozsanna/149.xml) |
 | 150. | [Minden időben áldom](./collections/hozsanna/150.xml) |
+| 151. | [Minden, mi él](./collections/hozsanna/151.xml) |
+| 152. | [Minden nap veled leszek](./collections/hozsanna/152.xml) |
+| 153. | [Minden új nap](./collections/hozsanna/153.xml) |
+| 154. | [Mint eltévedt bárány](./collections/hozsanna/154.xml) |
+| 155. | [Mint szarvas hűs forrás után](./collections/hozsanna/155.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
