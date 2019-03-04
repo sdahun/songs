@@ -936,6 +936,11 @@
 | 163. | [Ne félj, Sion](./collections/hozsanna/163.xml) |
 | 164. | [Ne félj, mert megváltottalak](./collections/hozsanna/164.xml) |
 | 165. | [Nem volt reményem](./collections/hozsanna/165.xml) |
+| 166. | [Nézd meg az évszakokat](./collections/hozsanna/166.xml) |
+| 167. | [Ó, áldd Isten nagy kegyét](./collections/hozsanna/167.xml) |
+| 168. | [Ó, én hiszek Jézusban](./collections/hozsanna/168.xml) |
+| 169. | [Ó, halld meg imám](./collections/hozsanna/169.xml) |
+| 170. | [Ó, jöjj szívembe, áldott Jézus](./collections/hozsanna/170.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

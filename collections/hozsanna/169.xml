@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, halld meg imám</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, halld meg imám,<br/>ó, halld meg imám,<br/>ím eléd térdelek.<br/>Ó, halld meg imám,<br/>ó, halld meg imám,<br/>én Uram, hallgass meg.</lines>
+    </verse>
+  </lyrics>
+</song>
