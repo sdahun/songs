@@ -941,6 +941,11 @@
 | 168. | [Ó, én hiszek Jézusban](./collections/hozsanna/168.xml) |
 | 169. | [Ó, halld meg imám](./collections/hozsanna/169.xml) |
 | 170. | [Ó, jöjj szívembe, áldott Jézus](./collections/hozsanna/170.xml) |
+| 171. | [Oly hálás vagyok](./collections/hozsanna/171.xml) |
+| 172. | [Oly jó benned bízni](./collections/hozsanna/172.xml) |
+| 173. | [Olyan örömöt](./collections/hozsanna/173.xml) |
+| 174. | [Oly szép az Ő neve](./collections/hozsanna/174.xml) |
+| 175. | [Olyan jó előtted állni](./collections/hozsanna/175.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

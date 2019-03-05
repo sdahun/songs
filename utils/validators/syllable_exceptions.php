@@ -490,6 +490,35 @@ $linecount_exceptions = [
 
     'hozsanna/165.xml;v2;3',
 
+    'hozsanna/171.xml;v2;1',
+
+    'hozsanna/173.xml;v2;1',
+    'hozsanna/173.xml;v2;2',
+    'hozsanna/173.xml;v2;3',
+    'hozsanna/173.xml;v2;4',
+    'hozsanna/173.xml;v2;5',
+    'hozsanna/173.xml;v2;6',
+    'hozsanna/173.xml;v3;1',
+    'hozsanna/173.xml;v3;2',
+    'hozsanna/173.xml;v3;3',
+    'hozsanna/173.xml;v3;4',
+    'hozsanna/173.xml;v3;5',
+    'hozsanna/173.xml;v3;6',
+    'hozsanna/173.xml;v4;1',
+    'hozsanna/173.xml;v4;2',
+    'hozsanna/173.xml;v4;3',
+    'hozsanna/173.xml;v4;4',
+    'hozsanna/173.xml;v4;5',
+    'hozsanna/173.xml;v4;6',
+    'hozsanna/173.xml;v5;1',
+    'hozsanna/173.xml;v5;2',
+    'hozsanna/173.xml;v5;3',
+    'hozsanna/173.xml;v5;4',
+    'hozsanna/173.xml;v5;5',
+    'hozsanna/173.xml;v5;6',
+
+
+
     'szent_az_ur/001.xml;v2;1',
     'szent_az_ur/001.xml;v2;3',
   
