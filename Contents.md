@@ -946,6 +946,11 @@
 | 173. | [Olyan örömöt](./collections/hozsanna/173.xml) |
 | 174. | [Oly szép az Ő neve](./collections/hozsanna/174.xml) |
 | 175. | [Olyan jó előtted állni](./collections/hozsanna/175.xml) |
+| 176. | [Olyan jó, szent az Úr](./collections/hozsanna/176.xml) |
+| 177. | [Ő az Úr](./collections/hozsanna/177.xml) |
+| 178. | [Örülj, örülj, az Úr veled van](./collections/hozsanna/178.xml) |
+| 179. | [Örvendjetek](./collections/hozsanna/179.xml) |
+| 180. | [Pillangó ha lehetnék](./collections/hozsanna/180.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
