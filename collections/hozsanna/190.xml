@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szeretni nem puszta szó</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„Szeretni”, nem puszta szó.<br/>A szeretet élő, való!<br/>Mi Jézustól tudjuk: mi az igaz szeretet,<br/>ki érettünk emberré született!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>„Szabadság”, nem puszta szó!<br/>A szabadság élő, való.<br/>Mi Jézustól tudjuk, mi az igaz szabadság,<br/>ki érettünk vállalta a halált.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>„Remélni”, nem puszta szó!<br/>A reménység élő, való.<br/>Mi Jézustól tudjuk, mi az igaz remény,<br/>Őbenne van ma is új közösség!</lines>
+    </verse>
+  </lyrics>
+</song>

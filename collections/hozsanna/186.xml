@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Soha nem fél már a szívem</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="186"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Soha nem fél már a szívem,<br/>soha nem fél már a szívem,<br/>soha nem fél már a szívem,<br/>mert velem van az Úr.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nem volt nélküle boldogságom,<br/>ám most életem véle járom,<br/>kézen fogva vezet Megváltóm,<br/>róla ezért zeng dalom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj hát, add a kezed, testvérem,<br/>járjunk mind a kereszt fényében,<br/>éljünk boldogan, békességben,<br/>hisz odaát vár a menny!</lines>
+    </verse>
+  </lyrics>
+</song>

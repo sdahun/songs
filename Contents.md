@@ -956,6 +956,11 @@
 | 183. | [Róla beszél fű, virág](./collections/hozsanna/183.xml) |
 | 184. | [Röpke fohász](./collections/hozsanna/184.xml) |
 | 185. | [Semmi sem választhat el](./collections/hozsanna/185.xml) |
+| 186. | [Soha nem fél már a szívem](./collections/hozsanna/186.xml) |
+| 187. | [Szent vagy](./collections/hozsanna/187.xml) |
+| 188. | [Szentlélek Isten, jöjj szívünkbe](./collections/hozsanna/188.xml) |
+| 189. | [Szeretet áradjon köztünk](./collections/hozsanna/189.xml) |
+| 190. | [Szeretni nem puszta szó](./collections/hozsanna/190.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
