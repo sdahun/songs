@@ -951,6 +951,11 @@
 | 178. | [Örülj, örülj, az Úr veled van](./collections/hozsanna/178.xml) |
 | 179. | [Örvendjetek](./collections/hozsanna/179.xml) |
 | 180. | [Pillangó ha lehetnék](./collections/hozsanna/180.xml) |
+| 181. | [Rád bízom](./collections/hozsanna/181.xml) |
+| 182. | [Rejts most el](./collections/hozsanna/182.xml) |
+| 183. | [Róla beszél fű, virág](./collections/hozsanna/183.xml) |
+| 184. | [Röpke fohász](./collections/hozsanna/184.xml) |
+| 185. | [Semmi sem választhat el](./collections/hozsanna/185.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

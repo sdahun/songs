@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Semmi sem választhat el</title>
+    </titles>
+    <verseOrder>c1 v1 c1 b1 c2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="185"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Semmi sem választhat el tőle már;<br/>úgy kezel, mint gyermekét, hisz ő Atyám.<br/>Bármi jönne is az életem során,<br/>szeretettel karjába zár.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Akaratom sokszor oly erőtelen,<br/>hogy magam uralni nem tudom,<br/>de bízom abban, hogy gyengeségemben<br/>Ő megbocsát, s így elmondhatom.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Néha senki sincs velem,<br/>mégsem retteg a szívem,<br/>az Ő szavában nem kételkedem soha!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Semmi sem választhat el tőle már;<br/>úgy kezel, mint gyermekét, hisz ő Atyám.<br/>Bármi jönne is az életem során,<br/>szeretettel karjába zár. Ezért hát,</lines>
+    </verse>
+  </lyrics>
+</song>
