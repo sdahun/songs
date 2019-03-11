@@ -966,6 +966,11 @@
 | 193. | [Szívem csendben az Úrra figyel](./collections/hozsanna/193.xml) |
 | 194. | [Találkozni jöttem](./collections/hozsanna/194.xml) |
 | 195. | [Te csak az Istennek](./collections/hozsanna/195.xml) |
+| 196. | [Te, ó, Uram](./collections/hozsanna/196.xml) |
+| 197. | [Te vagy az, akiből élet árad](./collections/hozsanna/197.xml) |
+| 198. | [Tégy eggyé Urunk!](./collections/hozsanna/198.xml) |
+| 199. | [Tégy engem békeköveteddé](./collections/hozsanna/199.xml) |
+| 200. | [Teljes szívből](./collections/hozsanna/200.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
