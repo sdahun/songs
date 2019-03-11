@@ -961,6 +961,11 @@
 | 188. | [Szentlélek Isten, jöjj szívünkbe](./collections/hozsanna/188.xml) |
 | 189. | [Szeretet áradjon köztünk](./collections/hozsanna/189.xml) |
 | 190. | [Szeretni nem puszta szó](./collections/hozsanna/190.xml) |
+| 191. | [Szürke a föld](./collections/hozsanna/191.xml) |
+| 192. | [Szívből köszönöm, Uram](./collections/hozsanna/192.xml) |
+| 193. | [Szívem csendben az Úrra figyel](./collections/hozsanna/193.xml) |
+| 194. | [Találkozni jöttem](./collections/hozsanna/194.xml) |
+| 195. | [Te csak az Istennek](./collections/hozsanna/195.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
