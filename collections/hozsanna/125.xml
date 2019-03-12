@@ -4,7 +4,7 @@
     <titles>
       <title>Kedves barátom</title>
     </titles>
-    <verseOrder>v1 r1 v2 r1 v3 r1</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="125"/>
     </songbooks>
@@ -13,7 +13,7 @@
     <verse name="v1">
       <lines>Kedves barátom, figyelj most rám!<br/>M’ért vagy szomorú, és miért nem vidám?<br/>Ha életed üres és céltalan,<br/>hallgasd meg, hogy mit tanácsol néked ez a dal!</lines>
     </verse>
-    <verse name="r1">
+    <verse name="c1">
       <lines>Ne add fel a reményt, hisz van megoldás,<br/>Jézusban, ki a Golgotán érted adta magát!<br/>Akármilyen életed volt eddig neked,<br/>hidd el, hogy Jézus Krisztus akkor is szeret!</lines>
     </verse>
     <verse name="v2">

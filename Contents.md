@@ -971,6 +971,11 @@
 | 198. | [Tégy eggyé Urunk!](./collections/hozsanna/198.xml) |
 | 199. | [Tégy engem békeköveteddé](./collections/hozsanna/199.xml) |
 | 200. | [Teljes szívből](./collections/hozsanna/200.xml) |
+| 201. | [Teremts bennem](./collections/hozsanna/201.xml) |
+| 202. | [Tied a dicsőség](./collections/hozsanna/202.xml) |
+| 203. | [Tied a hatalom](./collections/hozsanna/203.xml) |
+| 204. | [Tudd, van egy gyertya](./collections/hozsanna/204.xml) |
+| 205. | [Tisztítsd meg a szívemet](./collections/hozsanna/205.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
