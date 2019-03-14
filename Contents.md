@@ -981,6 +981,11 @@
 | 208. | [Új szívet adj, Uram, énnekem](./collections/hozsanna/208.xml) |
 | 209. | [Újjá tette szívem](./collections/hozsanna/209.xml) |
 | 210. | [Úr Jézus, Megváltóm](./collections/hozsanna/210.xml) |
+| 211. | [Uram, az éltem](./collections/hozsanna/211.xml) |
+| 212. | [Uram, itt vagyok](./collections/hozsanna/212.xml) |
+| 213. | [Uram, én áldom](./collections/hozsanna/213.xml) |
+| 214. | [Uram, Tehozzád futok](./collections/hozsanna/214.xml) |
+| 215. | [Üdvözítőm hozott megnyugvást](./collections/hozsanna/215.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
