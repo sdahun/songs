@@ -986,6 +986,10 @@
 | 213. | [Uram, én áldom](./collections/hozsanna/213.xml) |
 | 214. | [Uram, Tehozzád futok](./collections/hozsanna/214.xml) |
 | 215. | [Üdvözítőm hozott megnyugvást](./collections/hozsanna/215.xml) |
+| 216. | [Vizsgálj meg!](./collections/hozsanna/216.xml) |
+| 217. | [Valaki fogja két kezem](./collections/hozsanna/217.xml) |
+| 218. | [Vonj magadhoz, ó, Uram](./collections/hozsanna/218.xml) |
+| 219. | [Zengj halleluját az Úrnak](./collections/hozsanna/219.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 
