@@ -976,6 +976,11 @@
 | 203. | [Tied a hatalom](./collections/hozsanna/203.xml) |
 | 204. | [Tudd, van egy gyertya](./collections/hozsanna/204.xml) |
 | 205. | [Tisztítsd meg a szívemet](./collections/hozsanna/205.xml) |
+| 206. | [Tudom, az Úrnak terve van velem](./collections/hozsanna/206.xml) |
+| 207. | [Új hálaének áldja Istent](./collections/hozsanna/207.xml) |
+| 208. | [Új szívet adj, Uram, énnekem](./collections/hozsanna/208.xml) |
+| 209. | [Újjá tette szívem](./collections/hozsanna/209.xml) |
+| 210. | [Úr Jézus, Megváltóm](./collections/hozsanna/210.xml) |
 
 ## Szent az Úr (/szent_az_ur)
 

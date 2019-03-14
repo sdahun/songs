@@ -13,11 +13,12 @@
     </authors>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="73"/>
+      <songbook name="Hozsánna énekes" entry="210"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Új Jézus, Megváltóm,<br/>nincs senki olyan, mint Te!<br/>Minden napon magasztalom<br/>szereteted nagy voltát.<br/>Vigaszom, oltalmam,<br/>menedékem, váram!<br/>Ami vagyok, egész valóm<br/>Téged szomjaz, Téged áld!</lines>
+      <lines>Úr Jézus, Megváltóm,<br/>nincs senki olyan, mint Te!<br/>Minden napon magasztalom<br/>szereteted nagy voltát.<br/>Vigaszom, oltalmam,<br/>menedékem, váram!<br/>Ami vagyok, egész valóm<br/>Téged szomjaz, Téged áld!</lines>
     </verse>
     <verse name="c1">
       <lines>Kiálts az Úrnak, te föld, énekelj!<br/>Adj dicsőséget a Felségesnek!<br/>Hegyek hódoljatok, zúgj tenger<br/>a mi Urunk nagy nevének!<br/>Éneklem hűséged és kegyelmed,<br/>örökké szeretlek, én Istenem.<br/>Semmi sem ér fel a Te jelenléteddel!</lines>

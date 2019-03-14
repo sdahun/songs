@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tudom, az Úrnak terve van velem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tudom, az Úrnak terve van velem!<br/>Tudom, az Úrnak terve van velem!<br/>Ezért hálás életem, Őt dicsérem szüntelen.<br/>Tudom, az Úrnak terve van velem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tudom, az Úr vezet utamon!<br/>Tudom, az Úr vezet utamon!<br/>Ezért hálás életem, Őt dicsérem szüntelen.<br/>Tudom, az Úr vezet utamon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tudom, az Úr velem van minden nap!<br/>Tudom, az Úr velem van minden nap!<br/>Ezért hálás életem, Őt dicsérem szüntelen.<br/>Tudom, az Úr velem van mindennap!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tudom, az Úr megőriz mindenkor!<br/>Tudom, az Úr megőriz mindenkor!<br/>Ezért hálás életem, Őt dicsérem szüntelen.<br/>Tudom, az Úr megőriz mindenkor!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tudom, az Úr mindent jóra vezet!<br/>Tudom, az Úr mindent jóra vezet!<br/>Ezért hálás életem, Őt dicsérem szüntelen.<br/>Tudom, az Úr mindent jóra vezet!</lines>
+    </verse>
+  </lyrics>
+</song>
