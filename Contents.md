@@ -161,6 +161,7 @@
 | ---: | :------------------- |
 | 1. | [Zengd Isten nevét](./collections/baptista_gyulekezeti_enekeskonyv/001.xml) |
 | 2. | [Dicsérjétek az Urat](./collections/baptista_gyulekezeti_enekeskonyv/002.xml) |
+| 3. | [Szent vagy, felséges Isten](./collections/baptista_gyulekezeti_enekeskonyv/003.xml) |
 | 217. | [Amint vagyok, csak úgy jövök](./collections/baptista_gyulekezeti_enekeskonyv/217.xml) |
 | 234. | [Amint vagyok, sok bűn alatt](./collections/baptista_gyulekezeti_enekeskonyv/234.xml) |
 | 242. | [Új szívet adj](./collections/baptista_gyulekezeti_enekeskonyv/242.xml) |
@@ -207,6 +208,16 @@
 | ---: | :------------------- |
 | 6. | [Adj imádó szívet](./collections/dicserem_neved_4/006.xml) |
 | 174. | [Rejts most el](./collections/dicserem_neved_4/174.xml) |
+
+## Dicsérem Neved 5 (/dicserem_neved_5)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 1. | [A kegyelmed köszönöm Neked](./collections/dicserem_neved_5/001.xml) |
+| 2. | [103. zsoltár](./collections/dicserem_neved_5/002.xml) |
+| 3. | [A Bárány vérén váltott meg](./collections/dicserem_neved_5/003.xml) |
+| 4. | [A menny a hazám](./collections/dicserem_neved_5/004.xml) |
+| 5. | [A mennyei tábor](./collections/dicserem_neved_5/005.xml) |
 
 ## Erőm és énekem az Úr (/erom_es_enekem_az_ur)
 

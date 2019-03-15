@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>103. zsoltár</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">Dobner Illés</author>
+      <author type="words">Dobner Illés</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 5" entry="2"/>
+    </songbooks>
+    <themes>
+      <theme>Isten irgalmas, kegyelmes</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Zsolt. 103</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irgalmas és kegyelmes a Mindenható,<br/>türelme hosszú, és nagy a szeretete.<br/>Nem vétkeink szerint bánik velünk az Úr,<br/>megvált a sírtól, kitartó kegyelme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ne feledd el lelkem, mennyi jót tett veled,<br/>megbocsátja minden bűnödet.<br/>Szeretettel koronáz meg, s irgalommal,<br/>meggyógyítja betegségedet. Ezért hát:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldjad, lelkem, egész bensőm az Urat!<br/>Áldjad szent nevét!<br/>Áldjad, lelkem, egész bensőm az Urat!<br/>Áldjad szent nevét!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amilyen messze van napkelet napnyugattól,<br/>olyan messzire veti el vétkeink tőlünk.<br/>Amilyen irgalmas az apa fiaihoz,<br/>olyan irgalmas az Úr az istenfélőkhöz. Ezért hát:</lines>
+    </verse>
+  </lyrics>
+</song>

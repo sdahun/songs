@@ -14,12 +14,13 @@
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="2"/>
     </songbooks>
     <themes>
-      <theme>Isten dicsőítése</theme>
+      <theme>dicsőítés – Isten dicsőítése</theme>
+      <theme>istentisztelet – kezdő énekek</theme>
     </themes>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Dicsérjétek az Urat!<br/>Áldjátok ő szent voltát!<br/>Dicsérjétek mennyekben,<br/>hol országol kegyesen<br/>az ő nagy dicsőségébe’!<br/>Dicsérjétek hatalmát,<br/>melyből dicső nagy voltát<br/>minden veheti eszébe!</lines>
+      <lines>Dicsérjétek az Urat!<br/>Áldjátok ő szent voltát!<br/>Dicsérjétek mennyekben,<br/>hol országol kegyesen<br/>az ő nagy dicsőségébe’!<br/>Dicsérjétek hatalmát,<br/>melyből dicső nagyvoltát<br/>minden veheti eszébe!</lines>
     </verse>
     <verse name="v2">
       <lines>Dicsérjétek őt kürtben,<br/>ékes éneklésekben;<br/>hegedűkben, lantokban<br/>és hangos citerákban<br/>az Úrnak zengedezzetek!<br/>Sípokban, orgonákban<br/>és más szép muzsikákban<br/>örvendjetek az Istennek!</lines>
