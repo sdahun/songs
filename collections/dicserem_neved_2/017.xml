@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr győz</title>
+    </titles>
+    <verseOrder>c1 c1 v1 c1 c1 b1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="17"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az Úr győz! Az Úr győz!<br/>Az Úr győz, és uralkodik,<br/>örüljön a föld, örüljön a föld,<br/>vigadozzanak a nemzetek!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Emésztő tűz jár előtte,<br/>megrontja gyűlölőit,<br/>a hegyek, mint viasz elolvadnak az Úr előtt,<br/>félik, rettegik Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az egek hirdetik nevét,<br/>a föld zengi dicséretét,<br/>a teremtett világ leborul az Úr előtt,<br/>magasztalja Őt!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A mi Istenünknek,<br/>a mi Istenünknek,<br/>a mi Istenünknek!</lines>
+    </verse>
+  </lyrics>
+</song>
