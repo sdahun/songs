@@ -26,7 +26,13 @@
 | 2 | [Aki a holtakat megeleveníti](../../collections/dicserem_neved_2/002.xml) |
 | 8 | [A reményem csak Te vagy](../../collections/dicserem_neved_2/008.xml) |
 | 11 | [Atyám a mennyben](../../collections/dicserem_neved_2/011.xml) |
-| 12 | [Atyánk eléd járulunk](../../collections/dicserem_neved_2/012.xml) |
+| 12 | [Atyánk, eléd járulunk](../../collections/dicserem_neved_2/012.xml) |
+
+## Evangelizáció
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 14 | [Az ajtó előtt állok](../../collections/dicserem_neved_2/014.xml) |
 
 ## Gyerekénekek
 

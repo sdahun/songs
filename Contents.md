@@ -192,8 +192,10 @@
 | 9. | [A sír üres](./collections/dicserem_neved_2/009.xml) |
 | 10. | [A tegnap terhe](./collections/dicserem_neved_2/010.xml) |
 | 11. | [Atyám a mennyben](./collections/dicserem_neved_2/011.xml) |
-| 12. | [Atyánk eléd járulunk](./collections/dicserem_neved_2/012.xml) |
+| 12. | [Atyánk, eléd járulunk](./collections/dicserem_neved_2/012.xml) |
 | 13. | [A vakok látnak](./collections/dicserem_neved_2/013.xml) |
+| 14. | [Az ajtó előtt állok](./collections/dicserem_neved_2/014.xml) |
+| 15. | [Az Isten szeretete](./collections/dicserem_neved_2/015.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 

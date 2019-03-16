@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Isten szeretete</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Isten szeretete olyan nagy, hogy Fiát adta értünk.<br/>Ha benne hiszünk, el ne vesszünk, örökké éljünk.<br/>Jézus szeretete olyan nagy, hogy meghalt helyettünk,<br/>Meghálálni azt sohasem tudjuk, csak kitárhatjuk szívünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert ő szeretetet kíván tőlünk,<br/>az Istennek ismeretét.<br/>Neki a véres áldozatok már nem kellenek,<br/>kell az engedelmesség.<br/>Mert ő szeretetet kíván tőlünk,<br/>az Istennek ismeretét.<br/>Neki a véres áldozatok már nem kellenek,<br/>kell az engedelmesség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A töredelmes szív, az Úr előtt, kedves ajándék.<br/>Kezeinknek felemelése legyen kedves előtte!<br/>Szájunknak önkéntes áldozatát fogadd el Atyánk!<br/>Dicséretet és hálaadást viszünk tehozzád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fülemet adtam szavaidnak meghallására,<br/>szívemet adtam az igazság befogadására.<br/>Ahogy az idő csak egyre múlik, annál jobban szeretlek.<br/>Nem akadály, hogy nem látlak még, annál inkább kereslek.</lines>
+    </verse>
+  </lyrics>
+</song>
