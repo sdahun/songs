@@ -23,7 +23,7 @@
 | ---: | :------------------- |
 | 125 | [Alleluja! Ím feltámadt Isten](../../collections/hitunk_enekei/125.xml) |
 | 126 | [Jézus Krisztus feltámadt!](../../collections/hitunk_enekei/126.xml) |
-| 127 | [Hivő lelkek, zengjetek](../../collections/hitunk_enekei/127.xml) |
+| 127 | [Hívő lelkek, zengjetek](../../collections/hitunk_enekei/127.xml) |
 | 128 | [Jézus meghalt bűneinkért](../../collections/hitunk_enekei/128.xml) |
 | 129 | [A csillagos nagy ég](../../collections/hitunk_enekei/129.xml) |
 
@@ -2377,7 +2377,7 @@
 | ---: | :------------------- |
 | 125 | [Alleluja! Ím feltámadt Isten](../../collections/hitunk_enekei/125.xml) |
 | 126 | [Jézus Krisztus feltámadt!](../../collections/hitunk_enekei/126.xml) |
-| 127 | [Hivő lelkek, zengjetek](../../collections/hitunk_enekei/127.xml) |
+| 127 | [Hívő lelkek, zengjetek](../../collections/hitunk_enekei/127.xml) |
 | 128 | [Jézus meghalt bűneinkért](../../collections/hitunk_enekei/128.xml) |
 | 129 | [A csillagos nagy ég](../../collections/hitunk_enekei/129.xml) |
 | 151 | [Jézus Krisztus bennem él!](../../collections/hitunk_enekei/151.xml) |

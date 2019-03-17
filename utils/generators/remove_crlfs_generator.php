@@ -8,4 +8,4 @@ foreach ($all_files as $collection_path => $collection_files) {
   }
 }  
 
-echo("The CRLFs has been removed successfully.\n");
+echo("The CRLFs has been removed successfully!\n");

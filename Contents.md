@@ -203,6 +203,8 @@
 | 20. | [Az Úr van itt](./collections/dicserem_neved_2/020.xml) |
 | 21. | [Ábrahámnak sok fia](./collections/dicserem_neved_2/021.xml) |
 | 22. | [Áldásoddal megyünk](./collections/dicserem_neved_2/022.xml) |
+| 23. | [Áldott legyen a frigy](./collections/dicserem_neved_2/023.xml) |
+| 24. | [Áldott legyen a mi Urunk](./collections/dicserem_neved_2/024.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
@@ -435,7 +437,7 @@
 | 124. | [Áll a Krisztus szent keresztje](./collections/hitunk_enekei/124.xml) |
 | 125. | [Alleluja! Ím feltámadt Isten](./collections/hitunk_enekei/125.xml) |
 | 126. | [Jézus Krisztus feltámadt!](./collections/hitunk_enekei/126.xml) |
-| 127. | [Hivő lelkek, zengjetek](./collections/hitunk_enekei/127.xml) |
+| 127. | [Hívő lelkek, zengjetek](./collections/hitunk_enekei/127.xml) |
 | 128. | [Jézus meghalt bűneinkért](./collections/hitunk_enekei/128.xml) |
 | 129. | [A csillagos nagy ég](./collections/hitunk_enekei/129.xml) |
 | 130. | [Drága égi kegyelem](./collections/hitunk_enekei/130.xml) |
