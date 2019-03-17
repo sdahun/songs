@@ -201,6 +201,8 @@
 | 18. | [Az Úr irgalma végtelen](./collections/dicserem_neved_2/018.xml) |
 | 19. | [Az Úr Jézusnak ma tárd ki a szíved](./collections/dicserem_neved_2/019.xml) |
 | 20. | [Az Úr van itt](./collections/dicserem_neved_2/020.xml) |
+| 21. | [Ábrahámnak sok fia](./collections/dicserem_neved_2/021.xml) |
+| 22. | [Áldásoddal megyünk](./collections/dicserem_neved_2/022.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 

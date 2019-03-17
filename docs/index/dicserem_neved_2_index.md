@@ -32,6 +32,7 @@
 | 8 | [A reményem csak Te vagy](../../collections/dicserem_neved_2/008.xml) |
 | 11 | [Atyám a mennyben](../../collections/dicserem_neved_2/011.xml) |
 | 12 | [Atyánk, eléd járulunk](../../collections/dicserem_neved_2/012.xml) |
+| 22 | [Áldásoddal megyünk](../../collections/dicserem_neved_2/022.xml) |
 
 ## Evangelizáció
 
@@ -46,10 +47,5 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 5 | [Amikor rád nézek](../../collections/dicserem_neved_2/005.xml) |
-
-## JerSir 3,22
-
-| Ssz. | Az ének címe/kezdete |
-| ---: | :------------------- |
-| 18 | [Az Úr irgalma végtelen](../../collections/dicserem_neved_2/018.xml) |
+| 21 | [Ábrahámnak sok fia](../../collections/dicserem_neved_2/021.xml) |
 
