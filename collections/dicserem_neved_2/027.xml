@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott szavad által</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">O. Schultz, 1967.</author>
+      <author type="words">Gerzsenyi Sándor, 1984.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="27"/>
+      <songbook name="Erőm és énekem az Úr" entry="7"/>
+      <songbook name="Hozsánna énekes" entry="20"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Dicséret és imádat</theme>
+      <theme>Jn 5,24</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott szavad által,<br/>Uram eltölt a remény:<br/>kapu tárul a jövőmre,<br/>bennem élsz, benned én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott szavad által,<br/>Uram békéd száll reám,<br/>győzedelmes Jézus Krisztus,<br/>Megtartóm, Kősziklám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott szavad által,<br/>Uram eggyé lesz a föld.<br/>Szeretetben, békességben<br/>téged áld, égi Hőst.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott szavad által,<br/>Uram néped már nem fél.<br/>Kapu tárul, hív a holnap,<br/>közel van már a cél!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -207,6 +207,9 @@
 | 24. | [Áldott legyen a mi Urunk](./collections/dicserem_neved_2/024.xml) |
 | 25. | [Áldott legyen az Úr](./collections/dicserem_neved_2/025.xml) |
 | 26. | [Áldott légy jó Atyám](./collections/dicserem_neved_2/026.xml) |
+| 27. | [Áldott szavad által](./collections/dicserem_neved_2/027.xml) |
+| 28. | [Áradj folyó](./collections/dicserem_neved_2/028.xml) |
+| 29. | [Átadom magamat teljesen](./collections/dicserem_neved_2/029.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 

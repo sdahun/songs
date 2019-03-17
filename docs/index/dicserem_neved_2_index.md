@@ -19,12 +19,14 @@
 | 23 | [Áldott legyen a frigy](../../collections/dicserem_neved_2/023.xml) |
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
 | 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
+| 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
 
 ## Bűnbánat és megújulás
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 6 | [Amint vagyok](../../collections/dicserem_neved_2/006.xml) |
+| 29 | [Átadom magamat teljesen](../../collections/dicserem_neved_2/029.xml) |
 
 ## Dicséret és imádat
 
@@ -38,6 +40,7 @@
 | 22 | [Áldásoddal megyünk](../../collections/dicserem_neved_2/022.xml) |
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
 | 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
+| 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
 
 ## Evangelizáció
 
@@ -59,4 +62,10 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 26 | [Áldott légy jó Atyám](../../collections/dicserem_neved_2/026.xml) |
+
+## Kérés és könyörgés
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 28 | [Áradj folyó](../../collections/dicserem_neved_2/028.xml) |
 
