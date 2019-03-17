@@ -18,6 +18,7 @@
 | 20 | [Az Úr van itt](../../collections/dicserem_neved_2/020.xml) |
 | 23 | [Áldott legyen a frigy](../../collections/dicserem_neved_2/023.xml) |
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
+| 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
 
 ## Bűnbánat és megújulás
 
@@ -36,6 +37,7 @@
 | 12 | [Atyánk, eléd járulunk](../../collections/dicserem_neved_2/012.xml) |
 | 22 | [Áldásoddal megyünk](../../collections/dicserem_neved_2/022.xml) |
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
+| 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
 
 ## Evangelizáció
 
@@ -51,4 +53,10 @@
 | ---: | :------------------- |
 | 5 | [Amikor rád nézek](../../collections/dicserem_neved_2/005.xml) |
 | 21 | [Ábrahámnak sok fia](../../collections/dicserem_neved_2/021.xml) |
+
+## Hálaadás
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 26 | [Áldott légy jó Atyám](../../collections/dicserem_neved_2/026.xml) |
 

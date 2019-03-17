@@ -205,6 +205,8 @@
 | 22. | [Áldásoddal megyünk](./collections/dicserem_neved_2/022.xml) |
 | 23. | [Áldott legyen a frigy](./collections/dicserem_neved_2/023.xml) |
 | 24. | [Áldott legyen a mi Urunk](./collections/dicserem_neved_2/024.xml) |
+| 25. | [Áldott legyen az Úr](./collections/dicserem_neved_2/025.xml) |
+| 26. | [Áldott légy jó Atyám](./collections/dicserem_neved_2/026.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
