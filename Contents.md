@@ -210,6 +210,12 @@
 | 27. | [Áldott szavad által](./collections/dicserem_neved_2/027.xml) |
 | 28. | [Áradj folyó](./collections/dicserem_neved_2/028.xml) |
 | 29. | [Átadom magamat teljesen](./collections/dicserem_neved_2/029.xml) |
+| 30. | [Benne van](./collections/dicserem_neved_2/030.xml) |
+| 31. | [Boldog ember](./collections/dicserem_neved_2/031.xml) |
+| 32. | [Csak egy korty az Úr vizéből](./collections/dicserem_neved_2/032.xml) |
+| 33. | [Csak Istennél](./collections/dicserem_neved_2/033.xml) |
+| 34. | [Dávid egykor](./collections/dicserem_neved_2/034.xml) |
+| 35. | [Dicsérd, dicsérd](./collections/dicserem_neved_2/035.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 

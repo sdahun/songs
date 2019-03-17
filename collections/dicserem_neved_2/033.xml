@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Csak Istennél</title>
+    </titles>
+    <verseOrder>v1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="33"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Zsolt 62</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Istennél csendesül el a lelkem,<br/>Tőle kapok reménységet,<br/>csak Ő az én kősziklám szabadítóm,<br/>erős váram, nem ingadozom sokáig.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bízzatok Benne, ti népek,<br/>most öntsétek ki szívetek,<br/>mert Isten, egyedül Isten,<br/>az Isten a mi oltalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

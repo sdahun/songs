@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Benne van</title>
+      <title lang="en">In The Lord Alone</title>
+    </titles>
+    <copyright>© 1989 Universal Music - Brentwood Benson Publishing</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>173156</ccliNo>
+    <authors>
+      <author type="music">Walt Harrah</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="30"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Benne van, csak benne van,<br/>az Úrban van erő,<br/>az igazság és békesség<br/>Benne lelhető.<br/>Benne van, csak benne van,<br/>az Úrban van erő,<br/>Jézusban,<br/>az Úrban van erő!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Benne van, csak benne van<br/>a bűntől tisztulás,<br/>bűnbocsánat vérében,<br/>ott van gyógyulás.<br/>Benne van, csak benne van<br/>a teljes szabadság,<br/>Jézusban,<br/>az Úrban van áldás!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -231,6 +231,15 @@ $linecount_exceptions = [
     'dicserem_neved_2/029.xml;v2;1',
     'dicserem_neved_2/029.xml;v2;2',
 
+    'dicserem_neved_2/030.xml;v2;3',
+
+    'dicserem_neved_2/031.xml;v2;1',
+    'dicserem_neved_2/031.xml;v2;2',
+    'dicserem_neved_2/031.xml;v2;4',
+
+    'dicserem_neved_2/034.xml;v2;4',
+
+
 
     'dicserem_neved_3/002.xml;v2;4',
 

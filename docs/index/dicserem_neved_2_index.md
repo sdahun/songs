@@ -20,6 +20,16 @@
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
 | 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
 | 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
+| 30 | [Benne van](../../collections/dicserem_neved_2/030.xml) |
+| 31 | [Boldog ember](../../collections/dicserem_neved_2/031.xml) |
+| 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
+| 33 | [Csak Istennél](../../collections/dicserem_neved_2/033.xml) |
+
+## Buzdítás dicséretre
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 35 | [Dicsérd, dicsérd](../../collections/dicserem_neved_2/035.xml) |
 
 ## Bűnbánat és megújulás
 
@@ -27,6 +37,7 @@
 | ---: | :------------------- |
 | 6 | [Amint vagyok](../../collections/dicserem_neved_2/006.xml) |
 | 29 | [Átadom magamat teljesen](../../collections/dicserem_neved_2/029.xml) |
+| 31 | [Boldog ember](../../collections/dicserem_neved_2/031.xml) |
 
 ## Dicséret és imádat
 
@@ -41,6 +52,7 @@
 | 24 | [Áldott legyen a mi Urunk](../../collections/dicserem_neved_2/024.xml) |
 | 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
 | 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
+| 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
 
 ## Evangelizáció
 
@@ -56,6 +68,7 @@
 | ---: | :------------------- |
 | 5 | [Amikor rád nézek](../../collections/dicserem_neved_2/005.xml) |
 | 21 | [Ábrahámnak sok fia](../../collections/dicserem_neved_2/021.xml) |
+| 34 | [Dávid egykor](../../collections/dicserem_neved_2/034.xml) |
 
 ## Hálaadás
 
