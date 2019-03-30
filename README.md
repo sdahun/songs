@@ -1,4 +1,4 @@
-# Lyrics of worship songs in Hungarian
+# Lyrics of worship songs in Hungarian language
 
 # Magyar nyelvű, Istent dicsőítő énekek szövegeinek gyűjteménye
 
