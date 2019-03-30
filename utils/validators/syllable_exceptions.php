@@ -177,6 +177,15 @@ $linecount_exceptions = [
 
     'baptista_gyulekezeti_enekeskonyv/217.xml;v2;2',
 
+    'dicserem_neved_1/003.xml;v2;1',
+    'dicserem_neved_1/003.xml;v2;2',
+    'dicserem_neved_1/003.xml;v2;3',
+    'dicserem_neved_1/003.xml;v2;4',
+    'dicserem_neved_1/003.xml;v3;1',
+    'dicserem_neved_1/003.xml;v3;2',
+    'dicserem_neved_1/003.xml;v3;3',
+    'dicserem_neved_1/003.xml;v3;4',
+
     'dicserem_neved_1/183.xml;v2;4',
 
     'dicserem_neved_2/006.xml;v2;2',
@@ -239,6 +248,9 @@ $linecount_exceptions = [
 
     'dicserem_neved_2/034.xml;v2;4',
 
+    'dicserem_neved_2/036.xml;v2;2',
+    'dicserem_neved_2/036.xml;v2;6',
+    'dicserem_neved_2/036.xml;v2;7',
 
 
     'dicserem_neved_3/002.xml;v2;4',

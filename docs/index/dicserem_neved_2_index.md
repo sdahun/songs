@@ -53,6 +53,7 @@
 | 25 | [Áldott legyen az Úr](../../collections/dicserem_neved_2/025.xml) |
 | 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
 | 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
+| 36 | [Dicsérem Neved](../../collections/dicserem_neved_2/036.xml) |
 
 ## Evangelizáció
 

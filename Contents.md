@@ -173,6 +173,11 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
+| 1. | [Áldjátok az Urat](./collections/dicserem_neved_1/001.xml) |
+| 2. | [Áldjon meg téged](./collections/dicserem_neved_1/002.xml) |
+| 3. | [Áldott a nap](./collections/dicserem_neved_1/003.xml) |
+| 4. | [Áldjátok az Úr nagy nevét](./collections/dicserem_neved_1/004.xml) |
+| 5. | [Áldott légy, Istenem](./collections/dicserem_neved_1/005.xml) |
 | 7. | [Akkor majd táncolva](./collections/dicserem_neved_1/007.xml) |
 | 29. | [Atyám, két kezedben](./collections/dicserem_neved_1/029.xml) |
 | 183. | [Róla beszél fű, virág](./collections/dicserem_neved_1/183.xml) |
@@ -216,6 +221,7 @@
 | 33. | [Csak Istennél](./collections/dicserem_neved_2/033.xml) |
 | 34. | [Dávid egykor](./collections/dicserem_neved_2/034.xml) |
 | 35. | [Dicsérd, dicsérd](./collections/dicserem_neved_2/035.xml) |
+| 36. | [Dicsérem Neved](./collections/dicserem_neved_2/036.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
