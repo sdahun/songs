@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérlek, imádlak</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="40"/>
+    </songbooks>
+    <authors>
+      <author type="music">C. Christenson</author>
+    </authors>
+    <themes>
+      <theme>Dicséret és imádat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérlek, imádlak,<br/>életemnek célja csak Te vagy,<br/>Hogy magasztaljalak,<br/>és áldjam szent neved.<br/>Ó, Uram, szeretlek Téged,<br/>vágyom hallani beszédedet,<br/>és veled járni mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

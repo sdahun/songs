@@ -24,12 +24,15 @@
 | 31 | [Boldog ember](../../collections/dicserem_neved_2/031.xml) |
 | 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
 | 33 | [Csak Istennél](../../collections/dicserem_neved_2/033.xml) |
+| 37 | [Dicséri, áldja szüntelen](../../collections/dicserem_neved_2/037.xml) |
 
 ## Buzdítás dicséretre
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 35 | [Dicsérd, dicsérd](../../collections/dicserem_neved_2/035.xml) |
+| 38 | [Dicsérjétek az Urat](../../collections/dicserem_neved_2/038.xml) |
+| 39 | [Dicsérjük Istent](../../collections/dicserem_neved_2/039.xml) |
 
 ## Bűnbánat és megújulás
 
@@ -54,6 +57,7 @@
 | 27 | [Áldott szavad által](../../collections/dicserem_neved_2/027.xml) |
 | 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
 | 36 | [Dicsérem Neved](../../collections/dicserem_neved_2/036.xml) |
+| 40 | [Dicsérlek, imádlak](../../collections/dicserem_neved_2/040.xml) |
 
 ## Evangelizáció
 

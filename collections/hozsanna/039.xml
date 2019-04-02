@@ -7,6 +7,7 @@
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="39"/>
+      <songbook name="Dicsérem Neved 2" entry="37"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -14,7 +15,7 @@
       <lines>Dicséri, áldja szüntelen<br/>Jézust a szívem, ajkam.<br/>Amit Ő művelt énvelem,<br/>amit Ő végzett rajtam,<br/>azt némán el nem hallgatom,<br/>ki jártam könnyes utakon,<br/>csodáit zengem vígan,<br/>hirdetem boldogan.</lines>
     </verse>
     <verse name="v2">
-      <lines>Rég koldus voltam, úttalan,<br/>Jézusban kincset leltem,<br/>utamnak drága célja van,<br/>betölti fénnyel lelkem:<br/>a kincset széjjelosztani<br/>és róla jó hírt mondani<br/>szolgálat boldog útja,<br/>szent küldetésem ez.</lines>
+      <lines>Rég koldus voltam, úttalan,<br/>Jézusban kincset leltem,<br/>utamnak drága célja van,<br/>betölti fénnyel lelkem:<br/>a kincset széjjel osztani<br/>és róla jó hírt mondani<br/>szolgálat boldog útja,<br/>szent küldetésem ez.</lines>
     </verse>
     <verse name="v3">
       <lines>Szolgállak Téged szüntelen,<br/>Jézusom fénylő hajnal,<br/>törölve fájó könnyeket,<br/>harcolva búval, bajjal.<br/>Míg utam hozzád el nem ér,<br/>hol nincs árnyék, eltölt a fény,<br/>mert színről színre látom<br/>tündöklő arcodat.</lines>

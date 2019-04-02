@@ -222,6 +222,10 @@
 | 34. | [Dávid egykor](./collections/dicserem_neved_2/034.xml) |
 | 35. | [Dicsérd, dicsérd](./collections/dicserem_neved_2/035.xml) |
 | 36. | [Dicsérem Neved](./collections/dicserem_neved_2/036.xml) |
+| 37. | [Dicséri, áldja szüntelen](./collections/dicserem_neved_2/037.xml) |
+| 38. | [Dicsérjétek az Urat](./collections/dicserem_neved_2/038.xml) |
+| 39. | [Dicsérjük Istent](./collections/dicserem_neved_2/039.xml) |
+| 40. | [Dicsérlek, imádlak](./collections/dicserem_neved_2/040.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
