@@ -58,6 +58,7 @@
 | 32 | [Csak egy korty az Úr vizéből](../../collections/dicserem_neved_2/032.xml) |
 | 36 | [Dicsérem Neved](../../collections/dicserem_neved_2/036.xml) |
 | 40 | [Dicsérlek, imádlak](../../collections/dicserem_neved_2/040.xml) |
+| 41 | [Dicső, nagy Király vagy](../../collections/dicserem_neved_2/041.xml) |
 
 ## Evangelizáció
 

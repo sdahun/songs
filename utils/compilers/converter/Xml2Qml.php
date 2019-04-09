@@ -51,7 +51,7 @@ class Xml2Qml {
 
             $verseText = str_replace('<br/><br/>', "\n&#160;\n", $verseText);
 
-            $result .= self::c(str_replace('<br/>', "\n", $verseText)) . "\n</lyrics></section>";
+            $result .= self::c(str_replace('<br/>', "\n", $verseText)) . "_\n</lyrics></section>";
         }
 
         $result .= '</lyrics><translation></translation><translationoptions></translationoptions></song>';

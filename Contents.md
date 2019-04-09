@@ -226,6 +226,7 @@
 | 38. | [Dicsérjétek az Urat](./collections/dicserem_neved_2/038.xml) |
 | 39. | [Dicsérjük Istent](./collections/dicserem_neved_2/039.xml) |
 | 40. | [Dicsérlek, imádlak](./collections/dicserem_neved_2/040.xml) |
+| 41. | [Dicső, nagy Király vagy](./collections/dicserem_neved_2/041.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
