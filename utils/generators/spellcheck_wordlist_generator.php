@@ -38,6 +38,6 @@ foreach ($all_files as $collection_path => $collection_files) {
     
 sort($wordlist, SORT_LOCALE_STRING);
     
-file_put_contents(COMPILATIONS_PATH . '/wordlist.txt', implode("\r\n", $wordlist));
+file_put_contents(COMPILATIONS_PATH . '/wordlist.txt', pack('CCC', 0xEF, 0xBB, 0xBF) . implode("\r\n", $wordlist));
 
 echo("The extraction of words has been finished.\n");
