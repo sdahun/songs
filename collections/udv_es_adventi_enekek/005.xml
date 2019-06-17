@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kegyes Jézus, itt vagyunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Ahle Johann Rudolf, 1664. (1625-1673.)</author>
+      <author type="music">Riegel F. átirata</author>
+      <author type="words">Clausnitzer Tobias, 1663. (1618-1684.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="5"/>
+      <songbook name="Hitünk énekei" entry="316"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez</theme>
+      <theme>Megnyitó énekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyes Jézus, itt vagyunk<br/>te szent igéd hallására;<br/>gyúljon fel kívánságunk<br/>üdvösség tanulására,<br/>hogy a földtől elszakadjunk,<br/>csak tehozzád vonattassunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi elménk s értelminket<br/>lelki sötétség fogta be,<br/>de Szentlelked szívünket<br/>tiszta világgal töltse be,<br/>hogy jót gondoljunk és szóljunk,<br/>mert csak tőled kell azt várnunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh te dicső fényesség!<br/>Istentől származott világ,<br/>készítsd el szívünk, fülünk,<br/>lakozzék bennünk jámborság.<br/>Imádságunk, tanulságunk,<br/>kedves legyen fenn Jézusunk!</lines>
+    </verse>
+  </lyrics>
+</song>
