@@ -56,6 +56,11 @@ $datas = [
         'download' => 'http://adventista.hu',
         'count'    => 40,
     ],
+    'udv_es_adventi_enekek' => [
+        'name'     => 'Üdv- és Adventi Énekek',
+        'download' => 'https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997',
+        'count'    => 471,
+    ],
 ];
 
 $sumSongCount = 0;

@@ -1080,3 +1080,9 @@
 | 39. | [Utaidat, Uram, ismertesd meg](./collections/szent_az_ur/039.xml) |
 | 40. | [Van reád gondja az Úrnak](./collections/szent_az_ur/040.xml) |
 
+## Üdv- és adventi énekek (/udv_es_adventi_enekek)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 1. | [Hajoljunk le az Úr előtt](./collections/udv_es_adventi_enekek/001.xml) |
+
