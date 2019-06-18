@@ -5,6 +5,14 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 9 | [Úr Jézusunk óh légy velünk](../../collections/udv_es_adventi_enekek/009.xml) |
+| 15 | [Megváltónk lábához leült Mária](../../collections/udv_es_adventi_enekek/015.xml) |
+
+## Istentisztelethez: Dics és hálaénekek
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 20 | [Jó minékünk keresni téged](../../collections/udv_es_adventi_enekek/020.xml) |
+| 21 | [Miként a szarvas a folyóvizekre](../../collections/udv_es_adventi_enekek/021.xml) |
 
 ## Istentisztelethez: Megnyitó énekek
 
@@ -19,4 +27,8 @@
 | 7 | [Utánam! Krisztus így kiált](../../collections/udv_es_adventi_enekek/007.xml) |
 | 8 | [Házadban mennyei Atyánk](../../collections/udv_es_adventi_enekek/008.xml) |
 | 9 | [Úr Jézusunk óh légy velünk](../../collections/udv_es_adventi_enekek/009.xml) |
+| 10 | [Szent érzelem tölti keblem](../../collections/udv_es_adventi_enekek/010.xml) |
+| 11 | [Atyánk, a te gyermekeid](../../collections/udv_es_adventi_enekek/011.xml) |
+| 12 | [Hívők szent magasztos helye](../../collections/udv_es_adventi_enekek/012.xml) |
+| 15 | [Megváltónk lábához leült Mária](../../collections/udv_es_adventi_enekek/015.xml) |
 

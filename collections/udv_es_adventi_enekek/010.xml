@@ -13,6 +13,9 @@
       <songbook name="Üdv- és adventi énekek" entry="10"/>
       <songbook name="Hitünk énekei" entry="396"/>
     </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Megnyitó énekek</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
