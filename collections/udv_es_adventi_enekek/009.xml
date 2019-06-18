@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézusunk óh légy velünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Kinsley György</author>
+      <author type="words">Paulus C. F.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="9"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Megnyitó énekek</theme>
+      <theme>Evangéliumi karénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézusunk óh légy velünk,<br/>szentlelkedet küldd el nekünk!<br/>Kormányozz keggyel, óh szeress,<br/>igazság útjára vezess!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ajkunkra adj dicséneket,<br/>és áhítatra kész szívet;<br/>hitünk, s elménknek nyújts erőt,<br/>ismeretedben vigy előbb!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg egykor énekelhetünk:<br/>szent, szent, szent az Úr Istenünk!<br/>És szemtől szembe állhatunk,<br/>örök örömben láthatunk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -695,7 +695,9 @@ $linecount_exceptions = [
 
     'szent_az_ur/038.xml;v2;1',
     'szent_az_ur/038.xml;v2;3',
-    
+  
+    'udv_es_adventi_enekek/006.xml;v3;3',
+
   ];
   
   

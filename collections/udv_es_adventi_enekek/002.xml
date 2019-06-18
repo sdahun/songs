@@ -6,7 +6,7 @@
     </titles>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-      <author type="music">Franc Guillame (-1640)</author>
+      <author type="music">Franc Guillame (-1640.)</author>
       <author type="translation" lang="hu">H.J.F.</author>
     </authors>
     <songbooks>
@@ -14,8 +14,7 @@
       <songbook name="Hitünk énekei" entry="395"/>
     </songbooks>
     <themes>
-      <theme>Istentisztelethez</theme>
-      <theme>Megnyitó énekek</theme>
+      <theme>Istentisztelethez: Megnyitó énekek</theme>
     </themes>
   </properties>
   <lyrics>
