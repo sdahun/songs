@@ -1099,4 +1099,9 @@
 | 15. | [Megváltónk lábához leült Mária](./collections/udv_es_adventi_enekek/015.xml) |
 | 20. | [Jó minékünk keresni téged](./collections/udv_es_adventi_enekek/020.xml) |
 | 21. | [Miként a szarvas a folyóvizekre](./collections/udv_es_adventi_enekek/021.xml) |
+| 30. | [Hirdessétek hangos szóval](./collections/udv_es_adventi_enekek/030.xml) |
+| 49. | [Küldd el Atyánk Lelkedet](./collections/udv_es_adventi_enekek/049.xml) |
+| 57. | [Adjátok a szent bibliát kezembe](./collections/udv_es_adventi_enekek/057.xml) |
+| 63. | [Ím ma az egész égbolt](./collections/udv_es_adventi_enekek/063.xml) |
+| 64. | [E szent nap reggele](./collections/udv_es_adventi_enekek/064.xml) |
 

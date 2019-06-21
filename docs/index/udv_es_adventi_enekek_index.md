@@ -6,6 +6,20 @@
 | ---: | :------------------- |
 | 9 | [Úr Jézusunk óh légy velünk](../../collections/udv_es_adventi_enekek/009.xml) |
 | 15 | [Megváltónk lábához leült Mária](../../collections/udv_es_adventi_enekek/015.xml) |
+| 30 | [Hirdessétek hangos szóval](../../collections/udv_es_adventi_enekek/030.xml) |
+
+## Istentisztelethez: A Szentlélek
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 49 | [Küldd el Atyánk Lelkedet](../../collections/udv_es_adventi_enekek/049.xml) |
+
+## Istentisztelethez: A szombat
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 63 | [Ím ma az egész égbolt](../../collections/udv_es_adventi_enekek/063.xml) |
+| 64 | [E szent nap reggele](../../collections/udv_es_adventi_enekek/064.xml) |
 
 ## Istentisztelethez: Dics és hálaénekek
 
@@ -13,6 +27,18 @@
 | ---: | :------------------- |
 | 20 | [Jó minékünk keresni téged](../../collections/udv_es_adventi_enekek/020.xml) |
 | 21 | [Miként a szarvas a folyóvizekre](../../collections/udv_es_adventi_enekek/021.xml) |
+
+## Istentisztelethez: Isten igéje
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 57 | [Adjátok a szent bibliát kezembe](../../collections/udv_es_adventi_enekek/057.xml) |
+
+## Istentisztelethez: Jézus dicsőítése
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 30 | [Hirdessétek hangos szóval](../../collections/udv_es_adventi_enekek/030.xml) |
 
 ## Istentisztelethez: Megnyitó énekek
 
