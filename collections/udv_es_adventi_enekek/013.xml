@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Uram és alkotóm</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Angolból: B. G.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="13"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Megnyitó énekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram és alkotóm<br/>mindenem tőled van,<br/>dús kegyben részesül valóm<br/>most is minduntalan.<br/>Dús kegyben részesül valóm<br/>most is minduntalan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Melyet Te alkotál,<br/>éltem Te tartod fenn,<br/>mindig szeretve gondozál,<br/>s népedhez írsz engem.<br/>Mindig szeretve gondozál,<br/>s népedhez írsz engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmed erejét<br/>bennem nagy ég fakaszd,<br/>add meg Szentlelked erejét,<br/>mely ott veled maraszt.<br/>Add meg Szentlelked erejét,<br/>mely ott veled maraszt.</lines>
+    </verse>
+  </lyrics>
+</song>

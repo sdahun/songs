@@ -25,6 +25,8 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
+| 16 | [Adjunk hálát az Úrnak](../../collections/udv_es_adventi_enekek/016.xml) |
+| 17 | [Áldjad az Urat](../../collections/udv_es_adventi_enekek/017.xml) |
 | 20 | [Jó minékünk keresni téged](../../collections/udv_es_adventi_enekek/020.xml) |
 | 21 | [Miként a szarvas a folyóvizekre](../../collections/udv_es_adventi_enekek/021.xml) |
 
@@ -56,5 +58,7 @@
 | 10 | [Szent érzelem tölti keblem](../../collections/udv_es_adventi_enekek/010.xml) |
 | 11 | [Atyánk, a te gyermekeid](../../collections/udv_es_adventi_enekek/011.xml) |
 | 12 | [Hívők szent magasztos helye](../../collections/udv_es_adventi_enekek/012.xml) |
+| 13 | [Uram és alkotóm](../../collections/udv_es_adventi_enekek/013.xml) |
+| 14 | [Urunk, ím egybegyűltünk itt](../../collections/udv_es_adventi_enekek/014.xml) |
 | 15 | [Megváltónk lábához leült Mária](../../collections/udv_es_adventi_enekek/015.xml) |
 

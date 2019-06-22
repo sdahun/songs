@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adjunk hálát az Úrnak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Schulz K. Fr.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="16"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjunk hálát, hálát az Úrnak,<br/>mert ő irgalmas és örökké<br/>tart az ő jósága,<br/>tart az ő jósága,<br/>tart az ő jósága!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjük őt! Dicsérd az Urat<br/>te is, óh lelkem, el ne feledd,<br/>mi’ jót tett ő veled,<br/>mi’ jót tett ő veled,<br/>mi’ jót tett ő veled!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten erős, ő mindenható,<br/>bölcs minden tette, kegyelme<br/>minden reggel megújul,<br/>kegyelme megújul,<br/>kegyelme megújul!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Imádjuk őt, Istent imádjuk<br/>és leborulva trónja előtt<br/>tiszteljük szent nevét,<br/>tiszteljük szent nevét,<br/>tiszteljük szent nevét!</lines>
+    </verse>
+  </lyrics>
+</song>
