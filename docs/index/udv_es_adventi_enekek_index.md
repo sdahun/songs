@@ -29,6 +29,8 @@
 | 17 | [Áldjad az Urat](../../collections/udv_es_adventi_enekek/017.xml) |
 | 20 | [Jó minékünk keresni téged](../../collections/udv_es_adventi_enekek/020.xml) |
 | 21 | [Miként a szarvas a folyóvizekre](../../collections/udv_es_adventi_enekek/021.xml) |
+| 24 | [Imádjuk az Urat](../../collections/udv_es_adventi_enekek/024.xml) |
+| 25 | [Nagy Isten, mi dicsérünk](../../collections/udv_es_adventi_enekek/025.xml) |
 
 ## Istentisztelethez: Isten igéje
 
@@ -41,6 +43,9 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 30 | [Hirdessétek hangos szóval](../../collections/udv_es_adventi_enekek/030.xml) |
+| 32 | [Dicsérd az Urat](../../collections/udv_es_adventi_enekek/032.xml) |
+| 33 | [Jézus legyen a jelszó](../../collections/udv_es_adventi_enekek/033.xml) |
+| 34 | [Légy vidám, óh lelkem](../../collections/udv_es_adventi_enekek/034.xml) |
 
 ## Istentisztelethez: Megnyitó énekek
 

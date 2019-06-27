@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérd az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Bolden F. E.</author>
+      <author type="words">Dr. Herrenschmidth (-1723.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="32"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérd az Urat, dicsérd én lelkem,<br/>halálomig dicsérem Őt!<br/>Amíg itt élek, minden időben<br/>dicsérem Istent, a dicsőt.<br/>Ki testem, s lelkem alkotá,<br/>dicsértessék halleluja!<br/>Halleluja, halleluja,<br/>dicsértessék halleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fejedelmek nőtől születnek,<br/>s újra a porba hullnak le.<br/>Fényes uralmik semmivé lettek,<br/>a sírnak szája nyelte be.<br/>S mert rajtunk ember nem segít,<br/>az Úrtól kérjük a segélyt!<br/>Halleluja, halleluja,<br/>dicsértessék halleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezt a nevet, oh ember, dicsérjed,<br/>ki mívelt annyi nagy csodát.<br/>Kiáltson áment mindenik lélek,<br/>s rebegjen belső hő imát.<br/>Dicsőítsétek óh szentek,<br/>Atyát, Fiút, s a Szentlelket!<br/>Halleluja, halleluja,<br/>dicsértessék halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>
