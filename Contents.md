@@ -1101,6 +1101,8 @@
 | 15. | [Megváltónk lábához leült Mária](./collections/udv_es_adventi_enekek/015.xml) |
 | 16. | [Adjunk hálát az Úrnak](./collections/udv_es_adventi_enekek/016.xml) |
 | 17. | [Áldjad az Urat](./collections/udv_es_adventi_enekek/017.xml) |
+| 18. | [Csak zengjetek](./collections/udv_es_adventi_enekek/018.xml) |
+| 19. | [Az Úr uralg, örvendjenek!](./collections/udv_es_adventi_enekek/019.xml) |
 | 20. | [Jó minékünk keresni téged](./collections/udv_es_adventi_enekek/020.xml) |
 | 21. | [Miként a szarvas a folyóvizekre](./collections/udv_es_adventi_enekek/021.xml) |
 | 24. | [Imádjuk az Urat](./collections/udv_es_adventi_enekek/024.xml) |
