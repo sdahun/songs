@@ -59,7 +59,7 @@ $datas = [
     'udv_es_adventi_enekek' => [
         'name'     => 'Üdv- és Adventi Énekek',
         'download' => 'https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997',
-        'count'    => 471,
+        'count'    => 512,
     ],
 ];
 
