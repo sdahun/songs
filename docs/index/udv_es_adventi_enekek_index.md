@@ -13,6 +13,7 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 18 | [Csak zengjetek](../../collections/udv_es_adventi_enekek/018.xml) |
+| 27 | [Szent vagy, szent vagy, szent vagy!](../../collections/udv_es_adventi_enekek/027.xml) |
 
 ## Istentisztelethez: A Szentlélek
 
@@ -37,6 +38,8 @@
 | 19 | [Az Úr uralg, örvendjenek!](../../collections/udv_es_adventi_enekek/019.xml) |
 | 20 | [Jó minékünk keresni téged](../../collections/udv_es_adventi_enekek/020.xml) |
 | 21 | [Miként a szarvas a folyóvizekre](../../collections/udv_es_adventi_enekek/021.xml) |
+| 22 | [Zengjenek nagy Istenünknek](../../collections/udv_es_adventi_enekek/022.xml) |
+| 23 | [Az Urat áldom én](../../collections/udv_es_adventi_enekek/023.xml) |
 | 24 | [Imádjuk az Urat](../../collections/udv_es_adventi_enekek/024.xml) |
 | 25 | [Nagy Isten, mi dicsérünk](../../collections/udv_es_adventi_enekek/025.xml) |
 
@@ -45,6 +48,13 @@
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 57 | [Adjátok a szent bibliát kezembe](../../collections/udv_es_adventi_enekek/057.xml) |
+
+## Istentisztelethez: Isten imádása
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 26 | [Jehova az én hű pásztorom](../../collections/udv_es_adventi_enekek/026.xml) |
+| 27 | [Szent vagy, szent vagy, szent vagy!](../../collections/udv_es_adventi_enekek/027.xml) |
 
 ## Istentisztelethez: Jézus dicsőítése
 

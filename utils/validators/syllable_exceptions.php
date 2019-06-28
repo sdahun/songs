@@ -702,6 +702,9 @@ $linecount_exceptions = [
   
     'udv_es_adventi_enekek/016.xml;v3;2',
     'udv_es_adventi_enekek/016.xml;v3;3',
+
+    'udv_es_adventi_enekek/026.xml;v2;7',
+
   ];
   
   
