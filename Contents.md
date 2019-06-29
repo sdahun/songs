@@ -1111,10 +1111,15 @@
 | 25. | [Nagy Isten, mi dicsérünk](./collections/udv_es_adventi_enekek/025.xml) |
 | 26. | [Jehova az én hű pásztorom](./collections/udv_es_adventi_enekek/026.xml) |
 | 27. | [Szent vagy, szent vagy, szent vagy!](./collections/udv_es_adventi_enekek/027.xml) |
+| 28. | [Háláld az Urat](./collections/udv_es_adventi_enekek/028.xml) |
+| 29. | [Jézus, jöjj hozzám magad](./collections/udv_es_adventi_enekek/029.xml) |
 | 30. | [Hirdessétek hangos szóval](./collections/udv_es_adventi_enekek/030.xml) |
+| 31. | [Üdvözítőm engedd nékem](./collections/udv_es_adventi_enekek/031.xml) |
 | 32. | [Dicsérd az Urat](./collections/udv_es_adventi_enekek/032.xml) |
 | 33. | [Jézus legyen a jelszó](./collections/udv_es_adventi_enekek/033.xml) |
 | 34. | [Légy vidám, óh lelkem](./collections/udv_es_adventi_enekek/034.xml) |
+| 35. | [Jöjj Jézushoz](./collections/udv_es_adventi_enekek/035.xml) |
+| 36. | [Lelkem áldjad az Urat](./collections/udv_es_adventi_enekek/036.xml) |
 | 49. | [Küldd el Atyánk Lelkedet](./collections/udv_es_adventi_enekek/049.xml) |
 | 57. | [Adjátok a szent bibliát kezembe](./collections/udv_es_adventi_enekek/057.xml) |
 | 63. | [Ím ma az egész égbolt](./collections/udv_es_adventi_enekek/063.xml) |
