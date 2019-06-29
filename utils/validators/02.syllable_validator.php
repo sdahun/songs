@@ -54,10 +54,9 @@ foreach ($all_files as $collection_path => $collection_files) {
             if ($syllables[$i] != count($matches[0])) {
               if (!in_array( ($display_file.';'.$verse['name'].';'.($i+1)), $syllable_exceptions)) {
                 ++$invalid_count;
-                echo("  The number of syllables is different in " . $verse['name'] . ", line: " . ($i+1) . "!\n".
-                     "    File: " . $display_file . "\n".
-                     "    There are ". $syllables[$i] ." syllables in the same line of the first verse and ".
-                     count($matches[0]) ." syllables in this line.\n\n");
+                echo("  ERROR! The number of syllables is different!\n".
+                     "    File: " . $display_file . ', '. $verse['name'] . ", line: " . ($i+1) . "!\n".
+                     "    This line: " . count($matches[0]) . ', first line: ' . $syllables[$i] ."\n\n");
               }
             }
           }
