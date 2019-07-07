@@ -41,9 +41,9 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Hitünk énekei](http://adventkiado.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (477/477) |
 | [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (219/219) |
 | [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](http://progressed.io/bar/100) (40/40) |
-| [Üdv- és Adventi Énekek](https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997) | ![Feldolgozottság](http://progressed.io/bar/8) (40/512) |
+| [Üdv- és Adventi Énekek](https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997) | ![Feldolgozottság](http://progressed.io/bar/9) (45/512) |
 
-A gyűjteményben jelenleg 1065 darab ének található.
+A gyűjteményben jelenleg 1070 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:

@@ -7,6 +7,7 @@
 | 9 | [Úr Jézusunk óh légy velünk](../../collections/udv_es_adventi_enekek/009.xml) |
 | 15 | [Megváltónk lábához leült Mária](../../collections/udv_es_adventi_enekek/015.xml) |
 | 30 | [Hirdessétek hangos szóval](../../collections/udv_es_adventi_enekek/030.xml) |
+| 41 | [Üdvteli érzet Jézus enyém](../../collections/udv_es_adventi_enekek/041.xml) |
 
 ## Hozsanna
 
@@ -69,6 +70,16 @@
 | 34 | [Légy vidám, óh lelkem](../../collections/udv_es_adventi_enekek/034.xml) |
 | 35 | [Jöjj Jézushoz](../../collections/udv_es_adventi_enekek/035.xml) |
 | 36 | [Lelkem áldjad az Urat](../../collections/udv_es_adventi_enekek/036.xml) |
+| 37 | [A szeretet hatalmát áldom](../../collections/udv_es_adventi_enekek/037.xml) |
+| 38 | [Jézusomat nem hagyom](../../collections/udv_es_adventi_enekek/038.xml) |
+| 39 | [Óh, mi kedves név ez: Jézus!](../../collections/udv_es_adventi_enekek/039.xml) |
+| 40 | [Üdvözítőm, szeretlek hőn](../../collections/udv_es_adventi_enekek/040.xml) |
+
+## Istentisztelethez: Jézus dícsőítése
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 41 | [Üdvteli érzet Jézus enyém](../../collections/udv_es_adventi_enekek/041.xml) |
 
 ## Istentisztelethez: Megnyitó énekek
 

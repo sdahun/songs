@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Üdvözítőm, szeretlek hőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Gustáv - svéd herceg (1827-1852.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="40"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözítőm, szeretlek hőn, szívemből,<br/>amint Te is kezdettől engemet;<br/>s bár láttad: méltatlan vagyok Tehozzád,<br/>áldoztad értem drága éltedet,<br/>óh, üdvöm, pajzsom énnekem,<br/>vigaszom, égi részesem.<br/>Bár hűn köszönthetnélek,<br/>méltón szerethetnélek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözítőm, alázatos örömmel<br/>leborulok előtted, égi lény.<br/>Új hon felé vezesd szívem vágyait,<br/>óh, jó Atyám, tőled ezt kérem én.<br/>Szomjazom, mint a száraz föld,<br/>lényem utánad vágyva tölt<br/>égi, s üdvkelyhet ürítve<br/>lelkem, s szívem üdítve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözítőm, vezessél otthonodba,<br/>hiszen öröm egyedül nálad van;<br/>ott engedj élnem szenvedések nélkül,<br/>jelenlétedben nincsen hontalan.<br/>Erősítsd bátorságomat,<br/>őrizd zarándoklásomat;<br/>míg eljövendesz végre,<br/>jámboridnak üdvére.</lines>
+    </verse>
+  </lyrics>
+</song>
