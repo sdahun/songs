@@ -74,11 +74,6 @@
 | 38 | [Jézusomat nem hagyom](../../collections/udv_es_adventi_enekek/038.xml) |
 | 39 | [Óh, mi kedves név ez: Jézus!](../../collections/udv_es_adventi_enekek/039.xml) |
 | 40 | [Üdvözítőm, szeretlek hőn](../../collections/udv_es_adventi_enekek/040.xml) |
-
-## Istentisztelethez: Jézus dícsőítése
-
-| Ssz. | Az ének címe/kezdete |
-| ---: | :------------------- |
 | 41 | [Üdvteli érzet Jézus enyém](../../collections/udv_es_adventi_enekek/041.xml) |
 
 ## Istentisztelethez: Megnyitó énekek
