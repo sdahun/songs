@@ -73,15 +73,15 @@ $result =
 
 foreach (glob (COLLECTIONS_PATH . '/*') as $collection) {
     if (!is_dir($collection)) continue;
-  
+
     $colname = basename($collection);
     if (!isset($datas[$colname])) continue;
 
     $songcount = count (glob ($collection . '/*.xml'));
     $sumSongCount += $songcount;
-    $result .= 
+    $result .=
         '| [' . $datas[$colname]['name'] . '](' . $datas[$colname]['download'].') | '.
-        '![Feldolgozottság](http://progressed.io/bar/' . round ($songcount / $datas[$colname]['count'] * 100) .
+        '![Feldolgozottság](https://progress-bar.dev/' . round ($songcount / $datas[$colname]['count'] * 100) .
         ') (' . $songcount . '/' . $datas[$colname]['count'] . ') |' . "\n";
 }
 
