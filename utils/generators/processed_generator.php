@@ -61,6 +61,11 @@ $datas = [
         'download' => 'https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997',
         'count'    => 512,
     ],
+    'zugloi_adventista_gyulekezeti_enekeskonyv' => [
+        'name'     => 'Zuglói Adventista Gyülekezeti Énekeskönyv',
+        'download' => 'https://zuglo.adventista.hu/',
+        'count'    => 199,
+    ],
 ];
 
 $sumSongCount = 0;

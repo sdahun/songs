@@ -1130,3 +1130,9 @@
 | 63. | [Ím ma az egész égbolt](./collections/udv_es_adventi_enekek/063.xml) |
 | 64. | [E szent nap reggele](./collections/udv_es_adventi_enekek/064.xml) |
 
+## Zuglói Adventista Gyülekezeti Énekeskönyv (/zugloi_adventista_gyulekezeti_enekeskonyv)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 2. | [A jóság Urát áldom én](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
+

@@ -4,20 +4,21 @@ require('duplicate_exceptions.php');
 
 function get_collection_name ($name) {
   switch ($name) {
-    case 'Adj zengő éneket!':                return 'adj_zengo_eneket';
-    case 'Baptista gyülekezeti énekeskönyv': return 'baptista_gyulekezeti_enekeskonyv';
-    case 'Dicsérem Neved 1':                 return 'dicserem_neved_1';
-    case 'Dicsérem Neved 2':                 return 'dicserem_neved_2';
-    case 'Dicsérem Neved 3':                 return 'dicserem_neved_3';
-    case 'Dicsérem Neved 4':                 return 'dicserem_neved_4';
-    case 'Dicsérem Neved 5':                 return 'dicserem_neved_5';
-    case 'Erőm és énekem az Úr':             return 'erom_es_enekem_az_ur';
-    case 'Evangélikus énekeskönyv':          return 'evangelikus_enekeskonyv';
-    case 'Hitünk énekei':                    return 'hitunk_enekei';
-    case 'Hozsánna énekes':                  return 'hozsanna';
-    case 'Református énekeskönyv':           return 'reformatus_enekeskonyv';
-    case 'Szent az Úr':                      return 'szent_az_ur';
-    case 'Üdv- és adventi énekek':           return 'udv_es_adventi_enekek';
+    case 'Adj zengő éneket!':                         return 'adj_zengo_eneket';
+    case 'Baptista gyülekezeti énekeskönyv':          return 'baptista_gyulekezeti_enekeskonyv';
+    case 'Dicsérem Neved 1':                          return 'dicserem_neved_1';
+    case 'Dicsérem Neved 2':                          return 'dicserem_neved_2';
+    case 'Dicsérem Neved 3':                          return 'dicserem_neved_3';
+    case 'Dicsérem Neved 4':                          return 'dicserem_neved_4';
+    case 'Dicsérem Neved 5':                          return 'dicserem_neved_5';
+    case 'Erőm és énekem az Úr':                      return 'erom_es_enekem_az_ur';
+    case 'Evangélikus énekeskönyv':                   return 'evangelikus_enekeskonyv';
+    case 'Hitünk énekei':                             return 'hitunk_enekei';
+    case 'Hozsánna énekes':                           return 'hozsanna';
+    case 'Református énekeskönyv':                    return 'reformatus_enekeskonyv';
+    case 'Szent az Úr':                               return 'szent_az_ur';
+    case 'Üdv- és adventi énekek':                    return 'udv_es_adventi_enekek';
+    case 'Zuglói Adventista Gyülekezeti Énekeskönyv': return 'zugloi_adventista_gyulekezeti_enekeskonyv';
   }
   echo('Unknown book! '.$name."\n");
   exit;
