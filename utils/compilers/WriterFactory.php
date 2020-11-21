@@ -11,6 +11,7 @@ class WriterFactory {
             case 4: return new \sdahun\songs\writer\EasyWorshipWriter ($prefs);
             case 5: return new \sdahun\songs\writer\PowerPointWriter ($prefs);
             case 6: return new \sdahun\songs\writer\TextWriter ($prefs);
+            case 7: return new \sdahun\songs\writer\SongBookWriter ($prefs);
             default: throw new \Exception('Writer format not found for '. $formatId . '!');
         }
     }

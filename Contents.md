@@ -1134,5 +1134,7 @@
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
+| 1. | [A csillagokban látom](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/001.xml) |
 | 2. | [A jóság Urát áldom én](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
+| 3. | [A mélységből halld meg, Uram!](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/003.xml) |
 
