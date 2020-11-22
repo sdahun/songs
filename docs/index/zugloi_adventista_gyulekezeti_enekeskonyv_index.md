@@ -72,6 +72,12 @@
 | ---: | :------------------- |
 | 2 | [A jóság Urát áldom én](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
 
+## Közösség
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 8 | [A Te nevedben mi együtt vagyunk](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/008.xml) |
+
 ## Oltalom
 
 | Ssz. | Az ének címe/kezdete |

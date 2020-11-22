@@ -1137,4 +1137,10 @@
 | 1. | [A csillagokban látom](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/001.xml) |
 | 2. | [A jóság Urát áldom én](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
 | 3. | [A mélységből halld meg, Uram!](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/003.xml) |
+| 4. | [A mennyben fenn a trónusnál](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/004.xml) |
+| 5. | [A napfelkeltétől](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/005.xml) |
+| 6. | [A reményem csak Te vagy](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/006.xml) |
+| 7. | [A Te hűséged az egekig ér](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/007.xml) |
+| 8. | [A Te nevedben mi együtt vagyunk](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/008.xml) |
+| 9. | [Adjátok a szent bibliát kezembe](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/009.xml) |
 

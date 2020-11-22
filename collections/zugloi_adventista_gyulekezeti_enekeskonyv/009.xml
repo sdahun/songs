@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
   <properties>
     <titles>
       <title>Adjátok a szent bibliát kezembe</title>
     </titles>
     <verseOrder>v1 v2 v3 v4</verseOrder>
-    <authors>
-      <author type="music">Belden F. E.</author>
-    </authors>
     <songbooks>
-      <songbook name="Üdv- és adventi énekek" entry="57"/>
-      <songbook name="Hitünk énekei" entry="403"/>
       <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="9"/>
+      <songbook name="Hitünk énekei" entry="403"/>
+      <songbook name="Üdv- és adventi énekek" entry="57"/>
     </songbooks>
-    <themes>
-      <theme>Istentisztelethez: Isten igéje</theme>
-    </themes>
   </properties>
   <lyrics>
     <verse name="v1">

@@ -6,10 +6,10 @@
     </titles>
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="8"/>
       <songbook name="Erőm és énekem az Úr" entry="12"/>
       <songbook name="Hozsánna énekes" entry="11"/>
       <songbook name="Szent az Úr" entry="3"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="8"/>
     </songbooks>
     <themes>
       <theme>Közösség</theme>

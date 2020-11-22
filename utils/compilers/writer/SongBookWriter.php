@@ -160,7 +160,9 @@ class SongBookWriter extends AbstractWriter {
     
             if (isset($xml->properties->authors))
             foreach ($xml->properties->authors->author as $authorObj) {
-                if ($authorObj['type']->__toString() == 'words')
+                $authorType = $authorObj['type']->__toString();
+
+                if ($authorType == 'words' || $authorType == 'translation')
                     $this->txt_section->addText(
                         $authorObj->__toString(),
                         $this->style['font']['italic'],
