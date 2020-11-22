@@ -9,6 +9,7 @@
        "ext-mbstring": "*",
        "ext-openssl": "*",
        "ext-zip": "*",
+       "phpoffice/phpword": "dev-master",
        "phpoffice/phppresentation": "dev-master"
     }
 }

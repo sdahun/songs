@@ -59,14 +59,13 @@ class Compiler {
         $this->prefs->set('song_linebreak',
             $this->choice(++$question_nr . '.) Az énekszöveg soronként legyen tördelve?', true));
 
-        if ($this->prefs->get('song_linebreak')) {
-            $this->prefs->set('song_ucfirst',
-                $this->choice(++$question_nr . '.) A sorok első betűje legyen nagybetűs?', false));
-        }
-        else {
+        if (!$this->prefs->get('song_linebreak')) {
             $this->prefs->set('song_separator',
                 $this->choice(++$question_nr . '.) A sorok legyenek perjellel (/) elválasztva?', false));
         }
+
+        $this->prefs->set('song_ucfirst',
+            $this->choice(++$question_nr . '.) A sorok első betűje legyen nagybetűs?', false));
 
         $this->prefs->set('song_repeat_verses',
             $this->choice(++$question_nr . '.) Az ismétlődő diák (refrén) ismétlődjenek?', false));

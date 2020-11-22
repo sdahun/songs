@@ -59,13 +59,15 @@ class XmlConfigurator {
 
             $lines = explode('<br/>', $verses[$verse]);
 
+            if ($prefs->get('song_ucfirst')) {
+                array_walk($lines, 
+                    function (&$item, $key) {
+                        $item = mb_convert_case(mb_substr ($item, 0, 1), MB_CASE_UPPER) . mb_substr($item, 1);
+                    }
+                );
+            }
+
             if ($prefs->get('song_linebreak')) {
-                if ($prefs->get('song_ucfirst'))
-                    array_walk($lines, 
-                        function (&$item, $key) {
-                            $item = mb_convert_case(mb_substr ($item, 0, 1), MB_CASE_UPPER) . mb_substr($item, 1);
-                        }
-                    );
                 $lyricsXml .= implode('<br/>', $lines);
             }
             else {
