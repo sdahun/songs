@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az élet hajnalán</title>
+      <title>So You Would Come</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 c1 c1 e1</verseOrder>
+    <ccliNo>2109042</ccliNo>
+    <authors>
+      <author type="music">Russel Fragar</author>
+      <author type="words">Russel Fragar</author>
+      <author type="translation" lang="hu">Batta Katalin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet hajnalán, már gondolt rád Atyád.<br/>Õ tudja jól, ha sírsz, hát ne szégyelld, ha fáj!<br/>Mert úgy szeretett Isten, hogy Egyszülött Fiát<br/>érted áldozta, jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmit sem tehetsz, hogy jobban szeressen<br/>és bármit is tettél, ne félj, Õ nem küld el!<br/>Mert úgy szeretett Isten, hogy Egyszülött Fiát<br/>érted áldozta, jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj ma Atyádhoz, bárhogyan is állsz,<br/>összetört életed add neki ma át.<br/>A halál óráján így szólt a Golgotán:<br/>Elvégeztetett, jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A halál óráján így szólt a Golgotán:<br/>Elvégeztetett, jöjj ma hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

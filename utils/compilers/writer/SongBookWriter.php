@@ -129,7 +129,7 @@ class SongBookWriter extends AbstractWriter {
             $xml = new SimpleXmlElement(XmlConfigurator::configure (file_get_contents ($xml_path), $this->prefs));
 
             $title = $xml->properties->titles->title[0]->__toString();
-            $bookmark = 'B' . sprintf('%03d', $this->file_counter);
+            $bookmark = 'Z' . sprintf('%03d', $this->file_counter);
 
             $this->toc_section->addLink(
                 $bookmark,

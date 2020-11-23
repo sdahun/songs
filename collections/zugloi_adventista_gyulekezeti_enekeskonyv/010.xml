@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldjad én lelkem az Urat</title>
+    </titles>
+    <verseOrder>v1 r1 v2 r1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad én lelkem az Urat,<br/>áldjad és magasztald Őt!<br/>Dicsérje Őt zengő ének,<br/>hálaének! Minden szív áldja Őt!</lines>
+    </verse>
+    <verse name="r1">
+      <lines>Hirdessük nevét és nagy kegyelmét!<br/>Sok jót tett érettünk Ő!<br/>Szálljon a hála és tisztelet Néki!<br/>Minden szív áldja csak Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eljöttünk oltárod elé,<br/>dicsérni Téged, Urunk.<br/>Felséges jóvoltod vezet,<br/>minden úton. Ezért mi dicsérünk.</lines>
+    </verse>
+  </lyrics>
+</song>

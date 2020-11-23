@@ -1143,4 +1143,15 @@
 | 7. | [A Te hűséged az egekig ér](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/007.xml) |
 | 8. | [A Te nevedben mi együtt vagyunk](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/008.xml) |
 | 9. | [Adjátok a szent bibliát kezembe](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/009.xml) |
+| 10. | [Áldjad én lelkem az Urat](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/010.xml) |
+| 11. | [Áldjad lelkem az Urat](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/011.xml) |
+| 12. | [Áldjon meg téged](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/012.xml) |
+| 13. | [Áldom szent neved](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/013.xml) |
+| 14. | [Áldott légy, Istenem](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/014.xml) |
+| 15. | [Áldott reménység](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/015.xml) |
+| 16. | [Álmodjék rólad a szívünk](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/016.xml) |
+| 17. | [Álmokat kergettél](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/017.xml) |
+| 18. | [Áraszd ma ránk fényedet!](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/018.xml) |
+| 14. | [Atyám, két kezedben](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/019.xml) |
+| 20. | [Az élet hajnalán](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/020.xml) |
 

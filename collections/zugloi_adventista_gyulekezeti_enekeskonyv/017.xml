@@ -6,8 +6,8 @@
     </titles>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
-      <songbook name="Hozsánna énekes" entry="21"/>
       <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="17"/>
+      <songbook name="Hozsánna énekes" entry="21"/>
     </songbooks>
   </properties>
   <lyrics>

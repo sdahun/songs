@@ -715,6 +715,13 @@ $linecount_exceptions = [
     'zugloi_adventista_gyulekezeti_enekeskonyv/001.xml;v2;1',
     'zugloi_adventista_gyulekezeti_enekeskonyv/001.xml;v2;3',
 
+    'zugloi_adventista_gyulekezeti_enekeskonyv/013.xml;v2;3',
+
+    'zugloi_adventista_gyulekezeti_enekeskonyv/017.xml;v2;1',
+    'zugloi_adventista_gyulekezeti_enekeskonyv/017.xml;v2;3',
+
+    'zugloi_adventista_gyulekezeti_enekeskonyv/020.xml;v2;1',
+
   ];
   
   

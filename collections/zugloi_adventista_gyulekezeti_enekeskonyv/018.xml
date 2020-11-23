@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áraszd ma ránk fényedet!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+    <authors>
+      <author type="music">Michael W. Smith és Deborah D. Smith</author>
+      <author type="words">Michael W. Smith és Deborah D. Smith</author>
+      <author type="translation" lang="hu">Erdei Béla fordítása</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áraszd ma ránk, Urunk, fényedet, süssön napsugár!<br/>Áraszd ma ránk, Urunk, fényedet, süssön napsugár!<br/>Így van életünk és mennybe megyünk,<br/>Sötétben az útra így lelünk.<br/>Fényedet áraszd ma reánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áraszd ma ránk, Urunk, szent kegyed, töltsön minket el!<br/>Áraszd ma ránk, Urunk, szent kegyed, töltsön minket el!<br/>Így van életünk és mennybe megyünk,<br/>Sötétben az útra így lelünk.<br/>szent kegyed töltsön minket el!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szereteted, Urunk, áraszd ránk, töltsön minket el!<br/>Szereteted, Urunk, áraszd ránk, töltsön minket el!<br/>Így van életünk és mennybe megyünk,<br/>Sötétben az útra így lelünk.<br/>Szerelmed áraszd ma reánk!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szerelmed áraszd ma reánk!<br/>Ámen, Ámen, Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>
