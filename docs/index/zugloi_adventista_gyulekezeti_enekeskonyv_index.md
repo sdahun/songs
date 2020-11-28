@@ -1,4 +1,4 @@
-# Zuglói Adventista Gyülekezeti Énekeskönyv - Tárgymutató
+# Dicsérem Neved 2 - Tárgymutató
 
 ## Az Atya Isten dicsérete
 
@@ -12,11 +12,23 @@
 | ---: | :------------------- |
 | 2 | [A jóság Urát áldom én](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
 
+## Bizonyságtétel és megvallás
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 25 | [Az Úr van itt](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/025.xml) |
+
 ## Békesség
 
 | Ssz. | Az ének címe/kezdete |
 | ---: | :------------------- |
 | 2 | [A jóság Urát áldom én](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/002.xml) |
+
+## Evangelizáció
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 25 | [Az Úr van itt](../../collections/zugloi_adventista_gyulekezeti_enekeskonyv/025.xml) |
 
 ## Gondviselés
 

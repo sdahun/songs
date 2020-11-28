@@ -2,11 +2,12 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
   <properties>
     <titles>
+      <title>Az Úr irgalma végtelen</title>
       <title>Láncom lehullt</title>
       <title>Amazing Grace</title>
       <title>My Chains Are Gone</title>
     </titles>
-    <verseOrder>v1 v2 c1 v3 c1 v4 c1 c1 e1 v5</verseOrder>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 c1 e1</verseOrder>
     <authors>
       <author type="music">Chris Tomlin</author>
       <author type="music">(régi angol dallam)</author>
@@ -14,11 +15,11 @@
       <author type="words">Chris Tomlin</author>
     </authors>
     <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="23"/>
       <songbook name="Adj zengő éneket!" entry="77"/>
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>
       <songbook name="Dicsérem Neved 2" entry="18"/>
       <songbook name="Hozsánna énekes" entry="31"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="23"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -39,9 +40,6 @@
     </verse>
     <verse name="e1">
       <lines>Az Úr irgalma oly végtelen!</lines>
-    </verse>
-    <verse name="v5" lang="en">
-      <lines>Amazing grace! How sweet the sound,<br/>that saved a wretch like me!<br/>I once was lost, but now am found,<br/>was blind but now I see.</lines>
     </verse>
   </lyrics>
 </song>

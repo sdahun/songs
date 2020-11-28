@@ -1154,4 +1154,9 @@
 | 18. | [Áraszd ma ránk fényedet!](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/018.xml) |
 | 14. | [Atyám, két kezedben](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/019.xml) |
 | 20. | [Az élet hajnalán](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/020.xml) |
+| 21. | [Az első örömhírt](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/021.xml) |
+| 22. | [Az Úr a pásztorom](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/022.xml) |
+| 23. | [Az Úr irgalma végtelen](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/023.xml) |
+| 24. | [Az Úr jósága](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/024.xml) |
+| 20. | [Az Úr van itt](./collections/zugloi_adventista_gyulekezeti_enekeskonyv/025.xml) |
 
