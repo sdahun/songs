@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott légy, Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Kóczé József</author>
+      <author type="words">Kóczé József</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="14"/>
+      <songbook name="Adj zengő éneket!" entry="12"/>
+      <songbook name="Dicsérem Neved 1" entry="5"/>
+      <songbook name="Hozsánna énekes" entry="19"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott légy, Istenem, köszönöm Neked!<br/>Megtartod életem, köszönöm Neked!<br/>Köszönöm a Golgotát, a szent Fiad halálát!<br/>Köszönöm Neked, köszönöm Neked!<br/>Áldott légy, Istenem, köszönöm Neked!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott légy, Istenem, köszönöm Neked!<br/>Megtartod életem, köszönöm Neked!<br/>Köszönöm a szent tüzet, a ragyogó keresztet!<br/>Köszönöm Neked, köszönöm Neked!<br/>Áldott légy, Istenem, köszönöm Neked!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott légy, Istenem, köszönöm Neked!<br/>Megtartod életem, köszönöm Neked!<br/>Köszönöm az életem, mindennapi kenyerem!<br/>Köszönöm Neked, köszönöm Neked!<br/>Áldott légy, Istenem, köszönöm Neked!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott légy, Istenem, köszönöm Neked!<br/>Megtartod életem, köszönöm Neked!<br/>Köszönöm az éjszakát, a ragyogó holdsugárt!<br/>Köszönöm Neked, köszönöm Neked!<br/>Áldott légy, Istenem, köszönöm Neked!</lines>
+    </verse>
+  </lyrics>
+</song>

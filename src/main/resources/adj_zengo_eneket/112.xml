@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Rád bízom</title>
+    </titles>
+    <verseOrder>v1 v1 b1 v1 v2 v2 b2 v2 v3 v3 b3 v3</verseOrder>
+    <authors>
+      <author type="music">Vándor Gyula</author>
+      <author type="words">Vándor Gyula</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="112"/>
+      <songbook name="Hozsánna énekes" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rád bízom, Rád bízom a nehéz napokat Rád bízom.<br/>Rád bízom, Rád bízom a fényes napokat is.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sorsom legyen a Te kezedben,<br/>biztos helye van a féltő szívedben,<br/>ezért hát:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem félek, nem félek, ha volna mitől is, nem félek.<br/>Nem félek, nem félek, de kérem az erődet.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Támaszt keresek az erődben,<br/>vigaszt a szomorú, nehéz időkben,<br/>ha lesznek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reménység, reménység, a holnap felől is reménység.<br/>Reménység, reménység, megtart, ha jön a kétség.</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Fény lesz ott, ahol ma sötétség,<br/>élet ott, ahol ma reménytelenség,<br/>ezért hát:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A reményem csak Te vagy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="8"/>
+      <songbook name="Hozsánna énekes" entry="8"/>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>Dicséret és imádat</theme>
+      <theme>Zsolt 71,5</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A reményem csak Te vagy.<br/>Jézus, a reményem csak Te vagy!<br/>Korán reggel és késő éjjel<br/>a reményem csak Te vagy.</lines>
+    </verse>
+  </lyrics>
+</song>

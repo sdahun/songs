@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent Isten, noha néked</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Batthyány-kódex; Debrecen, 1774.</author>
+      <author type="words">Földvári József (1766-1830.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="323"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - igehirdetés előtt</theme>
+      <theme>Alázatosság</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten segítségül hívása</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Isten, noha néked<br/>az egek ülő széked,<br/>ott dicsérnek tégedet;<br/>bíztat szent ígéreted,<br/>hogy azért meg nem veted<br/>földön lakó népedet.<br/>Együtt vagy vélek,<br/>kikben alázatos a lélek.<br/>Mi is hát térdet hajtunk,<br/>hogy rajtunk<br/>könyörülj s kegyelmeddel<br/>fogadd el,<br/>mikor tehozzád emel kezet<br/>ez a gyülekezet.</lines>
+    </verse>
+  </lyrics>
+</song>

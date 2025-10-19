@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérd, dicsérd</title>
+    </titles>
+    <copyright>© 1984 New Spring</copyright>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <ccliNo>15812</ccliNo>
+    <authors>
+      <author type="music">Twila Paris</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="35"/>
+    </songbooks>
+    <themes>
+      <theme>Buzdítás dicséretre</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Dicsérd, dicsérd,<br/>dicsérd az Urat,<br/>dicsérd, dicsérd,<br/>mert Ő irgalmas!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>És ő jó,<br/>hódolatra méltó,<br/>ha Hozzá fordulsz,<br/>nem vet el,<br/>erős karja felemel.<br/>Halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

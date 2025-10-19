@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elmegyek szívesen, Jézus, veled</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Sullivan Arthur, 1872. (1842-1900.)</author>
+      <author type="words">Ogden W. A.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="204"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Szolgálat</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elmegyek szívesen,<br/>Jézus, veled.<br/>Boldogan építem<br/>Szent művedet.<br/>Bár méltó nem vagyok,<br/>most mindent elhagyok,<br/>mert győzni akarok,<br/>Jézus veled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent műved építem,<br/>Jézus, veled,<br/>és vígan hirdetem<br/>Szent igédet.<br/>Ím hozzád vezetek<br/>bűnterhes szíveket,<br/>és mentek lelkeket,<br/>Jézus, veled.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én el nem lankadok,<br/>Jézus, veled;<br/>te régen hordozod<br/>a terhemet.<br/>Oly öröm énnekem,<br/>mert olyan végtelen,<br/>s hogy vár a kegyelem,<br/>Jézus, veled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hadd járjak szüntelen,<br/>Jézus veled,<br/>míg végül elnyerem<br/>az üdvömet.<br/>Ha jössz majd dicsfényben,<br/>és meglát minden szem,<br/>hadd legyek a mennyben,<br/>Jézus veled.</lines>
+    </verse>
+  </lyrics>
+</song>

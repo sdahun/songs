@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hozzád kiáltok, én Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Genf, 1562.</author>
+      <author type="words">Losontzi István (1709-1780.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="197"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten törvénye</theme>
+      <theme>Lelki harc</theme>
+      <theme>Szív</theme>
+      <theme>Tanítás</theme>
+      <theme>Új élet</theme>
+      <theme>Újjászületés</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád kiáltok, én Istenem,<br/>mert érzem, mily gyarló vagyok,<br/>ellenségim sokak s nagyok,<br/>az ó-ember harcol ellenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szerez lelkemnek sokféle bajt,<br/>mivel erősebb nálamnál,<br/>lakozik szintén házamnál;<br/>ha meg nem szánsz, jaj, tőribe hajt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öldököld meg, Uram, én bennem<br/>ez ó-embert, hogy meghaljon,<br/>maga pártjára ne vonjon:<br/>ne kelljen igáját felvennem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Küldd el hozzám áldott Lelkedet,<br/>ki által bánja, gyűlölje<br/>szívem a bűnt, sőt megölje,<br/>mely megbántotta Felségedet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Támaszd fel, Uram, valójában<br/>az új embert én szívemben;<br/>hadd nyugodjék kebelemben,<br/>s örüljek az Úr jóvoltában.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Az igazságnak tudománya<br/>járásomban vezéreljen,<br/>hogy lelkem, testem úgy éljen,<br/>mint szent akaratod kívánja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Taníts meg te szent törvényedből,<br/>Felségedet mint tiszteljem,<br/>máshoz magam mint viseljem,<br/>hogy ki ne essem szerelmedből.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kész leszek, Uram, ím fogadom:<br/>szent törvényed szerint élek,<br/>járok, kelek, fekszem vélek:<br/>zálogul szívem néked adom.</lines>
+    </verse>
+  </lyrics>
+</song>

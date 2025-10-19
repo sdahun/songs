@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Rád tekint már hitem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Mason Lowell, 1832. (1792-1872.)</author>
+      <author type="words">Palmer Ray, 1830. (1808-1887.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="191"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Félelem</theme>
+      <theme>Hit</theme>
+      <theme>Ima</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megtartás</theme>
+      <theme>Megtérés</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szenvedés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rád tekint már hitem,<br/>Megváltóm, Istenem,<br/>a Golgotán:<br/>halld könyörgésemet,<br/>és vedd el vétkemet;<br/>mostantól hadd legyek<br/>tied csupán!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívemet töltse be<br/>kegyelmed ereje<br/>buzgósággal!<br/>Meghaltál érettem:<br/>add: szívem s életem<br/>teérted éghessen<br/>forró lánggal!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha elfog utamon<br/>félelem s fájdalom,<br/>fogd kezemet!<br/>Derítsd fel éjemet,<br/>szárítsd fel könnyemet:<br/>tévelygésben ne hagyd<br/>én lelkemet!</lines>
+    </verse>
+  </lyrics>
+</song>

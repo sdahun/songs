@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Légy velem, Jézus, alkony idején</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Monk William, 1861. (1823-1889.)</author>
+      <author type="words">Lyte Henry, 1847. (1793-1847.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="381"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - este</theme>
+      <theme>Este</theme>
+      <theme>Mulandóság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy velem, Jézus, alkony idején,<br/>jön már az éjjel, egyre fogy a fény!<br/>És mikor érzem, mindenki elhagy,<br/>új erőt nyújt az, hogy te vélem vagy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak röpke szellő ez a földi lét,<br/>gond veszi át a vidám zaj helyét.<br/>Csak pusztulást és romlást lát szemem,<br/>változhatatlan Jézus, légy velem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nélküled, Jézus, én nem élhetek,<br/>hogy győzném le a kísértéseket?<br/>Kísérsz te engem, fogván a kezem,<br/>napfényben, sötétben te jársz velem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent karod védi gyönge lelkemet,<br/>könnyemet törli gyógyító kezed.<br/>Nem árthat nékem bűn és sírverem,<br/>győzök, ha mindvégig fogod kezem.</lines>
+    </verse>
+  </lyrics>
+</song>

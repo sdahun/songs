@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézus, Megváltóm</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="210"/>
+      <songbook name="Adj zengő éneket!" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, Megváltóm,<br/>nincs senki olyan, mint Te!<br/>Minden napon magasztalom<br/>a Te szereteted nagy voltát.<br/>Vigaszom, oltalmam,<br/>menedékem, váram,<br/>ami vagyok, egész valóm<br/>Téged szomjaz, Téged áld!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiálts az Úrnak, te föld, énekelj!<br/>Adj dicsőséget a Felségesnek!<br/>Hegyek hódoljatok, zúgj tenger<br/>a mi Urunk nagy nevének!<br/>Éneklem hűséged és kegyelmed,<br/>örökké szeretlek, én Istenem.<br/>Semmi sem ér fel a Te jelenléteddel!</lines>
+    </verse>
+  </lyrics>
+</song>

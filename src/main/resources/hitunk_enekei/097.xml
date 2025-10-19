@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szeretet, ki teremtettél</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Meiningen, 1693.</author>
+      <author type="words">Scheffler Johann, 1657. (1624-1677.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="97"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten élete és munkája</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Megváltás</theme>
+      <theme>Teremtés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretet, ki teremtettél,<br/>képmásodra formáltál;<br/>szeretet, ki felemeltél,<br/>s engem bűnöst megtartál:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretet, te kiválasztál,<br/>üdvre hívtál engemet;<br/>szeretet, míg földön jártál,<br/>felöltötted testemet:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretet, te kínt szenvedtél,<br/>s keresztfádon meghaltál;<br/>szeretet, te értem küzdtél,<br/>üdvösséget te adtál:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretet, te igazság vagy,<br/>áldás, erő s hatalom;<br/>szeretet, te irgalmaddal<br/>üdvösség vagy s oltalom:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szeretet, te lelkem, testem<br/>szent igádhoz kötözted;<br/>szeretet, hogy üdvöt nyerjek<br/>szívem terhét felvetted:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeretet, te vigyáztál rám,<br/>mindig óvtad szívemet;<br/>szeretet, te megváltottál,<br/>védelmeztél engemet:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szeretet, ki föld porából<br/>felkeltesz majd engemet;<br/>szeretet, ha harsona szól,<br/>üdvözíted hívedet:<br/>szeretet, ó! hadd legyek<br/>mindörökké a tied!</lines>
+    </verse>
+  </lyrics>
+</song>

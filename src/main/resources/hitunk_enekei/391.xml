@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Minden ember csak halandó</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Weimar, 1681.</author>
+      <author type="words">Rosenmüller Johann, 1652. (1620-1684.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="391"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - temetés</theme>
+      <theme>Halál</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Mulandóság</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden ember csak halandó,<br/>minden test, mint fű, virág;<br/>itt ami van, mind romlandó,<br/>és elmúlik e világ.<br/>Porrá kell e testnek lenni,<br/>hogyha el akarja venni<br/>az örök dicsőséget,<br/>melyet Isten készített.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Azért e testi életem,<br/>ha jön a sír éjjele,<br/>bátran s örömmel letészem,<br/>semmit sem vesztek vele;<br/>mert a Krisztus drága vére<br/>utat nyit egy dicsőbb létre;<br/>a halálban biztatóm<br/>Jézus, az én Megváltóm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Égi város, Jeruzsálem,<br/>ó! mint fénylik, tündöklik,<br/>templomának mély csendjében<br/>örömének hallatszik.<br/>Mennyi szépség, mennyi öröm,<br/>új nap virrad majd a földön:<br/>üdvöt hozó drága nap,<br/>melyre nem jön alkonyat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boldog, lelki látomásban<br/>láttam ezt a szép napot;<br/>nemsokára üdvruhámban<br/>Uram előtt állhatok.<br/>Koronát ad Jézus nékem,<br/>üdvösség lesz ott a részem,<br/>örök béke vár reám<br/>Üdvözítőm oldalán.</lines>
+    </verse>
+  </lyrics>
+</song>

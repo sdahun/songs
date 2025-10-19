@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én lelkem zengj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én lelkem zengj szép zsoltárt,<br/>mondj buzgón háladalt;<br/>az Úrnak építs oltárt,<br/>ki őrző karján tart!<br/>Nagy felség örök Isten,<br/>kit minden lény imád,<br/>csak Téged áld a szívem,<br/>vedd hát hódolatát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily boldog az ki vallja<br/>a Jákób Istenét,<br/>az Ő kezére hagyja<br/>a teljes életét,<br/>mert ki az Úrban bízik,<br/>az meg nem szégyenül:<br/>az Úr megőrzi mindig,<br/>nem hagyja egyedül.</lines>
+    </verse>
+  </lyrics>
+</song>

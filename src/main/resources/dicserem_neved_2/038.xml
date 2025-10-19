@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérjétek az Urat</title>
+    </titles>
+    <verseOrder>v1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="38"/>
+    </songbooks>
+    <themes>
+      <theme>Buzdítás dicséretre</theme>
+      <theme>Zsolt 105,1-4</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjétek az Urat,<br/>hívjátok segítségül szent nevét,<br/>hirdessétek a népek közt<br/>hatalmas tetteit!<br/>Énekeljetek Néki,<br/>ajkatokon zengjen a dicséret,<br/>beszéljetek mindenhol<br/>az Ő csodadolgairól.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsérjétek az Ő szent nevét,<br/>örüljön szívetek,<br/>kik keresitek az Urat!<br/>Hát kívánjátok Őt,<br/>s az Ő hatalmas erejét,<br/>arcának szüntelen jelenlétét!</lines>
+    </verse>
+  </lyrics>
+</song>

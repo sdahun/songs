@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nincs maradandó városunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Ismeretlen szerző.</author>
+      <author type="words">Kelly Thomas (1769-1854.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="148"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten örök uralma</theme>
+      <theme>Isten országa</theme>
+      <theme>Mulandóság</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincs maradandó városunk<br/>a földön, ahol lakozunk;<br/>de szívünk, lelkünk boldog már,<br/>mert örökségünk készen vár,<br/>mert örökségünk készen vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs maradandó városunk;<br/>az égi honba vágyódunk,<br/>mert Sionban nincs elmúlás,<br/>csak fény van ott és ragyogás,<br/>csak fény van ott és ragyogás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! édes, égi örök hon!<br/>Te áldott békés otthonom;<br/>a vágyak szárnyán Istenem,<br/>a szívem hozzád emelem,<br/>a szívem hozzád emelem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak várj én szívem, csitulj el;<br/>a boldog nap még nem jött el,<br/>csak tegyed azt, mit Isten mond;<br/>s az újföldön lesz otthonod,<br/>s az újföldön lesz otthonod.</lines>
+    </verse>
+  </lyrics>
+</song>

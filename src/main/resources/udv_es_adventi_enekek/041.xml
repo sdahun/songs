@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Üdvteli érzet Jézus enyém</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Knapp József</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="41"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+      <theme>Evangéliumi karénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvteli érzet, Jézus enyém!<br/>Ezen felette örvendek én.<br/>A dicső mennynek örököse,<br/>s az üdvösségnek egy részese!<br/>Örökre zengem ez éneket:<br/>Jézusban bírom az üdvömet!<br/>Örvendve zengem: Jézus enyém!<br/>Jézust dicsérem örökre én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örömmel teljes odaadás,<br/>üdvözítőmbe beolvadás.<br/>Isteni béke lakja szívem,<br/>az Ő törvénye én örömem.<br/>Örökre zengem ez éneket:<br/>Jézusban bírom az üdvömet!<br/>Örvendve zengem: Jézus enyém!<br/>Jézust dicsérem örökre én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvteli béke, szent nyugalom,<br/>Jézus ölében megnyughatom.<br/>Ezt tudni oly jó, ezt tudom én,<br/>Jézusé lettem, Jézus enyém!<br/>Örökre zengem ez éneket:<br/>Jézusban bírom az üdvömet!<br/>Örvendve zengem: Jézus enyém!<br/>Jézust dicsérem örökre én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő békességem s boldogságom,<br/>ő lett az én leghűbb barátom!<br/>Ki iránt hálámat lerovom,<br/>midőn szívemet neki adom.<br/>Örökre zengem ez éneket:<br/>Jézusban bírom az üdvömet!<br/>Örvendve zengem: Jézus enyém!<br/>Jézust dicsérem örökre én.</lines>
+    </verse>
+  </lyrics>
+</song>

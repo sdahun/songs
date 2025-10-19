@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr éjfélkor jönni fog</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="416"/>
+      <songbook name="Üdv- és adventi énekek" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr éjfélkor jönni fog,<br/>most csendes minden még;<br/>boldog, kit ébren lelni fog,<br/>s eléje készen lép.<br/>Óh e világ oly szörnyű vak,<br/>alszik oly gondtalan.<br/>Azt véli, hogy a végső nap<br/>még jóval távol van.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fontjával ki nyerészkedik?<br/>Amíg tart ideje,<br/>hogy majdan nyereségeit<br/>Jézus elé tegye.<br/>Hogy bizton senki se legyen,<br/>egymást intsétek ám,<br/>serkentve mindig melegen:<br/>„Légy éber, hű, vidám!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Virraszt tehát elmém, szívem,<br/>és ne aludj tovább;<br/>jövetelére nézz híven,<br/>el ne szalaszt a „mát”.<br/>A bosszú napja közeleg,<br/>ítélni jő az Úr!<br/>Éleszd lelkem figyelmedet,<br/>küzdj lankadatlanul!</lines>
+    </verse>
+  </lyrics>
+</song>

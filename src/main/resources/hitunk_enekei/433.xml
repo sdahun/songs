@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mondjátok, meghalt-e az Úr</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="433"/>
+      <songbook name="Üdv- és adventi énekek" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondjátok, meghalt-e az Úr<br/>én értem is a fán?<br/>Ontott-e vért ily bűnösért,<br/>mint én, a golgotán?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus értem halt!<br/>Jézus értem halt!<br/>Mindenkiért meghalt az Úr,<br/>énértem is tehát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igaz, hogy Jézus szenvedett<br/>az én sok bűnömért?<br/>Óh mily csodás nagy irgalom,<br/>mely azzal engem ért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím átadom magam Uram,<br/>ahogy vagyok, neked!<br/>Te gyógyítsd meg a szívemet,<br/>vegyed Jézus, vegyed!</lines>
+    </verse>
+  </lyrics>
+</song>

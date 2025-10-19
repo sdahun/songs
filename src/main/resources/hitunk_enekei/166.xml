@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ne szállj perbe énvelem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Pécselyi Király Imre, 1620. (-1641.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="166"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Doxologia</theme>
+      <theme>Eredendő bűn</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megigazulás</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szív</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne szállj perbe énvelem,<br/>ó! én édes Istenem!<br/>Mert meg nem igazul teelőtted lelkem:<br/>elkárhoztathatsz engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert én anyám méhében<br/>fogantattam vétekben,<br/>e világra lettem eredendő bűnben,<br/>kárhozatos esetben.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Néked bűnöm megvallom,<br/>mert én azzal tartozom;<br/>te bocsáthatod meg, bizonnyal jól tudom:<br/>segítségedet várom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Sátánnak kezéből,<br/>bűneimnek tőréből,<br/>ments ki megérdemlett nagy veszedelmemből:<br/>tekints reám az égből!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Én fertelmességemet<br/>és oly nagy sok vétkemet,<br/>mikkel megfertőztem undokul lelkemet,<br/>rútítottam testemet:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bocsásd meg, ó! Úr Isten!<br/>Ó! áldott Atya Isten!<br/>Kegyelemmel bőves, irgalmas jó Isten!<br/>Nagy türelmű szent Isten!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A te áldott Szentlelked,<br/>kérlek, tőlem el ne vedd,<br/>sőt újítsd meg bennem, hogy dicsérjem neved,<br/>szolgálhassak tenéked.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Reád bíztam magamat,<br/>te viseljed gondomat,<br/>igazgasd jó útra az én lábaimat,<br/>és minden szándékimat.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vigasztald meg szívemet,<br/>búban epedt lelkemet;<br/>ne hányd szemeimre undok vétkeimet<br/>és cselekedetimet.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Mindörökké áldassál<br/>és felmagasztaltassál<br/>áldott Atya Isten, a te szent Fiaddal,<br/>Szentlélek áldásával!</lines>
+    </verse>
+  </lyrics>
+</song>

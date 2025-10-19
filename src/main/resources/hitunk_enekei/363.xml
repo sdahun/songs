@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Örülj szívem, vigadj lelkem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1837.</author>
+      <author type="words">Új Zengedező Mennyei Kar, 1743.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="363"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - úrvacsora</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Hívogatás</theme>
+      <theme>Úrvacsora</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örülj szívem,<br/>vigadj lelkem,<br/>ékességed lett a hit.<br/>Vacsorához<br/>mégy Jézushoz,<br/>hivatalos vagy te itt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bűnödért<br/>halálos bért<br/>érdemeltél lelkedre.<br/>E szent asztal<br/>megvigasztal<br/>s válik üdvösségedre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ez örömben,<br/>reménységben,<br/>Jézus ma hozzád jövök.<br/>Asztalodnál<br/>lábam megáll:<br/>testem, lelkem újítsd meg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tisztogass meg,<br/>bűnből moss meg,<br/>kegyelmedből Istenem.<br/>Úgy a Sátán<br/>lelkem kárán<br/>nem örül, nem árt nekem.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csakhogy immár<br/>bűntől elválj,<br/>s légy hűséggel Jézushoz.<br/>Halálával,<br/>váltságával<br/>minden bűnből feloldoz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hát jöjjetek,<br/>bűnös lelkek,<br/>orvosságot kik vártok!<br/>Jézus lelke,<br/>szent kegyelme<br/>kiárad ma reátok.</lines>
+    </verse>
+  </lyrics>
+</song>

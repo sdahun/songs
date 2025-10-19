@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nagy Isten, mi dicsérünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Haydn J. F.</author>
+      <author type="words">Ambrosius</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="25"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy Isten, mi dicsérünk,<br/>magasztaljuk nagy erődet;<br/>az ég meghajol velünk<br/>és csodálja műveidet.<br/>Aki voltál, az maradsz:<br/>mindörökké ugyanaz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden, ami dicsérhet,<br/>Serafim és kerubimok,<br/>mondanak dicséneket<br/>a szolgáló szent angyalok<br/>a mennyei seregek:<br/>„Szent, szent, szent vagy” zengenek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsérnek e földön itt,<br/>a nagyok a kicsinyekkel,<br/>téged, Atya, dicsőít,<br/>a gyülekezet énekkel<br/>és dicséri ez alatt<br/>dicstrónján szent fiadat!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nagy békességük vagyon azoknak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="68"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten igéje és törvénye</theme>
+      <theme>Békesség</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Ima</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten törvénye</theme>
+      <theme>Megtérés</theme>
+      <theme>Szombatiskola</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy békességük vagyon azoknak,<br/>kik szeretik a te szent törvényedet,<br/>semmi veszélyben el nem botolnak.<br/>Várom, Uram, a te üdvösségedet!<br/>Abban forgatom minden gondomat,<br/>hogy cselekedjem parancsolatidat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bizonyságidra gondot tart lelkem,<br/>mert én oly igen szeretem azokat,<br/>és én csak azokban gyönyörködöm,<br/>rendelésidben gyakorlom magamat.<br/>Előtted vagyon minden életem,<br/>nincsen elrejtve tőled én ösvényem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengő kiáltásom jusson hozzád,<br/>és igazságodat adjad értenem,<br/>mint szent igédben te felfogadtad!<br/>Jusson elődbe én esedezésem,<br/>szabadíts meg minden ínségemből,<br/>a te régen tett szent ígéretedből!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha én megtanulom szerzésedet,<br/>az én ajakimmal dicsérlek téged,<br/>hirdeti nyelvem te szent igédet,<br/>mert minden törvényed és ígéreted<br/>merő hűség és tiszta igazság,<br/>nem találtatik abban semmi hívság.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ments meg, Uram, engem kezeiddel,<br/>légy erősségem, segedelmem nékem,<br/>mert törvényedet szeretem szívvel!<br/>Üdvözítésed várom, én Istenem,<br/>melybe vetettem reménységemet,<br/>mert igen kedvelem szent törvényedet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Éltét csak azért kívánja lelkem,<br/>hogy ő tégedet, Uram, dicsérhessen,<br/>ítéleted légyen segedelmem!<br/>Mint elveszett juh, bujdosom e földön,<br/>Uram, keress meg engem, szolgádat,<br/>nem felejtem el parancsolatidat!</lines>
+    </verse>
+  </lyrics>
+</song>

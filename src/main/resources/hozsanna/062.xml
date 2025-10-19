@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én fel sem foghatom</title>
+    </titles>
+    <verseOrder>c1 c1 v1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Én fel sem foghatom:<br/>mily jó az Úr.<br/>Az ajkam zeng hála halleluját,<br/>nyelvem Róla szól.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hű Jézusom megváltott engem,<br/>új életet Ő adott nékem.<br/>Most boldogan áldom Őt,<br/>dicsérem szent nevét,<br/>én az Övé, Ő enyém.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A terhemet segíti vinnem,<br/>sok gondomat lábához tettem.<br/>Most nyomdokán járok én,<br/>dicsérem szent nevét,<br/>én az Övé, Ő enyém. Ó,</lines>
+    </verse>
+  </lyrics>
+</song>

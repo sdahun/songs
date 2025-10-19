@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Te fáradt vándor, merre mégy?</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Hastings Thomas (1784-1872.)</author>
+      <author type="words">Arndt Julius Karl (1820-1888.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="185"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Békesség</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Hívogatás</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te fáradt vándor, merre mégy?<br/>Ó! jöjj, mert hív Atyád!<br/>A békességed nem leléd,<br/>mert nem találhatád.<br/>Ó! jöjj haza!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! jöjj haza, mert sok sebed<br/>itt gyógyulást talál!<br/>És ád majd Jézus új szívet,<br/>s így rád a béke vár.<br/>Ó! jöjj haza!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! jöjj haza! ki Jézusra<br/>oly sóvárogva vársz.<br/>Ó! mért vagy vágyak vándora,<br/>hisz hontalanná válsz!<br/>Ó! jöjj haza!</lines>
+    </verse>
+  </lyrics>
+</song>

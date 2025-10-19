@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Siess, keresztyén, lelki jót hallani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Tinódi Lantos Sebestyén</author>
+      <author type="words">Tinódi Lantos Sebestyén</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="116"/>
+      <songbook name="Református énekeskönyv" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Siess, keresztyén, lelki jót hallani,<br/>régi törvényből harcolni tanulni!<br/>Az igaz hit mellett mint kell bajt vívni,<br/>Krisztusban bízni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert nem hiába ezt az ó törvénybe,<br/>próféták írták Biblia könyvébe.<br/>Szép tanulság ez most az új törvénybe’,<br/>mi eleinkbe’.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jól tudja földön ezt minden keresztyén:<br/>nem csak fegyverrel oltalmaz az Isten!<br/>Ezt minden népnek tudására adom:<br/>Istenünk vagyon!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fejedelemség vagyon csak Istenben,<br/>minden hatalom vagyon Ő kezében.<br/>Kiket Ő akar föld kerekségében:<br/>emeli égben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne ess kétségbe Ő nagy jóvoltában,<br/>az igaz hitben erős légy magadban!<br/>Mint Dávid, úgy jársz párviadalodban,<br/>hitvallásodban.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dávidot Isten hagyá királyságban,<br/>ő ellenségit veté gyalázatban.<br/>Dicsérjük Istent nagy hálaadásban,<br/>énekmondásban!</lines>
+    </verse>
+  </lyrics>
+</song>

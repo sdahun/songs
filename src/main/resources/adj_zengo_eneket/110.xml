@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ott a messze földön</title>
+      <title>In the land of strangers whither thou art gone</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="music">Ira David Sankey</author>
+      <author type="words">Horatius Bonar</author>
+      <author type="translation" lang="hu">Vargha Gyuláné</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="110"/>
+    </songbooks>
+    <themes>
+      <theme>Lk 15,11-32</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott a messze földön,<br/>árván, hontalan,<br/>halld meg a kiáltást,<br/>fiam, fiam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vár Atyád szerelme,<br/>vár rád vigasza,<br/>jöjj a messze tájról,<br/>ó, jöjj haza!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajtad a nyomornak<br/>súlyos terhe van,<br/>tested-lelked szenved,<br/>fiam, fiam!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Búsan összetörve<br/>jársz vigasztalan,<br/>megpihenni vágyol,<br/>fiam, fiam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nézd, a rossz világnak<br/>csak fullánkja van,<br/>drága csak nekem vagy,<br/>fiam, fiam!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szómnak ellenállnod<br/>úgyis hasztalan,<br/>jöjj, mert egyre várlak,<br/>fiam, fiam!</lines>
+    </verse>
+  </lyrics>
+</song>

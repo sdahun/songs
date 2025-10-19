@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Drága Jézus, trónodnál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Malan César, 1827. (1787-1864.)</author>
+      <author type="words">Hammond William (1719-1783.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="315"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - kezdő ének</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Isten igéje</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus öröm forrása</theme>
+      <theme>Örök élet</theme>
+      <theme>Reménység</theme>
+      <theme>Szabadítás</theme>
+      <theme>Tanítás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drága Jézus, trónodnál<br/>hódolattal térdelünk.<br/>Bár a vétkünk tenger sok,<br/>és a lelkünk csupa folt,<br/>benned mégis remélünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tőled függ az életünk,<br/>kegyes szemmel nézz le ránk!<br/>Te viseljed gondunkat,<br/>áldd meg minden utunkat,<br/>s dicsér téged szívünk, szánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igéd által szólj hozzánk,<br/>készíts fel az életre!<br/>Vigaszt nyújtó Szentlelked<br/>töltse be a szívünket,<br/>lelkesítsen énekre!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Könnyeinket szárítsd fel,<br/>adj most újra örömet!<br/>Támogasd a csüggedőt,<br/>adjál néki új erőt,<br/>adj reményt a hívőnek!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lakja béke szívünket,<br/>szent áldásod, szerelmed!<br/>Szabadítsd meg lelkünket,<br/>bocsássad meg bűnünket,<br/>s adjál örök életet!</lines>
+    </verse>
+  </lyrics>
+</song>

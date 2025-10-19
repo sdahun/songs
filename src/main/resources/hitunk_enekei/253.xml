@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Velünk Immánuel, ég és föld Ura</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Köthen, 1733.</author>
+      <author type="words">Allendorf Johann, 1736. (1693-1773.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="253"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Doxologia</theme>
+      <theme>Egyház</theme>
+      <theme>Félelem</theme>
+      <theme>Hívogatás</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus győzelme</theme>
+      <theme>Jézus Krisztus királysága</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Lelki harc</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Próba</theme>
+      <theme>Szabadítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Velünk Immánuel, ég és föld Ura,<br/>ellenség, reszkess szent színe előtt;<br/>örvendezz, szent Sion, Uradat áldva,<br/>zsoltárral fogadd a nagy megmentőt;<br/>békét és életet, üdvöt hoz néked,<br/>örvendezz, Sion, mert Isten van véled!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Erősítsd szívedet, karodat, Sion,<br/>örömmel nézzed az élet Urát!<br/>Szeretet Istene van oldalunkon,<br/>szívünkből félelem, bánat elszállt;<br/>lelkünkre végtelen áldása árad,<br/>erővel tölti el e kicsiny nyájat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Én lelkem, várjad őt reménnyel, hittel,<br/>Atyánktól semmi már el nem szakaszt;<br/>kérjed csak Istened reménylő szívvel,<br/>a biztos győzelem el nem marad.<br/>Bánat és félelem nem gyötör mindig,<br/>Jézusunk hűsége velünk van végig!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Töröld le könnyedet, szenvedő Sion,<br/>csüggedő fejedet emeljed fel;<br/>harcoljál boldogan, Istenben bízón,<br/>örömnek szent napja ragyog majd fel!<br/>Életnek kútfeje, szeretet Ura,<br/>az élet szent vizét népének adja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mindnyájan jöjjetek az élő vízhez,<br/>„Jöjjetek énhozzám!” mondja az Úr;<br/>életnek kútfeje, ó! milyen ékes,<br/>feléled mind, aki feléje nyúl.<br/>Vegyétek ingyen az éltető vizet,<br/>enyhet ad, üdíti az életünket!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Előre bátran e mennyei névvel,<br/>nézzük a dicsőség koronáját!<br/>Isten is harcra kél szent seregével,<br/>legyőzi kísértőnk minden hadát;<br/>nem rettent félelem, mert velünk az Úr,<br/>Isten kis csapata majd megszabadul!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Megváltott népe majd trónjánál állva,<br/>látja a dicsőség örök Urát;<br/>üdvözült ajkakon felszáll a hála,<br/>zengve a megváltás szent himnuszát;<br/>előtte térdet hajt ember és angyal,<br/>dicsérik mindnyájan ujjongó hanggal:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsőség, hála és tisztesség néked,<br/>áldott légy, áldott légy Szentháromság!<br/>Bölcsesség, szent erő királyi széked,<br/>menny és föld néked zeng most hozsannát!<br/>Győzött az ég ura, ujjong az élet,<br/>dicsőség, dicsőség örökké néked!</lines>
+    </verse>
+  </lyrics>
+</song>

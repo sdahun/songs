@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elmúlik ez a világ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 e1 c2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elmúlik ez a világ,<br/>és minden, mi benne van,<br/>de az én hűségem tetőled<br/>el nem távozik a bajban.<br/>Jó azokhoz az Isten,<br/>akik tiszta szívűek<br/>és gyönyörködnek őbenne,<br/>megadja kérésüket, halleluja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Isten olyan jó hozzám,<br/>Isten olyan jó hozzám,<br/>Isten olyan jó hozzám,<br/>mert szeret engem<br/>az én édes jó Atyám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nappal kiküldte<br/>kegyelmét az Úr,<br/>éjjel éneke volt velem:<br/>imádság életem Istenéhez.<br/>Te tanítasz engem<br/>az élet útjaira,<br/>teljes öröm van tenálad<br/>és gyönyörűségek mindörökké!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Isten olyan jó hozzánk,<br/>Isten olyan jó hozzánk,<br/>Isten olyan jó hozzánk,<br/>mert szeret minket<br/>a mi édes jó Atyánk.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Kicsoda az Isten<br/>a mi Urunkon kívül?<br/>Kicsoda kőszikla<br/>a mi Istenünkön kívül?<br/>Halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

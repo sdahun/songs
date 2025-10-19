@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott az egek Ura</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Halle, 1704.</author>
+      <author type="words">Held Heinrich, 1658. (1620-1659.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="87"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten testet öltése</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Jézus Krisztus születése</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Megváltás</theme>
+      <theme>Szív</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott az egek Ura,<br/>szavát íme megtartva<br/>bűnösök örömére<br/>nékünk Fiát elküldte!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten minden embere,<br/>s prófétáknak serege,<br/>amit kívánt, hirdetett,<br/>ím mind beteljesedett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ábrahámnak jutalma,<br/>majdan Jákób bizalma,<br/>emberré lett az Isten,<br/>hogy mirajtunk segítsen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott légy üdvösségem,<br/>Uram Jézus, reményem,<br/>utat szívemhez készíts,<br/>benne házat te építs.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicső király hozzám szállj,<br/>messze tőlem, ó! ne állj,<br/>hajlékot tégy szívemből,<br/>megtisztítván a bűntől.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Taposd a kígyó fejét,<br/>vedd el szívem ínségét,<br/>biztass gyönge hitemben,<br/>boldogíts érdemedben!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Életnek Fejedelme!<br/>Ha jössz ítéletünkre,<br/>add, hogy elődbe jussak,<br/>igazként megállhassak!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Üres kézzel menjek-é el</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="452"/>
+      <songbook name="Üdv- és adventi énekek" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üres kézzel menjek-é el, s úgy álljak az Úr előtt?<br/>Egy lelket sem hozhassak el, s gyümölcstelen nézzem Őt?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Üres kézzel menjek-é el, s úgy álljak az Úr előtt?<br/>Egy lelket sem hozhassak el, s gyümölcstelen nézzem Őt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hisz Jézus megváltott engem, nem rettegem a halált;<br/>de üresen megjelenni: fájlalom e lelki kárt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jönnének bár újra vissza kárbaveszett éveim,<br/>Jézusomnak hőn szolgálni törekedném híven én.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kérlek hát óh keresztyének, idején működjetek,<br/>s mielőtt a nap lemenne, sok lelket megmentsetek.</lines>
+    </verse>
+  </lyrics>
+</song>

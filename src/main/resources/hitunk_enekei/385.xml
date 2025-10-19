@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elmúlt már az óesztendő</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Luther Márton, 1539. (1483-1546.)</author>
+      <author type="words">Erfurt, 1568.</author>
+      <author type="words">Steurlein Johann, 1588. (1546-1613.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="385"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - újesztendő</theme>
+      <theme>Angyalok</theme>
+      <theme>Egyház</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Oltalom</theme>
+      <theme>Új élet</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elmúlt már az óesztendő,<br/>te vagy, uram, dicsérendő,<br/>hogy a múlt sok ínségében<br/>megtartottál kegyelmedben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fiú Isten, kérünk téged,<br/>te óvjál kegyesen minket,<br/>a te anyaszentegyházad<br/>továbbra is oltalmazzad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne vond meg tőlünk igédet,<br/>mi lelki eledelünket;<br/>a tévelygéstől, bálványtól,<br/>te őrizz minden gonosztól.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add, hogy a bűntől elálljunk,<br/>szent s jámbor élethez fogjunk;<br/>ne említsd régi bűnünket,<br/>de adj áldott esztendőket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jó keresztyénként élhessünk,<br/>tebenned megpihenhessünk,<br/>s ha örömben feltámadunk,<br/>veled örökké lakozzunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örökké téged így áldunk,<br/>az angyalokkal imádunk,<br/>hitünket, Jézus, erősítsd,<br/>nevedet bennünk dicsőítsd!</lines>
+    </verse>
+  </lyrics>
+</song>

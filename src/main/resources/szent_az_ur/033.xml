@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Oly boldog vagyok</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">David Graham</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="33"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oly boldog vagyok, hogy szólhat e dal,<br/>a szeretet dala az Úrnak.<br/>Most felemelem a kezeimet<br/>és áldalak Téged, Uram.<br/>Érzem szereteted.<br/>Érzem nagy kegyelmed.<br/>A Te hűséged, Uram, végtelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oly boldog vagyok, hogy gondod van rám,<br/>hogy kezeiden hordasz engem.<br/>Most háladalommal kereslek fel,<br/>hogy áldjalak Téged, Uram.<br/>Látom szereteted.<br/>Látom nagy kegyelmed.<br/>A Te hűséged, Uram, végtelen.</lines>
+    </verse>
+  </lyrics>
+</song>

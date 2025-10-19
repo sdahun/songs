@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tied a hatalom</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tied a hatalom,<br/>tied az uralom ég<br/>és föld felett.<br/>Tied az ország<br/>és tied a királyság,<br/>áldom szent neved!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az Úr!<br/>Az örökké hű, igaz!<br/>Örvendj, te föld,<br/>mert kegyelme mindent betölt!<br/>Tied az uralom,<br/>örökké hatalmas Úr!</lines>
+    </verse>
+    <verse name="v2" lang="en">
+      <lines>He is exalted,<br/>the King is exalted on high.<br/>I will praise him.<br/>He is exalted,<br/>forever exalted,<br/>and I will praise his name.</lines>
+    </verse>
+    <verse name="c2" lang="en">
+      <lines>He is the Lord,<br/>forever his truth shall reign.<br/>Heaven and earth<br/>rejoice in his holy name.<br/>He is exalted,<br/>the King is exalted on high.</lines>
+    </verse>
+  </lyrics>
+</song>

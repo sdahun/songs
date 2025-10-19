@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az utolsó végvacsorát Megváltónk megevé</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="455"/>
+      <songbook name="Üdv- és adventi énekek" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az utolsó végvacsorát<br/>Megváltónk megevé,<br/>egybegyűjtvén tanítványit<br/>és ekképp rendelé;<br/>és ekképp rendelé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kendőt vett és körülköté<br/>Ő azzal önmagát,<br/>hogy szeretetből mosná meg<br/>minden híve lábát,<br/>minden híve lábát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tiszta vízzel, medencéből<br/>végezé Ő azt el,<br/>melyről Péter azt gondolá,<br/>hogy őnéki nem kell,<br/>hogy őnéki nem kell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Lábimat soh’se mosod meg,”<br/>mondá ő hirtelen,<br/>„Hogy Mesterem lábam mossa,<br/>azt én nem engedem!<br/>Azt én nem engedem!”</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jézus szólt: „Ha nem engeded,<br/>énhozzám nincs közöd,<br/>a lábmosás mulasztása<br/>tőlem elzár téged,<br/>tőlem elzár téged.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert énnálam nem lesz része<br/>az engedetlennek,<br/>ki megveti parancsimat,<br/>az engemet vet meg,<br/>az engemet vet meg.”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Megijedett erre Péter<br/>és mondá: „Engedem,<br/>fejemet és kezemet is<br/>mosd meg, Uram, nékem,<br/>mosd meg, Uram, nékem.”</lines>
+    </verse>
+    <verse name="v8">
+      <lines>„Nem szükséges”, mondá Jézus,<br/>„Csakis a lábakat;<br/>mert ki keresztségben fürdött,<br/>tiszta az és szabad,<br/>tiszta az és szabad.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Néktek is kell, hogy mossátok<br/>egymásnak lábait,<br/>szeretetből, hitből tenni,<br/>mert csak úgy boldogít,<br/>mert csak úgy boldogít.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Példám’ azért kövessétek,<br/>miként azt láttátok,<br/>boldogok, ha éppúgy tesztek,<br/>amint most tudjátok,<br/>amint most tudjátok.”</lines>
+    </verse>
+  </lyrics>
+</song>

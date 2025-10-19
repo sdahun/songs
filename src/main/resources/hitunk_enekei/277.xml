@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Győzhetetlen én kőszálom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Ismeretlen szerző, XIX. sz.</author>
+      <author type="words">Kuruckori ének</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="277"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Csendesség</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Oltalom</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Győzhetetlen én kőszálom,<br/>védelmezőm és kővárom,<br/>a keresztfán drága áron<br/>oltalmamat tőled várom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sebeidnek nagy voltáért,<br/>engedj kedves áldozatért,<br/>drága szép piros véredért,<br/>kit kiöntél e világért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reád bíztam én ügyemet,<br/>én Jézusom, én lelkemet,<br/>megepedett bús szívemet,<br/>szegény árva bús fejemet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Irgalmazz meg én lelkemnek,<br/>ki vagy Ura mennynek, földnek,<br/>könyörgök csak Felségednek,<br/>én megváltó Istenemnek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mutass, Jézus, kies földet,<br/>lakásomul adj jó helyet,<br/>ez életben csendességet,<br/>jövendőben üdvösséget.</lines>
+    </verse>
+  </lyrics>
+</song>

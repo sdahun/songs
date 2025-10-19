@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus Krisztus feltámadt!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">„Lyra Davidica”-ból, 1708.</author>
+      <author type="words">Wesley Charles,1739. (1707-1788.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="126"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten feltámadása</theme>
+      <theme>Jézus Krisztus feltámadása</theme>
+      <theme>Jézus Krisztus győzelme</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Krisztus feltámadt!<br/>Alleluja!<br/>Angyal, ember mondjon dalt,<br/>alleluja!<br/>Örvendezve zengjetek,<br/>alleluja!<br/>Tenger, föld és nagy egek!<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krisztus Jézus ismét él!<br/>Alleluja!<br/>Pedig meghalt vétkünkért!<br/>Alleluja!<br/>Halál, hol a te erőd?<br/>Alleluja!<br/>Bárány Jézus legyőzött!<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A megváltó szeretet<br/>alleluja!<br/>Aratott itt győzelmet!<br/>Alleluja!<br/>Bár a sírnak foglya volt,<br/>alleluja!<br/>Földön, égen áthatolt!<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Én csak Krisztust követem,<br/>Alleluja!<br/>Övé szívem, életem!<br/>Alleluja!<br/>Tőle várom üdvömet:<br/>alleluja!<br/>Boldog örök életet!<br/>Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! felséges Úr, mi kegyes Istenünk</title>
+      <title>O Nostre Dieu, et Seigneur amiable</title>
+    </titles>
+    <verseOrder>v1 v3 v9</verseOrder>
+    <authors>
+      <author type="music">Loys Bourgeois, Genf, 1542. (1510-1569.)</author>
+      <author type="words">Clément Marot (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="101"/>
+      <songbook name="Hitünk énekei" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, felséges Úr, mi kegyes Istenünk,<br/>mely csudálatos a Te neved nékünk!<br/>Nagy dicsőséged ez egész földre<br/>kiterjed és felhat az egekre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy voltát, ha megnézem dolgaidnak,<br/>melyeket a Te kezeid formáltak:<br/>az eget, holdat, a fényes napot,<br/>és szép renddel a sok csillagokot.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ó, felséges Úr, mi kegyelmes Urunk,<br/>mely csudálatos a Te neved nálunk!<br/>Felségednek mely nagy dicsősége,<br/>mellyel teljes e föld kereksége.</lines>
+    </verse>
+  </lyrics>
+</song>

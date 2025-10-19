@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hirdessétek hangos szóval</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="401"/>
+      <songbook name="Üdv- és adventi énekek" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hirdessétek hangos szóval,<br/>hogy Isten a szeretet.<br/>Erről szól a föld szépsége,<br/>ezt hirdetik az egek.<br/>Halleluja, mily igazság,<br/>elménk alig fogja fel,<br/>mégis hangos énekekben<br/>vígan ezt mind zengjük el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zengjétek ezt: e világot<br/>úgy szerette Istenünk,<br/>hogy szent fiát leküldötte<br/>megmentőül minekünk.<br/>Halleluja, mily igazság,<br/>elménk alig fogja fel,<br/>mégis hangos énekekben<br/>vígan ezt mind zengjük el.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldog szó ez, amely mondja,<br/>hogy Isten a szeretet.<br/>Boldog az, kinek a szívét<br/>hit és hűség tölti meg.<br/>Halleluja, mily igazság,<br/>elménk alig fogja fel,<br/>mégis hangos énekekben<br/>vígan ezt mind zengjük el.</lines>
+    </verse>
+  </lyrics>
+</song>

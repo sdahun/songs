@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérjétek az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Genf</author>
+      <author type="words">T.Beza</author>
+      <author type="translation" lang="hu">Szenci Molnár Albert</author>
+    </authors>
+    <songbooks>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="2"/>
+    </songbooks>
+    <themes>
+      <theme>dicsőítés – Isten dicsőítése</theme>
+      <theme>istentisztelet – kezdő énekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjétek az Urat!<br/>Áldjátok ő szent voltát!<br/>Dicsérjétek mennyekben,<br/>hol országol kegyesen<br/>az ő nagy dicsőségébe’!<br/>Dicsérjétek hatalmát,<br/>melyből dicső nagyvoltát<br/>minden veheti eszébe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérjétek őt kürtben,<br/>ékes éneklésekben;<br/>hegedűkben, lantokban<br/>és hangos citerákban<br/>az Úrnak zengedezzetek!<br/>Sípokban, orgonákban<br/>és más szép muzsikákban<br/>örvendjetek az Istennek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Urat cimbalmokban<br/>és egyéb szerszámokban<br/>mindnyájan dicsérjétek!<br/>Citerát pengessetek,<br/>az Úr szent nevét dicsérvén!<br/>Zsoltárokban áldjátok!<br/>Istent magasztaljátok:<br/>Dicsőség Istennek! Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

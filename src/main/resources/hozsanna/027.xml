@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az, aki bennünk</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Az, aki bennünk, a szívünkben él<br/>nagyobb, mint a világ!<br/>A gonosz legyőzve, mert Jézus él,<br/>nevét térdre hullva áldd!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Örvendezve zengjük szerteszét,<br/>hogy Lelke bennünk él,<br/>felragyogott Krisztus nagy napja,<br/>és mi kiáltjuk győzelmét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Győzni fog a mennynek szent serege,<br/>a bűnnek vége már,<br/>meghajol majd néki minden térd<br/>és dicséri a Királyt!</lines>
+    </verse>
+  </lyrics>
+</song>

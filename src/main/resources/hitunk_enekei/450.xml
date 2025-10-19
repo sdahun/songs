@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kik könnyek közt vetnek</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="450"/>
+      <songbook name="Üdv- és adventi énekek" entry="343"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kik könnyek közt vetnek,<br/>örömben aratnak;<br/>atyjuk örökében<br/>egykor vigadnak.<br/>Kik jó magot vetnek,<br/>melyet az Úr küldött,<br/>kévéik behordják<br/>örömkönny között.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kévéik hordják,<br/>kévéik hordják,<br/>kik könnyek közt vetnek,<br/>kévéik hordják.<br/>Kévéik hordják,<br/>kévéik hordják,<br/>örömben aratnak,<br/>kévéik hordják.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívünk ne csüggedjen,<br/>ámbár szántóföldünk<br/>tele van kövekkel,<br/>s csak tövist lelünk.<br/>Az Úr megígérte,<br/>hogy áldását küldi<br/>s a vetést bőséges<br/>áldás kíséri!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megváltónkért vetni<br/>az ige jó magvát,<br/>– bárhová is küldjön –<br/>legyen óhajunk,<br/>mert ha ezt hűséggel<br/>mindvégig megtesszük,<br/>fáradtságunk után<br/>lesz bő jutalmunk!</lines>
+    </verse>
+  </lyrics>
+</song>

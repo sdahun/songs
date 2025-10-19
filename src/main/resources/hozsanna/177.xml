@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ő az Úr</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="177"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ő az Úr, Ő az Úr!<br/>Meghalt értem a kereszten,<br/>Ő az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden térd meghajoljon,<br/>minden nyelv csak róla szóljon,<br/>mert Jézus, Ő az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő az Úr, Ő az Úr!<br/>Feltámadott a halálból,<br/>Ő az Úr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő az Úr, Ő az Úr!<br/>Szentlelkével betölt engem,<br/>Ő az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

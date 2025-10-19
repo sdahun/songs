@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Sionnak hegyén, Úr Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Strasbourg, 1545. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="49"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Egyház</theme>
+      <theme>Gondviselés</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Sionnak hegyén, Úr Isten,<br/>tied a dicséret,<br/>fogadást tésznek néked itten,<br/>tisztelvén tégedet,<br/>mert kérésüket a híveknek<br/>meghallod kegyesen,<br/>azért tehozzád az emberek<br/>jönnek mindenünnen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajtam a bűn elhatalmazék,<br/>terhelvén engemet,<br/>de nagy volta kegyességednek<br/>eltörli vétkünket.<br/>Boldog, akit te elválasztál,<br/>fogadván házadba,<br/>hogy előtted nagy buzgósággal<br/>járjon tornácodba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Javaival a te házadnak<br/>megelégíttetünk,<br/>szép dolgain te templomodnak<br/>gyönyörködik szívünk.<br/>A te csuda igazságodból<br/>megfelelsz minekünk;<br/>hallgass meg, Isten, velünk tégy jól,<br/>ó! mi segedelmünk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindenek csak tebenned bíznak<br/>e föld kerekségén,<br/>akik széjjel messze lakoznak<br/>a tengernek szélén.<br/>Te mondhatatlan hatalmaddal<br/>a magas hegyeket<br/>körülfogod, mintegy abronccsal,<br/>erősítvén őket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tengeri habok nagy zúgását<br/>te megcsendesíted,<br/>a pogány nép zúgolódását<br/>ottan elenyészted.<br/>Nagy félelmükben elbágyadnak<br/>mindenek e földön,<br/>nagy voltán a te csudáidnak,<br/>miknek számuk nincsen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te megvigasztalsz mindeneket<br/>reggel a napfénnyel,<br/>biztatsz minden élő rendeket<br/>csillagokkal éjjel.<br/>Áldásiddal meglátogatod<br/>az elszáradt földet,<br/>hasznos esőkkel meglágyítod,<br/>gazdagítván őket.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A te kutaidból a vizek<br/>soha el nem fogynak,<br/>hogy a szép földi vetemények<br/>szaporodhassanak.<br/>A barázdákat megitatod<br/>a szántóföldeken,<br/>a vetést szép esővel áldod,<br/>hogy bőven teremjen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A szép sík mezők ékeskednek<br/>sok baromcsordákkal;<br/>villognak a szép szántóföldek<br/>sűrű gabonákkal.<br/>A hegyoldalak, mezőföldek<br/>szép búzanövéssel<br/>örvendeznek és énekelnek<br/>nagy gyönyörűséggel.</lines>
+    </verse>
+  </lyrics>
+</song>

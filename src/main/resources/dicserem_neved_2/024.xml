@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott legyen a mi Urunk</title>
+    </titles>
+    <verseOrder>c1 c1 v1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="24"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Dicséret és imádat</theme>
+      <theme>Zsolt 113,2</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Áldott legyen a mi Urunk,<br/>áldott legyen a mi Urunk,<br/>áldott legyen a mi Urunk,<br/>örökké!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Az Ő neve bástya,<br/>erős várunk,<br/>az igaz hozzá fut,<br/>és megmenekül.</lines>
+    </verse>
+  </lyrics>
+</song>

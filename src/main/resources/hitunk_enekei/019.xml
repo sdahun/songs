@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Isten, néked zeng az ének</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Hamburg, 1690.</author>
+      <author type="words">Crasselius Bartholomäus, 1695. (1677-1724.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="19"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Átadás</theme>
+      <theme>Bátorítás</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten bennünk lakozása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Kegyelem</theme>
+      <theme>Szentlélek</theme>
+      <theme>Szív</theme>
+      <theme>Üdvbizonyosság</theme>
+      <theme>Vágyakozás</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Isten, néked zeng az ének,<br/>mert nincsen senki hozzád fogható;<br/>ím téged dicsér szívem, ajkam,<br/>és lelked által száll fel hálaszóm.<br/>Ó! azt add tennem Jézus nevében,<br/>mi néked kedves, Uram, Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! Atyám, vonjál szent Fiadhoz,<br/>hogy ő meg engem hozzád vezessen;<br/>ó! éljen bennem áldott Lelked,<br/>és urald szívem, lelkem, értelmem.<br/>Te égi békéd hadd érezzem át,<br/>és zengjek néked dics-alleluját!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím ezt az áldást kérem tőled,<br/>s én néked adom szívem, életem;<br/>és igazságban, lélekben száll<br/>ó! Uram, hozzád imám, énekem;<br/>a Lelked által emelj fel, Atyám,<br/>és dicsőít majd szívem és a szám!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A Lélek esd majd értem hozzád,<br/>s kimondhatatlan fohászokat mond;<br/>ő tanít hittel kérni tőled,<br/>és biztosít, hogy gyermeked vagyok;<br/>mert országodnak üdve vár reám,<br/>ezért kiáltom: Édes jó Atyám!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha bízó hittel szól az ajkam,<br/>és Lelked által hozzád fordulok,<br/>te szíved szánó irgalmával<br/>a könyörgésemet meghallgatod;<br/>ha imám szárnyán szívem hozzád száll,<br/>meghallgatásra, békére talál.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A kérés, melyre Lelked tanít,<br/>az kedved szerint való imádság,<br/>és tudom, Fiad szent nevében<br/>te meghallgatod azt, örök jóság.<br/>Én kegyelmedből kapok kegyelmet,<br/>mert Fiad által lettem gyermeked.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mily jó azt tudnom, áldott Isten,<br/>hogy velem vagy, és Lelked vigasztal;<br/>mert érzem azt, hogy jó vagy hozzám,<br/>és soha nem késel a válasszal.<br/>Sőt kérésemnél többet adsz nekem,<br/>mert jóságodnak árja végtelen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mily jó, hogy ott van Isten jobbján<br/>hű Megváltóm és örök szószólóm;<br/>mert igen s ámen minden benne,<br/>mit hitben mond el hő imádságom.<br/>Ím zengjen, Uram, néked dicsőség,<br/>hisz tőled jő az örök üdvösség!</lines>
+    </verse>
+  </lyrics>
+</song>

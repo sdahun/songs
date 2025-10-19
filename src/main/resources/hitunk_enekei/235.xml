@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ki Istenének átad mindent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Neumark Georg, 1657. (1621-1681.)</author>
+      <author type="words">Neumark Georg, 1657. (1621-1681.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="235"/>
+      <songbook name="Adj zengő éneket!" entry="72"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Bátorítás</theme>
+      <theme>Béketűrés</theme>
+      <theme>Bizodalom</theme>
+      <theme>Csendesség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Megtartás</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Próba</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki Istenének átad mindent,<br/>bizalmát csak belé veti,<br/>azt csudaképpen őrzi itt lent,<br/>ínség, baj közt is élteti.<br/>Ki mindent szent kezébe tett,<br/>az nem fövényre épített.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A súlyos gondok mit használnak,<br/>a sóhaj, sok jajszó mit ér,<br/>ha sebeink még jobban fájnak<br/>s mindennap kínunk visszatér?<br/>Így terhünk egyre súlyosabb,<br/>ha lelkünk búnak helyet ad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csak légy egy kissé áldott csendben:<br/>magadban békességre lelsz,<br/>az Úr-rendelte kegyelemben<br/>örök, bölcs célnak megfelelsz.<br/>Ki elválasztá életünk,<br/>jól tudja, hogy mi kell nekünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jól tudja minden gondod, bajod,<br/>tudja: mily sorsot mérjen rád.<br/>Megvidámítja könnyes arcod,<br/>elűzi szíved bánatát.<br/>Ha nagy kegyelme vesz körül,<br/>a lelked vigad és örül.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ne gondold, hogyha ínség sújt rád,<br/>hogy téged Isten elhagyott!<br/>Nehéznek érzed terhed súlyát:<br/>ne hidd, más könnyebbet kapott!<br/>Hogy Isten mindent jól intéz,<br/>megérted majd, ha célhoz érsz!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szent bölcsessége juttat mindent:<br/>kegyelmet, áldást és erőt.<br/>Meggazdagít vagy elvesz kincset,<br/>trónokat állít és ledönt.<br/>Csodásan úgy rendelte el:<br/>hol megaláz, hol felemel.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Zengj hát az Úrnak, s járd az utat,<br/>mit éppen néked ő adott;<br/>a mennyből gazdag áldást juttat,<br/>s majd Jézus ád szép, új napot.<br/>Ki benne bízik és remél,<br/>az mindörökké véle él.</lines>
+    </verse>
+  </lyrics>
+</song>

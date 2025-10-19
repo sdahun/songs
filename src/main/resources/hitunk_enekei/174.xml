@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Atya Úr Isten könyörülj rajtam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Hartyáni Imre, 1566 előtt.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="174"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Félelem</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Ima</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten félelme</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten keresése</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Megváltás</theme>
+      <theme>Szolgálat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atya Úr Isten könyörülj rajtam te nagy jóvoltodért,<br/>sok bűneimet bocsásd meg nekem irgalmasságodért;<br/>ne hagyj Úr Isten, kérlek, elvesznem a te szent nevedért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rút vagyok, Uram, sok bűneimmel mind e világ előtt,<br/>de még ennél is én rútabb vagyok istenséged előtt,<br/>mert felülhaladt én álnokságom az én fejem fölött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs hová lennem, nincs hová fognom elveszett fejemet,<br/>féli, rettegi elbúsult lelkem az én Istenemet,<br/>vajon mikoron mossa el rólam az én bűneimet?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mely igen tiszta lennék, Úr Isten, ha engem megmosnál,<br/>bizony a napnál, holdnál, csillagnál, szebb lennék a hónál,<br/>senki fehérebb nálam nem lenne, ha megtisztítanál.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rólad, Úr Isten, ily feledékeny többé én nem lennék,<br/>kegyelmes Atyám, ha te kedvedben ezután lehetnék,<br/>jó példaadó a bűnösöknek, kedves szolgád lennék.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hallgasd meg azért fohászkodását a te híveidnek,<br/>kik most énvelem sírván, óhajtván együtt könyörögnek,<br/>hatalmat venni ne hagyj mirajtunk a mi bűneinknek!</lines>
+    </verse>
+  </lyrics>
+</song>

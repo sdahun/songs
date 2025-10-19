@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Krisztusom, kívüled nincs kihez járulnom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Kuruc dallam</author>
+      <author type="words">Pécselyi Király Imre (-1641.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="199"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Betegségben</theme>
+      <theme>Doxologia</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Isten keresése</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Lelki harc</theme>
+      <theme>Szenvedés</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Krisztusom, kívüled nincs kihez járulnom,<br/>ily beteg voltomban nincs kitől gyógyulnom;<br/>nincs ily fekélyemből ki által tisztulnom,<br/>veszélyes vermemből és felszabadulnom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyújtsd meg szövétnekét áldott szent igédnek,<br/>és bennem virraszd fel napját kegyelmednek;<br/>igaz utat mutass nékem, szegényednek,<br/>járhassak kedvére te szent Felségednek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Várlak, Uram, azért reménykedő szívvel,<br/>miként a vigyázó virradást vár éjjel;<br/>hozd fel szép napodat nékem is jó reggel,<br/>hogy szolgálhassalak serényebb elmével.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsértessél, Atya Isten, magasságban,<br/>mi Urunk Krisztussal mind egy méltóságban,<br/>és a Szentlélekkel mind egy hatalomban:<br/>Háromság egy Isten, áldj meg dolgainkban.</lines>
+    </verse>
+  </lyrics>
+</song>

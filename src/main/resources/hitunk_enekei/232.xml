@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én áldott Istenem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Meiningen, 1693.</author>
+      <author type="words">Heermann Johann, 1630. (1585-1647.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="232"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Békesség</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Feltámadás</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Kereszt</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én áldott Istenem,<br/>te végtelen nagy jóság,<br/>ki nélkül nincsen jó,<br/>és nincs bajra orvosság,<br/>adj nékem ép testet,<br/>a lelkem tisztítsd meg,<br/>és éltem ékítse<br/>jó lelkiismeret!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add, tennem jó kedvvel,<br/>azt, mi énhozzám illik,<br/>és mint szent törvényid<br/>azt nékem is rendelik.<br/>Hogy mindent megtegyek,<br/>ha nékem rendeled,<br/>s ha végbevittem mind,<br/>ó! áldja szent kezed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, hogy most minden szóm<br/>csak tiszta és jó légyen,<br/>hogy oktalan beszéd<br/>a számból ki ne menjen!<br/>Ha tisztem szerint kell<br/>akárhol szólanom:<br/>szent igéd szavától<br/>ne hagyj elhajlanom!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha sorsom mostoha:<br/>ó! ne hagyj elcsüggednem!<br/>Ha rajtam a kereszt:<br/>ó! ne engedj elesnem!<br/>Ne vegyen ellenség<br/>énrajtam hatalmat,<br/>és jó tanács ha kell:<br/>te adj bölcs szavakat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Add, hogy mindenkivel<br/>csak békességben éljek!<br/>Szent tanításodtól<br/>én soha el ne térjek!<br/>Jó munkám béréből<br/>majd hogyha gyarapszom,<br/>ó! engedd áldásod<br/>jóra fordítanom!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ha úgy tetszik, Uram,<br/>hogy kedvezz életemnek,<br/>ha majd vénségemet<br/>én erőben érem meg:<br/>bűnös és rút élet<br/>lelkem ne terhelje,<br/>hogy ősz haját fejem<br/>ékesen viselje!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Holtakat végnapon<br/>majd mikor feltámasztod,<br/>én koporsómhoz is<br/>hű kezedet kinyújtod;<br/>szent igéd szavával<br/>majd akkor keltsél fel,<br/>és dicsőült testben<br/>vígy engem mennybe fel!</lines>
+    </verse>
+  </lyrics>
+</song>

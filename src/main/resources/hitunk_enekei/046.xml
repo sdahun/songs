@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tebenned bíztunk eleitől fogva</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="46"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Bátorítás</theme>
+      <theme>Betegségben</theme>
+      <theme>Bizodalom</theme>
+      <theme>Gondviselés</theme>
+      <theme>Halál</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Isten örökkévaló</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Mulandóság</theme>
+      <theme>Tanítás</theme>
+      <theme>Teremtés</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tebenned bíztunk eleitől fogva,<br/>Uram, téged tartottunk hajlékunknak!<br/>Mikor még semmi hegyek nem voltanak,<br/>hogy még sem ég, sem föld nem volt formálva,<br/>te voltál és te vagy, erős Isten,<br/>és te megmaradsz minden időben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az embereket te meg hagyod halni,<br/>és ezt mondod az emberi nemzetnek:<br/>légyetek porrá, kik porból lettetek!<br/>Mert ezer esztendő előtted annyi,<br/>mint a tegnapnak ő elmúlása<br/>és egy éjnek rövid vigyázása.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kimúlni hagyod őket oly hirtelen,<br/>mint az álom, mely elmúlik azontól,<br/>mihelyt az ember felserken álmából,<br/>és mint a zöld füvecske a mezőben,<br/>amely nagy hamarsággal elhervad,<br/>reggel virágzik, este megszárad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Midőn, Uram, haragodban versz minket,<br/>ottan meghalunk és földre leesünk,<br/>a te kemény haragodtól rettegünk,<br/>ha megtekinted mi nagy bűneinket,<br/>titkos vétkünket ha előhozod,<br/>és színed eleibe állítod.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Taníts meg azért minket kegyelmesen,<br/>hogy rövid voltát életünknek értsük,<br/>és eszességgel magunkat viseljük!<br/>Ó! Úr Isten, fordulj hozzánk ismétlen!<br/>Míg hagyod, hogy éltünk nyomorogjon?<br/>Könyörülj már a te szolgáidon!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tölts bé minket reggel nagy irgalmaddal,<br/>hogy jó kedvvel vigyük véghez éltünket,<br/>ne terheltessünk nyomorúságokkal!<br/>Vigasztalj minket és adj könnyebbséget,<br/>és haragodat fordítsd el rólunk,<br/>mellyel régóta ostoroztatunk!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Szolgáidon láttassad dolgaidat,<br/>dicsőségedet ezeknek fiain!<br/>Add értenünk felséges hatalmadat,<br/>mi kegyes Urunk, ó! irgalmas Isten!<br/>Minden dolgunkat bírjad, forgassad,<br/>kezeink munkáit igazgassad!</lines>
+    </verse>
+  </lyrics>
+</song>

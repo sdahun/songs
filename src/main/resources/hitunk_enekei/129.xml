@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A csillagos nagy ég</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Miller Harold</author>
+      <author type="words">Turner Daniel</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="129"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten feltámadása</theme>
+      <theme>Angyalok</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus feltámadása</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Jézus Krisztus királysága</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A csillagos nagy ég,<br/>s a roppant űr felett<br/>a trónod ott van, Jézusom,<br/>és ott a szent helyed.<br/>A boldog égiek,<br/>az angyalseregek<br/>ott hálazsoltárt zengenek,<br/>és hódolnak neked.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A hála hozzád száll,<br/>ó! Jézus, néked szól,<br/>és áthatol a mennyeken<br/>az angyal-énekszó.<br/>Csak addig hallgatott<br/>fenn boldog énekük,<br/>míg Golgotának zord hegyén<br/>meghaltál érettünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kik láttak téged ott<br/>a messzi Golgotán,<br/>mint sírtak, mikor meghalál<br/>az átkos keresztfán.<br/>És láttak harmadnap,<br/>te győztes, dicső hős,<br/>és nagy örömmel szólt szavuk:<br/>„Az élet Ura győz!”</lines>
+    </verse>
+  </lyrics>
+</song>

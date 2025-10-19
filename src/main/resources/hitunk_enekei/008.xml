@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsérjed Istened, lelkem, szívem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Ansbach, 1665.</author>
+      <author type="words">Herrnschmidt Johann, 1714. (1675-1723.) </author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="8"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bizodalom</theme>
+      <theme>Boldogság</theme>
+      <theme>Doxologia</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megtartás</theme>
+      <theme>Oltalom</theme>
+      <theme>Szabadítás</theme>
+      <theme>Szenvedés</theme>
+      <theme>Teremtés</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjed Istened, lelkem, szívem,<br/>dicsérjed, áldjad szüntelen!<br/>E múló életed minden napján<br/>dicsérjed Istent mindenben!<br/>Ki testet, lelket alkotott,<br/>dicsérjed őt, az alkotót!<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fejedelmek is gyarló lények,<br/>a sírba száll le mindahány,<br/>és porrá válnak majd azzal együtt,<br/>amire szívük vágyott tán…<br/>Emberben nem is bízhatunk:<br/>Istenünk, hozzád fordulunk.<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily boldog ember az, kinek Isten,<br/>Jákóbnak Ura nyújt segélyt;<br/>ki hitben járja az élet útját,<br/>Krisztusát várva él, remél.<br/>Akinek Isten oltalma,<br/>azt az Úr óvja, megtartja.<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tenger mélyét, a mennyet, földet<br/>szent kezed hozta létre mind!<br/>Hatalmad műveli mindezt híven<br/>kezdetben támadt terv szerint.<br/>Mindenek kormányzója vagy,<br/>kegyelmed árja, ó! mily nagy!<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kegyelmed törli le könnyeinket;<br/>vigasztalsz minden szenvedőt;<br/>kenyeret adsz te az éhezőnek,<br/>s erőtlen kéznek új erőt.<br/>Megoldod bűnünk láncait,<br/>Kegyelmed újból felsegít.<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A vakok általad nyernek látást,<br/>Te vagy a gyöngék gyámola.<br/>Áldást az ember csak tőled kaphat,<br/>ó! hívek égi pásztora.<br/>Oltalmunk, pajzsunk vagy nekünk,<br/>egyedüllétben védelmünk!<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ki benned bízik itt, annak útja<br/>a mennybe hozzád felvezet.<br/>Ki elhagy téged, az bűnös úton,<br/>a romlás útján tévelyeg.<br/>Egyedül te vagy oltalmunk,<br/>Tebenned mindig bízhatunk.<br/>Alleluja! Alleluja!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Istennek szent nevét áldva áldjuk,<br/>dicsérjük minden tetteit!<br/>Hódolva zengjünk az Úrnak áment,<br/>ki minket mindig megsegít!<br/>Istenünk, örök Háromság,<br/>dicsér a szívünk, áldva áld.<br/>Alleluja! Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

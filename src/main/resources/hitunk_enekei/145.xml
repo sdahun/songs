@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az erős Isten, uraknak Ura</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Lyon, 1547. (1510-1569.)</author>
+      <author type="words">Marot Clément (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="145"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Engedetlenség</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten igazsága</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten ítélete</theme>
+      <theme>Isten segítségül hívása</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az erős Isten, uraknak Ura,<br/>szól és e földet mind előhívja,<br/>támadatról és nap enyészetről,<br/>nagy szépséggel a Sion hegyéről<br/>eljő az Isten ő fényességében,<br/>semmit el nem hallgat ítéletében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emésztő tűz mégyen ő előtte,<br/>nagy forgó szélvész lészen körüle;<br/>szólítja az eget és a földet,<br/>hogy megítélje minden ő népét,<br/>mondván: gyűjtsétek ide a híveket,<br/>kik áldozattal vették kötésemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az egek hirdetik igazságát<br/>az Istennek, mert ítél igazat.<br/>Én népem, hallgasd meg, szólok neked,<br/>mert bizonyságot teszek ellened,<br/>én tenéked erős Istened vagyok,<br/>áldozatiddal keveset gondolok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szükségben tőlem segítséget kérj,<br/>én megsegítlek, hogy engem dicsérj!<br/>A gonosznak mond Isten: de mire<br/>vészed törvényem a te nyelvedre?<br/>Kötésem szájjal vallod, de gyűlölöd<br/>intésemet és igémet megveted.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>És mikoron te látod a lopót,<br/>együtt futsz véle, dolgát javallod;<br/>a paráznákkal örömest mulatsz,<br/>rossz társaságnak gyakran helyet adsz;<br/>szájaddal szólasz nagy sok gonoszságot,<br/>nyelveddel szerzesz sok háborúságot.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Leülsz és atyádfiát megszólod,<br/>az anyád fiát is rágalmazod;<br/>ezt míveled, de én csak hallgatok.<br/>Azt véled, én is csak olyan vagyok,<br/>mint szintén te, de téged előveszlek,<br/>és szemlátomást bűnödről megfeddlek.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ezt mostan eszetekbe vegyétek,<br/>kik az Istenről elfelejtkeztek,<br/>hogy mentség nélkül el ne rántsalak!<br/>Az becsül engem, aki hálát ad;<br/>mond Isten: az ily ember jár jó úton,<br/>és segedelmem néki jelen vagyon.</lines>
+    </verse>
+  </lyrics>
+</song>

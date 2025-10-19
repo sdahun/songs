@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Beszéld meg, mit tégyenek az ifjak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="65"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten igéje és törvénye</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ifjúság</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten törvénye</theme>
+      <theme>Szombatiskola</theme>
+      <theme>Tanítás</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beszéld meg, mit tégyenek az ifjak,<br/>hogy élhessenek ők feddhetetlenül?<br/>Szent igéd szerint útjukat szabják.<br/>Én téged kerestelek szüntelenül;<br/>kérlek, Úr Isten, teljes szívemből:<br/>eltévelyednem ne hagyj törvényedtől!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A te igédet rejtem szívemben,<br/>hogy semmi bűnnel ne bántsalak téged,<br/>de megmaradjak te ösvényedben,<br/>minden dolgomban megtartom törvényed.<br/>Ó! áldott Isten, taníts engemet,<br/>hogy igazán értsem rendelésedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ítéletedet én ajakimmal<br/>és a te szádnak ő kegyes beszédét<br/>előszámlálom hálaadással,<br/>szent kötéseddel biztatom szívemet;<br/>bizonyságidon örvendez lelkem,<br/>mik gazdagságnál kedvesebbek nékem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szüntelen nékem gyönyörűségem<br/>vagyon csak a te parancsolatidban,<br/>te utaidat gyakran említem,<br/>hogy el ne essem valaha azokban.<br/>Szent igazságodban minden kedvem<br/>és te ösvényed én el nem tévesztem.</lines>
+    </verse>
+  </lyrics>
+</song>

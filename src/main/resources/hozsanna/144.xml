@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Menjünk az Úr elé</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menjünk az Úr elé, menjünk hálával,<br/>hálának áldozatával!<br/>Dicsérjük mindig Őt, dicsérjük nevét,<br/>végtelen, hatalmas kegyelmét!<br/>Jézus, Jézus, te vagy az Úr!<br/>Jézus, Jézus, te vagy az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

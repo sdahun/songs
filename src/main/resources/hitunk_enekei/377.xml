@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Már nyugosznak a völgyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Gesius Bartholomäus-nál, 1605. (1555-1613.)</author>
+      <author type="words">Gerhardt Paul (1607-1676.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="377"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - este</theme>
+      <theme>Este</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Oltalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Már nyugosznak a völgyek,<br/>az erdők s minden földek,<br/>már alszik a világ,<br/>de míg eljő az álom,<br/>a szívemet kitárom,<br/>s az Úrhoz küldök hő imát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! nap, hová tűntél el,<br/>hová űzött az éjjel,<br/>mely harcban áll veled?<br/>Te nem ragyogsz az égen,<br/>de más napom van nékem:<br/>betölti Jézus szívemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Már rám borul az éjjel,<br/>de biztatnak reménnyel<br/>ott fenn a csillagok,<br/>hogy engem is a mennybe<br/>felvisz az Úr kegyelme,<br/>ha a földtől megválhatok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A test nyugalmat áhít,<br/>és leveti ruháit,<br/>halandóság jelét,<br/>ezt levetem, Krisztusom<br/>rám új ruhát ad, tudom:<br/>a dicsőségnek köntösét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ti fáradt tagok, mostan<br/>tegyétek le nyugodtan<br/>a napnak terheit,<br/>vigadj, szívem, te is majd,<br/>levetheted a bút, bajt<br/>s a bűn terhét, mely keserít.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Már álom jő szememre;<br/>ki vigyáz életemre,<br/>ha most elszunnyadok?<br/>Izráel őrizője<br/>lesz házamnak védője,<br/>nem érhetnek károk, bajok.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Te légy, Jézus, oltalmam,<br/>nálad lesz jó jutalmam,<br/>hű szárnyaid alatt.<br/>Te vigyázz csak, Uram, rám,<br/>nem árt akkor a Sátán,<br/>testem, lelkem békén marad.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ti is távol s közelben,<br/>akik szerettek engem,<br/>békén pihenjetek;<br/>a sötét éjszakába’<br/>az Úr világossága<br/>őrködjék hűn fölöttetek.</lines>
+    </verse>
+  </lyrics>
+</song>

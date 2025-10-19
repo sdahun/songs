@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szűkölködünk nagy mértékben</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1837.</author>
+      <author type="words">Nagyenyed, 1785.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="322"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - igehirdetés előtt</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Reménység</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűkölködünk nagy mértékben<br/>segedelem nélkül;<br/>reménykedünk, örök Isten,<br/>te légy segítségül:<br/>dicsérhessünk és lehessünk<br/>Jézus szava hallgatói,<br/>igaz megtartói.</lines>
+    </verse>
+  </lyrics>
+</song>

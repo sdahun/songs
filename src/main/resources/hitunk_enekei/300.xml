@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! mily hű barátunk Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Converse Charles, 1868. (1834-1918.)</author>
+      <author type="words">Scriven John, 1855. (1820-1886.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="300"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - áhítat, ima</theme>
+      <theme>Betegségben</theme>
+      <theme>Bizodalom</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Hívogatás</theme>
+      <theme>Ima</theme>
+      <theme>Lelki harc</theme>
+      <theme>Próba</theme>
+      <theme>Szenvedés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! mily hű barátunk Jézus,<br/>Mert ő mindig megsegít,<br/>tárjuk fel hát imánk szárnyán<br/>éltünk súlyos terheit!<br/>Szívünk gyakran gondtól szenved,<br/>nyugtot, békét hol is lel?<br/>Ó! csak Jézus elé menjünk,<br/>bízva hittel nézzünk fel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kínozzon bár bűnöd; vétked,<br/>sújtson porba súlyos vád,<br/>hittel tekints fel az égre,<br/>gondja van az Úrnak rád!<br/>Ő a testi-lelki orvos,<br/>rajta kívül nincsen más;<br/>benne talál nyugtot szíved,<br/>benne van csak gyógyulás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élted gondja hogyha terhel,<br/>nála találsz enyhülést;<br/>vár ő téged kitárt karral,<br/>hozzá menni, ó! ne késs!<br/>Bízva, hittel nézz az Úrra,<br/>szálljon hozzá hő imád;<br/>szívből szeret, s megtart téged;<br/>Jézus Krisztus, hű barát.</lines>
+    </verse>
+  </lyrics>
+</song>

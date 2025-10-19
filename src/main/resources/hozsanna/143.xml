@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Menjetek be kapuin</title>
+    </titles>
+    <verseOrder>v1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="143"/>
+      <songbook name="Adj zengő éneket!" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menjetek be kapuin hálaadással,<br/>tornácaiba dicséretekkel!<br/>Menjetek be kapuin hálaadással,<br/>tornácaiba dicséretekkel!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Mert jó az Úr, örökkévaló kegyelme<br/>és hűsége megmarad mindörökre.<br/>Mert jó az Úr, örökkévaló kegyelme<br/>és hűsége megmarad mindörökre.</lines>
+    </verse>
+  </lyrics>
+</song>

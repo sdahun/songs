@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ha szívemben Istennek békéje él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bliss Philip (1838-1876.)</author>
+      <author type="words">Spafford Horatio (1828-1888.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="267"/>
+      <songbook name="Adj zengő éneket!" entry="36"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Békesség</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megváltás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha szívemben Istennek békéje él,<br/>vagy tomboló vész fenyeget,<br/>az ajkamról mindig e vallomás kél:<br/>csak az Úr, csak az Úr menthet meg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha tőrbe csal Sátán s a szívem remeg,<br/>az Úr Jézus pártomra kél;<br/>ő megszánt, és engemet ő mentett meg,<br/>vérét adta az én bűnömért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Golgotán szenvedett Jézus értem<br/>és bűnömet ő hordozta;<br/>most néki zeng hálát a dicsénekem,<br/>ki a bűn foglyát eloldozta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az Úr eljön értem is fénytrónusán,<br/>mert átadtam életemet.<br/>És béke lesz részem a nagy harc után:<br/>mert az Úr, mert az Úr mentett meg.</lines>
+    </verse>
+  </lyrics>
+</song>

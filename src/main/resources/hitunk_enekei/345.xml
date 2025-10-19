@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent szombat napja üdvözlégy!</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Matthews Richards, 1883. (1826-1910.)</author>
+      <author type="words">Edmeston James (1791-1867.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="345"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat kezdet</theme>
+      <theme>Szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent szombat napja üdvözlégy!<br/>Szívembe tér a békesség,<br/>s ezen a drága ünnepen<br/>lélekben felemelkedem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyugalom napja, szombat nap!<br/>Szívemnek áldást, enyhet adj!<br/>Lelkemen békéd lesz az úr,<br/>hogyha az ige magva hull.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nem hosszú már a vándorút,<br/>feledünk minden bajt és bút.<br/>Vár örök égi szombatunk,<br/>s Istennek zengve hódolunk.</lines>
+    </verse>
+  </lyrics>
+</song>

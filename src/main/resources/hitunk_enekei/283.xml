@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A könyörgésem hozzád száll</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Luther Márton, 1524. (1483-1546.)</author>
+      <author type="words">Luther Márton, 1524. (1483-1546.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="283"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Hit</theme>
+      <theme>Ima</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megigazulás</theme>
+      <theme>Szorongattatás</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A könyörgésem hozzád száll<br/>a mélységből Úr Isten,<br/>szent trónodnál irgalom vár,<br/>bár tengernyi a vétkem!<br/>Ha megítélnéd, Istenem,<br/>mit neved ellen vétettem,<br/>ki áll meg színed előtt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nagy kegyelmed oly végtelen,<br/>hogy bűnöm elfelejted;<br/>nincs nékem semmi érdemem,<br/>de mégis bízom benned.<br/>Nem sújtasz vétek, bűn szerint,<br/>ha szívem bízva rád tekint,<br/>te megbocsátasz nékem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr Istenben bízom én,<br/>nem gyarló érdemekben<br/>és éltet az a szent remény,<br/>hogy üdvöt nyer a lelkem.<br/>Szent igéd arról biztosít,<br/>hogy Jézus Krisztus üdvözít<br/>és ez ád erőt nékem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A küzdés nehéz percében<br/>én erős hittel várlak;<br/>nem kételkedem sohasem,<br/>ha gyötör is a bánat.<br/>Ki Lelked által újjá lett,<br/>nyer üdvösséget, életet,<br/>ha benned bízik mindig.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha vétkeimnek terhe nagy,<br/>még nagyobb szent kegyelmed!<br/>Te irgalomnak Atyja vagy<br/>és szereted az embert.<br/>Te irányítod léptemet<br/>és oltalmazod lelkemet,<br/>mert te vagy a hű Pásztor!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mint a szarvas</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">M. Nystrom</author>
+      <author type="words">Szilvási Ágota</author>
+      <author type="words">Gáspár Róbert</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint a szarvas a forrás vízre,<br/>úgy vágyom Rád, Uram.<br/>Te vagy egyedül az én szívem vágya.<br/>Szolgállak, Uram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pásztor vagy és erősség,<br/>a lelkem mit kívánhatna még?<br/>Te vagy egyedül az én szívem vágya,<br/>szolgállak, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többet érsz nekem minden drága kincsnél,<br/>mert megerősítesz.<br/>Te vagy egyedül az, ki betölt engem<br/>mindenek felett.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy Király vagy mégis a barátom<br/>és a testvérem.<br/>Téged szeretni vágylak, Uram Jézus,<br/>mindenek felett.</lines>
+    </verse>
+  </lyrics>
+</song>

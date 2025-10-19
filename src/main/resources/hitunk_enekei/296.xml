@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! Jézusunk, az ügy tied</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Kaiserswerth, 1866.</author>
+      <author type="words">Preiswerk Samuel, 1829. (1799-1871.)</author>
+      <author type="words">Zaremba Felician, 1839. (1794-1874.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="296"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - küldetés</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Küldetés</theme>
+      <theme>Szolgálat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! Jézusunk, az ügy tied,<br/>mit híven szolgálunk,<br/>az soha tönkre nem mehet,<br/>ez a bizodalmunk.<br/>Mint földbe hullott apró mag,<br/>mely százszor annyi termést ad,<br/>hogy telt kalászként élhessen,<br/>lám meghal ott a földben lenn,<br/>hogy élhessen,<br/>lám meghal odalenn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te felmentél a mennyekbe<br/>sok szenvedés árán,<br/>hogy így kövessünk tégedet<br/>az életnek útján;<br/>ó! adj részt szenvedésedben<br/>és örök dicsőségedben,<br/>s az áldozatod tartsa meg<br/>az életünket s szent ügyed,<br/>ó! tartsa meg<br/>az éltünk s szent ügyed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint földbe hullott búzaszem,<br/>te is úgy haltál meg;<br/>a világ is holt bűnében,<br/>de te azt megmented.<br/>Ó! Urunk, küldj sok hírnököt,<br/>hogy szárnyaljon a föld fölött<br/>a megmentő szent égi szó,<br/>te szent igédet hordozó,<br/>az égi szó,<br/>igédet hordozó.</lines>
+    </verse>
+  </lyrics>
+</song>

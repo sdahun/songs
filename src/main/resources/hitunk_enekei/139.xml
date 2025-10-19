@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! jöjj, ó! jöjj, Immánuel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">XIII. század.</author>
+      <author type="words">XVIII. század.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="139"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Öröm</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! jöjj, ó! jöjj, Immánuel,<br/>hisz úgy vár téged Izráel.<br/>Mert tőled távol hontalan,<br/>s csak gyötrelme és kínja van.<br/>Örvendj! örvendj, ó! Izráel,<br/>mert eljövend Immánuel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! jöjj el, Jessze gyökere,<br/>az ellenséged győzzed le,<br/>a sötétséget űzzed el,<br/>és járj előttünk fényeddel!<br/>Örvendj! örvendj, ó! Izráel,<br/>mert eljövend Immánuel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! jöjj el, áldott hajnalpír,<br/>te vigasztalás, örömhír,<br/>és törd át a bűn rút ködét,<br/>és űzd el fagyos éjjelét!<br/>Örvendj! örvendj, ó! Izráel,<br/>mert eljövend Immánuel!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Dávid kulcsa, jöjj el már,<br/>hogy országodba kaput tárj!<br/>Ó! nyisd meg nékünk utadat,<br/>ne legyen részünk kárhozat.<br/>Örvendj! örvendj, ó! Izráel,<br/>mert eljövend Immánuel!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! jöjj, felséges Istenünk,<br/>ki Sína-hegyről szólt nekünk!<br/>Ó! törvényadó, hozd el hát<br/>az ádvent dicső hajnalát!<br/>Örvendj! örvendj, ó! Izráel,<br/>mert eljövend Immánuel!</lines>
+    </verse>
+  </lyrics>
+</song>

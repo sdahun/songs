@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szürke a föld</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="191"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szürke a föld és szürke az ég,<br/>kopár az út, csillag sem ég,<br/>elcsüggedt szívű magányos vándor hová mész?<br/>Ne menj tovább, nem futhatsz el,<br/>csak rajtad áll, csak tenned kell,<br/>elcsüggedt szívű, magányos vándor, van remény!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Álmaimból, lelkemből,<br/>két kezemből, szívemből,<br/>szól ez a dal, tied a dal,<br/>zengjen a dal szívedben,<br/>gyulladjon fény a lelkedben,<br/>vezesse lépteidet az Isten,<br/>vezesse életed! Ó, ó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Valamikor így éltem én,<br/>azt hittem már, nincs is remény,<br/>elcsüggedt szívű, magányos vándor voltam én!<br/>Valaki jött, rám nevetett:<br/>ne menj tovább, nyújtsd a kezed,<br/>elcsüggedt szívű, magányos vándor, sose félj!</lines>
+    </verse>
+  </lyrics>
+</song>

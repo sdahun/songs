@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Háláld az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Köbner Gyula</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="28"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Háláld az Úrat mert Ő kegyelmes!<br/>Minden lélek örvendjen néki,<br/>gondjaidat magadtól mind elvesd:<br/>Jósága megmarad örökké.<br/>Jósága megmarad örökké.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Izrael, te Úr népe, csodáljad<br/>kegyelmét, mely tégedet tölt bé,<br/>boldogan rebegje szíved, ajkad:<br/>Jósága megmarad örökké.<br/>Jósága megmarad örökké.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten papjai felékesítve,<br/>kikre Jézus Szentlelket külde,<br/>zengjétek ezt, Őtet dicsőítve:<br/>Jósága megmarad örökké.<br/>Jósága megmarad örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

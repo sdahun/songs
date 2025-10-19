@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Földön és égen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="42"/>
+    </songbooks>
+    <themes>
+      <theme>Karácsony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Földön és égen<br/>énekelje minden:<br/>megszületett Krisztus,<br/>eljött közénk.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eljött a földre<br/>gyenge testet öltve,<br/>árasztva rád is<br/>nagy szeretetét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kétezer éve<br/>ragyog ránk a fénye,<br/>nem múló béke<br/>sugárzik felénk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gyermeki szívvel<br/>menjünk hozzá hittel,<br/>m’ért tétovázol,<br/>tarts velünk ma még.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívünkbe zárjuk,<br/>leborulva áldjuk<br/>Jézust, ki értünk<br/>adta életét.</lines>
+    </verse>
+  </lyrics>
+</song>

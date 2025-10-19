@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A sziklára bátran építünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Belden Franklin (1858-1945.)</author>
+      <author type="words">Belden Franklin, 1886. (1858-1945.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="257"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Erő</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Növekedés</theme>
+      <theme>Üdvbizonyosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A sziklára bátran építünk,<br/>mely Jézus, kit régen várunk;<br/>a vésztől, az ártól nem félünk,<br/>mert sziklán áll a házunk.<br/>Ó! szirt, sziklaszirt,<br/>ó! szirt, sziklaszirt.<br/>Csak rád, Jézus Krisztus, csak rád épít<br/>a benned hívő szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily balga, ki lelki otthonát<br/>az omló fövényre bízza;<br/>a hullám is mossa alapját,<br/>s a vihar összezúzza.<br/>Ó! szirt, sziklaszirt,<br/>ó! szirt, sziklaszirt.<br/>Csak rád, Jézus Krisztus, csak rád épít<br/>a benned hívő szív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A sziklára bátran építsünk,<br/>a biztos és igaz szirtre,<br/>mely megtart és éltet ád nékünk,<br/>s az üdvünk reménysége.<br/>Ó! szirt, sziklaszirt,<br/>ó! szirt, sziklaszirt.<br/>Csak rád, Jézus Krisztus, csak rád épít<br/>a benned hívő szív.</lines>
+    </verse>
+  </lyrics>
+</song>

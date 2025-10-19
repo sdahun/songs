@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr az erősségünk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="16"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Zsolt 18,3</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr az erősségünk, Ő az üdvösségünk,<br/>hatalmas, biztos kősziklánk.<br/>Amelyre, ha állunk, nem inog meg lábunk,<br/>szívünk szárnyal, mint sas madár.<br/>Ő benne, ha bízunk, el nem veszhetünk,<br/>Isten ha velünk van, ki lehet ellenünk?<br/>Az Úr az erősségünk, Ő az üdvösségünk,<br/>hatalmas, biztos Kősziklánk.</lines>
+    </verse>
+  </lyrics>
+</song>

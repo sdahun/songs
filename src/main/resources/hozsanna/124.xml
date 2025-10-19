@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjjetek, örvendjünk az Úr előtt</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="124"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjjetek, örvendjünk az Úr előtt,<br/>ujjongjunk Kősziklánk előtt!<br/>Menjünk eléje hála’dással,<br/>ujjongjunk énekszóval;<br/>nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő az Úr minden nép fölött,<br/>Király Ő királyok fölött.<br/>Kezében van a föld mélysége,<br/>a világ összes teremtménye;<br/>nagy, nagy Isten az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Menjünk, boruljunk le,<br/>menjünk, hajoljunk meg,<br/>essünk térdre alkotónk, az Úr előtt!<br/>Menjünk, boruljunk le,<br/>menjünk hajoljunk meg,<br/>essünk térdre alkotónk, az Úr előtt!<br/>Ő az Úr! Ő az Úr! Ő az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

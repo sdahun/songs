@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mindnyájan vétkeztek</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 c3</verseOrder>
+    <authors>
+      <author type="music">Új Forrás együttes</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindnyájan vétkeztek, mindnyájan elestek,<br/>és egy ember sem akadt, aki hűséges maradt.<br/>Erőszak, gyilkosság, minden utad hazugság,<br/>eljön az ítélet, mert nem kellett az élet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Térjetek Hozzám, hogy megtartassatok,<br/>egész világ határain!<br/>Mert Én vagyok, Én vagyok az Isten,<br/>és nincsen más, aki meg tudna szabadítani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elhagytál, megcsaltál, hűségben megfáradtál,<br/>Istened a világ lett, elfoglalta szívedet.<br/>Mégis az enyém vagy, szívemben hordozlak,<br/>soha el nem felejtlek, újra összegyűjtelek.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Önmagamért, csak magamért teszem:<br/>mert szeretlek, mert szeretlek.<br/>Meggyógyítom az álnok szíveket,<br/>és Hozzám hűséges népet teremtek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy bátor, készen állj! Légy erős, légy szilárd!<br/>Ne félj, érted harcolok, és majd győzelmet adok!<br/>Indulj hát és ne várj! Az úton vigyázz, meg ne állj!<br/>Vigasztaljad népemet, fordítsd Hozzám szívüket!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Mert vizet öntök a szomjúhozóra,<br/>folyóvizet a szárazra.<br/>Kiöntöm Szellemem a Te magodra,<br/>és áldást árasztok utódaidra.</lines>
+    </verse>
+  </lyrics>
+</song>

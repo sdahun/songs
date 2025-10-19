@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! felséges Úr, mi kegyes Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, 1542. (1510-1569.)</author>
+      <author type="words">Marot Clément (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="34"/>
+      <songbook name="Adj zengő éneket!" entry="101"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Angyalok</theme>
+      <theme>Gondviselés</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten dicsősége</theme>
+      <theme>Teremtés</theme>
+      <theme>Természet</theme>
+      <theme>Világ bizonysága Istenről</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! felséges Úr, mi kegyes Istenünk,<br/>mely csudálatos a te neved nékünk!<br/>Nagy dicsőséged ez egész földre<br/>kiterjed és felhat az egekre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérnek téged még a csecsszopók is,<br/>szájukban viselik nevedet ők is,<br/>kik által ellenséget megejtesz,<br/>és bosszúállót megszégyenítesz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nagy voltát ha megnézem dolgaidnak,<br/>melyeket a te ujjaid formáltak,<br/>az eget, holdat, a fényes napot,<br/>és szép renddel a sok csillagokat:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csodálván mondom: micsoda az ember,<br/>ki tőled ennyi sok dicsőséget nyer?<br/>De micsoda az embernek fia,<br/>kiről felségednek van ily gondja?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az angyaloknál noha egy kevéssé<br/>kisebbé tőd, de nagy dicsőségessé<br/>teremtéd őtet és magasztalád,<br/>nagy dicsőségre felkoronázád.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kezed munkáin őtet úrrá tevéd,<br/>hogy azokkal bírna, néki engedéd,<br/>valamit e világra teremtél,<br/>mindeneket lába alá vetél.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Juhot, ökröt és egyéb állatokat,<br/>a hegyen és völgyön élő vadakat,<br/>kik az erdőkön széjjel legelnek,<br/>avagy sík réten, mezőn tengenek.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>És a repeső égi madarakat,<br/>kik hangicsálnak szép melódiákat,<br/>és sok halait a nagy tengernek<br/>adád birtokába az embernek.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ó! felséges Úr, mi kegyelmes Urunk,<br/>mely csodálatos a te neved nálunk!<br/>Felségednek mely nagy dicsősége,<br/>mellyel teljes e föld kereksége.</lines>
+    </verse>
+  </lyrics>
+</song>

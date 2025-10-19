@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hívlak, Uram, várlak, Uram</title>
+    </titles>
+    <verseOrder>o1 o2 o3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="93"/>
+      <songbook name="Adj zengő éneket!" entry="40"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Hívlak Uram, várlak, Uram,<br/>Benned bízom, Benned reménykedem.<br/>Hívlak Uram, várlak Uram,<br/>légy segítségem, légy menedékem!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Mert Te szóltál<br/>és előállt a földkerekség,<br/>mert Te szóltál<br/>és csillagok lettek az ég tengerén,<br/>mert Te szóltál<br/>és víz fakadt a kősziklából,<br/>mert Te szóltál<br/>és megindult a föld a szavadtól.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el Uram,<br/>és cselekedjél!<br/>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el Uram,<br/>és cselekedjél!</lines>
+    </verse>
+  </lyrics>
+</song>

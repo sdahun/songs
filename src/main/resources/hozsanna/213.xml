@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Uram, én áldom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uram, én áldom a te szent nevedet!<br/>Az ég minden angyalával együtt dicsérlek,<br/>és a hangod meghallom a szívem legmélyén,<br/>a te örömöd betölt, mert a tiéd vagyok én,<br/>a te örömöd betölt, mert a tiéd vagyok én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uram, én hálát adok neked mindenért,<br/>az életem nélküled, most látom, mit sem ér.<br/>Veled járok, téged imádlak a szívem legmélyén,<br/>a te örömöd betölt, mert a tiéd vagyok én,<br/>a te örömöd betölt, mert a tiéd vagyok én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, ó, Isten Fia, köszönöm neked,<br/>hogy értem is elszenvedted szörnyű kereszted,<br/>ez a váltság nyugtat meg a szívem legmélyén,<br/>a te örömöd betölt, mert a tiéd vagyok én,<br/>a te örömöd betölt, mert a tiéd vagyok én.</lines>
+    </verse>
+  </lyrics>
+</song>

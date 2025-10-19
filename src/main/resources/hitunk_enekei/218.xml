@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt a szívem, égi Atyám</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Mason Lowell (1792-1872.)</author>
+      <author type="words">Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="218"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Átadás</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megváltás</theme>
+      <theme>Szív</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt a szívem, égi Atyám,<br/>tiéd egész életem;<br/>munkáld, formáld kedved szerint,<br/>hogy az üdvöt elnyerjem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tisztítsad meg minden szennytől<br/>szegény bűnös szívemet;<br/>téríts le a széles útról,<br/>újítsad meg éltemet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kegyelmedet áraszd énrám,<br/>áldott Lelked erejét;<br/>szereteted vegyen körül,<br/>hadd lehessek a tiéd!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Megvált engem Jézus vére,<br/>minden bűntől megtisztít;<br/>Isten Lelke elpecsétel,<br/>öröklétre felkészít.</lines>
+    </verse>
+  </lyrics>
+</song>

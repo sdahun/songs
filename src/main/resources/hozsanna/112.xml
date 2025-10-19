@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, tiszta lényed nézve</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="112"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, tiszta lényed nézve,<br/>lelkünk vágyik az égi fényre.<br/>Jöjj a szívünket átadjuk néked,<br/>töltsön el öröm, mennyei béke.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Világíts! Világíts! Jézus ragyogj,<br/>töltsd be szent, égi fénnyel éltünk.<br/>Szívünk tüzét, kérünk, gerjeszd fel.<br/>Hadd jusson el minden néphez<br/>e nagy kegyelem.<br/>Küldd szent tüzed,<br/>mindenhol fény legyen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért kell, ó, az éjben járnunk,<br/>célt, reményt vajon hol találunk?<br/>Nem kell sírnod, nem kell félned,<br/>Jézus bűnné lett értem és érted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bárcsak Krisztus égi fénye<br/>rólunk visszatükröződne!<br/>Hadd látnák meg az emberek rajtunk,<br/>bűnünk terhétől megszabadultunk.</lines>
+    </verse>
+  </lyrics>
+</song>

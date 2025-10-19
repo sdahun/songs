@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Jézus Krisztusnak szent kegyelme</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Gregor Christian (1723-1801.)</author>
+      <author type="words">Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="332"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - záró ének</theme>
+      <theme>Doxologia</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Jézus Krisztusnak szent kegyelme,<br/>Isten nagy szerelme,<br/>Szentlélek Úr Isten közössége,<br/>Ó! legyen velünk legyen velünk! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

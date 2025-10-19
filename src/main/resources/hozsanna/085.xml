@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hálát adok Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="85"/>
+      <songbook name="Adj zengő éneket!" entry="39"/>
+      <songbook name="Erőm és énekem az Úr" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adok Uram, az életért.<br/>Rólad zeng éneket<br/>hegy, völgy s a rét.<br/>A napokat Te számolod,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmad Istenem mindent fölér.<br/>Szavadra engednek:<br/>tenger és szél.<br/>Leborulnak a csillagok,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imádom szent Atyám dicső neved.<br/>Te vagy a végtelen<br/>nagy szeretet.<br/>Kegyelmed ma ingyen adod,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+  </lyrics>
+</song>

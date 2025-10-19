@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Egy szív érettem dobogott</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy szív érettem dobogott,<br/>egy szívnek nagy fájdalma volt.<br/>Egy szív engem hőn szeretett,<br/>egy szív érettem megrepedt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E szívben az irgalom élt,<br/>e szív szerette a szegényt.<br/>E szívben nem volt semmi folt,<br/>e szív Jézusom szíve volt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha szívedre búbánat száll,<br/>jöjj Jézushoz, mert szíve vár!<br/>E szívben van számodra hely,<br/>a szíved itt békére lel.</lines>
+    </verse>
+  </lyrics>
+</song>

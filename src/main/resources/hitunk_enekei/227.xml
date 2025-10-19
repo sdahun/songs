@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úrnak hangja szólt hozzám</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Spohr Ludwig (1784-1859.)</author>
+      <author type="words">Bonar Horatius, 1846. (1808-1880.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="227"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Békesség</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Hívogatás</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Próba</theme>
+      <theme>Új élet</theme>
+      <theme>Újjászületés</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak hangja szólt hozzám:<br/>ó! jöjj már gyermekem,<br/>a bűnödet én elveszem,<br/>pihenj a keblemen!<br/>Az Úrhoz vittem akkor én<br/>elcsüggedt lelkemet,<br/>és békességre lelt szívem,<br/>és végre megpihent.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak hangja szólt hozzám:<br/>az üdv forrása vár;<br/>a szomjas szív megújul itt,<br/>ó! jöjj, siess, igyál!<br/>Mily boldog szívvel csüggtem ott<br/>az élet kútfején,<br/>a lelkem újjáéledett,<br/>s most benne élek én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úrnak hangja szólt hozzám:<br/>ím én vagyok a fény;<br/>csak jöjj, kövess és bizton jársz<br/>a próbák éjjelén!<br/>Az Úrra néztem akkor én,<br/>és áradt fénye rám,<br/>e fényben járok szüntelen,<br/>míg el nem jön hazám!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>E szent nap reggele</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Mason Lowell</author>
+      <author type="words">H. J. F.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="64"/>
+      <songbook name="Hitünk énekei" entry="405"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: A szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>E szent nap reggele<br/>vonz ég felé<br/>hozzád óh jó Atyánk,<br/>küldj áldást ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És midőn hű néped<br/>dicsér téged,<br/>e kedves szent napon<br/>áldj gazdagon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áraszd ránk üdvödet,<br/>taníts minket,<br/>igaz ösvényedre<br/>szent igédre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldj kedves Megváltóm<br/>e szent napon<br/>minden hívő lelket,<br/>aki szeret.</lines>
+    </verse>
+  </lyrics>
+</song>

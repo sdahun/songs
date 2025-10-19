@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Bús lelkem bántja bánat, bűnteher</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Langran James, 1862.</author>
+      <author type="words">Stone Samuel, 1866. (1839-1900.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="180"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megtérés</theme>
+      <theme>Átadás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Erő</theme>
+      <theme>Hívogatás</theme>
+      <theme>Kísértés</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bús lelkem bántja bánat, bűnteher,<br/>az égre nézek, oda vágyom fel.<br/>Nincsen ott bűn és nincsen ott halál,<br/>Jézusom hív és biztat: „Várlak már!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg itt e földön járom utamat,<br/>bár folyton kísért minden pillanat,<br/>egy égi szó ad új erőt nekem:<br/>„Térj meg és vár reád a győzelem!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szentlelked nélkül nincs nekem erőm,<br/>ám benned bízom, égi megmentőm!<br/>Add nekem, Jézus, Lelked erejét,<br/>hadd legyek mindörökké a tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

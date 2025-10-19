@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mondjatok dicséretet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Bártfa, 1593.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="24"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Doxologia</theme>
+      <theme>Egyház</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Isten szentsége</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Szombat</theme>
+      <theme>Úrvacsora</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondjatok dicséretet,<br/>keresztyének, az Úr Istennek,<br/>szentséges tiszteletet<br/>adjatok ő nevének!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvendjetek őneki<br/>igaz isteni félelemmel;<br/>mert köztetek lakozik<br/>az anyaszentegyházban!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ő megelégíti<br/>lelketeket lelki kenyérrel,<br/>biztat ő igéjével,<br/>édes ígéretivel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent, Uram, a te neved,<br/>szent vagy te a magas mennyekben,<br/>szent vagy és rettenetes<br/>minden nemzetségekben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tégedet illet, Uram,<br/>mi tiszteletünk, hál’adásunk,<br/>a mi gyülekezetünk,<br/>ünnepi szentelésünk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hála legyen tenéked,<br/>hogy megjelentéd te magadat,<br/>hogy megértettük, Uram,<br/>a te akaratodat!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Dicséret és dicsőség<br/>légyen tenéked magasságban,<br/>dicséret és tisztesség<br/>az anyaszentegyházban!</lines>
+    </verse>
+  </lyrics>
+</song>

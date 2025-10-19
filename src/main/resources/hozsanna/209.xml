@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Újjá tette szívem</title>
+    </titles>
+    <verseOrder>v1 c1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="209"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Újjá tette szívem,<br/>vére elrejt engem.<br/>Elhiszem, elhiszem!<br/>Bűntől szabad vagyok,<br/>Ő már meggyógyított.<br/>Elhiszem, elhiszem!<br/>Zászlóm lobogjon,<br/>mert Ő legyőzte a sírt!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Megváltóm él! Megváltóm él!<br/>Megváltóm él! Megváltóm él!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Terhem levetted,<br/>fölemeltél.<br/>Hát táncolok, míg eljön majd<br/>királyságod hamar!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Erős vár a mi Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Luther Márton, 1528. (1483-1546.)</author>
+      <author type="words">Luther Márton, 1528. (1483-1546.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="285"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Bátorítás</theme>
+      <theme>Egyház</theme>
+      <theme>Erő</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Megtartás</theme>
+      <theme>Oltalom</theme>
+      <theme>Szorongattatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erős vár a mi Istenünk,<br/>jó fegyverünk és pajzsunk,<br/>ha ő velünk, ki ellenünk?<br/>Az Úr a mi oltalmunk.<br/>Az ős ellenség<br/>most is üldöz még,<br/>nagy a serege,<br/>csalárdság fegyvere;<br/>nincs ilyen több a földön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A harcra erőnk mit sem ér,<br/>mi csakhamar elesnénk;<br/>de küzd értünk a hős vezér,<br/>kit Isten rendelt mellénk.<br/>Kérdezed: ki az?<br/>Úr Jézusom az,<br/>Ki Isten Fia,<br/>az ég és föld Ura,<br/>ő a mi diadalmunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E világ minden ördöge<br/>ha elnyelni akarna,<br/>nem riadnánk, mert ellene<br/>győz hitünk diadalma.<br/>E világ ura<br/>bár tör bosszúra:<br/>nincs ereje már,<br/>reá ítélet vár:<br/>az ige porba dönti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az ige kőszálként megáll,<br/>megszégyenül, ki bántja;<br/>az Úr mivelünk hadba száll,<br/>Szentlelkét nékünk adja.<br/>Jóhírt, életet<br/>és minden kincset,<br/>mind elvehetik,<br/>mit ér ez őnekik?<br/>A menny megmarad nékünk.</lines>
+    </verse>
+  </lyrics>
+</song>

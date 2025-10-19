@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Éjjel, nappal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="music">Spirituálé</author>
+      <author type="translation" lang="hu">Hányik Mária, 1980</author>
+      <author type="translation" lang="hu">Hégely László, 1980</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="30"/>
+      <songbook name="Hozsánna énekes" entry="51"/>
+    </songbooks>
+    <themes>
+      <theme>Esti ének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Éjjel, nappal<br/>angyal szeme vigyáz rám, Uram,<br/>éjjel, nappal<br/>angyal szeme vigyáz rám.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A nap lemegy nyugaton,<br/>angyal szeme vigyáz rám, Uram,<br/>eltölt teljes nyugalom,<br/>angyal szeme vigyáz rám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lepihenek csendesen,<br/>angyal szeme vigyáz rám, Uram,<br/>reád bízom életem.<br/>Angyal szeme vigyáz rám.</lines>
+    </verse>
+  </lyrics>
+</song>

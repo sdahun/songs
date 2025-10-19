@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézus, mely igen drága</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Lengyel József (1770-1822.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="325"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - igehirdetés előtt</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten félelme</theme>
+      <theme>Isten igéje</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Szombatiskola</theme>
+      <theme>Tanítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, mely igen drága,<br/>a te igédnek világa,<br/>mely bölccsé tévén az elmét,<br/>szüli az Úrnak félelmét.<br/>Gerjeszd fel most indulatunk,<br/>hogy míg igédre hallgatunk,<br/>végyen bennünk épületet<br/>a hit, reménység és szeretet:<br/>tégy bölcsekké, tégy szentekké!</lines>
+    </verse>
+  </lyrics>
+</song>

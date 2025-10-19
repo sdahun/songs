@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vizsgálj meg!</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="216"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vizsgálj meg,<br/>tisztíts meg,<br/>Istenem,<br/>szeretlek,<br/>odaadom néked<br/>ez életem.</lines>
+    </verse>
+  </lyrics>
+</song>

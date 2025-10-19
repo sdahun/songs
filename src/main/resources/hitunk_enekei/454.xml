@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A békehírnök lába óh mily kedves</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="454"/>
+      <songbook name="Üdv- és adventi énekek" entry="352"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A békehírnök lába óh<br/>mily kedves és mily szép,<br/>ki Üdvkirályunk szent szavát<br/>hordozza szerteszét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, Urunknak hála dics!<br/>Ki a Siont építi mostan is,<br/>Urunk, óh küldj több hírnököt,<br/>mert nagy e földi tér;<br/>és még Atyánknál sok a hely,<br/>melyet Te készítél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Urunk, óh küldj több hírnököt,<br/>mert nagy e földi tér;<br/>és még Atyánknál sok a hely,<br/>melyet Te készítél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még rombol mindig a gonosz,<br/>bűn árja zúg nagyon.<br/>Ámde egyházad győztesen<br/>áll sziklaalapon.</lines>
+    </verse>
+  </lyrics>
+</song>

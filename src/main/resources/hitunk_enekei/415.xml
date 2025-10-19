@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Itt immár az idő</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="415"/>
+      <songbook name="Üdv- és adventi énekek" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt immár az idő, hirdessétek<br/>minden nyelvnek most és minden népnek:<br/>„Féljétek a nagy Istent<br/>ítélete megjelent.”<br/>Istennek országáról szóló örömhír<br/>hangozzék az egész földön át,<br/>míg eljő a reggel, ama szép hajnalpír,<br/>s látjuk aratás Urát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nagy Babilon immár leomlott,<br/>mely e földön oly rég uralkodott.<br/>A tévelygés borából<br/>nem ihatnak már sehol.<br/>Istennek országáról szóló örömhír<br/>hangozzék az egész földön át,<br/>míg eljő a reggel, ama szép hajnalpír,<br/>s látjuk aratás Urát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne tiszteljétek azt a hatalmat,<br/>amely az igazságtól elmaradt.<br/>„Ne imádjátok képét,<br/>fel ne vegyétek jegyét.”<br/>Istennek országáról szóló örömhír<br/>hangozzék az egész földön át,<br/>míg eljő a reggel, ama szép hajnalpír,<br/>s látjuk aratás Urát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eljön felhőben az ember fia,<br/>mert érett már a föld aratásra.<br/>„A búzát összegyűjti,<br/>A konkolyt elégeti.”<br/>Istennek országáról szóló örömhír<br/>hangozzék az egész földön át,<br/>míg eljő a reggel, ama szép hajnalpír,<br/>s látjuk aratás Urát!</lines>
+    </verse>
+  </lyrics>
+</song>

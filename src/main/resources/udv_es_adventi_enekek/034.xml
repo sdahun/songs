@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Légy vidám, óh lelkem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Hit Hangjai</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="34"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy vidám, óh lelkem, és ne csüggedj el;<br/>túl a halál éjén élet fénye kel!<br/>Hagyd folyni könnyeid csendes görgéssel,<br/>kövesd benső vágyid hittel mennybe fel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magad vagy, azt véled, fájdalmas szívvel?<br/>Nem hív Krisztus téged a magasba fel?<br/>Nem hallod kínodban szerelmes szavát?<br/>Az ajtó nyitva van, Megváltód kiált.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jer, s többé ne ereszd Őt ki kebledből,<br/>kerüld mi szemfényt veszt, élj szerelméből.<br/>Ne távozz Uradtól, légy közelébe,<br/>míg angyalok visznek Atyád ölébe.</lines>
+    </verse>
+  </lyrics>
+</song>

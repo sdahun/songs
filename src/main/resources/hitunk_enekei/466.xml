@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vígan folyik a kis patak</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="466"/>
+      <songbook name="Üdv- és adventi énekek" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vígan folyik a kis patak<br/>a hegyről a völgybe le,<br/>aranypikkelyes kis halak<br/>boldogan úsznak benne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy szeretlek kis patakom,<br/>te a menny ajándéka!<br/>Te légy mindig az italom,<br/>szomjam csillapítója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Többé még ki is üríti<br/>a részegítő pohárt?<br/>Ami neki csak növeli<br/>szegénységét, nyomorát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nézd, hogy fürdik a madárka<br/>a szép tiszta patakban,<br/>s utána vígan dalolja<br/>énekét a bokorban!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A természetre hallgatok<br/>és erősen fogadom,<br/>hogyha bárhova is jutok,<br/>csak a víz lesz italom!</lines>
+    </verse>
+  </lyrics>
+</song>

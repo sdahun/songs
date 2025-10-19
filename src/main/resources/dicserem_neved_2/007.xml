@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A mi Urunk szent</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="7"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Zsolt 99,9</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mi Urunk szent, örökké szent a neve,<br/>a mi Urunk szent, örökké szent a neve,<br/>a mi Urunk szent örökké szent a neve,<br/>dicséretek között lakozik.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ezért dicsérem Őt a szentek közösségében,<br/>éneket zengek, magasztalom az Ő nevét.<br/>Az Ő félelme igazgatja minden léptem,<br/>mert nagy és szent az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

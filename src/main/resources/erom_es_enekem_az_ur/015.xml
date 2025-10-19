@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr az én jó pásztorom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Jessie Seymour Irvine (1836-1887)</author>
+      <author type="translation" lang="hu">Déri Balázs, 1984</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="15"/>
+    </songbooks>
+    <themes>
+      <theme>Zsolt 23</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr az én jó pásztorom,<br/>így nem szűkölködöm:<br/>hűs, csendes vízhez elvezet,<br/>legeltet dús füvön.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha éjsötétben járok is,<br/>nem rémít zord halál;<br/>mert vélem vagy mindennapon,<br/>lelkem nyugtot talál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr kegyelme, jóvolta,<br/>egy élten át követ,<br/>az Ő házában lelhetek<br/>örökre lakhelyet.</lines>
+    </verse>
+  </lyrics>
+</song>

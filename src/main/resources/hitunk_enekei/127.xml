@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hívő lelkek, zengjetek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Sullivan Arthur, 1872. (1842-1900.)</author>
+      <author type="words">Damaszkuszi János után (VIII. század.) Neale John, 1859. (1818-1866.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="127"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten feltámadása</theme>
+      <theme>Jézus Krisztus feltámadása</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hívő lelkek, zengjetek<br/>diadalmas zsoltárt,<br/>mert a komor felhőkön<br/>vidám sugár tört át!<br/>Jeruzsálem, ujjongj hát,<br/>megszűnt már a bánat;<br/>örvendezz e nagy napon,<br/>Jézusunk feltámadt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma, a Lélek tavaszán<br/>győz a fény, az élet;<br/>a sír sötét éjéből<br/>Krisztus újraéledt.<br/>Hosszú, gyászos volt a tél,<br/>bűneinknek éje,<br/>és most mégis áttöré<br/>Jézus meleg fénye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluja! – zengjük most<br/>a feltámadottnak,<br/>Ki megtörte erejét<br/>sötétségnek, sírnak.<br/>Alleluja! – mi Atyánk,<br/>magasztaljon ének;<br/>alleluja! néked is,<br/>éltet adó Lélek!</lines>
+    </verse>
+  </lyrics>
+</song>

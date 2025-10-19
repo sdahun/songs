@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A csillagokban látom</title>
+    </titles>
+    <verseOrder>v1 v2 e1 e2 e1 e2</verseOrder>
+    <authors>
+      <author type="music">Rachel Carminchael</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="1"/>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A csillagokban látom a kezed;<br/>szél hirdeti a Te fenséged,<br/>uralkodsz a föld és víz felett.<br/>Mit jelent nekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Születése is már oly csodás;<br/>megjövendölték a próféták,<br/>a bűntől szabaddá tett engemet.<br/>Mit jelent nekem?</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hitem által érzem kegyelmét,<br/>hitem által várom eljöttét,<br/>tudom, hogy Ő több, mint oly isten,<br/>ki gondot nem visel,<br/>hisz ember alkotása.</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Napról napra érzem a kezét,<br/>gazdagon megáldó Szent kezét.<br/>Rávezet a keskeny útra,<br/>Ő mindenem nekem.</lines>
+    </verse>
+  </lyrics>
+</song>

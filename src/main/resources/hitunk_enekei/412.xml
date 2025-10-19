@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Trónod elébe járulunk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="412"/>
+      <songbook name="Üdv- és adventi énekek" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trónod elébe járulunk,<br/>Jehova Istenünk.<br/>Szívünknek hálaérzetét<br/>engedd elzengenünk.<br/>Dicsérni nagy kegyelmedet,<br/>irgalmadat, szerelmedet.<br/>Dicsérni zengve hangosan,<br/>örömmel áhítatosan<br/>téged, Urunk, hálával imádunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden igaz jó adomány<br/>csakis tőled ered.<br/>Te vagy az áldás kútfeje,<br/>nincs áldás nélküled.<br/>Tenálad van az oltalom,<br/>igaz segély és szánalom,<br/>biztos menhely, vigasztalás,<br/>bocsánat és hű pártfogás;<br/>hozzád futunk, mindenható Urunk.</lines>
+    </verse>
+  </lyrics>
+</song>

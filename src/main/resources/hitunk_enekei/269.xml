@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>El ne távozz tőlem, Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Doane William, 1870. (1832-1916.)</author>
+      <author type="words">Crosby Fanny (1823-1915.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="269"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Hívogatás</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Oltalom</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El ne távozz tőlem, Jézus,<br/>halld meg kérésem,<br/>hívjál, hogyha mást is szólítsz,<br/>el ne hagyj engem.<br/>Jézus, Jézus,<br/>halld meg kérésem,<br/>hívjál, hogyha mást is szólítsz,<br/>el ne hagyj engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent kegyelmed trónusánál,<br/>leljek nyugalmat,<br/>lásd itt állok könnyes szemmel,<br/>nékem hitet adj!<br/>Jézus, Jézus,<br/>halld meg kérésem,<br/>hívjál, hogyha mást is szólítsz,<br/>el ne hagyj engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Érdemedben bízva, Jézus,<br/>téged kereslek,<br/>tőled várom gyógyulásom,<br/>óvj és őrizz meg.<br/>Jézus, Jézus,<br/>halld meg kérésem,<br/>hívjál, hogyha mást is szólítsz,<br/>el ne hagyj engem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vigaszomnak kútforrása,<br/>üdvöm, mindenem,<br/>rajtad kívül senkim sincsen,<br/>földön és mennyen.<br/>Jézus, Jézus,<br/>halld meg kérésem,<br/>hívjál, hogyha mást is szólítsz,<br/>el ne hagyj engem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott légy, mert megváltottál</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Draskóczy László</author>
+      <author type="words">Seth Sykes</author>
+      <author type="translation" lang="hu">Vargha Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>Hálaadás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott légy, mert megváltottál,<br/>áldott légy, mert meggyógyítál,<br/>áldott légy a bocsánatért,<br/>gazdag, örök, új életért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldott légy, hogy szerethetlek,<br/>Megváltómnak nevezhetlek.<br/>Áldott légy, hogy megnyílt az ég,<br/>hogy enyém vagy, s én a Tiéd!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldott légy, hogy eljössz újra,<br/>hogy angyalok kürtöt fújva<br/>zengik a Te dicsőséged,<br/>s színről-színre látlak Téged!</lines>
+    </verse>
+  </lyrics>
+</song>

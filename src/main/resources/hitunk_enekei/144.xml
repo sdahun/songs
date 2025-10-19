@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ébredj ember, hangzik folyton</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Nicolai Philipp, 1599. (1556-1608.)</author>
+      <author type="words">Nicolai Philipp, 1599. (1556-1608.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="144"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Isten országa</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Örök élet</theme>
+      <theme>Öröm</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ébredj ember, hangzik folyton<br/>az őrnek hangja fent a tornyon,<br/>az éjfél már elérkezett!<br/>Sion népe, ébredj, kelj fel,<br/>ím zeng a szózat, téged kérlel:<br/>hol, merre vagytok ti szüzek?<br/>Jön vőlegényetek,<br/>a mécsest töltsétek,<br/>alleluja,<br/>az Úr eljő,<br/>itt az idő,<br/>és vár az égi menyegző!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sion hallja mindezt ébren,<br/>a szíve ujjong örömében,<br/>és siet, hogy őt fogadja.<br/>Mert jön Krisztus, kürtök zúgnak,<br/>a földön élők porba hullnak:<br/>ím felkent az ő csillaga.<br/>Jöjj égi trónodról,<br/>az Úrnak jobbjáról,<br/>üdv, hozsánna,<br/>add, láthassunk,<br/>hogy vigadjunk,<br/>és véled együtt lakhassunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ember, angyal ékes nyelvén<br/>nagy dicső voltod énekelvén,<br/>hadd pengjen hárfa, cimbalom.<br/>Tizenkét gyöngykapu tárja<br/>az utunk égi angyal karba,<br/>szent trónod elé Jézusom,<br/>ím szem még nem látott<br/>és fül még nem hallott<br/>ily örömet.<br/>A szív örvend,<br/>s nálad ott fent<br/>majd örök alleluját zeng!</lines>
+    </verse>
+  </lyrics>
+</song>

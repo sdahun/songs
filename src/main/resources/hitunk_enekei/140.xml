@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úgy várjuk visszajöttödet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Gastorius Severus, 1681. (1640-1682.)</author>
+      <author type="words">Hiller Philipp Friedrich, 1767. (1699-1769.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="140"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Bizodalom</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+      <theme>Megváltás</theme>
+      <theme>Nyugodalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy várjuk visszajöttödet,<br/>Úr Jézus, várunk téged!<br/>Mi tudjuk, hogy a trónon ülsz<br/>és híveidet véded.<br/>Ki benned hisz,<br/>kit hazahívsz,<br/>az emelt fővel járhat<br/>és jutalma van nálad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hű szívvel várjuk jöttödet,<br/>és békén tűrünk mindent,<br/>mert vigaszt nyújt a gondolat,<br/>hogy megváltottál minket.<br/>Mi tudjuk azt,<br/>hogy vélünk vagy,<br/>és megosztod a terhet,<br/>mert végtelen szerelmed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Jézus, várunk tégedet,<br/>mert nálad van már szívünk!<br/>És tudjuk: itt vagy lélekben,<br/>s ez boldogságunk nékünk.<br/>A lelkünk vár:<br/>ó! jöjj el már,<br/>és hozd el üdvünk napját,<br/>a szívünk szent nyugalmát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! Jézus, tudjuk biztosan,<br/>hogy nemsokára eljössz,<br/>és boldog hittel várjuk már<br/>az örömhozó felhőt!<br/>Mily szép lesz majd<br/>a pillanat,<br/>az áldott örömünnep,<br/>mely elhozza üdvünket!</lines>
+    </verse>
+  </lyrics>
+</song>

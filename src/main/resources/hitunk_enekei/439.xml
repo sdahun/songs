@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vigyázz és gyakran merülj hő imába</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="439"/>
+      <songbook name="Üdv- és adventi énekek" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigyázz és gyakran merülj hő imába,<br/>kora reggel, midőn a nap felkél,<br/>Jézus legyen mindig a lelked vágya,<br/>s akkor szívedben béke él.<br/>Mindenkor légy éber, s vigyázz!<br/>Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vigyázz a napnak minden óráiban,<br/>ha háborúság támad ellened.<br/>Ügyed vidd Isten elé hő imában<br/>s meglátod segít tenéked.<br/>Mindenkor légy éber, s vigyázz!<br/>Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vigyázz akkor, midőn beáll az este<br/>és örvendj annak, hogy Jézus tied.<br/>Mert biztonságban nyugszik lelke, teste,<br/>ki Őrá bízza mindenét.<br/>Mindenkor légy éber, s vigyázz!<br/>Imádkozz és vigyázz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vigyázz mindenütt és minden időben,<br/>a világ tőrt vet sokféleképpen.<br/>A bűn mindig helyet keres a szívben!<br/>Kövesd hát Jézust mindenben.<br/>Mindenkor légy éber, s vigyázz!<br/>Imádkozz és vigyázz!</lines>
+    </verse>
+  </lyrics>
+</song>

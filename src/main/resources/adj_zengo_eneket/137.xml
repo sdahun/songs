@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úgy szerette Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Pálhegyi Dávid</author>
+      <author type="music">(népdalfeldolgozás)</author>
+      <author type="words">Pálhegyi Dávid</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy szerette Isten<br/>az egész világot, hogy<br/>odaadta egyetlen Fiát,<br/>hogy értünk meghaljon.<br/>Odaadta egyetlen Fiát,<br/>hogy értünk meghaljon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meg is feszítették,<br/>aztán eltemették,<br/>de harmadnap hajnal felé<br/>a sírt üresen lelték.<br/>De harmadnap hajnal felé<br/>a sírt üresen lelték.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miért keresel élőt<br/>a halottak között?<br/>Nincsen itt, mert feltámadott,<br/>ott áll szíved előtt!<br/>Nincsen itt, mert feltámadott,<br/>ott áll szíved előtt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! bárcsak ezer ajkam volna</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Kőnig Johann-nál, 1738. (1691-1758.)</author>
+      <author type="words">Mentzer Johann, 1704. (1658-1734.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="27"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Mulandóság</theme>
+      <theme>Oltalom</theme>
+      <theme>Örök élet</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! bárcsak ezer ajkam volna,<br/>és ezer nyelven zenghetnék:<br/>hirdetném Isten nagy jóságát<br/>és véghetetlen kegyelmét!<br/>Azt énekelném szüntelen,<br/>hogy csodát művelt énvelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! miért csüggedsz el én lelkem?<br/>Föl, föl és meríts új erőt!<br/>Tégy félre minden földi gondot,<br/>hogy tisztán állj az Úr előtt;<br/>a szívem, lelkem mélyéből<br/>dicséret szálljon mennybe föl!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki áraszt énrám égi áldást?<br/>Te, áldást osztó Istenem!<br/>Ki véd és óv az életúton?<br/>Te, őrizőm és védelmem!<br/>Te hordod bűnöm terheit,<br/>kegyelmed óv és gyámolít.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! hányszor tapasztaltam eddig<br/>szerelmed gazdag özönit!<br/>És hányszor mentettél meg engem,<br/>lerontva Sátán tőreit!<br/>És hogyha körülvett az éj,<br/>áttörte azt az égi fény.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jóvoltod zengi ajkam, Isten,<br/>amíg csak tart az életem,<br/>amíg csak szívem egyet dobban,<br/>csak rólad zeng az énekem;<br/>s ha nem lesz már szó ajkamon,<br/>majd dicsér végső sóhajom.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Halld meg, ó! égi trónusodról<br/>e gyönge gyarló éneket.<br/>Egykor e dicséret is szebb lesz,<br/>ha angyalaid közt leszek,<br/>s majd égi karral zeng a szóm:<br/>dicsérlek téged alkotóm.</lines>
+    </verse>
+  </lyrics>
+</song>

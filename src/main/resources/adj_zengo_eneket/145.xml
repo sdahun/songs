@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Velem vándorol utamon Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Armas Maasalo</author>
+      <author type="translation" lang="hu">Túrmezei Erzsébet</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="145"/>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="246"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Velem vándorol utamon Jézus,<br/>gond és félelem el nem ér.<br/>Elvisz, elsegít engem a célhoz,<br/>Ő, a győzelmes, hű vezér,<br/>Ő, a győzelmes, hű vezér.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velem vándorol utamon Jézus,<br/>ott az oltalom hű szívén.<br/>Ha a szép napot fellegek rejtik,<br/>Ő az éltető, tiszta fény,<br/>Ő az éltető, tiszta fény.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Velem vándorol utamon Jézus,<br/>ez a vigaszom, baj ha jő.<br/>Bármi súlyosak rajtam a terhek,<br/>segít hordani, ott van Ő,<br/>segít hordani, ott van Ő.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Velem vándorol utamon Jézus,<br/>bár az út néha oly sötét.<br/>Soha nincs okom félni a bajtól,<br/>amíg irgalmas karja véd,<br/>amíg irgalmas karja véd.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Velem vándorol utamon Jézus,<br/>túl a sír sötét éjjelén.<br/>Fenn a mennyei, angyali karban<br/>nevét végtelen áldom én,<br/>nevét végtelen áldom én.</lines>
+    </verse>
+  </lyrics>
+</song>

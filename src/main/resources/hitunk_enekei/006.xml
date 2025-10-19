@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Vezess minket, égi Atyánk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">1782.</author>
+      <author type="words">Edmeston James, 1821. (1791-1867.) </author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>A Szentháromság dicsérete</theme>
+      <theme>Boldogság</theme>
+      <theme>Bűnvallomás</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus öröm forrása</theme>
+      <theme>Kegyelem</theme>
+      <theme>Oltalom</theme>
+      <theme>Reménység</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vezess minket, égi Atyánk,<br/>éltünk zúgó tengerén;<br/>őrizd, gondozd földi nyájad,<br/>rajtad kívül nincs remény!<br/>Te vagy nékünk menedékünk<br/>az egész föld kerekén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus, gyarlók vagyunk:<br/>irgalommal nézz le ránk.<br/>Bocsánatért esdekelve<br/>száll fel hozzád hő imánk.<br/>Szánj meg minket, gyermekidet,<br/>áldásodat add reánk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Töltsd be szívünk boldogsággal:<br/>töltsd ki reánk Lelkedet!<br/>Szeretetlen életünket<br/>töltse be most szerelmed!<br/>Áldj meg minket – híveidet –,<br/>öröklétre őrizz meg!</lines>
+    </verse>
+  </lyrics>
+</song>

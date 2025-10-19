@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyertek, dicsérjük együtt</title>
+      <title>Hava nagila</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1 b1 e1 e1</verseOrder>
+    <authors>
+      <author type="music">Abraham Zevi Idelsohn</author>
+      <author type="music">(régi haszid dallam nyomán)</author>
+      <author type="words">Abraham Zevi Idelsohn</author>
+      <author type="words">Moshe Nathanson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyertek,<br/>dicsérjük együtt<br/>Izrael szentjét,<br/>mert Ő a Megváltó!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Emeld fel kezedet,<br/>nyisd meg a szívedet,<br/>mert Ő a te szabadítód!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Gyertek, gyertek!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Menjünk fel az Úr hegyére,<br/>vigasságnak lakhelyére,<br/>ujjongjunk Őelőtte,<br/>táncoljunk Őelőtte,<br/>az Ő neve, az Ő neve:<br/>ott lakik az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

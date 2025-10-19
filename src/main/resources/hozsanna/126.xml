@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kelj fel, lelkem</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="126"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kelj fel, lelkem, énekeld Urunk dicséretét!<br/>Szólj őróla, dalra gyúlva, magasztald nevét!<br/>Üdvösségem, békességem és reménységem,<br/>alkotóm vagy, támaszom, benned bízik lelkem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, hálát adok neked, kinyújtottad kezed<br/>és megragadtál és magadhoz vontál<br/>bennem élsz és boldoggá teszel,<br/>betöltesz tüzeddel, hogy veled éljek<br/>és uralkodjak örökké, és lássam arcod örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

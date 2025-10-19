@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldásodat érzi minden</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Löhner Johann, 1691. (1645-1705.)</author>
+      <author type="words">Nürnberg, 1676.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="271"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Átadás</theme>
+      <theme>Békesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Boldogság</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Isten akarata</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Öröm</theme>
+      <theme>Reménység</theme>
+      <theme>Szív</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldásodat érzi minden;<br/>szent kegyelmed kísér híven<br/>minden embert, Istenem;<br/>kinek te vagy reménysége,<br/>bátorsága, menedéke,<br/>örömben él s békében.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szíved végtelen jósága<br/>örömömnek bő forrása,<br/>maradj velem mindenkor!<br/>Csodás módon vezetsz engem,<br/>sosem engedsz elcsüggednem:<br/>vigasz árad ajkadról.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sokan földi kincsre vágyva,<br/>melynek gond és könny az ára,<br/>hívó szódat nem hallják.<br/>Én csak benned bízva járok,<br/>örök kincset tőled várok,<br/>nálad van csak boldogság.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szívem csöndes, mert remélem,<br/>örök célom majd elérem,<br/>te vezetsz minduntalan.<br/>Szívem, lelkem, testem, éltem<br/>tőled kaptam, s most egészen<br/>néked adom, én Uram!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szívem minden titkát látod,<br/>igaz bánatomat várod,<br/>s tőled kérek kegyelmet.<br/>Tudom, csak jót akarsz nékem,<br/>reád bízom egész éltem:<br/>akaratod legyen meg!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Míg a földön hitben járok,<br/>keresve a te országod,<br/>reád bízom sorsomat.<br/>Tudom, soká nem kell várnom,<br/>egy kis idő és meglátom<br/>örök boldogságomat!</lines>
+    </verse>
+  </lyrics>
+</song>

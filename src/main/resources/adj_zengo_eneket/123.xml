@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent vagy, szent vagy, szent vagy</title>
+      <title>Holy, Holy, Holy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">John Bacchus Dykes, 1861. (1823-1876.)</author>
+      <author type="words">Reginald Heber, 1826. (1783-1826.)</author>
+      <author type="translation" lang="hu">Kecskeméti Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="123"/>
+      <songbook name="Hitünk énekei" entry="10"/>
+      <songbook name="Református énekeskönyv" entry="488"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>Mindenható Isten,<br/>énekünk jó reggel száll Hozzád szívesen!<br/>Szent vagy, szent vagy, szent vagy,<br/>Végtelen Kegyelem,<br/>három személyben<br/>áldott egy Isten!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>kit a szentek áldnak,<br/>koronájukat letészik Teelőtted.<br/>Angyali seregek<br/>térdelve imádnak,<br/>ki voltál, vagy s nem<br/>érsz soha véget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>földi köd bár elfed,<br/>és bűnös szem nem látja dicsőségedet.<br/>Csak Te vagy szent, Isten<br/>és senki Kívüled:<br/>teljes hatalmú<br/>szentség, szeretet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>nagy és erős Isten:<br/>minden műved dicsér az ég, föld s tengeren!<br/>Szent vagy, szent vagy, szent vagy,<br/>Áldott, Véghetetlen:<br/>három személyben<br/>Egy áldott Isten!</lines>
+    </verse>
+  </lyrics>
+</song>

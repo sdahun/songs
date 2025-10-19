@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! ne vedd el szent igédet</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Halle, 1704.</author>
+      <author type="words">Zinzendorf Nikolaus, 1725. (1700-1760.)</author>
+      <author type="words">Gregor Christian, 1778. (1723-1801.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="69"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten igéje és törvénye</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten igéje</theme>
+      <theme>Reménység</theme>
+      <theme>Szolgálat</theme>
+      <theme>Szombatiskola</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! ne vedd el szent igédet<br/>soha tőlem, Istenem;<br/>ez ad nékem reménységet,<br/>üdvösségem ez nekem!<br/>Szavadat ha nem bírhatnám,<br/>mivé lenne a hitem?<br/>Igéd az, mit lelkem kíván,<br/>igéd örök életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőítlek, Uram Jézus,<br/>tekints reám kegyesen;<br/>szent szavadban, élő Krisztus,<br/>hogy megálljak erősen!<br/>Hadd szolgáljak mindörökké,<br/>mindig, mindig csak neked,<br/>odaülve lábad elé<br/>vegyem örök részemet.</lines>
+    </verse>
+  </lyrics>
+</song>

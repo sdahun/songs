@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elmegyek, hadd megyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="447"/>
+      <songbook name="Üdv- és adventi énekek" entry="316"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elmegyek, hadd megyek<br/>Jézusomat látni meg!<br/>Vággyal van a szívem tele,<br/>Őt fogadni örökre be.<br/>Trónjához én elmegyek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi fény, drága fény!<br/>Nap mosolygó ég színén.<br/>Eljutok-e oda végre,<br/>hogy a szentek seregébe’<br/>örvendjek tekintetén.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Óh, mi szép! Óh, mi szép!<br/>Angyaloknak éneke.<br/>Volna szárnyam, oda szállnék,<br/>Hol csak fény van, nincsen árnyék:<br/>rád Sionnak szent hegye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mint leszek, mint leszek!<br/>Jézus ha hozzád jutok?<br/>Arany utcák városába,<br/>szívemet mily gyönyör várja?<br/>Lelkem előtt még titok.</lines>
+    </verse>
+  </lyrics>
+</song>

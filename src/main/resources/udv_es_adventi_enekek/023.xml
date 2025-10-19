@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Urat áldom én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="23"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Urat áldom én,<br/>e teljes lét ölén,<br/>szent heve dalra von,<br/>dics-dal zeng ajkamon.<br/>Adjunk neki dicsőséget,<br/>az ítélet már-már eljött.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imádva féld nevét,<br/>szent tábor és te nép,<br/>óh, mert van mindened,<br/>ha bírod Istened!<br/>Adjunk neki dicsőséget,<br/>az ítélet már-már eljött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérlek, ti gyermekim,<br/>Tanulni jertek ím,<br/>hogy Istent féljétek,<br/>kegyében éljetek!<br/>Adjunk neki dicsőséget,<br/>az ítélet már-már eljött.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak rajta hát, elő,<br/>hadd legyen áldva Ő!<br/>Egy szívvel zengenünk<br/>szentségit, üdv nekünk!<br/>Adjunk neki dicsőséget,<br/>az ítélet már-már eljött.</lines>
+    </verse>
+  </lyrics>
+</song>

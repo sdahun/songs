@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Oltalmam vagy, Uram</title>
+    </titles>
+    <verseOrder>v1 v1 e1</verseOrder>
+    <authors>
+      <author type="music">Michael Ledner</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oltalmam vagy, Uram,<br/>viharban biztos sziklavár.<br/>Menedékem vagy,<br/>ha bármi baj jönne rám.<br/>Benned bízom én!<br/>Benned bízom én!<br/>Gyenge vagyok én,<br/>az Úr egyedül az erőm.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Benned bízom én!</lines>
+    </verse>
+  </lyrics>
+</song>

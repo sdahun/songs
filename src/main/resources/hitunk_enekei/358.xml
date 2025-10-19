@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nevedre vettem keresztséget</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">König Johann-nál, 1738. (1691-1758.)</author>
+      <author type="words">Rambach Johann, 1734. (1693-1735.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="358"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - keresztség</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Átadás</theme>
+      <theme>Keresztség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nevedre vettem keresztséget,<br/>ó! isteni Szentháromság!<br/>Megszentelt néped tagja lettem,<br/>és várom Krisztus országát.<br/>Krisztussal eltemettettem,<br/>s Lélektől újjá születtem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te gyermekednek szólítsz engem<br/>és örökösnek, jó Atyám.<br/>Jézusom, drága véred árán,<br/>most én is élek igazán!<br/>Szentlélek Isten, legfőbb jóm,<br/>te vagy az én vigasztalóm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Átadom néked, Uram, újból<br/>a lelkemet és szívemet.<br/>Te őrizz, segíts, vezess híven<br/>az igaz hitben engemet,<br/>hogy én így teljes éltemben,<br/>csak akaratodat tegyem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj erőt, hogy e szövetséget,<br/>megtartsam mindig igazán;<br/>ó! tarts meg örök szerelmedben,<br/>míg végső órám itt lejár,<br/>hogy éltem delén, alkonyán<br/>áldjalak téged, jó Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én minden vétkem, bűnöm</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Knecht Justin, 1799. (1752-1817.)</author>
+      <author type="music">Husband Edward, 1871.</author>
+      <author type="words">Bonar Horatius, 1843. (1808-1889.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="236"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Átadás</theme>
+      <theme>Bűnbánat</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Megigazulás</theme>
+      <theme>Szelídség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én minden vétkem, bűnöm<br/>ím Jézusra teszem,<br/>most helyettem ő hordja,<br/>és könnyít lelkemen.<br/>Ím bűnnel terhelt szívem<br/>az Úrnak átadom,<br/>hogy megtisztítson engem<br/>és fehérre mosson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím Jézus elé tárom<br/>most minden óhajom,<br/>mert amit lelkem kíván,<br/>azt tőle megkapom.<br/>A szívem minden terhét<br/>az Úr elé viszem,<br/>hisz bánatom és gondom<br/>ő megosztja velem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! bárcsak lennék én is,<br/>mint Jézus oly szelíd!<br/>És tenném én is, mint ő<br/>a jóság tetteit.<br/>Majd ott szeretnék lenni<br/>az angyalok között,<br/>és Isten előtt zengni<br/>a csillagok fölött.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szívemet hozzád emelem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1551. (1510-1569.)</author>
+      <author type="words">Marot Clément (1496-1544.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="42"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Bizodalom</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten félelme</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten segítsége</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Oltalom</theme>
+      <theme>Szív</theme>
+      <theme>Útmutatás</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívemet hozzád emelem,<br/>és benned bízom, Uram;<br/>és meg nem szégyeníttetem,<br/>nem nevet senki rajtam,<br/>mert szégyent nem vallanak,<br/>akik hozzád esedeznek,<br/>azok pironkodjanak,<br/>akik hitetlenül élnek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utaid, Uram, mutasd meg,<br/>hogy el ne tévelyedjem;<br/>te ösvényidre taníts meg,<br/>miken intézd menésem,<br/>és vezérelj engemet<br/>a te szent igaz igédben;<br/>oltalmazd életemet,<br/>mert benned bízom, Úr Isten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Emlékezzél jóvoltodból<br/>nagy kegyelmességedre,<br/>emlékezzél irgalmadról,<br/>mely megmarad örökre.<br/>Ifjúságomnak vétkét,<br/>kérlek, hogy meg ne említsed,<br/>sőt nagy kegyességedet<br/>én Istenem, megtekintsed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jó és igaz az Úr Isten<br/>mind örökkön-örökké,<br/>a bűnösöket térítvén<br/>ő igaz ösvényire;<br/>és a nyomorultakat<br/>életükben igazgatja,<br/>nagy kegyesen azokat<br/>az ő útában megtartja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Az Istennek minden útja<br/>kegyesség és nagy hűség<br/>azoknak, kik mondására<br/>gondot tartnak mindvégig.<br/>Énnékem kegyelmezz meg,<br/>Uram, a te szent nevedért,<br/>és bűnömet bocsásd meg,<br/>ne ostorozz nagy voltáért!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aki az Úr Istent féli<br/>és tiszteli szívében,<br/>azt ő nagy híven vezérli<br/>igaz ösvényeiben.<br/>Nagy békességben annak<br/>minden jó bőven adatik,<br/>és ő maradékinak<br/>gazdag örökség hagyatik.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Az igaz istenfélőknek<br/>megjelenti titkait,<br/>és az őbenne hívőknek<br/>megmutatja kötésit.<br/>Istenhez szemeimet<br/>felemelem szüntelenül,<br/>Ő megőriz engemet,<br/>lábam kivonssza a tőrbül.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Térj azért hozzám, Istenem,<br/>tekints reám kegyesen<br/>és kegyelmezz meg énnékem,<br/>mert élek szegénységben.<br/>Nyavalyája szívemnek<br/>napról napra mind öregbül;<br/>Uram, add végét ennek,<br/>végy ki engem ez ínségbül!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Nyomorúságomat lásd meg,<br/>tekintsd meg szükségemet,<br/>és bűneimet bocsásd meg,<br/>mik szerzik e sérelmet!<br/>Tekintsd ellenségimet,<br/>kik én nálamnál erősbek,<br/>és gyűlölnek engemet,<br/>kergetnek és kesergetnek!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tartsd meg én lelkemet, Uram,<br/>hogy én ellenségimtől<br/>szörnyen meg ne csúfoltassam!<br/>Benned bízom egyedül.<br/>Én ártatlan éltemet<br/>őrizd meg, mert bízom hozzád,<br/>és te Izráeledet<br/>minden ínségből kihozzad!</lines>
+    </verse>
+  </lyrics>
+</song>

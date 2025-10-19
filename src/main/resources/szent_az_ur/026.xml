@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Minden gondomat Rád vetem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Kelly Willard</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden gondomat Rád vetem.<br/>Minden terhemet lábad elé teszem.<br/>És bármikor, ha nem tudom, hogy mit tegyek,<br/>gondomat, ó Uram, Rád vetem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd meg életem, jó Uram.<br/>Hűség kísérje végig az utam.<br/>És bármikor, ha nem tudom, hogy mit tegyek,<br/>tanácsolj, ó Uram, engemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az út, melyre lépsz, oly nehéz.<br/>Ne félj, Urad veled van bármerre mész.<br/>Az életed elrejtheted szent kezében.<br/>Ő legyen, ki betölti életed.</lines>
+    </verse>
+  </lyrics>
+</song>

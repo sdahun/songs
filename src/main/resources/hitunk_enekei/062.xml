@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szeret az Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author type="music">Thüringia, 1840.</author>
+      <author type="words">Rische August (1819-1906.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="62"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Békesség</theme>
+      <theme>Boldogság</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megváltás</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Öröm</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeret az Isten,<br/>ő vált meg engem,<br/>úgy szeret Isten,<br/>mint gyermekét.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rabságban éltem,<br/>bűn foglya voltam,<br/>bilincsben éltem,<br/>nem volt kiút.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elküldte Jézust,<br/>hű Megváltónkat,<br/>elküldte Jézust,<br/>megmentőnket.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kegyelme által<br/>megmentett engem,<br/>Szentlelke által<br/>szabaddá tett.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szerelme fénye<br/>lelkemre áradt,<br/>szerelme fénye<br/>meggyógyított.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Örömmel töltsd be,<br/>ó! örök Isten,<br/>békéddel töltsd be<br/>bús szívemet!<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Adj üdvösséget,<br/>örömet, éltet,<br/>adj boldogságot,<br/>nyugodalmat.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dicsérlek téged,<br/>szerető Isten,<br/>áldalak téged,<br/>amíg élek.<br/>Isten a szeretet,<br/>mindig ezt zengem,<br/>úgy szeret engem,<br/>mint gyermekét.</lines>
+    </verse>
+  </lyrics>
+</song>

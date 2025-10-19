@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Imádjuk az Urat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Krüger János</author>
+      <author type="words">Rinkart Márton (1586-1649.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="24"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádjuk az Urat énekkel, szóval, szívvel,<br/>ki velünk s mindenütt hatalmas dolgot mível;<br/>ki anyánk méhétől, mióta lehetünk,<br/>számlálhatatlan jót tett folyton mivelünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicséret őneki: Atyának és Fiúnak,<br/>és a Szentléleknek; dics a mindenhatónak.<br/>Övé a dics, övé, három egy Istené,<br/>ki volt, ki van, ki lesz öröktől örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

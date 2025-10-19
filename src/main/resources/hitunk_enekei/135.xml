@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus Krisztus jön a felhőn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Wade J. F. Cantus Diversi-ben, 1751.</author>
+      <author type="words">Cennick John (1718-1755.)</author>
+      <author type="words">Wesley Charles, 1758. (1707-1788.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="135"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele</theme>
+      <theme>Angyalok</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus visszajövetele</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Krisztus jön a felhőn,<br/>összegyűjti szent népét.<br/>Angyalsereg jön el véle<br/>magasztalva győzelmét:<br/>„Alleluja! Alleluja!<br/>Felragyog az öröklét!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden szemnek meg kell látni<br/>dicsőségét, erejét;<br/>akik verték, megcsúfolták,<br/>akik általszegezték,<br/>hatalommal visszatérni<br/>látják Isten Igéjét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ha szól majd harsonája,<br/>föld és égbolt megremeg!<br/>Mindaz, aki nem hitt néki,<br/>érzi már, hogy elveszett.<br/>Felharsan az angyalszózat:<br/>„Itt a végső ítélet!”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicséreted, dicsőséged<br/>zengjük, Uram, hálával;<br/>tégy pecsétet szent művedre,<br/>csak tiéd a diadal:<br/>„Jövel, Jézus, várva várunk,<br/>Jövel, Jézus, jöjj hamar!”</lines>
+    </verse>
+  </lyrics>
+</song>

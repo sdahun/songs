@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldalak, jó Uram</title>
+      <title>Je louerai l’Eternel</title>
+    </titles>
+    <verseOrder>o1 o2 o1 o2</verseOrder>
+    <authors>
+      <author type="music">Claude Fraysse</author>
+      <author type="words">Alain Bergèse</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="6"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Áldalak, jó Uram,<br/>teljes szívemből.<br/>Hirdetem majd csodás tetteid,<br/>és énekelek Rólad.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Áldalak, jó Uram,<br/>teljes szívemből.<br/>Boldoggá tesz,<br/>hogy Hozzád tartozom,<br/>halleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

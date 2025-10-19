@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Próbáimban, Jézus, kérlek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Lane Spencer, 1879. (1843-1903.)</author>
+      <author type="words">Montgomery James (1771-1854.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="243"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Állhatatosság</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus vére</theme>
+      <theme>Kísértés</theme>
+      <theme>Lelki harc</theme>
+      <theme>Próba</theme>
+      <theme>Szabadítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Próbáimban, Jézus, kérlek, légy velem,<br/>el ne tántorodjék tőled életem;<br/>ha megrettent a vész, vagy ha öröm ér,<br/>elszakadnom tőled ne hagyj semmiért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha e világ bűne engem hívogat,<br/>nagy csalárdul kínál hitványságokat:<br/>szemem elé állítsd szenvedésidet,<br/>vérrel koronázott, szent keresztedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tisztogass bár bajjal olykor engemet:<br/>kegyelmeddel szenteld szenvedésemet;<br/>erőtlen bár testem, te oltárodon<br/>keserű pohárral, hittel áldozom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelki próbáimban, Jézus, légy velem</title>
+      <title>In The Hour of Trial</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Ralph Vaughan Williams</author>
+      <author type="music">a „Dun Aluinn” régi ír dallam nyomán</author>
+      <author type="words">James Montgomery</author>
+      <author type="translation" lang="hu">Csomasz Tóth Kálmán</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="80"/>
+      <songbook name="Református énekeskönyv" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelki próbáimban, Jézus, légy velem,<br/>el ne tántorodjék Tőled életem!<br/>Félelem, ha bánt, vagy nyereség kísért,<br/>Tőled elszakadnom ne hagyj semmiért!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha e világ bája engem hívogat,<br/>nagy csalárdul kínál hitványságokat:<br/>szemem elé állítsd szenvedésidet,<br/>vérrel koronázott, szent keresztedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tisztogass bár bajjal olykor engemet,<br/>kegyelmeddel szenteld szenvedésemet.<br/>Bár e test erőtlen: Te oltárodon<br/>keserű pohárral, hittel áldoznom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha halálra válik testem egykoron,<br/>ragyogjon fel Lelked e hitvány poron!<br/>Ama végső harcon Rád bízom magam:<br/>örök hajlékodba fogadj be, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

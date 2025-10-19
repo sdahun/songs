@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kegyelmet, irgalmat találtam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Neumark Georg, 1657. (1621-1681.)</author>
+      <author type="words">Hiller Philipp, 1767. (1699-1769.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="266"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - vigasztalás</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Bizodalom</theme>
+      <theme>Boldogság</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Hálaadás</theme>
+      <theme>Irgalom</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Kegyelem</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelmet, irgalmat találtam,<br/>nem volt és nincsen érdemem,<br/>de csodát művelt vélem Isten,<br/>hogy ily nagy jót tett énvelem.<br/>Most tudom ezt és örvendek,<br/>ajkamon hálaének zeng.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak harag az, mit érdemeltem,<br/>és Isten mégis megbocsát;<br/>lemosta lelkem minden szennyét,<br/>érettem adva szent Fiát.<br/>Mi tette mindezt én velem?<br/>Kegyelme törlé szégyenem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Irgalmad művelt vélem csodát,<br/>ezt vallom és ez énekem.<br/>Oly boldog most a szívem, lelkem,<br/>dicsér megváltott életem;<br/>előtted meghajtom fejem,<br/>irgalmasságod hirdetem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tőlem ezt senki el nem veszi,<br/>ezt életemmel hirdetem;<br/>kegyelem Istenében bízom,<br/>imádom, zengem szüntelen.<br/>Édes reményem ez nekem,<br/>hogy mindig itt vagy énvelem!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irgalmasságnak szent Istene,<br/>irgalmad által támogass;<br/>vezess, míg végül üdvösségre<br/>szent Fiad által elfogadsz.<br/>Örökre nálad lesz szívem:<br/>irgalmasságod hirdetem!</lines>
+    </verse>
+  </lyrics>
+</song>

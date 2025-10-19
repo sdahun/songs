@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nincs olyan fájdalom, gond</title>
+    </titles>
+    <verseOrder>v1 c1 b1 v1 c1</verseOrder>
+    <authors>
+      <author type="music">Scott Wesley Brown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincs olyan fájdalom, gond,<br/>mit meg nem oldhat.<br/>Nincs olyan nagy hegy, mit Ő<br/>meg nem mozdíthat.<br/>Nincs oly sötét, nagy vihar,<br/>mit le nem csendesít.<br/>Nem lehet oly bánatod,<br/>amin Ő nem segít.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert e világnak terheit mind vállain hordta,<br/>tudom testvérem, hogy téged is hordoz majd.<br/>Mert e világnak terheit mind vállain hordta,<br/>tudom testvérem, hogy téged is hordoz majd.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Így szól: „Jöjj hozzám,<br/>ha megfáradtál.<br/>Nyugalmat én adok.”</lines>
+    </verse>
+  </lyrics>
+</song>

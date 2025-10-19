@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Utaidat, Uram, ismertesd meg</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="music">Janice A. Finn</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utaidat, Uram, ismertesd meg,<br/>vezess hűségesen.<br/>Ösvényedre, Uram, taníts engem,<br/>az Igéd vezessen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert megszabadítasz engemet,<br/>ezért várlak minden, minden napon.<br/>Mert megszabadítasz engemet,<br/>ezért várlak minden napon.</lines>
+    </verse>
+  </lyrics>
+</song>

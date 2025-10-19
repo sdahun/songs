@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Zengjenek nagy Istenünknek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Barnes Edvin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="22"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengjenek nagy Istenünknek,<br/>mert kegyelme végtelen.<br/>Zengjenek kik üdvözülnek<br/>mind e földi tereken.<br/>Bujdosók és száműzöttek,<br/>kik hazára leltenek,<br/>volt rabok, meg üldözöttek,<br/>kiket Isten mente meg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ellentmondva a nagy Úrnak,<br/>bús haláluk éjfelén,<br/>börtönükben elborultak,<br/>el-kihalt a vég-remény.<br/>Rabbilincset csörgetének,<br/>Istenökhöz esdtek itt,<br/>s vége lett a szörnyű éjnek,<br/>Ő megmenté gyermekit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zengjenek nagy Istenünknek,<br/>mind amaz üdvözültek,<br/>észak, nyugat, dél és kelet,<br/>minden üdvre ébredett.<br/>Hirdessétek mindeneknek,<br/>Megváltónk mit tett nektek.<br/>Ő, hogy az üdvre térjetek,<br/>áldozat lett értetek.</lines>
+    </verse>
+  </lyrics>
+</song>

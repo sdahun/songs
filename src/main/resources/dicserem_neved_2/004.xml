@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Mester itt van</title>
+    </titles>
+    <verseOrder>o1 o1 o2 o2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="4"/>
+      <songbook name="Hozsánna énekes" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>Bizonyságtétel és megvallás</theme>
+      <theme>Zsolt 55,23</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>A Mester itt van,<br/>ma is gyógyít,<br/>Jézus gyógyít<br/>és szabaddá tesz.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Ne vidd tovább a terhedet,<br/>Ő letörli minden könnyedet,<br/>gyászod nagy örömre fordul!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent vagy, szent vagy, szent vagy</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Dykes John, 1861. (1823-1876.)</author>
+      <author type="words">Heber Reginald, 1826. (1783-1826.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="10"/>
+      <songbook name="Adj zengő éneket!" entry="123"/>
+      <songbook name="Református énekeskönyv" entry="488"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Angyalok</theme>
+      <theme>Bizodalom</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten dicsősége</theme>
+      <theme>Isten szentsége</theme>
+      <theme>Reggel</theme>
+      <theme>Üdvbizonyosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy, szent vagy, szentséges Isten!<br/>Minden reggel szívünk és ajkunk téged áld.<br/>Szent vagy, szent vagy, szent vagy, énekelje minden,<br/>dicsérjen, Isten, téged a világ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent vagy, szent vagy, szent vagy! Dicsérnek téged<br/>tiszta égi lények, szeráfok, kérubok.<br/>Néked, Urunk Isten, hódolattal zengnek<br/>allelujázva mind az angyalok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent vagy, szent vagy, szent vagy! Nem látja fényed,<br/>nem csodálhat téged a bűnös, földi szem;<br/>mindenható Isten, mégis bízik lelkem,<br/>meglátlak téged majd a mennyben fenn.</lines>
+    </verse>
+  </lyrics>
+</song>

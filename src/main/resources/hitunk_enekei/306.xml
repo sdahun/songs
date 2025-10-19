@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az egyháznak csak Jézus a fundámentuma</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Wesley Samuel, 1864. (1810-1876.)</author>
+      <author type="words">Stone Samuel (1839-1900.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="306"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - a gyülekezet</theme>
+      <theme>Békesség</theme>
+      <theme>Egyház</theme>
+      <theme>Hit</theme>
+      <theme>Isten igéje</theme>
+      <theme>Keresztség</theme>
+      <theme>Lelki harc</theme>
+      <theme>Megváltás</theme>
+      <theme>Úrvacsora</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az egyháznak csak Jézus a fundámentuma,<br/>a szent igére épült fel lelki temploma.<br/>Leszállt a mennyből hívni és eljegyezni őt,<br/>megváltva drága vérén a váltságban hívőt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kihívott minden népből egy lelki népet itt,<br/>kit egy Úr, egy keresztség és egy hit egyesít.<br/>Csak egy nevet magasztal, csak egy cél vonja őt,<br/>és egy terített asztal ád néki új erőt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A világ fejedelme föltámad ellene,<br/>vagy hamis tudománytól gyaláztatik neve;<br/>s míg egykor felderül majd az Úrnak hajnala,<br/>csak virrasztói kérdik: „Meddig az éjszaka?”</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sok bajban, küzdelemben meghajszolt, megvetett,<br/>de szent megújulásért és békéért eped,<br/>míg látomása egykor az Úrral teljesül,<br/>s a győzedelmes egyház Urával egyesül.</lines>
+    </verse>
+  </lyrics>
+</song>

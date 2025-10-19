@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ne félj, Sion</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="163"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ne félj, Sion, ne lankadjon kezed!<br/>Veled van az Úr, a te Istened!<br/>Örül majd terajtad, nagy örömmel,<br/>újjá éleszt szeretetével!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten élő Lelke, jöjj</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">D. Iverson, 1930</author>
+      <author type="words">D. Iverson</author>
+      <author type="translation" lang="hu">Váró Margit, 1951</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="64"/>
+      <songbook name="Hozsánna énekes" entry="99"/>
+      <songbook name="Evangélikus énekeskönyv" entry="244"/>
+    </songbooks>
+    <themes>
+      <theme>Pünkösd</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten élő Lelke, jöjj,<br/>áldva szállj le rám,<br/>égi lángod járja át<br/>szívem és a szám!<br/>Oldj fel, küldj el,<br/>tölts el tűzzel!<br/>Isten élő Lelke, jöjj,<br/>áldva szállj le rám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten élő Lelke, jöjj,<br/>légy vezérem itt,<br/>ó, segíts, hogy hagyjam el<br/>bűnök útjait!<br/>Oldj fel, küldj el,<br/>tölts el tűzzel!<br/>Isten élő Lelke, jöjj,<br/>légy vezérem itt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten élő Lelke, jöjj,<br/>hadd lehessek szent,<br/>s Jézusommal légyek egy<br/>már e földön lent!<br/>Oldj fel, küldj el,<br/>tölts el tűzzel!<br/>Isten élő Lelke, jöjj,<br/>hadd lehessek szent!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten élő Lelke, jöjj,<br/>győzedelmet adj,<br/>s majd a végső harcon át<br/>mennybe fölragadj!<br/>Oldj fel, küldj el,<br/>tölts el tűzzel!<br/>Isten élő Lelke, jöjj,<br/>győzedelmet adj!</lines>
+    </verse>
+  </lyrics>
+</song>

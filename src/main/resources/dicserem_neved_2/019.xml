@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr Jézusnak ma tárd ki a szíved</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="19"/>
+    </songbooks>
+    <themes>
+      <theme>Evangelizáció</theme>
+      <theme>Jel 3,21</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr Jézusnak ma tárd ki a szívedet,<br/>hadd formálja át teljesen az életed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Várd őt (várd őt),<br/>várd őt (várd őt),<br/>aki üdvöt ád (aki üdvöt ád).<br/>Várd őt (várd őt),<br/>várd őt (várd őt),<br/>és dicsérd a Királyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő minden foglyot megszabadít, a béna jár,<br/>a poklos gyógyul, hall a süket, a vak is lát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki terhet hord, ki gyászban jár, és könnye hull,<br/>a búját öröm váltja fel, és térdre borul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, fogjad kezünk, Jézusunk, és légy velünk,<br/>Szent békességed töltse be az életünk.</lines>
+    </verse>
+  </lyrics>
+</song>

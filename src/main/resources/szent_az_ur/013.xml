@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Istenem, megláthattam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Dan Marks</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, megláthattam Igéd igazságát.<br/>Megmutattad, Uram,<br/>hogy milyen is vagy igazán.<br/>Őszintén vágyom, hogy betölts,<br/>hogy épp olyan legyek, Uram, mint Te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezessed az éltemet Igéd nap fényében.<br/>A kezedet, Uram,<br/>ne engedjem el sohasem!<br/>Őszintén vágyom, hogy betölts,<br/>hogy épp olyan legyek, Uram, mint Te,<br/>hogy épp olyan legyek, Uram, mint Te.</lines>
+    </verse>
+  </lyrics>
+</song>

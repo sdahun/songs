@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus hív, hogy szabad lehess</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="106"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jézus hív, hogy szabad lehess,<br/>ő megtart téged, hogy el ne ess.<br/>A sátán támad és legyőzni kész,<br/>gyere gyorsan, hátra ne nézz!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ó nézz fel végre és lásd:<br/>az Úr a király!<br/>Figyelj, halld meg a biztatást:<br/>ő vár, ő vár, ő vár rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rajtad nem lesz más hatalom,<br/>az Úr a király!<br/>Figyelj, itt az alkalom:<br/>ő vár, ő vár, ő vár rád.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Gyere gyorsan, gyere gyorsan,<br/>gyere gyorsan, hátra ne nézz!<br/>Gyere gyorsan, gyere gyorsan,<br/>gyere gyorsan, hátra ne nézz!</lines>
+    </verse>
+  </lyrics>
+</song>

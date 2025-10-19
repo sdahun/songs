@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr csodásan működik</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Skót zsoltár, 1615.</author>
+      <author type="words">Cowper William, 1772. (1731-1800.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="56"/>
+      <songbook name="Adj zengő éneket!" entry="16"/>
+      <songbook name="Erőm és énekem az Úr" entry="16"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten szeretete és gondviselése</theme>
+      <theme>Bátorítás</theme>
+      <theme>Bizodalom</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Szív</theme>
+      <theme>Természet</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr csodásan működik,<br/>de titka megmarad:<br/>mert tenger rejti lábnyomát,<br/>vagy szellőfuvallat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó! ne csüggedj el, te kis nép,<br/>ha felhő száll föléd:<br/>a felhők felett süt a nap,<br/>és még tisztább az ég!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! ne gondold, hogy elhagyott,<br/>csak bízzad rá magad:<br/>mert vészes felhők éjén túl<br/>majd mosolya fogad!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A terve gyorsan végbemegy,<br/>ím rügyet bont az ág:<br/>s mi bimbójában keserű,<br/>az édes, mint virág.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki hűtlen szívvel tévelyeg,<br/>az nem láthatja őt,<br/>de megfejti az Úr magát<br/>a hívő szív előtt.</lines>
+    </verse>
+  </lyrics>
+</song>

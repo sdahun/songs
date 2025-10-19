@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Így szól ma tehozzád Jézus</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v1</verseOrder>
+    <authors>
+      <author type="music">Héber dallam</author>
+      <author type="words">Domján János, 1971</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="46"/>
+      <songbook name="Erőm és énekem az Úr" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Így szól ma tehozzád Jézus:<br/>„Életem adtam érted”.<br/>Így szól ma tehozzád Jézus:<br/>„Életem adtam érted”.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Még ma válaszolj,<br/>kezébe tedd le élted!<br/>Még ma válaszolj,<br/>kezébe tedd le élted!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Így szól Jézus:<br/>„Meghaltam érted!”<br/>Így szól Jézus:<br/>„Meghaltam érted!”</lines>
+    </verse>
+  </lyrics>
+</song>

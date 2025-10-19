@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyertyaláng</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
+    <authors>
+      <author type="music">Sillye Jenő</author>
+      <author type="words">Sillye Jenő</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="35"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyertyaláng, tiszta fény,<br/>csonkig égő áldozás,<br/>áldozatban pusztulás,<br/>Isten oltárainál.<br/>Gyertyaláng, tiszta fény,<br/>embert hívó lángolás,<br/>végső percig lobogás<br/>áldozatunk asztalán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gyertyaláng, tiszta fény,<br/>önpusztító lobogás,<br/>nem is akar lenni más,<br/>nem is kíván semmi mást,<br/>nem is lehet soha más!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szelíden, könnyesen,<br/>minden új dal győzelem,<br/>ezer gyötrődésemen,<br/>minden gyöngeségemen.<br/>Gyertyaláng, életem,<br/>könnyű széltől megremeg,<br/>de amit lehet, megteszek,<br/>áldozattá így leszek!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Gyertyaláng!</lines>
+    </verse>
+  </lyrics>
+</song>

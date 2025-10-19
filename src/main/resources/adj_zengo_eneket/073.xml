@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kiálts az Úrnak</title>
+      <title>Shout to the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Darlene Zschech</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="73"/>
+      <songbook name="Hozsánna énekes" entry="210"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, Megváltóm,<br/>nincs senki olyan, mint Te!<br/>Minden napon magasztalom<br/>szereteted nagy voltát.<br/>Vigaszom, oltalmam,<br/>menedékem, váram!<br/>Ami vagyok, egész valóm<br/>Téged szomjaz, Téged áld!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiálts az Úrnak, te föld, énekelj!<br/>Adj dicsőséget a Felségesnek!<br/>Hegyek hódoljatok, zúgj tenger<br/>a mi Urunk nagy nevének!<br/>Éneklem hűséged és kegyelmed,<br/>örökké szeretlek, én Istenem.<br/>Semmi sem ér fel a Te jelenléteddel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úr Jézus, Megváltóm,<br/>Te vagy az Egyetlenegy!<br/>Minden dalom Neked adom,<br/>köszönöm, hogy így szeretsz.<br/>Mellém állsz, megtalálsz,<br/>biztonság, béke vár rám.<br/>Dicsérjen hát, az egész világ,<br/>imádatunk Hozzád száll!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kiálts az Úrhoz, te föld és te ég!<br/>Övé az élet, a mindenség.<br/>Mozdul a hegy és harsog a föld,<br/>hogyha hallja szent Nevét.<br/>Örömmel zengem, hogy Te vagy az Úr,<br/>szeretlek, szolgállak, nincs visszaút!<br/>Senki nincs más, aki örök reményt ígér!</lines>
+    </verse>
+  </lyrics>
+</song>

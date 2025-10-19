@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mennyei otthonom: Éden</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Sherwin William (1826-1888.)</author>
+      <author type="words">Cushing William (1823-1902.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="150"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten örök uralma</theme>
+      <theme>Mennyei Jeruzsálem</theme>
+      <theme>Nyugodalom</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyei otthonom: Éden,<br/>békédre vágyom én!<br/>Csüggedő szívemre árad<br/>belőled égi fény.<br/>Mennyei otthonom: Éden,<br/>szentséges békehon,<br/>e nyugtalan, békétlen földről<br/>én tehozzád vágyódom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megpihen végre a szívem,<br/>örömben úszik majd:<br/>s hogyha az Úr elé lépek,<br/>ott zengek háladalt!<br/>Mennyei otthonom: Éden,<br/>szentséges békehon,<br/>e nyugtalan, békétlen földről<br/>én tehozzád vágyódom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézusom hajléka: Éden,<br/>ezerszer áldott, szent,<br/>üdvözült seregek ajkán<br/>új ének hangja zeng!<br/>Mennyei otthonom: Éden,<br/>szentséges békehon,<br/>e nyugtalan, békétlen földről<br/>én tehozzád vágyódom.</lines>
+    </verse>
+  </lyrics>
+</song>

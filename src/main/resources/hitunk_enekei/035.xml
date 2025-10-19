@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Én Uram, teremtőm</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Ismeretlen szerző.</author>
+      <author type="words">Steele Anne (1716-1778.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="35"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Erőtlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten áldása</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Megtartás</theme>
+      <theme>Szentlélek</theme>
+      <theme>Teremtés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én Uram, teremtőm,<br/>a tied vagyok én,<br/>a trónod élet kútfeje,<br/>s az áldás így enyém,<br/>a trónod élet kútfeje,<br/>s az áldás így enyém.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te tartod éltem fenn,<br/>mit jobbod alkotott;<br/>bár neved dicséretére<br/>én oly gyönge vagyok;<br/>bár neved dicséretére<br/>én oly gyönge vagyok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit adjak néked én,<br/>hisz minden tőled van?<br/>Az áldozatom oly csekély,<br/>hogy hálám lerójam;<br/>az áldozatom oly csekély,<br/>hogy hálám lerójam!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! bárcsak érezném<br/>Szent Lelked erejét;<br/>bár lenne minden óhajom<br/>és minden szóm tiéd;<br/>bár lenne minden óhajom<br/>és minden szóm tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

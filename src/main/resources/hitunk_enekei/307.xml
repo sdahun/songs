@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó! seregeknek Istene</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Genf, 1562.</author>
+      <author type="words">Béza Theodore (1519-1605.)</author>
+      <author type="words">Szenczi Molnár Albert (1574-1634.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="307"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - a gyülekezet</theme>
+      <theme>Bizodalom</theme>
+      <theme>Boldogság</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten országa</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Oltalom</theme>
+      <theme>Szombat</theme>
+      <theme>Útmutatás</theme>
+      <theme>Vágyakozás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó! seregeknek Istene,<br/>mely kedves gyönyörűsége<br/>a te szerelmes hajlékidnak.<br/>Az én lelkem fohászkodik,<br/>tornácodba kívánkozik.<br/>Ó! Istene a magasságnak!<br/>Áhítozik testem, lelkem<br/>tehozzád, élő Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A verébnek is van fészke,<br/>és honjában költ a fecske.<br/>Én királyom, Cebaoth Isten:<br/>hol vannak a te oltárid<br/>és te szentséges hajlékid,<br/>hogy dicsértetel felségesen?<br/>Bizony boldog az oly ember,<br/>ki téged házadban dicsér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! boldog az ember nyilván,<br/>aki a te utaidban<br/>kíván járni szívvel, lélekkel!<br/>Menvén a siralom völgyén,<br/>ahol merő száraz minden,<br/>ott is ő nagy hiedelemmel<br/>kutakat ás és csatornát,<br/>melybe esővizet bocsát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mennek erőről erőre,<br/>segítségről segítségre,<br/>míg hozzád jutnak a Sionra.<br/>Ó! erős Cebaoth Isten,<br/>hajtsd füled hozzám kegyesen<br/>és figyelmezzél az én szómra!<br/>Jákób Istene, nagy Isten,<br/>hallgass meg én szükségemben!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mi paizsunk, ó! Úr Isten,<br/>fölkentedre nézz kegyesen,<br/>mert jobb egy nap a te házadban,<br/>hogynem ezer nap egyebütt!<br/>Az Isten tornáca előtt<br/>kapunálló lennék inkáblan,<br/>hogynem mint sok időt éljek<br/>házukban a hitleneknek.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert minékünk fényes napunk<br/>az Isten és mi paizsunk,<br/>nagy dicsőséggel szeret minket.<br/>Azokkal kegyelmet tészen,<br/>kik járnak a jó ösvényen;<br/>sok javaival áldja őket.<br/>Boldog az ember éltében,<br/>ki bízik az Úr Istenben.</lines>
+    </verse>
+  </lyrics>
+</song>

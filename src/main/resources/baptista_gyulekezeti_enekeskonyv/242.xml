@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Új szívet adj</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Balla Péter</author>
+      <author type="words">Vargha Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="242"/>
+      <songbook name="Adj zengő éneket!" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új szívet adj, Uram, énnekem,<br/>Új szívet adj, én Istenem!<br/>Amely csupán csak Teérted ég,<br/>Véled jár szüntelen,<br/>csak Véled szüntelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyájas, vidám, szelíd, jó szívet,<br/>mely, Jézusom, Te lakhelyed.<br/>Hol egyedül a Te hangod szól,<br/>mely Véled van tele,<br/>csak Véled van tele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus, a Te gyógyító kezed<br/>megfogta már a szívemet.<br/>Én is tudom, bűntelen leszek<br/>majd Nálad odafenn,<br/>a mennyben odafenn.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jövel, drága szombatnap</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Pleyel Ignaz, 1790. (1757-1831.)</author>
+      <author type="words">Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="343"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat kezdet</theme>
+      <theme>Szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jövel, drága szombatnap,<br/>Isten áldott ünnepe!<br/>Áraszd égi fényedet<br/>gyönge, fáradt lelkemre!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldog béke, nyugalom<br/>terjed szét a szívemben,<br/>míg e drága szent napon<br/>testem, lelkem megpihen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>E szent, boldog ünnepen<br/>öröm fénye sugároz,<br/>égbe száll a hő fohász<br/>a szent szombat Urához.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten adta áldott nap,<br/>üdítsd fel a lelkemet:<br/>örök szombat öröme,<br/>töltsed be a szívemet!</lines>
+    </verse>
+  </lyrics>
+</song>

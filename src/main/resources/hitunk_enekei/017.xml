@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ím áldunk, nagy Úr</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Husband J. J., (1760-1825.)</author>
+      <author type="words">Mackay William Paton, 1886.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="17"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Doxologia</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus Isten Báránya</theme>
+      <theme>Kegyelem</theme>
+      <theme>Megváltás</theme>
+      <theme>Szentlélek</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ím áldunk, nagy Úr, a mi Megváltónkért,<br/>aki meghalt és feltámadt bűnösökért.<br/>Zengjen hála minden ajkon,<br/>zengjen alleluja;<br/>zengjen ének, hála néked,<br/>ó! egek Ura.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ím áldunk, nagy Úr, a te Szentlelkedért,<br/>aki Jézushoz vezet és gyújt bennünk fényt.<br/>Zengjen hála minden ajkon,<br/>zengjen alleluja;<br/>zengjen ének, hála néked,<br/>ó! egek Ura.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ím dicséret zeng néked, égi Bárány,<br/>aki eltörléd bűnünket ott fenn a fán.<br/>Zengjen hála minden ajkon,<br/>zengjen alleluja;<br/>zengjen ének, hála néked,<br/>ó! egek Ura.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ím dicséret zeng a te kegyelmedért,<br/>azzal bennünket bűnünktől megmentettél.<br/>Zengjen hála minden ajkon,<br/>zengjen alleluja;<br/>zengjen ének, hála néked,<br/>ó! egek Ura.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kelts új életre, tölts be szerelmeddel,<br/>hogy ma minden szív teljék meg Szentlelkeddel!<br/>Zengjen hála minden ajkon,<br/>zengjen alleluja;<br/>zengjen ének, hála néked,<br/>ó! egek Ura.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nyisd meg szemed!</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Carl Tutte</author>
+      <author type="words">Szilvási Ágota</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nyisd meg szemed,<br/>lásd a dicsőség Urát!<br/>Hangod szálljon,<br/>vigye dicsének szavát.<br/>Áldom neved és hirdetem.<br/>Halleluja, Jézus Király!</lines>
+    </verse>
+  </lyrics>
+</song>

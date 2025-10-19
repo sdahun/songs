@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elindulunk égő szívvel</title>
+      <title>Let The Flame Burn Brighter</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author type="music">Graham Kendrick</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="translation" lang="hu">Kerekes Szabolcs</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="24"/>
+      <songbook name="Erőm és énekem az Úr" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elindulunk égő szívvel,<br/>minden lépésünk imádság.<br/>Remény támad, új nap ébred,<br/>ének hangja árad szét.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kétezer év, s a láng nem alszik,<br/>tűzzel ég a világban.<br/>A lelkek várnak, éhesen vágynak,<br/>felébredni még egyszer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Égjél hát fénnyel, a sötétségben,<br/>emeld fel az arcodat!<br/>Éneked zengjen, erővel zengjen,<br/>lángoljon, lángoljon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igazság szóljon szeretettel,<br/>Jézus nevében: légy erős!<br/>Emeld a gyengét, védd a gyermeket,<br/>töltsd be a népet énekeddel.</lines>
+    </verse>
+  </lyrics>
+</song>

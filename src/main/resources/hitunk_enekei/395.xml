@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Téged dicsérni, nagy Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="395"/>
+      <songbook name="Üdv- és adventi énekek" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged dicsérni, nagy Isten,<br/>a szívem vágya, gyönyöre!<br/>Néked szolgálni mindenben,<br/>ez lelkem édes öröme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérni téged est’ s reggel<br/>ha nyugszom és ha dolgozom,<br/>ezt vágyom minden erőmmel<br/>minden helyen, mindenkoron.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ha nyomorba ér lábam,<br/>ha fájdalom is vesz körül;<br/>akkor is majd hő imában<br/>lelkem teveled egyesül.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bármi jön, javamra válik,<br/>ha téged nézlek szüntelen;<br/>s mikor szívem érted vágyik,<br/>nem árthat néki semmi sem.</lines>
+    </verse>
+  </lyrics>
+</song>

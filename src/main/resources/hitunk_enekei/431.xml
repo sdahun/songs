@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Öröm van a mennyben</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="431"/>
+      <songbook name="Üdv- és adventi énekek" entry="187"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Öröm van a mennyben, egy bűnös felett,<br/>ha megtérve hazaérkezett.<br/>Fut eléje atyja, kinyújtva karját,<br/>megcsókolja elveszett fiát.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Öröm, öröm, zeng az égi hang,<br/>zeng a hárfa, zeng az égi lant.<br/>Öröm van a mennyben, egy bűnös felett,<br/>ha megtérve hazaérkezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Öröm van a mennyben, mert az éjből egy<br/>vándor a napfényre érkezett;<br/>Kit a Sátán annyit kínozott, az itt<br/>Jézus előtt most imádkozik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Öröm van a mennyben, gyorsan lakomát!<br/>Vidámság zengjen a termen át.<br/>Hirdessétek vígan e hírt szerteszét:<br/>„Egy bűnös az Úrhoz visszatért!”</lines>
+    </verse>
+  </lyrics>
+</song>

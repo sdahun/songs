@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus Úr, Ő a mi Istenünk</title>
+    </titles>
+    <verseOrder>v1 v1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Úr, Ő a mi Istenünk,<br/>hatalmas Úr,<br/>vele mi bátran győzhetünk!<br/>Most zengj dicsérő éneket:<br/>Jézus Úr!<br/>Mert Ő legyőzött bűnt, halált<br/>és nála béke vár.<br/>Jöjj hát, ne késlekedj tovább<br/>és meglátod te is, hogy</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézus Úr, Ő a mi Istenünk,<br/>hatalmas Úr,<br/>vele mi bátran győzhetünk!<br/>Most zengj dicsérő éneket:<br/>Jézus Úr! Jézus Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

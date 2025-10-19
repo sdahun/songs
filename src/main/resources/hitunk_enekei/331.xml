@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hadd legyek mindig híved</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Lipcse, 1615.</author>
+      <author type="words">Selnecker Nikolaus, 1572. (1530-1592.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="331"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - záró ének</theme>
+      <theme>Isten igéje</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd legyek mindig híved,<br/>én Uram, Istenem,<br/>hogy ne vonjon el tőled<br/>s igédtől semmi sem.<br/>Ó! Uram, add erődet,<br/>hogy ne tévelyegjek,<br/>s hálával áldlak téged<br/>örökkön örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

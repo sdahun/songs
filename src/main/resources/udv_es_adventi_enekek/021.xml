@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Miként a szarvas a folyóvizekre</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Mendelssohn-Bartholdy F.</author>
+      <author type="words">Angolból</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="21"/>
+      <songbook name="Hitünk énekei" entry="400"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Dics és hálaénekek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miként a szarvas a folyóvizekre,<br/>úgy vágyik lelkem hozzád Istenem!<br/>Ah, szomjazom nagyon tekintetedre!<br/>Mikor lehet eléd jönnöm nekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyhullatás volt étkem nappal-éjjel,<br/>midőn ezt hányták folyton énfelém:<br/>„Hol van az Istened védő kezével?”<br/>S ezen oly szörnyen elbúsultam én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De mért hagyád el úgy magad én lelkem?<br/>Miért is vagy bennem oly nyugtalan?<br/>Bízzál erősen a te Istenedben,<br/>kinek még hálát zengek boldogan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mert ő az én orcám szabadítója<br/>óh Istenem, oh várjad lelkem őt!<br/>Ugyan miért is búsulnál magadba?<br/>Még nagy hálával dicsőítem őt.</lines>
+    </verse>
+  </lyrics>
+</song>

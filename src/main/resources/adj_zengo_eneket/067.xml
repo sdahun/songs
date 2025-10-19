@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jöjj, Izráel</title>
+    </titles>
+    <verseOrder>o1 o1 o2</verseOrder>
+    <authors>
+      <author>Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="67"/>
+      <songbook name="Hozsánna énekes" entry="123"/>
+    </songbooks>
+    <themes>
+      <theme>5Móz 6,4-5</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Jöjj, Izráel, ne félj,<br/>bízzál Istenedben, mert Ő téged vár!<br/>Jöjj, Izráel, ne félj,<br/>bízzál Istenedben, mert Ő téged vár!<br/>Nem mond le rólad,<br/>visszafogad téged és karjába zár.<br/>Nem mond le rólad,<br/>visszafogad téged és karjába zár.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Örülj, Izráel, az Úr a te Istened,<br/>szeresd az egy Urat!<br/>Örülj, Izráel, az Úr a te Istened,<br/>szeresd az egy Urat!<br/>Teljes szívedből, teljes lelkedből,<br/>teljes elmédből!<br/>Teljes szívedből, teljes lelkedből,<br/>teljes elmédből!</lines>
+    </verse>
+  </lyrics>
+</song>

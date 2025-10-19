@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Krisztus él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Leipzig, 1539.</author>
+      <author type="words">J. Hermann (1585-1647.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>Húsvét</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Krisztus él, mit bánkódom?<br/>Föltámadt ő, ezt jól tudom!<br/>A bűn, halál legyőzetett,<br/>ezért zeng ajkam éneket!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak Őbenne van már hitem,<br/>hisz megváltás az életem;<br/>eltörlé minden bűnömet,<br/>megszerzé üdvösségemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha mind e világ megtagad,<br/>elég, ha Ő velem marad.<br/>A Sátán bármit is tegyen,<br/>nem árthat többé már nekem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Azért immár nem félek én,<br/>mert Jézus él és Ő enyém,<br/>időm ha egyszer majd letelt,<br/>a sírból Ő életre kelt.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Legyen hála halálodért,<br/>dicső föltámadásodért,<br/>Te élsz, mi is élünk veled,<br/>ezért imádjuk szent neved!</lines>
+    </verse>
+  </lyrics>
+</song>

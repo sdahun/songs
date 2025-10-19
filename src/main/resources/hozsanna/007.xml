@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A napfelkeltétől</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="7"/>
+      <songbook name="Adj zengő éneket!" entry="5"/>
+      <songbook name="Erőm és énekem az Úr" entry="9"/>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="5"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A napfelkeltétől,<br/>míg leszáll az ég alján,<br/>Jézus nevét dicsérem én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.<br/>Dicsérd, dicsérd.</lines>
+    </verse>
+  </lyrics>
+</song>

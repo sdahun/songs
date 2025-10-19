@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mily édes vagy te szeretet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Foster J.</author>
+      <author type="words">Wesley Charles (1707-1788.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="107"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten élete és munkája</theme>
+      <theme>Átadás</theme>
+      <theme>Igehirdetés előtt</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Nyugodalom</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mily édes vagy te szeretet,<br/>ó! töltsd be fáradt lelkemet,<br/>és enyhet adj nekem;<br/>mert most csak erre szomjazom,<br/>és szívem néked átadom,<br/>ó! Jézus, életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily drága kincs a szeretet,<br/>mert minden másnál erősebb,<br/>s mint Isten, oly örök!<br/>Nem mérheted fel mélységét,<br/>csak érzed, látod szépségét,<br/>ha hozzád költözött.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg meg nem látlak tégedet:<br/>nem értem, mi a szeretet,<br/>csak hírből ismerem.<br/>De én csak erre szomjazom,<br/>ó! add hát, add én Jézusom,<br/>e jobbik részt nekem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó! drága Mester, engedd meg,<br/>hogy lábadnál én ott legyek,<br/>ha hirdeted igéd.<br/>A lelkemet, a szívemet<br/>és ádventváró hitemet<br/>ó! hassa át békéd!</lines>
+    </verse>
+  </lyrics>
+</song>

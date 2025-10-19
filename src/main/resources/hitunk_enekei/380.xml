@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Elpihent már a napsugár</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Kőnigsberg, 1602.</author>
+      <author type="words">Herman Nikolaus, 1560. (1480-1561.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="380"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - este</theme>
+      <theme>Este</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elpihent már a napsugár,<br/>sötétlő éjjel árnya száll;<br/>világos mégis éjszakánk:<br/>Jézusunk fénye árad ránk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönjük néked, Istenünk,<br/>hogy ma is óvtad életünk,<br/>angyalok által hordoztál,<br/>nem ért így minket semmi kár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amit csak tettünk ellened,<br/>bocsásd meg minden vétkünket,<br/>s ne ródd fel bűnül lelkünknek:<br/>nyugalmat adj a testünknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fölöttünk fénylő csillagok,<br/>őriznek égi angyalok,<br/>Sátántól, bűntől, bánattól<br/>védjél meg, Isten, mindenkor!</lines>
+    </verse>
+  </lyrics>
+</song>

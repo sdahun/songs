@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A reggeli óra kedves</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="457"/>
+      <songbook name="Üdv- és adventi énekek" entry="377"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A reggeli óra kedves,<br/>ha Istennel kezdjük meg,<br/>a szív örömében repdes<br/>és az ajk hálát rebeg:<br/>így illik keresztyénhez,<br/>akit Isten felébreszt,<br/>a nyugalmas éjjel után<br/>új derült reggelre korán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Óh tekintsünk fel az égre,<br/>hol a nap ragyogva áll,<br/>melyről hegyre és völgyekre<br/>fény és áldás alászáll.<br/>Szebben mint nap világa<br/>ragyog Krisztus orcája,<br/>üdv, béke és igazság van<br/>rejtve e világosságban.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma is fog minket kísérni,<br/>a munkához megy velünk;<br/>szívünket jóra vezérli<br/>és híven áll mellettünk,<br/>hogy ne érjen e napon<br/>minket semmi bántalom,<br/>és magunkat áldásával<br/>adjuk nyugalomnak által.</lines>
+    </verse>
+  </lyrics>
+</song>

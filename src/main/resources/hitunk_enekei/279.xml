@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mint Isten akarja, legyen</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Antwerpen, 1540.</author>
+      <author type="words">Albrecht porosz herceg, 1554. (1490-1568.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="279"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - hit és bizodalom</theme>
+      <theme>Bátorítás</theme>
+      <theme>Béketűrés</theme>
+      <theme>Bizodalom</theme>
+      <theme>Gondviselés</theme>
+      <theme>Isten akarata</theme>
+      <theme>Megtartás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint Isten akarja, legyen,<br/>szent az ő végezése!<br/>Kész segítségükre megyen,<br/>kik benne bíznak végre.<br/>Ínségekből, kegyelméből<br/>megsegít, sújt mértékkel:<br/>ki benne bízik, nem esik<br/>szégyenbe és nem vész el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr vígságom s reményem,<br/>bizodalmam s életem,<br/>mint akarja, mind úgy légyen,<br/>megnyugszik abban hitem.<br/>Igaz szava: hajam szála<br/>nála számba vétetett,<br/>ő vigyáz, őriz, tűz se víz<br/>így nékem kárt nem tehet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó! Uram, még egyre kérlek,<br/>ne tagadd ezt meg tőlem:<br/>ha ostromol gonosz lélek,<br/>ó! ne hagyj elcsüggednem!<br/>Segélj engem, én Istenem,<br/>neved dicséretére,<br/>ki ezt hiszi, az megnyeri,<br/>s én áment mondok erre.</lines>
+    </verse>
+  </lyrics>
+</song>

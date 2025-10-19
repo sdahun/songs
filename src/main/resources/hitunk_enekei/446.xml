@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Te fáradt szív ott vár reád</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="446"/>
+      <songbook name="Üdv- és adventi énekek" entry="312"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te fáradt szív ott vár reád<br/>küzdés után a pihenés.<br/>Oly édes lesz a nyugalom<br/>ott, hol nincs többé szenvedés.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Azért csendben várj és légy nyugodt,<br/>azért csendben várj és légy nyugodt,<br/>azért,<br/>azért várj csak és légy nyugodt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utad kemény, lábad sebes,<br/>kereszted megsúlyosbodott,<br/>nézz fel, a menny vár ott reád,<br/>azért várj csendben, s légy nyugodt!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Légy csendben, hisz múlik az éj,<br/>ím virrad már dicső napod!<br/>A távolból már tündököl;<br/>várj csendben hát és légy nyugodt!</lines>
+    </verse>
+  </lyrics>
+</song>

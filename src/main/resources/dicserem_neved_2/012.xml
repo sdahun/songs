@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Atyánk, eléd járulunk</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="12"/>
+    </songbooks>
+    <themes>
+      <theme>Dicséret és imádat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyánk, eléd járulunk,<br/>szívünkből imádunk,<br/>mert egyedül Te vagy Úr, s Király,<br/>és hajlékodba befogadtál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tisztesség, imádás,<br/>hódolat és áldás,<br/>Téged illet csak, senki mást,<br/>akinek neve: Abbá, Atyánk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tőled van az élet,<br/>Fiad az ígéret,<br/>és bensőnkben vett lakozást<br/>Szellemed, az igazság.</lines>
+    </verse>
+  </lyrics>
+</song>

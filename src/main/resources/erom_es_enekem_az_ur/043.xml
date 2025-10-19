@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Glória szálljon a mennybe fel</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Gebhardi (1787-1862)</author>
+      <author type="translation" lang="hu">Kerényi György</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="43"/>
+    </songbooks>
+    <themes>
+      <theme>Karácsony</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glória szálljon a mennybe fel,<br/>jöjjön a földre a béke,<br/>és az emberi szívbe a jóakarat!<br/>Ámen, ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

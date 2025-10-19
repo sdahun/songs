@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Élet van Tebenned</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="53"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Élet van Tebenned,<br/>erő van Tebenned,<br/>remény van Tebenned,<br/>ó, Jézus.<br/>Élet van Tebenned,<br/>erő van Tebenned,<br/>remény van Tebenned,<br/>ó, Jézus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így dicsérlek életemmel,<br/>és áldlak minden erőmmel,<br/>az életemmel,<br/>minden erőmmel,<br/>csak Benned van reményem.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ó, Jézus, Benned!</lines>
+    </verse>
+  </lyrics>
+</song>

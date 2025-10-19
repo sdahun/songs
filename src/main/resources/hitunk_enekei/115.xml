@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten örök szeretete</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Nürnberg, 1688.</author>
+      <author type="words">Senitz Elisabeth (1629-1679.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="115"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Megváltás</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten örök szeretete,<br/>hőn sóvárgott üdvösség,<br/>szeretetből jöttél földre,<br/>te isteni szent fölség.<br/>Mennyi bánat, fájdalom ért,<br/>míg megváltál engemet,<br/>téged, aki minden bűnért<br/>ontottad a véredet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretet, ki vérrel, könnyel<br/>áztattad a szent hegyet,<br/>szeretet, ki tiéidet<br/>teljes szívvel szeretted.<br/>Erős szívvel elhordoztad<br/>Úr Istennek haragját,<br/>égő lángját eloltottad,<br/>ezért haltál kínhalált.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szeretet, ki erős szívvel<br/>gúnyt és átkot hordoztál,<br/>szeretet, kit nem rettentett<br/>sem szenvedés, sem halál.<br/>Szeretet, te szeretetben<br/>élted végső percedet,<br/>szeretet, te szeretetben<br/>áldoztad fel éltedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeretet, ki kereszteden<br/>felém tártad szent karod,<br/>szeretet, az üdvösségem<br/>megszerezted, megtartod;<br/>értem kérted égi Atyád,<br/>bocsássa meg vétkemet,<br/>fogadja el bűnöm árát:<br/>kiontott szent véredet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szeretet, ki keresztfádon<br/>üdvöt szerzél énnekem,<br/>szent véredet áldva áldom,<br/>legyen tied életem;<br/>éltem hogyha alkonyodik,<br/>végső órám közelget,<br/>megköszönöm szent sebeid,<br/>te megsebzett Szeretet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szeretet, ki vétkeimért<br/>mindhalálig gyötrődtél,<br/>s szívet hogy adj kőszívemért,<br/>rideg sírba költöztél.<br/>Köszönöm, hogy haláloddal<br/>megmentetted éltemet,<br/>hadd maradjak mindig nálad,<br/>Isten, örök Szeretet!</lines>
+    </verse>
+  </lyrics>
+</song>

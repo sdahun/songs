@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hallgass meg minket, Úr Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="music">Kolozsvár, 1744.</author>
+      <author type="words">Új Zengedező Mennyei Kar, 1743.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="178"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - bűnbánat</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Doxologia</theme>
+      <theme>Ima</theme>
+      <theme>Isten mindentudó</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Szombat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgass meg minket, Úr Isten,<br/>tekints reánk kegyelmesen,<br/>e jelenvaló szent napon<br/>könyörgésünk hozzád jusson.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szíveknek vagy vizsgálója<br/>és a vesék átlátója;<br/>jól tudjuk gyarló voltunkat<br/>és sok fogyatkozásunkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ellened igen vétkeztünk:<br/>de légy kegyelmes minékünk:<br/>mindnyájan el kell hogy vesszünk,<br/>ha ingyen jól nem téssz velünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Emlékezzél meg mirólunk,<br/>mert te teremtésid vagyunk:<br/>dicsőségét szent nevednek.<br/>Kérünk, ne add idegennek.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vedd el mirólunk bűnünket,<br/>öregbítsd bennünk a hitet,<br/>hogy mi jó gyümölcsét annak<br/>teremjük néked, Atyánknak.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Így tégy velünk Szentháromság,<br/>kitől árad minden jóság,<br/>hogy a te szent országodban<br/>részesüljünk örök jókban.</lines>
+    </verse>
+  </lyrics>
+</song>

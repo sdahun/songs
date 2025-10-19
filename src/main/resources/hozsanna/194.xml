@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Találkozni jöttem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Találkozni jöttem veled, Istenem.<br/>Te jól ismersz engem,<br/>s én kitárom a szívem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Itt vagyok Istenem,<br/>vizsgálj meg engem!<br/>Itt vagyok Istenem,<br/>leteszem életem.<br/>Itt vagyok Istenem,<br/>hogy halljam hangodat.<br/>Itt vagyok Istenem,<br/>hogy tegyem akaratodat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vágylak megismerni Téged, Istenem,<br/>Szentlelkedben járni<br/>és élni szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

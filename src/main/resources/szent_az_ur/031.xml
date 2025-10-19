@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2013-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, mily csodás tudni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Leonard Smith, Jr.</author>
+      <author type="words">Pócsi Laura</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent az Úr" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, mily csodás tudni azt, örök Istenünk,<br/>hogy Jézus jön, visszajön.<br/>Elhozza majd a dicsőséges országát,<br/>örök békét, szabadulást.<br/>Jézus jön, visszajön!<br/>Jézus jön, (Jézus jön) visszajön!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meghalt itt lenn, hogy néked életed legyen<br/>Ő mellette, majd ott fenn.<br/>Örülj te Föld, mert beváltja ígéretét,<br/>hisz feltámadt, Jézus él!<br/>Jézus él, igen, él!<br/>Jézus él, (Jézus él) igen, él!</lines>
+    </verse>
+  </lyrics>
+</song>

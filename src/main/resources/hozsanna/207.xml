@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Új hálaének áldja Istent</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c1 v3 v4 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="207"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Új hálaének áldja Istent,<br/>a teremtés Urát,<br/>Ő hívott mindent életre,<br/>és szeretete mindig vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új hálaének áldja Istent,<br/>a békesség Urát,<br/>Ő otthonába hív minket,<br/>s a céltalan is rátalál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden perc és minden pillanat,<br/>minden nyelv és minden gondolat,<br/>minden ember minden nép,<br/>a Teremtőjéről beszél.<br/>---<br/>És minden ember, minden nép,<br/>és minden ország, nemzetség<br/>és együtt ujjong föld és ég,<br/>a Teremtőjéről beszél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Új hálaének áldja Istent,<br/>ki nékünk megbocsát,<br/>Ő nem hagyott a bűneinkben,<br/>és értünk küldte szent Fiát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Már minden egyes ember áldja,<br/>a menny és föld Urát.<br/>Őt Jézusban megtalálja<br/>a megszabadított világ.</lines>
+    </verse>
+  </lyrics>
+</song>

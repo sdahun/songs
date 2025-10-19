@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nagy Király</title>
+      <title>Majesty, Worship His Majesty</title>
+    </titles>
+    <verseOrder>v1 c1 c1 e1</verseOrder>
+    <authors>
+      <author type="music">Jack Williams Hayford</author>
+      <author type="words">Jack Williams Hayford</author>
+      <author type="translation" lang="hu">Kulcsár Tibor</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="92"/>
+      <songbook name="Hozsánna énekes" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nagy Király, Fenséges Úr, Király,<br/>Isten Fia: Tied minden magasztalás!<br/>Szent sereg Előtted hajt fejet,<br/>hozsannát zeng, Te vagy a szent,<br/>Téged imád!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nincs más név,<br/>Te vagy az üdv, az élet, Jézus!<br/>Megváltónk, Szabadítónk,<br/>csak Te vagy a Fény!<br/>Nagy Király, imádunk nagy Király!<br/>Hatalom, üdv, áldás, erő,<br/>minden Tiéd!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Hatalom, üdv, áldás, erő,<br/>minden Tiéd!</lines>
+    </verse>
+  </lyrics>
+</song>

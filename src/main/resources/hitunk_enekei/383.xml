@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelkünk, testünk teremtője</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Genf, 1562.</author>
+      <author type="words">Bátori István (1749-1833.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="383"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - óesztendő</theme>
+      <theme>Gondviselés</theme>
+      <theme>Megigazulás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lelkünk, testünk teremtője<br/>és kegyes gondviselője,<br/>imádjuk jóságodat<br/>és irgalmasságodat,<br/>hogy minden elfolyt időben,<br/>közelebb ez esztendőnkben<br/>a te kezed befedezett,<br/>gonoszoktól védelmezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent igédet hirdettetted,<br/>mi lelkünket legeltetted,<br/>adtál jó békességet,<br/>a jóra tehetséget;<br/>ételt, italt, ruhát adtál,<br/>egészséget szolgáltattál,<br/>és az esztendő végére,<br/>juttattál várt estéjére.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram, a te kegyelmednek<br/>és hű gondviselésednek<br/>ily sok ajándékiért,<br/>drága adományiért<br/>teljes szívünkből, lelkünkből<br/>és minden tehetségünkből<br/>áldjuk te istenségedet,<br/>nyújtsad erre kegyelmedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus szent áldozatjáért<br/>és érdemes haláláért<br/>töröld el bűneinket<br/>és minden vétkeinket,<br/>melyeket eltölt időnkben,<br/>közelebb ez esztendőnkben,<br/>cselekedtünk és gondoltunk,<br/>vétkes nyelvünkkel szólottunk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Urunk, újítsd meg szívünket,<br/>világosítsd értelmünket,<br/>adj a jóra kegyelmet,<br/>vezérlő segedelmet,<br/>hogy új életet élhessünk,<br/>végre tehozzád mehessünk,<br/>szent Felségednek elébe,<br/>a boldogok seregébe.</lines>
+    </verse>
+  </lyrics>
+</song>

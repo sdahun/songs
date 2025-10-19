@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Míg Jézus bennem él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="445"/>
+      <songbook name="Üdv- és adventi énekek" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Míg Jézus bennem él,<br/>míg ereje segél,<br/>fut tőlem gond és félelem,<br/>s örvend a kebelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó pásztor ő, aki<br/>juhát hőn őrizi,<br/>legeltet gazdag pázsiton,<br/>itat életfolyón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikor leszáll a nap,<br/>süvölt felém a vad,<br/>sötét éjfélkor is tudom:<br/>oltalmam Jézusom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha lábam gyenge lesz,<br/>ha e világ sebez,<br/>megyek Jézus szívéhez én,<br/>s szűnnek gyötrelmeim.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Csak őtet nézem hát,<br/>ki nékem üdvöt ád,<br/>szeret ő engem, ő nekem<br/>mentsváram, s Édenem.</lines>
+    </verse>
+  </lyrics>
+</song>

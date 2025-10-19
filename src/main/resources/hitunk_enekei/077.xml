@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Zengd Jézus nevét</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Shrubsole William, 1779. (1760-1806.)</author>
+      <author type="words">Perronet Edward, 1779. (1726-1792.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="77"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten dicsérete</theme>
+      <theme>Angyalok</theme>
+      <theme>Boldogság</theme>
+      <theme>Irgalom</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus királysága</theme>
+      <theme>Megváltás</theme>
+      <theme>Örök élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zengd Jézus nevét, zengd világ,<br/>őt angyalok, áldjátok!<br/>És ékesítve homlokát:<br/>az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ti választottak, szent hívek,<br/>ti mind, kiket megváltott,<br/>most irgalmát dicsérjétek:<br/>az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ti bűnösök, mert ő hordott<br/>tiértetek kínt, s átkot,<br/>és szent vérével áldozott:<br/>az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ti népek, törzsek, kik bárhol<br/>az ő szavát halljátok,<br/>nagy jóvoltáért hálából:<br/>az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mily boldogság lesz majd, ha fenn,<br/>az Úr előtt megállok,<br/>és mindörökké zenghetem:<br/>az áldott Krisztus Jézust magasztaljátok!</lines>
+    </verse>
+  </lyrics>
+</song>

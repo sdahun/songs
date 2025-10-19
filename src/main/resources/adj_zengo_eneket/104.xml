@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, hova visz az út?</title>
+      <title>God heeft het eerste woord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Gerard Kremer</author>
+      <author type="words">Jan Wit</author>
+      <author type="translation" lang="hu">Kádár Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="104"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, hova visz az út?<br/>Nagy rohanásban élek,<br/>már nem is látlak Téged,<br/>ó, hova visz az út?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert körülvesz a bűn,<br/>a kezeimben vétek,<br/>már magamtól is félek,<br/>mert körülvesz a bűn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jaj, láss meg, égi Szent!<br/>És halld meg sikoltásom,<br/>hogy arcodat még lássam,<br/>jaj, láss meg, égi Szent!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szót hallok, tiszta szót:<br/>„A Földre jöttem érted,<br/>és megtisztítlak téged!”,<br/>szót hallok, tiszta szót.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ím, így szeret az Úr,<br/>hát zendülj szívem, ajkam,<br/>hisz megkönyörült rajtam,<br/>ím így szeret az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

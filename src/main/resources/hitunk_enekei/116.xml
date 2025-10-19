@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áll szomorún a kopár hegy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Horsley William, 1844. (1774-1858.)</author>
+      <author type="words">Alexander Cecil, 1848. (1823-1895.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="116"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Jézus Krisztus áldozata</theme>
+      <theme>Jézus Krisztus halála</theme>
+      <theme>Megváltás</theme>
+      <theme>Örök élet</theme>
+      <theme>Szeretet</theme>
+      <theme>Szív</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áll szomorún a kopár hegy,<br/>mily komor éjsötét;<br/>e hegyen halt meg Krisztusunk<br/>a világ bűnéért.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A kereszt titkát emberszív<br/>ó! hogy érthetné meg?<br/>De hisszük, hogy a kereszten<br/>ő értünk szenvedett!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő értünk adta életét,<br/>s így kaptunk új szívet,<br/>hogy vére árán elnyerjük<br/>az örök életet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Csak ő volt méltó egyedül,<br/>hogy megváltó legyen,<br/>s hogy nékünk helyet készítsen<br/>a dicső mennyekben.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó! szeressük őt mindnyájan,<br/>ki minket szeretett,<br/>ki vére árán megváltott<br/>és értünk szenvedett.</lines>
+    </verse>
+  </lyrics>
+</song>

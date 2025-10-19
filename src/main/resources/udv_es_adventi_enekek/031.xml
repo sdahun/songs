@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Üdvözítőm engedd nékem</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Günther G. A.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="31"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözítőm engedd nékem,<br/>amíg tart földi éltem;<br/>bízva tefeléd forduljak.<br/>Te vagy igazság, élet,<br/>te legnagyobb ítélet,<br/>Hadd, hogy eléd boruljak.<br/>Óh adj, óh adj bocsánatot.<br/>Vétkemért nyugodalmat.<br/>Óh adj, óh adj bocsánatot,<br/>és áldom jóságodat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jól tudom, hogy szent kegyelmed,<br/>te akkor sem vonod meg;<br/>midőn sírom majd rámborul.<br/>Így ha pályám végezém,<br/>és te eléd érkezem;<br/>szívem majd el nem szorul.<br/>Óh adj, óh adj bocsánatot.<br/>Vétkemért nyugodalmat.<br/>Óh adj, óh adj bocsánatot,<br/>és áldom jóságodat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ámbár érzem bűnös voltom,<br/>és ellened harcoltam,<br/>óh de bocsásd meg vétkemet.<br/>Bár küzdöttem jó után,<br/>bűntől óvni nem tudám<br/>gyarló s gyenge szívemet.<br/>Óh adj, óh adj bocsánatot.<br/>Vétkemért nyugodalmat.<br/>Óh adj, óh adj bocsánatot,<br/>és áldom jóságodat.</lines>
+    </verse>
+  </lyrics>
+</song>

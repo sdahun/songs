@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Drága hajnal, üdvözöllek!</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Weingand W., 1893.</author>
+      <author type="words">Gebhardt Ernst (1832-1899.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="367"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - reggel</theme>
+      <theme>Bátorítás</theme>
+      <theme>Megtartás</theme>
+      <theme>Reggel</theme>
+      <theme>Vigasztalás</theme>
+      <theme>Világ bizonysága Istenről</theme>
+      <theme>Világosság</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Drága hajnal, üdvözöllek!<br/>Isten napja, ébredj föl!<br/>Elszáll minden földi bánat,<br/>mikor fényed előtör!<br/>Hegyek csúcsa verőfényben,<br/>égi fényben tündököl,<br/>virág szirma arra oktat:<br/>hívő szívvel nézz csak föl,<br/>hívő szívvel nézz csak föl!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért aggodalmaskodnál?<br/>Hisz az Üdvözítő él!<br/>Élted szent kezébe vette,<br/>bízzál benne és ne félj!<br/>Öröm, vígság, gond és bánat:<br/>minden jó, ha tőle jő!<br/>Híven bízzad rá az élted:<br/>örök honra tart meg ő,<br/>örök honra tart meg ő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sötét éjnek harca után<br/>áldott hajnal vár reánk!<br/>Bánatunknak nehéz útján<br/>megvigasztal jó Atyánk.<br/>Jézus lesz világosságunk,<br/>öröklétünk, örömünk;<br/>zengjünk néki örömzsoltárt,<br/>áldjuk drága Mesterünk,<br/>áldjuk drága Mesterünk!</lines>
+    </verse>
+  </lyrics>
+</song>

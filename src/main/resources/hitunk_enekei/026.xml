@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Isten, mily nagy szent neved</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Miller Harold</author>
+      <author type="words">Wesley Charles (1707-1788.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="26"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Békesség</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hatalma</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Oltalom</theme>
+      <theme>Szentlélek</theme>
+      <theme>Teremtés</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Isten, mily nagy szent neved,<br/>nincsen más isten kívüled;<br/>lelkedből nékünk, kérünk, adj,<br/>és minket soha el ne hagyj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Úr Isten, mily nagy szent kegyed,<br/>mert adod áldott Lelkedet;<br/>előtted néped porba hull,<br/>és hittel vallja: jó az Úr.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Úr vagy te menny és föld felett,<br/>te adtál nékünk életet;<br/>hódolva zeng a föld, az ég,<br/>és dicsér, áld a mindenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hatalmad zengi énekünk,<br/>hassa át békéd most szívünk,<br/>oltalmad biztos sziklavár,<br/>és nálad üdvösségünk vár.</lines>
+    </verse>
+  </lyrics>
+</song>

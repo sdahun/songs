@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyermekként jött</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyermekként jött égi lény<br/>glória nélkül érkeztél,<br/>Te szolgáltál minekünk,<br/>halálod által élhetünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Íme az Úr: Szolga Király!<br/>Most minket hív, kövessük hát!<br/>Hozzuk elé szívunk hódolatát,<br/>imádjuk a Szolga Királyt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egy kertben sírt, könnyezett,<br/>miattam hordott bűnterhet.<br/>Megtört szívvel mondta ott:<br/>„Legyen Atyám akaratod!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jöjj hát és nézd sebeit,<br/>áldozatáról hirdetik:<br/>eget tartó nagy kezét<br/>kínzó szegeknek tárta szét.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szolgálni Ő megtanít,<br/>szívünknek trónján Ő lakik,<br/>ha fölvesszük más baját,<br/>akkor szolgáljuk őt magát.</lines>
+    </verse>
+  </lyrics>
+</song>

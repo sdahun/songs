@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2019-06-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus legyen a jelszó</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Hit Hangjai</author>
+    </authors>
+    <songbooks>
+      <songbook name="Üdv- és adventi énekek" entry="33"/>
+    </songbooks>
+    <themes>
+      <theme>Istentisztelethez: Jézus dicsőítése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus legyen a jelszó<br/>mindig az én életemben,<br/>neve legyen a zászló,<br/>mellyel útra indul minden.<br/>Aki híve neki,<br/>s ösvényét szereti,<br/>az Istent dicséri<br/>majdan az örök hazában.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus neve, s igéje<br/>zengjen mindig a szívünkben,<br/>és mikor szent helyére<br/>bemegyünk, hogy áldjuk ottan.<br/>Aki híve neki,<br/>s ösvényét szereti,<br/>az Istent dicséri<br/>majdan az örök hazában.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg e földön bújdosunk,<br/>járjunk csak az Ő nevében.<br/>Ha vezérünk Jézusunk,<br/>jól fog akkor menni minden.<br/>Aki híve neki,<br/>s ösvényét szereti,<br/>az Istent dicséri<br/>majdan az örök hazában.</lines>
+    </verse>
+  </lyrics>
+</song>

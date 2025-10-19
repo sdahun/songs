@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldjad, én lelkem, felséges Uradat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Bourgeois Louis, Genf, 1542. (1510-1569.)</author>
+      <author type="words">Losontzi István (1709-1780.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="355"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - keresztség</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten segítségül hívása</theme>
+      <theme>Kegyelem</theme>
+      <theme>Keresztség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad, én lelkem, felséges Uradat,<br/>dicséretére emeld fel szavadat,<br/>jóvoltát hirdesd lelki örömmel!<br/>Terólad, Uram, csak rólad éneklek,<br/>mindenek felett tégedet szeretlek,<br/>mert voltál hozzám nagy kegyelemmel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keresztségnek külső fürdőjével,<br/>mint kegyelmednek bizonyos jelével,<br/>megmosád gyenge s erőtlen testem;<br/>így szent házadban engem béavattál,<br/>a pogányoktól híven elszakasztál,<br/>hogy én azt többé ne is keressem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bízzál hát, lelkem, a te Istenedben,<br/>ki Atyáddá lett még gyengeségedben!<br/>Mint a vízzel megmosá testedet,<br/>úgy szent Fiának drága érdemével,<br/>azzal érdemlett áldott Szentlelkével<br/>bűneidből megtisztít tégedet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tehozzád is, csak tehozzád emelem<br/>szívemet, ó! nagy jóság és kegyelem;<br/>üdvösségemet tetőled várom.<br/>Ne hagyj el engem, ha Istenem lettél,<br/>végezd el a jót, amit elkezdettél,<br/>ó! én Uram, Atyám és kővárom!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mi szent Atyánk, ki lakozol</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1778.</author>
+      <author type="words">Lőcse, 1699.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="346"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - szombat kezdet</theme>
+      <theme>Becsületesség</theme>
+      <theme>Bizodalom</theme>
+      <theme>Hálaadás</theme>
+      <theme>Ima</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Oltalom</theme>
+      <theme>Reggel</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi szent Atyánk, ki lakozol mennyégben,<br/>és uralkodol az egy istenségben,<br/>szent Fiaddal, Lelkeddel dicsőségben<br/>tiszteltetel földön és a mennyégben.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenteltessék, Uram, a te szent neved,<br/>dicsértessék mitőlünk, mert érdemled,<br/>hogy ez éjjel minket te szent Felséged,<br/>kegyelmesen őrizett Istenséged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Sátánnak tőribe nem eresztél,<br/>sőt a te szent angyaliddal őrzettél,<br/>és álmunkból életben felköltöttél,<br/>lelki-testi veszélytől megmentettél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent kezedbe ajánljuk mi lelkünket,<br/>mai nap is tápláljad mi testünket,<br/>védelmezzed, Uram, a mi éltünket,<br/>lelki-testi veszélytől ments meg minket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te vagy, Uram, egyedül mi Istenünk,<br/>mennyen, földön nincs nekünk több reményünk;<br/>légy te azért, Uram Isten, pásztorunk,<br/>szükségünkben táplálónk és oltalmunk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kegyelmeddel tartóztasd meg lelkünket,<br/>hogy bűnnel ne fertőztessük testünket;<br/>világosítsd inkább sötét elménket,<br/>hogy megtartsuk, Uram, te szent törvényed.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>A te Szentlelked minket ösvényidben,<br/>vezéreljen, Uram, szent törvényidben,<br/>ma és életünknek minden rendiben,<br/>hogy így hozzád juthassunk az egekben.</lines>
+    </verse>
+  </lyrics>
+</song>

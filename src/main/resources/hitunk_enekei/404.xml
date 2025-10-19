@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ím ma az egész égbolt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="404"/>
+      <songbook name="Üdv- és adventi énekek" entry="63"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ím ma az egész égbolt miként nevet, ragyog!<br/>Óh, mert az Úr szerezte nekünk e szép napot.<br/>Az Úrnak napján ne feledd, mutasd be tisztán szívedet,<br/>szenteld meg, szenteld meg buzgón ez ünnepet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mily ünnepélyes csend van ma völgyön és hegyen,<br/>mert Isten szava szólal s folyvást tovább megyen.<br/>Az Úrnak napján ne feledd, mutasd be tisztán szívedet,<br/>szenteld meg, szenteld meg buzgón ez ünnepet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mily csodás béke árad a hímes rét felett,<br/>hogy megpihen, ki fáradt és megterheltetett.<br/>Az Úrnak napján ne feledd, mutasd be tisztán szívedet,<br/>szenteld meg, szenteld meg buzgón ez ünnepet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És ha az Úrnak napja ily szép már e földön,<br/>mily szép lesz majdan végre, midőn az Úr eljön!<br/>Az Úrnak napján ne feledd, mutasd be tisztán szívedet,<br/>szenteld meg, szenteld meg buzgón ez ünnepet!</lines>
+    </verse>
+  </lyrics>
+</song>

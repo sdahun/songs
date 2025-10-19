@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hogyha este fenn az égen</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="468"/>
+      <songbook name="Üdv- és adventi énekek" entry="454"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogyha este fenn az égen ragyognak a csillagok,<br/>úgy van, mintha jobb világba hívnának az angyalok.<br/>Ekkor szárnyra kél a vágyam és a menny felé repül,<br/>az Atyához ki szememről minden könnyet letöröl.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tündökölj csak milljó csillag, sok szegénynek tündökölj.<br/>Angyalok óh hívjatok csak szíveket a mennybe föl,<br/>hogy reménység szárnyán szállva téged megismerjenek<br/>és majd egykor a mennyekben halleluját zengjenek.</lines>
+    </verse>
+  </lyrics>
+</song>

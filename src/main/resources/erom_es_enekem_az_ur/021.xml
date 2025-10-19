@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-02-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr van itt</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1</verseOrder>
+    <authors>
+      <author type="words">Blane Morris</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erőm és énekem az Úr" entry="21"/>
+      <songbook name="Dicsérem Neved 2" entry="20"/>
+      <songbook name="Hozsánna énekes" entry="33"/>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="25"/>
+    </songbooks>
+    <themes>
+      <theme>Közösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr van itt, (Az Úr van itt,)<br/>a te Istened, (a te Istened,)<br/>Ő vár rád, (Ő vár rád,)<br/>Ő vár rád, (Ő vár rád,)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>hogy elmondja, (hogy elmondja,)<br/>mennyire szeret, (mennyire szeret,)<br/>a legdrágábbat adta érted.<br/>Az Ő Fiát, (Az Ő Fiát,)<br/>aki most is él, (aki most is él,)<br/>s uralkodik mind örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úgy jó, amint Isten vezet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13</verseOrder>
+    <authors>
+      <author type="music">Testvérgyülekezet, 1740</author>
+      <author type="words">Herrnschmidt Johann Daniel (1675-1723.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="201"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - Krisztus követése</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Bizodalom</theme>
+      <theme>Félelem</theme>
+      <theme>Gyarlóság</theme>
+      <theme>Hit</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Kegyelem</theme>
+      <theme>Oltalom</theme>
+      <theme>Próba</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy jó, amint Isten vezet,<br/>nála üdv és élet vár;<br/>ne félj a bősz hullámártól,<br/>hogyha Jézus veled jár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki kételkedik benne,<br/>az csak gyötri a lelkét;<br/>Jézus soha el nem hagyja<br/>benne bízó gyermekét.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El ne feledd, gyarló ember,<br/>Isten örök őriződ,<br/>szemét soha le nem hunyja;<br/>keresd mindig hittel őt!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jóban, rosszban ott van véled:<br/>szeret téged jó Atyád!<br/>Örömödet s bánatodat<br/>veled együtt érzi át.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Higgyél benne teljes szívből,<br/>ő csak jót tesz teveled,<br/>minden gondtól, minden kíntól<br/>megmenti az életed!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hogyha gondok árja ellep:<br/>keresd lelked nyugalmát;<br/>bízd az Úrra minden gondod,<br/>mert ő híven vigyáz rád!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Isten karja el nem fárad,<br/>bölcsessége végtelen!<br/>Bármily nehéz lesz is sorsunk,<br/>el nem hagy a kegyelem!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Csodát művel, s mint a szikra<br/>lángra gyújtja hitedet!<br/>Véghez viszi szent szándékát,<br/>bízzad rá a lelkeket!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hogyha jön a próbák napja,<br/>téged bizton óv az Úr,<br/>és te szívrepesve látod:<br/>féltél alaptalanul.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Bízzál benne nyugodt szívvel,<br/>hordozd hittel sorsodat:<br/>mert ki nem hisz, nem türelmes,<br/>sorsát nehezíti csak!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Ki az Istent megtagadja,<br/>hamis úton tévelyeg,<br/>ki most meg nem vallja Jézust,<br/>az majd kárhozatra megy.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Akik szeretettel hordják<br/>Jézus drága igáját,<br/>azok kapnak jutalmat majd,<br/>ékes életkoronát.</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Ámen, ámen! Hittel vallom<br/>Jézus drága szent nevét.<br/>Teljesítse rajtam Isten<br/>áldott tervét: igéjét!</lines>
+    </verse>
+  </lyrics>
+</song>

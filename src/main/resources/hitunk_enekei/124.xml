@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áll a Krisztus szent keresztje</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Conkey Ithamar, 1851. (1815-1867.)</author>
+      <author type="words">Bowring John, 1825. (1792-1872.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="124"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Békesség</theme>
+      <theme>Boldogság</theme>
+      <theme>Jézus Krisztus szenvedése</theme>
+      <theme>Megváltás</theme>
+      <theme>Üdvösség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áll a Krisztus szent keresztje<br/>elmúlás és rom felett,<br/>Krisztusban beteljesedve<br/>látom üdvösségemet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bánt a sok gond, űz a bánat,<br/>tört remény vagy félelem:<br/>ő nem hágy el, biztatást ad,<br/>békesség van énvelem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boldogságnak napja süt rám,<br/>jóság, fény jár utamon;<br/>a keresztfa ragyogásán<br/>fényesebb lesz szép napom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldássá lesz ott az átok,<br/>megbékéltet a kereszt;<br/>el nem múló boldogságod,<br/>békességed ott keresd!</lines>
+    </verse>
+  </lyrics>
+</song>

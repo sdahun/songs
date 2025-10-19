@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldjad én lelkem, a dicsőség erős királyát</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Stralsund, 1665.</author>
+      <author type="words">Neander Joachim, 1680. (1650-1680.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="33"/>
+      <songbook name="Üdv- és adventi énekek" entry="17"/>
+    </songbooks>
+    <themes>
+      <theme>Az Atya Isten dicsérete</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Gondviselés</theme>
+      <theme>Gyógyulás</theme>
+      <theme>Hálaadás</theme>
+      <theme>Isten dicsérete</theme>
+      <theme>Isten hűsége</theme>
+      <theme>Isten jóvolta</theme>
+      <theme>Isten vezetése</theme>
+      <theme>Oltalom</theme>
+      <theme>Világ bizonysága Istenről</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad én lelkem, a dicsőség erős királyát;<br/>őnéki mennyei karokkal együtt zengj hálát!<br/>Zúgó harang,<br/>ének és orgonahang,<br/>mind az ő szent nevét áldják!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldjad őt, mert az Úr mindent oly szépen intézett!<br/>Sasszárnyon hordozott, vezérelt, bajodban védett.<br/>Nagy irgalmát<br/>naponként tölti ki rád:<br/>áldását mindenben érzed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjad őt, mert olyan szépen megalkotott téged,<br/>elkísér utadon, tőle van testi épséged!<br/>Sok baj között<br/>erőd volt és örömöd:<br/>szárnyával takarva védett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldjad őt, mert az Úr megáldja minden munkádat,<br/>hűsége, mint az ég harmatja, bőven rád árad!<br/>Lásd: mit tehet<br/>Jóságos Lelke veled,<br/>és hited tőle mit várhat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Áldjad az Úr nevét, őt áldja minden énbennem!<br/>Őt áldjad, lelkem, és róla tégy hitvallást, nyelvem!<br/>El ne feledd:<br/>napfényed ő tenéked;<br/>őt áldjad örökké! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

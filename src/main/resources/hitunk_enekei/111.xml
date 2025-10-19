@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A jóság az én pásztorom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Dykes John, 1868. (1823-1876.)</author>
+      <author type="words">Baker H. W., 1868.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="111"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten élete és munkája</theme>
+      <theme>Isten szeretete</theme>
+      <theme>Jézus Krisztus dicsérete</theme>
+      <theme>Jézus Krisztus jó pásztor</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Útmutatás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A jóság az én pásztorom,<br/>a szív királya Jézus!<br/>Az élet útján ő vezet,<br/>ó! mért is lennék én bús?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha tikkadt lelkem révedez,<br/>az élet vizét nyújtja;<br/>majd táplál tiszta kenyérrel,<br/>és hull az égi manna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg Jézus meg nem keresett,<br/>csak tévelyegtem árván;<br/>de pásztorolt és megszentelt,<br/>s az égi otthon vár rám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Most körülvesz a szeretet<br/>és vár az örök élet,<br/>a jó pásztorról zengjen hát<br/>a boldog hálaének!</lines>
+    </verse>
+  </lyrics>
+</song>

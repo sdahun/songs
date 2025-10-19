@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adjátok a szent bibliát kezembe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="403"/>
+      <songbook name="Üdv- és adventi énekek" entry="57"/>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjátok a szent bibliát kezembe,<br/>ez ad vigaszt a gond és baj között.<br/>Nincs vész, mely égi szent fényét elfedje,<br/>mióta Jézus értünk földre jött.<br/>A bibliának hadd ragyogjon fénye,<br/>a szűk kapun át minket ez vezet<br/>s az Úr iránt tanít szent tiszteletre<br/>ígéret, törvény és a szeretet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adjátok a szent bibliát kezembe,<br/>a fáradt vándort ez enyhíti meg.<br/>Valódi ír az bármilyen sebekre,<br/>ez szüntet kint és gyógyít beteget.<br/>A bibliának hadd ragyogjon fénye,<br/>a szűk kapun át minket ez vezet<br/>s az Úr iránt tanít szent tiszteletre<br/>ígéret, törvény és a szeretet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adjátok a szent bibliát kezembe,<br/>abban találom Jézus életét,<br/>ki érettem adá magát keresztre<br/>s aki legyőzte lelkem ellenét.<br/>A bibliának hadd ragyogjon fénye,<br/>a szűk kapun át minket ez vezet<br/>s az Úr iránt tanít szent tiszteletre<br/>ígéret, törvény és a szeretet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adjátok a szent bibliát kezembe,<br/>hadd szívjam annak balzsamdús szavát.<br/>Óh, hadd fakasszon ez örömkönnyekre<br/>s hálára az én Istenem iránt.<br/>A bibliának hadd ragyogjon fénye,<br/>a szűk kapun át minket ez vezet<br/>s az Úr iránt tanít szent tiszteletre<br/>ígéret, törvény és a szeretet.</lines>
+    </verse>
+  </lyrics>
+</song>

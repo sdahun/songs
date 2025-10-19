@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kegyelmes Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Régi magyar dallam</author>
+      <author type="words">Balassi Bálint</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="69"/>
+      <songbook name="Hitünk énekei" entry="263"/>
+      <songbook name="Református énekeskönyv" entry="261"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelmes Isten,<br/>kinek kezébe<br/>életemet adtam:<br/>viseld gondomat,<br/>vezérld utamat,<br/>mert csak Rád maradtam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Add meg énnékem<br/>én reménységem<br/>szerint való jódat:<br/>áldd meg fejemet,<br/>ki bízik Benned,<br/>s viseljed gondomat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szép harmatot<br/>miként hullatod<br/>tavasszal virágra:<br/>sok jódat, Uram,<br/>Úgy hullasd reám,<br/>Te régi szolgádra!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogy mind holtomig<br/>szívem legyen víg,<br/>Téged magasztalván:<br/>mindenek előtt<br/>s mindenek fölött<br/>szent Nevedet áldván!</lines>
+    </verse>
+  </lyrics>
+</song>

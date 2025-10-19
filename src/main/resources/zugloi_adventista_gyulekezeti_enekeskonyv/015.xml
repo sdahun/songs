@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott reménység</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="music">Wayne Hooper, 1962. (1920-2007)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott reménység lángol szívünkben,<br/>remény az Úr adventjében.<br/>Ő adta nékünk e csodás hitet,<br/>bízunk hű ígéretében.<br/>Hisszük, az idő itt van,<br/>eljön Krisztus országa.<br/>Hirdesd, ember: ébredj föl!<br/>Halleluja, Krisztus jön!<br/>Áldott reménység lángol szívünkben,<br/>jöjj, Jézus, néped vár téged!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egységben élünk Jézussal, mint nép.<br/>Szívünkben szeretete ég.<br/>Nemzetek, nyelvek hallják hívását;<br/>Várják nagy szabadítását.<br/>Népe áldja Krisztusát,<br/>énekel a nagy világ.<br/>Zengi lenn és zengi fönn:<br/>Halleluja, Krisztus jön!<br/>Áldott reménység, hit és szeretet,<br/>egységben tartja népünket.</lines>
+    </verse>
+  </lyrics>
+</song>

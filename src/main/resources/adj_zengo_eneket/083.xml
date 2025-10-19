@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Messziről száll dalunk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Meir Ben-Uri</author>
+      <author type="translation" lang="hu">Kádár Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="83"/>
+      <songbook name="Hozsánna énekes" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Messziről száll dalunk,<br/>halld meg, ó, Jézusunk,<br/>csak Feléd indulunk vágyakozva!<br/>Éltünk töltse meg<br/>Lelked szent hatalma!<br/>Így fogadj el, bűneinkkel,<br/>Krisztusunk, vigy magasra!</lines>
+    </verse>
+  </lyrics>
+</song>

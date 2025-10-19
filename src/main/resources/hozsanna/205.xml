@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg a szívemet</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tisztítsd meg a szívemet,<br/>újítsd meg az életem.<br/>Nézd, milyen hűtlen voltam én Tehozzád!<br/>De most arra kérlek, áraszd kegyelmed rám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus várok Rád,<br/>ó tölts el most Szellemeddel!<br/>Add, hogy életem Neked éljem!<br/>Bocsásd meg hűtlenségem,<br/>hozom most Eléd minden vétkem,<br/>szabadításod örömét add nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

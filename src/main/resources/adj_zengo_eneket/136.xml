@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Úgy gyötört a szomj</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="136"/>
+    </songbooks>
+    <themes>
+      <theme>Jn 5,1-9</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy gyötört a szomj, és nem volt erőm<br/>már elhagyni bús fekhelyem!<br/>Mert hiába volt sok vízmozdulás:<br/>ott feküdtem reménytelen.<br/>Ó, miért kell élnem, ha nincs reményem?<br/>Felelj hát, nagy Istenem!<br/>Hát hiába van sok vízmozdulás:<br/>ha más gyógyul, mit ér nekem?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az ünnepnap reggel hajolt felém<br/>egy fehér ruhás idegen.<br/>Ó, nem ajkam szólt, csak könnyes szemem,<br/>Ő megfogta hideg kezem.<br/>Szent erő vonult át a testemen, és<br/>otthagytam bús fekhelyem.<br/>A Bethesda fénylett, tükrében állt<br/>az én gyógyító Mesterem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most szökdelj és ujjongj, van már erő,<br/>te nemrég még oly béna láb!<br/>És hagyd el most harmincnyolc év után<br/>a Bethesda rideg tavát!<br/>Ó, van már reményem, ezért kell élnem,<br/>felelt az én Istenem!<br/>És elküldte Jézust, szívem Urát,<br/>ki élő Megváltóm nekem!</lines>
+    </verse>
+  </lyrics>
+</song>

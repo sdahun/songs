@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adj békességet, Úr Isten</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Wittenberg, 1529.</author>
+      <author type="words">Da pacem Domine antifonából, Luther Márton, 1531. (1483-1546.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="262"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztyén élet - megpróbáltatás</theme>
+      <theme>Békesség</theme>
+      <theme>Lelki harc</theme>
+      <theme>Záróének</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj békességet, Úr Isten,<br/>mi időnkben a földön,<br/>mert nincsen nékünk több senki<br/>bajvívónk, hadakozónk,<br/>hanem csak te, áldott Isten!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Atyám a mennyben</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="11"/>
+    </songbooks>
+    <themes>
+      <theme>Dicséret és imádat</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám a mennyben, dicsőítelek!<br/>Égi Atyám, én dicsőítelek!<br/>Úgy szeret a szívem,<br/>meghajtom térdem,<br/>égi Atyám, én dicsőítelek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten Fia, csodálatos vagy,<br/>Isten Fia, te csodálatos vagy!<br/>Szívem bűntől tiszta lett,<br/>Lelked bennem él már,<br/>Isten Fia, te csodálatos vagy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent Szellem, Pártfogónk vagy,<br/>Szent Szellem, te Pártfogónk vagy!<br/>Mindig őrzöl és vezetsz,<br/>bennünk élsz,<br/>Szent Szellem, te Pártfogónk vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

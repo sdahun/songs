@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Küldj el, Jézus</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1 v1 v1</verseOrder>
+    <authors>
+      <author>Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden kár és szemét,<br/>mit Nélküled tettem.<br/>Minden elmúlik majd,<br/>ha ott állok Előtted.<br/>Ezért Nélküled én már semmit nem teszek,<br/>kérlek, Jézus, cselekedjél bennem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Küldj el, Jézus: használd az életem!<br/>Szolgád vagyok, Néked hódolok!<br/>Igen, küldj el, Jézus:<br/>használd az életem!<br/>Szolgád vagyok örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

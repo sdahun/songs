@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2014-04-24T00:00:00">
+  <properties>
+    <titles>
+      <title>Dávid egykor</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="34"/>
+    </songbooks>
+    <themes>
+      <theme>Gyerekénekek</theme>
+      <theme>1Sám 17,26-28</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dávid egykor, mint pásztorfiú<br/>indult a harcba,<br/>fegyverzete nem volt egyéb,<br/>mint bot, és parittya.<br/>Tarisznyájában öt sima kő,<br/>mégsem félt szíve,<br/>páncélruhás Góliátot<br/>nyomban legyőzte.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jóbarátom, van-e hited<br/>győzni minden bűn felett,<br/>ellenállni, ha a világ<br/>csalogatja szívedet?<br/>Van erő, van, tudod-e hol:<br/>csakis Jézus Krisztusban,<br/>aki rá néz, sose veszít,<br/>mindig győztes a harcban.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kis dolgok néha nagyra nőnek,<br/>mint az óriás,<br/>jónak látszó tett is lehet<br/>bálványimádás.<br/>Nap mint nap újabb ellenség jön,<br/>készülj a harcra,<br/>Isten minden fegyverzetét<br/>öltsd fel magadra!</lines>
+    </verse>
+  </lyrics>
+</song>

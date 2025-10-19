@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jer, Isten népe, áldjuk őt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Herman Nikolaus, 1554. (1480?-1561.)</author>
+      <author type="words">Herman Nikolaus, 1560. (1480?-1561.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="91"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten testet öltése</theme>
+      <theme>Jézus Krisztus Isten ember</theme>
+      <theme>Jézus Krisztus Isten fia</theme>
+      <theme>Jézus Krisztus születése</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jer, Isten népe, áldjuk őt,<br/>a mindenség Urát,<br/>ki elhozta e szent időt<br/>és adta szent Fiát,<br/>és adta szent Fiát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint égi Atyja küldötte<br/>ő jött a mennyekből,<br/>mint szegény szülők kisdedje<br/>kis jászol bölcsőből,<br/>kis jászol bölcsőből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő letette a hatalmát<br/>és értünk szolga lett;<br/>ím megalázta önmagát,<br/>ki mindent teremtett,<br/>ki mindent teremtett.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mily változás és csoda lett,<br/>mit tett erejében,<br/>ő alászállt, mást felemelt<br/>nagy kegyességében,<br/>nagy kegyességében!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ő nékünk újra megnyitja<br/>az Éden kapuját,<br/>azt többé Kérub nem állja,<br/>ó! áldd az ég Urát,<br/>ó! áldd az ég Urát!</lines>
+    </verse>
+  </lyrics>
+</song>

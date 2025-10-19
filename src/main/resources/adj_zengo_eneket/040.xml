@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hívlak, Uram</title>
+    </titles>
+    <verseOrder>v1 c1 b1 v1</verseOrder>
+    <authors>
+      <author type="music">Lakatos Péter</author>
+      <author type="words">Lakatos Péter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="40"/>
+      <songbook name="Hozsánna énekes" entry="93"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hívlak Uram, várlak Uram,<br/>Benned bízom, Benned reménykedem.<br/>Hívlak Uram, várlak Uram,<br/>légy segítségem, légy menedékem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te szóltál,<br/>és előállt a földkerekség.<br/>Mert Te szóltál,<br/>és csillagok lettek az ég tengerén.<br/>Mert Te szóltál,<br/>és víz fakadt a kősziklából.<br/>Mert Te szóltál,<br/>és megindult a föld a szavadtól.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el, Uram,<br/>és cselekedjél!<br/>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el Uram,<br/>és cselekedjél!</lines>
+    </verse>
+  </lyrics>
+</song>

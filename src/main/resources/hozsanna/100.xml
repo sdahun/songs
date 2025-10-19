@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Isten szeret, örvendj hát!</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="100"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Isten szeret, örvendj hát!<br/>Szabadulj fel szellemében!<br/>Isten szeret örvendj hát,<br/>szíved járja át!<br/>Isten szeret örvendj hát!<br/>Ünnepeljed nevét tánccal!<br/>Isten szeret örvendj hát!<br/>Ő tesz teljessé!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elhívásunk Tőle kaptuk,<br/>két kezével őriz minket,<br/>és ha megtart, el is hordoz<br/>szeretetében!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Istenünk jó, vezet minket,<br/>ereje formál bennünket.<br/>Eggyé tesz majd lelke által<br/>szeretetében!</lines>
+    </verse>
+  </lyrics>
+</song>

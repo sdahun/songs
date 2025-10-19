@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-03-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Békét ad Ő</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1 v2 v2 c2 c2 v3 v3 c3 c3</verseOrder>
+    <songbooks>
+      <songbook name="Hozsánna énekes" entry="34"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Békét ad Ő,<br/>aki összetör gátakat,<br/>békét ad Jézus,<br/>békét ad Ő.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vesd rá sok terhedet,<br/>nyisd meg a szívedet,<br/>békét ad Jézus,<br/>békét ad Ő.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmas Ő,<br/>aki győzött a Golgotán,<br/>hatalmas Jézus,<br/>hatalmas Ő.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Dicsérd Őt szüntelen,<br/>szolgáljad szívesen,<br/>hatalmas Jézus,<br/>hatalmas Ő.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Újra eljön,<br/>aki oly sokat szenvedett,<br/>a Krisztus Jézus<br/>újra eljön.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Légy készen, várjad őt,<br/>várjad a menyegzőt,<br/>a Krisztus Jézus<br/>újra eljön.</lines>
+    </verse>
+  </lyrics>
+</song>

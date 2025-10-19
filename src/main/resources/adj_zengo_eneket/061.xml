@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus, Messiás</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1</verseOrder>
+    <authors>
+      <author>Ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adj zengő éneket!" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, Messiás, Neve minden név fölött való.<br/>Ő a kezdet és a vég, az első és az utolsó.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És aki hallja, az mondja, hogy: Jövel!<br/>Aki szomjas, jöjjön el!<br/>És aki akarja, mind vegye el,<br/>az élet vizét ingyen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Messiás, Dávid gyökere, ága.<br/>Izrael reménysége, ama fényes hajnali csillag.</lines>
+    </verse>
+  </lyrics>
+</song>

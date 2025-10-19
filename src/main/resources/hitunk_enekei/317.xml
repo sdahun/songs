@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nyíljatok meg égi ajtók</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author type="music">Neander Joachim, 1680. (1650-1680.)</author>
+      <author type="words">Schmolck Benjamin (1672-1737.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="317"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - kezdő ének</theme>
+      <theme>Alázatosság</theme>
+      <theme>Boldogság</theme>
+      <theme>Engedelmesség</theme>
+      <theme>Isten igéje</theme>
+      <theme>Isten jelenléte</theme>
+      <theme>Isten országa</theme>
+      <theme>Lelki táplálék</theme>
+      <theme>Oltalom</theme>
+      <theme>Szív</theme>
+      <theme>Szolgálat</theme>
+      <theme>Vigasztalás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nyíljatok meg égi ajtók,<br/>hogy az Úrhoz mehessek!<br/>Ó! mily boldog itt a lelkem,<br/>Istenemre nézhetek;<br/>Isten arca tiszta fény:<br/>boldog öröm száll felém!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Égi Atyám, hozzád jöttem,<br/>térj be te is énhozzám,<br/>mert ha bennem szállást vettél,<br/>mennynek üdve vár reám!<br/>Hogyha szívemet lakod,<br/>lészen néked templomod.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, hogy járjak alázattal,<br/>szenteld meg a szívemet;<br/>add, hogy imám, éneklésem<br/>kedves legyen teneked!<br/>Szenteld meg a nyelvemet,<br/>vond magadhoz szívemet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tedd a lelkem termő földdé,<br/>melybe igéd magva hull,<br/>míg az üdvösségnek fénye<br/>szívem mélyén lángra gyúl!<br/>Add, hogy hívő szívemben<br/>jó gyümölcsöd teremjen!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lelki ajándékaidat<br/>ne engedjed elvesztnem,<br/>lelkem minden bűntől óvjad,<br/>s legyen erős a hitem;<br/>légy te mindig vigaszom,<br/>áldott, égi szószólóm!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szólj, Uram, hadd teljesítem<br/>híven minden igédet,<br/>semmi soha ne zavarja<br/>istentiszteletemet;<br/>égi mannát adj nekem,<br/>vigasztalj ínségemben!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nyisd meg földi juhaidnak<br/>mennyed ékes kapuját,<br/>hullass mannát áldást nyújtva,<br/>vezess örök honba át!<br/>S híved ajkán, míg csak él<br/>hálaének zengve kél.</lines>
+    </verse>
+  </lyrics>
+</song>

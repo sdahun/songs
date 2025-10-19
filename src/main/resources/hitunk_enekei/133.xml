@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldott légy Krisztus, e világnak Ura!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="music">Debrecen, 1774.</author>
+      <author type="words">Debrecen, 1815.</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="133"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten közbenjárása</theme>
+      <theme>Becsületesség</theme>
+      <theme>Doxologia</theme>
+      <theme>Engedetlenség</theme>
+      <theme>Gondviselés</theme>
+      <theme>Ima</theme>
+      <theme>Jézus Krisztus közbenjáró</theme>
+      <theme>Oltalom</theme>
+      <theme>Szabadítás</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldott légy Krisztus, e világnak Ura!<br/>Atya Istennek szerető szent Fia!<br/>Bűnös népeknek ki vagy bizodalma,<br/>és igazsága!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallgasd meg mostan mi könyörgésünket,<br/>fordítsd mireánk kegyesen szemedet:<br/>jelentsd meg hozzánk a te jó kedvedet,<br/>és szerelmedet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kérünk, Úr Isten, hogy légy segítségül,<br/>gondot viselvén a mi életünkről,<br/>lelki és testi minden szükségünkről,<br/>üdvösségünkről!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ne nézzed a mi számtalan bűnünket,<br/>bírjad lelkünket és mi életünket;<br/>csak te viseljed minden mi ügyünket,<br/>ne hagyj bennünket.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Senki bűnünktől meg nem szabadíthat,<br/>senki lelkünkben meg nem vigasztalhat,<br/>kívüled senki meg nem oltalmazhat,<br/>meg nem nyugtathat.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mert te egyedül érettünk fáradtál,<br/>mi bűneinkért csak te szomjúhoztál,<br/>kegyetlen halált mikoron kóstoltál,<br/>értünk áldoztál.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Csak te vagy azért a mi oltalmazónk,<br/>te vagy megváltónk és megszabadítónk,<br/>te vagy az éltünk és egy bizodalmunk,<br/>minden jóságunk.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Azért tekints ránk, kegyelmes Istenünk,<br/>ki vagy egyedül a mi reménységünk,<br/>ne hagyj tetőled elidegenednünk,<br/>sem tévelyednünk.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ne uralkodjék a bűn mi szívünkben,<br/>semmi gonoszság ne légyen lelkünkben,<br/>az ártatlanság fényljék erkölcsünkben,<br/>egész éltünkben.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Dicséret légyen Atya Úr Istennek,<br/>és néked egyetlen Egyszülöttének,<br/>és egyetemben Szentlélek Istennek,<br/>megszentelőnknek.</lines>
+    </verse>
+  </lyrics>
+</song>

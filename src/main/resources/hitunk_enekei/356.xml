@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2016-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mily boldog nap, most tudom én</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Rimbault Edward, 1867. (1816-1876.)</author>
+      <author type="words">Doddridge Philip, 1735. (1702-1751.)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hitünk énekei" entry="356"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - keresztség</theme>
+      <theme>Átadás</theme>
+      <theme>Bizonyságtétel</theme>
+      <theme>Bűnbocsánat</theme>
+      <theme>Jézus Krisztus követése</theme>
+      <theme>Keresztség</theme>
+      <theme>Örök élet</theme>
+      <theme>Új élet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mily boldog nap, most tudom én,<br/>hogy elfogadtál Jézusom!<br/>Ma árad rám az égi fény,<br/>mert lelkem néked átadom.<br/>Boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet;<br/>imádlak, üdvöm, Krisztusom,<br/>új ének kél az ajkamon;<br/>boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megújult már az életem,<br/>mert Jézus művelt új csodát;<br/>most vére üdvöm, érdemem,<br/>és híven vallom szent szavát.<br/>Boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet;<br/>imádlak, üdvöm, Krisztusom,<br/>új ének kél az ajkamon;<br/>boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívem végre megpihen<br/>a Bárány Jézus kebelén;<br/>nem hagyom el őt sohasem,<br/>és mindig véle járok én.<br/>Boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet;<br/>imádlak, üdvöm, Krisztusom,<br/>új ének kél az ajkamon;<br/>boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tanúja ím a föld, az ég,<br/>hogy áldva Isten kegyelmét<br/>megfogom Jézus szent kezét,<br/>mert benne üdvöm elnyerém!<br/>Boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet;<br/>imádlak, üdvöm, Krisztusom,<br/>új ének kél az ajkamon;<br/>boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha majd a menny a földre száll,<br/>köszöntlek téged örök hon,<br/>ott készít Jézus most nekem<br/>helyet a jobbján, jól tudom.<br/>Boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet;<br/>imádlak, üdvöm, Krisztusom,<br/>új ének kél az ajkamon;<br/>boldog nap, áldott nap,<br/>elvetted, Jézus, bűnömet!</lines>
+    </verse>
+  </lyrics>
+</song>
