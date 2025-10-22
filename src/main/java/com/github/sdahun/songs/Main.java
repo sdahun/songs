@@ -49,10 +49,14 @@ public class Main {
                     massWriter.init(massWriter.generateFilename(), null, config);
                     break;
                 case 4:
+                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP).setFileExtension(".qsp");
+                    massWriter.init(massWriter.generateFilename(), new QueleaWriter(), config);
+                    break;
+                case 5:
                     massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
                     massWriter.init(massWriter.generateFilename(), new OpenLyricsWriter(), config);
                     break;
-                case 5:
+                case 6:
                     massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
                     massWriter.init(massWriter.generateFilename(), new PptxWriter(), config);
                     break;
@@ -169,6 +173,7 @@ public class Main {
                 "OpenLP (songs.sqlite adatbázisfájlban)",
                 "FreeShow (show fájlok zip fájlban)",
                 "EasyWorship (schedule fájlban)",
+                "Quelea Song Pack (.qsp fájlban)",
                 "OpenLyrics (xml fájlok zip fájlban)",
                 "Powerpoint (pptx fájlok zip fájlban)",
                 "Csak szöveg (txt fájlok zip fájlban)"

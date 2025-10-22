@@ -126,6 +126,13 @@ A kérdések a következők:
     használata azért jó, mert a betöltött listából egyszerűen importálhatók az énekek
     az adatbázisba.
 
+  * Quelea Song Pack
+    
+    Habár a Quelea az OpenLyrics formátumot is tudja importálni, tapasztalatok szerint a .qsp
+    formátummal sokkal szebb, jobban használható formátumba kerülnek be az énekek a Quelea
+    programba, ezért javasoljuk Quelea esetén ezt a formátumot használni. Quelea esetén
+    javasoljuk "Az ismétlődő diák (refrén) ismétlődjenek?" kérdésre Igen választ adni.
+
   * OpenLyrics
 
     Ezt a formátumot választva az énekszöveg átalakító egy (vagy néhány több) zip fájlt hoz létre,
