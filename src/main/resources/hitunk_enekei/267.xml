@@ -4,11 +4,12 @@
     <titles>
       <title>Ha szívemben Istennek békéje él</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author type="music">Bliss Philip (1838-1876.)</author>
       <author type="words">Spafford Horatio (1828-1888.)</author>
     </authors>
+    <ccliNo>25376</ccliNo>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="267"/>
       <songbook name="Adj zengő éneket!" entry="36"/>

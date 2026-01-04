@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
   <properties>
     <titles>
       <title>Éneklem a Te jóságodat</title>
       <title lang="en">Goodness of God</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 b1 b1 c1 e1</verseOrder>
     <authors>
       <author type="music">Ben Fielding</author>
       <author type="music">Brian Johnson</author>
@@ -15,7 +14,11 @@
       <author type="translation" lang="hu">Csöngedi Péter</author>
     </authors>
     <ccliNo>7117726</ccliNo>
-  </properties>
+    <verseOrder>v1 c1 v2 c1 b1 b1 c1 e1</verseOrder>
+      <songbooks>
+      <songbook name="Zuglói énekek" entry="33"/>
+    </songbooks>
+</properties>
   <lyrics>
     <verse name="v1">
       <lines>Úgy szeretlek,<br/>mert kegyelmed sose csal meg,<br/>s minden nap<br/>tenyeredben tartasz.<br/>Reggel, ébredéstől<br/>lefekvésemig<br/>éneklem<br/>a te jóságodat.</lines>

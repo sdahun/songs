@@ -3,7 +3,13 @@
   <properties>
     <titles>
       <title>Hála, hogy itt a csendes reggel</title>
+      <title lang="de">Danke für diesen guten Morgen</title>
     </titles>
+    <authors>
+      <author type="music">Martin Gotthard Schneider</author>
+      <author type="words">Martin Gotthard Schneider</author>
+    </authors>
+    <ccliNo>7149401</ccliNo>
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="83"/>

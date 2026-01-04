@@ -5,13 +5,13 @@
       <title>Esdve kérlek, Jó Atyám</title>
       <title lang="en">Abba Father</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
-    <ccliNo>38686</ccliNo>
     <authors>
       <author type="music">Dave Bilbrough</author>
       <author type="words">Dave Bilbrough</author>
       <author type="translation" lang="hu">Mikes Attila</author>
     </authors>
+    <ccliNo>38686</ccliNo>
+    <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="38"/>
       <songbook name="Hozsánna énekes" entry="67"/>

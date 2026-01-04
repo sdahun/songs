@@ -3,7 +3,15 @@
   <properties>
     <titles>
       <title>Futunk, s nem lankadunk</title>
+      <title lang="en">We Will Wait</title>
     </titles>
+    <authors>
+      <author type="music">Martin Nystrom</author>
+      <author type="words">Martin Nystrom</author>
+      <author type="music">Tricia G. Allen</author>
+      <author type="words">Tricia G. Allen</author>
+    </authors>
+    <ccliNo>833465</ccliNo>
     <verseOrder>v1 c1 c2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="75"/>

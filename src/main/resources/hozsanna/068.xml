@@ -3,10 +3,19 @@
   <properties>
     <titles>
       <title>Ez a szó: szeretet</title>
+      <title>Love In Any Language</title>
     </titles>
+    <authors>
+      <author type="music">John Mays</author>
+      <author type="music">Jon Mohr</author>
+      <author type="words">John Mays</author>
+      <author type="words">Jon Mohr</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="68"/>
+      <songbook name="Zuglói énekek" entry="34"/>
     </songbooks>
   </properties>
   <lyrics>

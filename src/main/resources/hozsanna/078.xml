@@ -3,7 +3,13 @@
   <properties>
     <titles>
       <title>Ha Isten békéje lakja szívemet</title>
+      <title lang="en">It Is Well With My Soul</title>
     </titles>
+    <authors>
+      <author>Horatio Gates Spafford</author>
+      <author>Philip Paul Bliss</author>
+    </authors>
+    <ccliNo>25376</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="78"/>

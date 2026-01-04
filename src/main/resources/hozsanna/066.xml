@@ -3,11 +3,19 @@
   <properties>
     <titles>
       <title>Erőt adsz minden helyzetben</title>
+      <title lang="en">You Are My All In All</title>
     </titles>
+    <authors>
+      <author type="music">Dennis Jernigan</author>
+      <author type="words">Dennis Jernigan</author>
+    </authors>
+    <copyright>© 1991 Shepherd's Heart Music, Inc.</copyright>    
+    <ccliNo>825356</ccliNo>
     <verseOrder>v1 c1 v2 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="66"/>
       <songbook name="Adj zengő éneket!" entry="30"/>
+      <songbook name="Dicsérem Neved 3" entry="39"/>
     </songbooks>
   </properties>
   <lyrics>

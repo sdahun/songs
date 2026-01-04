@@ -5,13 +5,13 @@
       <title>Engem szeret Jézusom</title>
       <title>Jesus loves me</title>
     </titles>
-    <copyright>Public Domain</copyright>
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
-    <ccliNo>4639417</ccliNo>
     <authors>
       <author type="music">William Batchelder Bradbury</author>
       <author type="words">Anna Bartlett Warner</author>
     </authors>
+    <copyright>Public Domain</copyright>
+    <ccliNo>4639417</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="52"/>
     </songbooks>

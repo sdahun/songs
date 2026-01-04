@@ -5,14 +5,14 @@
       <title>Fejet hajt a mindenség</title>
       <title lang="en">I adore</title>
     </titles>
-    <verseOrder>o1 o2 o1 o2 o3 o4</verseOrder>
-    <ccliNo>3290716</ccliNo>
-    <copyright>© 2001 Hillsong Music Publishing</copyright>
     <authors>
       <author type="words">Reuben Morgan</author>
       <author type="music">Reuben Morgan</author>
       <author type="translation" lang="hu">Pintér Béla</author>
     </authors>
+    <copyright>© 2001 Hillsong Music Publishing</copyright>
+    <ccliNo>3290716</ccliNo>
+    <verseOrder>o1 o2 o1 o2 o3 o4</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 4" entry="54"/>
       <songbook name="Hozsánna énekes" entry="71"/>

@@ -3,13 +3,14 @@
   <properties>
     <titles>
       <title>Ha szívemben Istennek békéje él</title>
-      <title>When Peace Like A River</title>
+      <title>It Is Well With My Soul</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <authors>
       <author type="music">Philip Paul Bliss</author>
       <author type="words">Horatio Spafford</author>
     </authors>
+    <ccliNo>25376</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="36"/>
       <songbook name="Hitünk énekei" entry="267"/>

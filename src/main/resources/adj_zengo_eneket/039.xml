@@ -4,17 +4,18 @@
     <titles>
       <title>Hálát adok, Uram</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author type="music">Soproni János</author>
-      <author type="music">Vas Mária</author>
       <author type="words">Soproni János</author>
+      <author type="music">Vas Mária</author>
       <author type="words">Vas Mária</author>
     </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="39"/>
       <songbook name="Erőm és énekem az Úr" entry="47"/>
       <songbook name="Hozsánna énekes" entry="85"/>
+      <songbook name="Zuglói énekek" entry="43"/>
     </songbooks>
   </properties>
   <lyrics>

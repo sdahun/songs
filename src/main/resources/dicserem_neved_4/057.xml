@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Fényed</title>
+      <title lang="en">You Shine</title>
+    </titles>
+    <authors>
+      <author type="music">Brian Doerksen</author>
+      <author type="translation" lang="hu">Vass Tímea</author>
+    </authors>
+    <ccliNo>3361793</ccliNo>
+    <verseOrder>v1 v2 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 4" entry="57"/>
+      <songbook name="Hozsánna énekes" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mit árt ember nekem,<br/>hisz Te vagy Istenem,<br/>miért rettegnék,<br/>hisz a Nap és Hold Tiéd?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miért csüggedjek,<br/>hisz nagyságod ismerem,<br/>miért adnám fel,<br/>hisz csak jókat tervezel?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>E világon sok baj vár ránk,<br/>de mindezt legyőzted Te már!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fényed,<br/>minden csillagot túlragyog,<br/>szíved<br/>tisztább, mint a fehér hó.<br/>Fényed, lelkem betölti erővel,<br/>hogy veled járjak.</lines>
+    </verse>
+  </lyrics>
+</song>

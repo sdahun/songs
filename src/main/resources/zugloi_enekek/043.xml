@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hálát adok, Uram</title>
+    </titles>
+    <authors>
+      <author type="music">Soproni János</author>
+      <author type="words">Soproni János</author>
+      <author type="music">Vas Mária</author>
+      <author type="words">Vas Mária</author>
+    </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="43"/>
+      <songbook name="Adj zengő éneket!" entry="39"/>
+      <songbook name="Erőm és énekem az Úr" entry="47"/>
+      <songbook name="Hozsánna énekes" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hálát adok, Uram, az életért.<br/>Rólad zeng éneket<br/>hegy, völgy s a rét.<br/>A napokat Te számolod,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmad, Istenem, mindent fölér.<br/>Szavadra engednek:<br/>tenger és szél.<br/>Leborulnak a csillagok,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Imádom szent Atyám dicső neved.<br/>Te vagy a végtelen<br/>nagy szeretet.<br/>Kegyelmed ma ingyen adod,<br/>Uram, én mindenért hálát adok.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hálát adok, Uram, a szombatért,<br/>hálát e szent napért,<br/>áldásodért.<br/>Értem adtad e szent napot,<br/>Uram a szombatért hálát adok.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hálát adok, Uram, eljöttödért,<br/>közel van már nagyon,<br/>hogy itt legyél.<br/>Várom nagyon a nagy napot,<br/>Uram eljöttödért hálát adok.</lines>
+    </verse>
+  </lyrics>
+</song>
