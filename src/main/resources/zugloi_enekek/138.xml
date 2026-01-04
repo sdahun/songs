@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Győztes vagyok</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1 c1 c1 e1</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A győzelem már enyém<br/>az Úr Jézusban,<br/>a Golgotán Ő végleg győztes lett.<br/>Ezért nem hátrálunk meg a bajban,<br/>mert rég már eldőlt a harc,<br/>a Golgotán eldőlt a harc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A győzelem már biztos,<br/>a csata nem halkul, <br/>a gonosz nem adta meg magát. <br/>Tör és zúz, a bűnre csábít engem,<br/>a Golgotán már kész a győzelem,<br/>Jézusban már kész a győzelem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Győztes vagyok az Úr Jézusban,<br/>mert a harcot már megvívta Ő!<br/>Győztes vagyok az Úr Jézusban,<br/>mert a Harcot már megvívta Ő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A küzdelem nehéz,<br/>de nem félek én,<br/>tudom, a Király visszatér!<br/>Akkor majd az Úr az én Megváltóm<br/>a harcnak, Ő végleg véget vet,<br/>a gonosznak Ő végleg véget vet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Az ellenségnek gonosz tervét<br/>Te jóra fordítod.<br/>Minden hibám, s gyengeségem<br/>javamra formálod.<br/>S az utolsó nap majd kihirdeted:<br/>veled győztes vagyok.<br/>De addig a bajban,<br/>a harcban és gyászban<br/>éneklem himnuszom:</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A győzelem már enyém,<br/>megváltott szent vérén.<br/>Ő meghalt énértem,<br/>megtisztított engem.<br/>A szívemet átjárta<br/>ez áldozat nagy volta,<br/>már enyém a győzelem<br/>a Jézus vérében.</lines>
+    </verse>
+  </lyrics>
+</song>

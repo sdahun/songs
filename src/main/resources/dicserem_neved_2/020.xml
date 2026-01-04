@@ -5,17 +5,17 @@
       <title>Az Úr van itt</title>
       <title lang="en">The Lord Thy God</title>
     </titles>
-    <copyright>© 1985 Integrity's Hosanna! Music</copyright>
-    <verseOrder>v1 v1 c1 c1</verseOrder>
-    <ccliNo>14772</ccliNo>
     <authors>
+      <author type="music">Blane Morris</author>
       <author type="words">Blane Morris</author>
     </authors>
+    <copyright>© 1985 Integrity's Hosanna! Music</copyright>
+    <ccliNo>14772</ccliNo>
+    <verseOrder>v1 v1 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="20"/>
       <songbook name="Erőm és énekem az Úr" entry="21"/>
       <songbook name="Hozsánna énekes" entry="33"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="25"/>
     </songbooks>
     <themes>
       <theme>Bizonyságtétel és megvallás</theme>

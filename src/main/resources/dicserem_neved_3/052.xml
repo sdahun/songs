@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hadd zengjen új dal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="52"/>
+      <songbook name="Hozsánna énekes" entry="82"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hadd zengjen új dal,<br/>mert Jézus él,<br/>életem új lett,<br/>szívem nem fél.<br/>Új nevem van,<br/>Ő ad erőt.<br/>Visszavárom,<br/>mint Üdvözítőt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mert elfogadtam,<br/>szívemben él,<br/>Mesterem: Jézus,<br/>tiszta a cél.<br/>Új utat ró<br/>fürge lábam,<br/>Béke vár rám<br/>egy új hazában.</lines>
+    </verse>
+  </lyrics>
+</song>

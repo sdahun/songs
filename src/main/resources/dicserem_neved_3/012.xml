@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az élet hajnalán</title>
+      <title lang="en">So You Would Come</title>
+    </titles>
+    <authors>
+      <author type="music">Russel Fragar</author>
+      <author type="words">Russel Fragar</author>
+      <author type="translation" lang="hu">Batta Katalin</author>
+    </authors>
+    <ccliNo>2109042</ccliNo>
+    <verseOrder>v1 v2 c1 v1 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet hajnalán,<br/>már gondolt rád Atyád.<br/>Ő tudja jól, ha sírsz,<br/>hát ne szégyelld, ha fáj!<br/>Mert úgy szeretett Isten,<br/>hogy Egyszülött Fiát<br/>érted áldozta,<br/>jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Semmit sem tehetsz,<br/>hogy jobban szeressen<br/>és bármit is tettél,<br/>ne félj, Ő nem küld el!<br/>Mert úgy szeretett Isten,<br/>hogy Egyszülött Fiát<br/>érted áldozta,<br/>jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj ma Atyádhoz,<br/>bárhogyan is állsz,<br/>összetört életed<br/>add neki ma át.<br/>A halál óráján<br/>így szólt a Golgotán:<br/>Elvégeztetett,<br/>jöjj ma hozzá!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A halál óráján<br/>így szólt a Golgotán:<br/>Elvégeztetett,<br/>jöjj ma hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

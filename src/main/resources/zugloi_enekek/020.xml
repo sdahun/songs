@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr mindent kézben tart</title>
+      <title lang="en">God Will Work It Out</title>
+    </titles>
+    <authors>
+      <author>Aaron Moses</author>
+      <author>Adale Jackson</author>
+      <author>Chris Cleveland</author>
+      <author>Israel Houghton</author>
+      <author>Naomi Raine</author>
+      <author>Nate Moore</author>
+      <author type="translation" lang="hu">Fóris Rita</author>
+      <author type="translation" lang="hu">Mányai Dávid</author>
+    </authors>
+    <ccliNo>7177864</ccliNo>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 b1 b1 c1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="20"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Még meg sem születtem,<br/>még nem lélegeztem,<br/>Ő utat készített nekem,<br/>most és minden nap,<br/>minden léptemben,<br/>Ő az, ki utat tör nekem.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Mikor szívem kétségek közt<br/>és hitem elfogyna már,<br/>túl távol tőle, Ő visszavár,<br/>mert tudom:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úr mindent kézben tart,<br/>az Úr mindent kézben tart.<br/>Egyet tudok, egyet hiszek,<br/>az Úr mindent kézben tart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Félelmeimben,<br/>küzdelmeimben,<br/>Ő az, ki utat tör nekem,<br/>Sosem hagy cserben,<br/>nem hagy el engem,<br/>Ő mindig utat tör nekem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Légy csendben, lelkem,<br/>hajts térdet és bízz!<br/>Légy csendben és tudd,<br/>hogy Ő az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

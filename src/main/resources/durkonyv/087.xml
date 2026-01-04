@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tied vagyunk</title>
+      <title>A Föld és az Ég</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v1</verseOrder>
+    <authors>
+      <author>Sillye Jenő</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dúrkönyv" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A föld és az ég<br/>asztalunknál összeér.<br/>Értünk lett élet<br/>ez a bor és a kenyér.<br/>Őáltala, Ővele, Őbenne<br/>Tied vagyunk, Tied vagyunk,<br/>Tied vagyunk, Tied vagyunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ments meg minket, táplálj minket,<br/>ments meg minket, táplálj minket,<br/>ments meg minket, táplálj minket,<br/>ments meg minket!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jézus vére és teste<br/>az élet itala és étele.<br/>Jézus vére és teste<br/>az élet itala és étele.<br/>Táplálj minket!<br/>Ments meg minket!</lines>
+    </verse>
+  </lyrics>
+</song>

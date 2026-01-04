@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Egy nap mindent újjá teszel</title>
+      <title lang="en">One Day (When We All Get To Heaven)</title>
+    </titles>
+    <authors>
+      <author type="music">Matt Redman</author>
+      <author type="words">Matt Redman</author>
+      <author type="translation" lang="hu">Kerekes Ernő</author>
+    </authors>
+    <copyright>(C) 2017 Capitol Christian Music Group, Inc.</copyright>
+    <ccliNo>7091537</ccliNo>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="30"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egy nap mindent újjá teszel, Jézus,<br/>egy nap minden sebünk beforr.<br/>A régiek mind eltűnnek ott,<br/>nincs több könny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott majd minden értelmet nyer, Jézus,<br/>minden kérdés választ talál.<br/>Gyötrő érzés nem kínoz már,<br/>nincs félelem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Együtt mind, ott a Mennyben,<br/>egész lényünk az öröm járja át.<br/>Köztünk áll majd Jézus<br/>és harsogjuk a győzelem dalát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Színről színre láthatunk már, Jézus,<br/>megváltásunk teljessé vált.<br/>Új létezésre változunk át,<br/>lesz egy nap.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindörökre szabadok leszünk, Jézus,<br/>véget ér a szüntelen harc.<br/>Dicsőséged feltárul majd,<br/>lesz egy nap.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Köztünk áll majd Jézus<br/>és harsogjuk a győzelem dalát.</lines>
+    </verse>
+  </lyrics>
+</song>

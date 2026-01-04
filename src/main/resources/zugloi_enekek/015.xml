@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ha fúj a szél</title>
+      <title>Amíg el nem indulunk</title>
+      <title lang="en">Oceans Will Part</title>
+    </titles>
+    <authors>
+      <author type="music">Ben Fielding</author>
+      <author type="translation" lang="hu">Pajor Tamás</author>
+    </authors>
+    <ccliNo>4591830</ccliNo>
+    <verseOrder>v1 c1 v2 c1 b1 c1 c1 c1 e1 v1 c2 v2 c2 b1 c2 c2 c2 e2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="15"/>
+    </songbooks>
+    <comments>
+      <comment>A szöveg alternatív refrén és lezáró részt tartalmaz!</comment>
+    </comments>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amíg el nem indulunk,<br/>míg a láb a vízre lép,<br/>még a legkisebb út is<br/>csak távoli cél.<br/>Míg csak álmodozgatunk,<br/>s közben tétova a kéz,<br/>addig látszik csak úgy,<br/>hogy az élet nehéz,<br/>addig érezzük azt,<br/>hogy a hit nem elég.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ha fúj a szél, a hajó<br/>olyan felborítható,<br/>partot ér, ez a jó,<br/>mert a Mester hangja szól.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindig el kell kezdeni<br/>és az első perc kemény,<br/>de pont akkor kell hinni,<br/>ha nincs is remény.<br/>Hogyha léptünk régen tart<br/>és egy nagy viharba ér,<br/>sose gondoljuk azt,<br/>hogy már nincs menekvés,<br/>mert a hitünk pont itt<br/>kezd el működni épp!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sose gondoljuk azt,<br/>hogy már nincs menekvés,<br/>mert a hitünk pont itt<br/>kezd el működni épp!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Mert a Mester hangja szól.<br/>Mert a Mester hangja szól.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Megnyílt az ég, s minden nép<br/>meglátja dicsőségét.<br/>Adj reményt, és a fényt<br/>életemben áraszd szét.</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Életemben áraszd szét.<br/>Életemben áraszd szét.</lines>
+    </verse>
+  </lyrics>
+</song>

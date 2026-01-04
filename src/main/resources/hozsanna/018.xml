@@ -5,6 +5,7 @@
       <title>Áldom szent neved</title>
       <title>Blessed be your name</title>
     </titles>
+    <ccliNo>3798438</ccliNo>
     <verseOrder>v1 p1 c1 v2 p1 c1 b1 e1 e1</verseOrder>
     <authors>
       <author type="music">Matt Redman</author>
@@ -15,7 +16,6 @@
     </authors>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="18"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="13"/>
     </songbooks>
   </properties>
   <lyrics>

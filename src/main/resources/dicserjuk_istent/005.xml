@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-23T00:00:00">
+  <properties>
+    <titles>
+      <title>Véget ért egy újabb nap</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Johann-Gottlieb-Amadeus Naumann (1741-1801.)</author>
+      <author type="words">Fekete István (1947-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjük Istent" entry="5"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - este</theme>
+      <theme>Préd. 11,6.</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Véget ért egy újabb nap.<br/>ó, mi szép az alkony!<br/>Színaranyként tündököl<br/>napsugár a fákon.<br/>Hála néked, Istenem,<br/>Te vagy most is énvelem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gondolatban élek át<br/>minden elmúlt órát,<br/>hűn vezettél, két szemem<br/>most is bízva néz rád.<br/>Hála néked, Istenem,<br/>Te vagy most is énvelem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adj nyugalmat, hadd legyen<br/>csöndes pihenésem,<br/>add meg, hogy ez éjszakán<br/>lelkem erőt nyerjen!<br/>Hála néked, Istenem,<br/>Te vagy most is énvelem.</lines>
+    </verse>
+  </lyrics>
+</song>

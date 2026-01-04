@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Amim van</title>
+      <title lang="en">Arms Open Wide</title>
+    </titles>
+    <authors>
+      <author type="music">Sam Knock</author>
+      <author type="words">Kerekes Ernő</author>
+    </authors>
+    <ccliNo>5371334</ccliNo>
+    <verseOrder>v1 v1 c1 v2 v3 c1 c1 b1 b1 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amim van, hozom eléd,<br/>leteszem a keresztnél.<br/>Legyen minden<br/>csak Tiéd, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden lépés, minden szó,<br/>legyen tiszta, mint a hó.<br/>Ahol járok,<br/>Te legyél az út.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, szomjas szívem Te rád vár!<br/>Ó, arra vágyom, ölelj át!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden óra, minden nap,<br/>minden sóhaj, gondolat,<br/>Rólad szóljon,<br/>Terólad, Uram.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Egész életem átadom,<br/>hadd legyen Tiéd!<br/>Velem bármit terveztél,<br/>legyen meg örökké!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

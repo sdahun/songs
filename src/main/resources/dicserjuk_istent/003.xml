@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-23T00:00:00">
+  <properties>
+    <titles>
+      <title>Könyörülj rajtam</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Tanzániai dallam</author>
+      <author type="words">Fekete István (1947-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjük Istent" entry="3"/>
+    </songbooks>
+    <themes>
+      <theme>A keresztény élet - bűnbánat</theme>
+      <theme>51. Zsoltár</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Könyörülj rajtam, én Istenem!<br/>Tenálad bőven van kegyelem.<br/>Imámra nyisd meg füleidet,<br/>töröld le rólam bűneimet!<br/>Egészen mossál ki vétkeimből,<br/>tisztítsd meg szívemet mindenestől!<br/>Könyörülj rajtam, én Istenem,<br/>Tenálad bőven van kegyelem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Igaznak vallom beszédedet,<br/>irgalmas minden ítéleted.<br/>Szerető szóval vigasztaltál,<br/>bölcsességedre tanítottál.<br/>Izsóppal tisztíts meg, tiszta leszek!<br/>Lelkem is mint a hó, fehér lehet.<br/>Igaznak vallom beszédedet,<br/>irgalmas minden ítéleted.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te teremts bennem tiszta szívet,<br/>az erős lelket te újítsd meg!<br/>Végy körül engem kegyelemmel,<br/>szabadításod örömével!<br/>Ajkamat, én Uram, te nyissad meg,<br/>hadd szóljam neved a vétkezőknek!<br/>Te teremts bennem tiszta szívet,<br/>az erős lelket te újítsd meg!</lines>
+    </verse>
+  </lyrics>
+</song>

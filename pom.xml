@@ -6,7 +6,7 @@
 
     <groupId>com.github.sdahun.songs</groupId>
     <artifactId>transform</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -18,12 +18,18 @@
         <dependency>
             <groupId>org.openlyrics</groupId>
             <artifactId>jlyrics</artifactId>
-            <version>1.0.5</version>
+            <version>1.0.6</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>2.15.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.relaxng</groupId>
+            <artifactId>jing</artifactId>
+            <version>20241231</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A szívemet átadom én</title>
+      <title>Cares Chorus</title>
+    </titles>
+    <authors>
+      <author type="words">Kelly Willard</author>
+      <author type="music">Kelly Willard</author>
+    </authors>
+    <ccliNo>25974</ccliNo>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="5"/>
+      <songbook name="Hozsánna énekes" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A szívemet átadom én.<br/>Ó nézd,<br/>leteszek mindent lábad elé!<br/>Mi nélküled benne volt,<br/>kár és szemét.<br/>Uram, szívemet átadom én.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A szívemet átadom én.<br/>Ó nézd,<br/>könyörög lelkem új életért!<br/>És elhiszem, üdvömért<br/>véred elég.<br/>Uram, szívemet átadom én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szívemet átadom én.<br/>Ó halld,<br/>kiáltok hozzád Szentlelkedért!<br/>Most tölts be hát, teljesen<br/>szentté tegyél!<br/>Uram, szívemet átadom én.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Uram, szívemet átadom én.</lines>
+    </verse>
+  </lyrics>
+</song>

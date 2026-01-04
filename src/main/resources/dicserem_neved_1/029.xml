@@ -3,14 +3,19 @@
   <properties>
     <titles>
       <title>Atyám, két kezedben</title>
+      <title lang="fi">Herra, kädelläsi</title>
     </titles>
+    <authors>
+      <author type="music">Pekka Simojoki</author>
+      <author type="words">Anna-Mari Kaskinen</author>
+      <author type="translation" lang="hu">Koczor Tamás</author>
+    </authors>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 1" entry="29"/>
       <songbook name="Adj zengő éneket!" entry="14"/>
       <songbook name="Erőm és énekem az Úr" entry="14"/>
       <songbook name="Hozsánna énekes" entry="26"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="19"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -18,7 +23,7 @@
       <lines>Atyám, két kezedben,<br/>csak ott lakhatom.<br/>Biztonságot csak Tőled kapok.<br/>Újjá így teremtesz,<br/>sebem ápolod.<br/>Boldogság, hogy itt van otthonom!</lines>
     </verse>
     <verse name="c1">
-      <lines>Tarts meg két kezedben, őrizz meg, Uram!<br/>Oltalmadban rejtsd el sorsomat!<br/>Tarts meg két kezedben, őrizz meg, Uram!<br/>Oltalmadban rejtsd el sorsomat!</lines>
+      <lines>Tarts meg két kezedben,<br/>őrizz meg, Uram!<br/>Oltalmadban<br/>rejtsd el sorsomat!<br/>Tarts meg két kezedben,<br/>őrizz meg, Uram!<br/>Oltalmadban<br/>rejtsd el sorsomat!</lines>
     </verse>
     <verse name="v2">
       <lines>Atyám, két kezedben<br/>teljes az öröm,<br/>ajándékodban gyönyörködöm.<br/>Tékozlóként éltem,<br/>tárva most karod,<br/>hűtlenségem nem hánytorgatod.</lines>

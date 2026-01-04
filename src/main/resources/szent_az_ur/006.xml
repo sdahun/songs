@@ -3,10 +3,14 @@
   <properties>
     <titles>
       <title>Emeld fel szemed Jézusra!</title>
+      <title lang="en">Turn your eyes upon Jesus</title>
     </titles>
     <verseOrder>v1 v2</verseOrder>
+    <ccliNo>7135764</ccliNo>
     <authors>
-      <author type="words">Szilvási Ágota</author>
+      <author type="words">Helen Howarth Lemmel (1863-1961)</author>
+      <author type="music">Helen Howarth Lemmel (1863-1961)</author>
+      <author type="translation" lang="hu">Szilvási Ágota</author>
     </authors>
     <songbooks>
       <songbook name="Szent az Úr" entry="6"/>

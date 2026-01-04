@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Csodás Teremtő</title>
+      <title lang="en">He Knows My Name</title>
+    </titles>
+    <authors>
+      <author type="music">Tommy Walker</author>
+      <author type="words">Tommy Walker</author>
+    </authors>
+    <ccliNo>2151368</ccliNo>
+    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő Istenem,<br/>Ő formált engem.<br/>Az élet hajnalán<br/>már terve volt velem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csodás Teremtő,<br/>Övé az életem.<br/>Letörli könnyeim,<br/>ha hívom, átölel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs más, aki úgy szeret,<br/>a szívembe lát.<br/>Megért, soha nem hagy el,<br/>mert Ő az én Atyám.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ha hívom, átölel,<br/>és ha hívom, átölel.</lines>
+    </verse>
+  </lyrics>
+</song>

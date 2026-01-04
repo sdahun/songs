@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Fenn a mennyben az Úr</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">August Herman Elfåker, (1851-1914.)</author>
+      <author type="translation" lang="hu">Túrmezei Erzsébet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fenn a mennyben az Úr<br/>minden győztesnek ád,<br/>aki Jézussal járt,<br/>s benne hitt,<br/>aranyból koronát,<br/>fehér égi ruhát,<br/>hárfa húrjait<br/>pengethetik.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Igen, ott minden kész,<br/>igen, ott minden kész.<br/>Minden győztesnek<br/>jár örök rész.<br/>Boldog, véghetetlen<br/>öröm vár odafenn,<br/>Jézusért<br/>én is elnyerhetem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vígan lépkedünk<br/>színarany utcákon át,<br/>halljuk angyalok<br/>dicséretét,<br/>szemünk láthatja<br/>Jézus szent ábrázatát,<br/>aki vért ontott<br/>bűneinkért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Élet forrása<br/>kínálja élő vizét,<br/>tiszta, hűs vizét<br/>bőségesen,<br/>fényt az Úr maga<br/>áraszt és hint szerteszét,<br/>halál nem lesz ott,<br/>éjszaka sem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden gyötrelmet,<br/>bánatot elfeledünk,<br/>ha ő bennünket<br/>keblére von,<br/>Jézus szívére<br/>hajthatjuk fáradt fejünk,<br/>nála béke vár<br/>és nyugalom.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,14 +3,15 @@
   <properties>
     <titles>
       <title>Egymásnak terhét</title>
+      <title lang="de">Ein jeder trage die Last des andern</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author type="music">Manfred Siebald</author>
       <author type="music">Klaus Heinzmann</author>
       <author type="words">Manfred Siebald</author>
       <author type="translation" lang="hu">Szak Antal, 1984</author>
     </authors>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="29"/>
       <songbook name="Hozsánna énekes" entry="49"/>

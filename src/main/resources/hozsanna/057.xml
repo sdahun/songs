@@ -4,9 +4,14 @@
     <titles>
       <title>Eljön Ő</title>
     </titles>
+    <authors>
+      <author type="music">Windisch József</author>
+      <author type="words">Gesztesi István</author>
+    </authors>
     <verseOrder>v1 c1 v1 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="57"/>
+      <songbook name="Dicsérem Neved 2" entry="46"/>
     </songbooks>
   </properties>
   <lyrics>

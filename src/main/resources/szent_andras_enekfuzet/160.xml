@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Csak pillanat létünk</title>
+      <title lang="en">Be unto your name</title>
+    </titles>
+    <authors>
+      <author type="words">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+      <author type="translation" lang="hu">Debreceni Magdolna</author>
+    </authors>
+    <copyright>© 1998 Integrity's Hosanna! Music</copyright>
+    <ccliNo>2177476</ccliNo>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="160"/>
+      <songbook name="Hozsánna énekes" entry="187"/>
+    </songbooks>
+    <themes>
+      <theme>dicséret</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak pillanat létünk,<br/>Te örökké Úr vagy,<br/>Ura elmúlt koroknak,<br/>Isten minden előtt.<br/>Csak páraként élünk,<br/>míg Te változás nélkül<br/>a mennyben uralkodva<br/>örökké szeretsz!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy,<br/>mindenható Úr,<br/>méltó Bárány, megölettél!<br/>Minden áldás és tisztesség,<br/>hadd legyen Tiéd,<br/>hadd legyen Tiéd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha megtörne testünk,<br/>gyógyulást adsz majd,<br/>Jézus Megváltó,<br/>Üdvözítő!<br/>Szerelmes dal vagy,<br/>mely szívünkből zendül,<br/>hódolunk Néked,<br/>áldjuk Neved!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,9 +3,10 @@
   <properties>
     <titles>
       <title>Hála, hogy itt a csendes reggel</title>
-      <title>Danke für diesen guten Morgen</title>
+      <title lang="de">Danke für diesen guten Morgen</title>
     </titles>
     <verseOrder>v1 v2 v3 v4 v5 v6 e1</verseOrder>
+    <ccliNo>7149401</ccliNo>
     <authors>
       <author type="music">Martin Gotthard Schneider</author>
       <author type="words">Martin Gotthard Schneider</author>

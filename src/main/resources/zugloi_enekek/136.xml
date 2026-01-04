@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyönyörű mind</title>
+      <title lang="en">Look At The World</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 e1</verseOrder>
+    <authors>
+      <author type="music">John Rutter</author>
+      <author type="words">John Rutter</author>
+      <author type="translation" lang="hu">Kulcsár Tamás</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyörű mind,<br/>amit az Isten formált.<br/>Csodaszép minden,<br/>mit keze alkotott.<br/>Ragyogó színt,<br/>rügyező lombnak pompát,<br/>Meredek bércnek<br/>formát Ő adott.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hála, köszönet a sok-sok jóért,<br/>Isten napról napra gondol ránk!<br/>Értünk óvja, védi minden percben<br/>Égi Jó Atyánk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csalogány dal,<br/>suhanó fecske röpte,<br/>Millió csillag,<br/>mind Istenről beszél.<br/>Ölelő kar,<br/>szerető szív sok könnye<br/>Üzeni: adjunk<br/>hálát mindenért.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kikelet jön,<br/>s kivirul minden élet.<br/>Amikor nyár lesz,<br/>oly dús az ért kalász.<br/>Ha jön az ősz,<br/>s a gyümölcs mind beérett,<br/>Jöhet a tél, mert<br/>áldást rejt a ház.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ugye, mily jó,<br/>amit az Úrtól kaptunk:<br/>Szeretet, béke,<br/>mit Szent Fia hozott!<br/>Ideje hát<br/>valamit önként adnunk,<br/>Ugyanúgy adni,<br/>ahogy Ő adott!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Égi Jó Atyánk!</lines>
+    </verse>
+  </lyrics>
+</song>

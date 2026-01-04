@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az egész Föld felett</title>
+      <title lang="en">Lord Reign In Me</title>
+    </titles>
+    <authors>
+      <author type="music">Brenton Brown</author>
+      <author type="translation" lang="hu">Szamek-Nagy Andrea</author>
+    </authors>
+    <ccliNo>2490706</ccliNo>
+    <verseOrder>v1 v2 v3 v1 v2 v3 v3</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="17"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az egész Föld felett<br/>Te vagy Úr, s Király!<br/>Tiéd a hűs patak,<br/>Tiéd a napsugár.<br/>Csak egyet kérek én,<br/>add meg nekem,<br/>legyen hát Tiéd<br/>az életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiéd a gondolat,<br/>Tiéd minden szó,<br/>látom szépséged,<br/>Mindenható.<br/>Te vagy, aki nekem<br/>mindennél többet ér,<br/>legyen hát Tiéd<br/>az életem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus vezess,<br/>szorítsd két kezem,<br/>álmaim éjjelén,<br/>gyötrelmeimben.<br/>Lényem felett<br/>Te vagy Úr, s Király,<br/>legyen hát Tiéd<br/>az életem.</lines>
+    </verse>
+  </lyrics>
+</song>

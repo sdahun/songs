@@ -3,7 +3,13 @@
   <properties>
     <titles>
       <title>Egy új nap</title>
+      <title lang="en">In His Time</title>
     </titles>
+    <authors>
+      <author type="music">Diane Ball</author>
+      <author type="words">Diane Ball</author>
+    </authors>
+    <ccliNo>25981</ccliNo>
     <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="46"/>

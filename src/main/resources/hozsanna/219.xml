@@ -3,10 +3,19 @@
   <properties>
     <titles>
       <title>Zengj halleluját az Úrnak</title>
+      <title lang="en">Sing Hallelujah</title>
     </titles>
+    <authors>
+      <author type="music">Linda Stassen</author>
+      <author type="words">Hamar István</author>
+    </authors>
+    <ccliNo>26272</ccliNo>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="219"/>
+      <songbook name="Adj zengő éneket!" entry="11"/>
+      <songbook name="Dicsérem Neved 1" entry="222"/>
+      <songbook name="Zuglói énekek" entry="10"/>
     </songbooks>
   </properties>
   <lyrics>

@@ -3,7 +3,9 @@
   <properties>
     <titles>
       <title>Elhatároztam</title>
+      <title lang="en">I have decided to follow Jesus</title>
     </titles>
+    <ccliNo>24494</ccliNo>
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="55"/>

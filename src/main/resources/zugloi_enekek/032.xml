@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Eljön az Úr</title>
+      <title lang="en">Maybe Today</title>
+      <title lang="en">My Lord Will Come, It May Be Soon</title>
+    </titles>
+    <authors>
+      <author type="music">Flora Jean Garlock</author>
+      <author type="music">Frank Garlock</author>
+      <author type="words">Frank Garlock</author>
+      <author type="translation" lang="hu">Mikes Attila</author>
+    </authors>
+    <copyright>© 1976 by Majesty Music, Inc.</copyright>
+    <ccliNo>2014</ccliNo>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="32"/>
+    </songbooks>
+    <themes>
+      <theme>Luk. 12,37</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljön az Úr nagyon hamar.<br/>Várd Őt híven éjjel, nappal!<br/>Minden órán imádkozzál,<br/>légy erős, tarts ki még, hogy megállj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Közel az Úr,<br/>már nincsen sok idő,<br/>talán ma még<br/>Megváltóm visszajő.<br/>Közel az Úr,<br/>az égi nagy Király,<br/>hűséges légy,<br/>türelemmel virrasztva várj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy mikor jő, én nem tudom,<br/>de életem reá bízom.<br/>Felhők között, ha megjelen,<br/>Urammal leszek én szüntelen.</lines>
+    </verse>
+  </lyrics>
+</song>

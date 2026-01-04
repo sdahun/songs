@@ -3,18 +3,19 @@
   <properties>
     <titles>
       <title>A mennyben fenn a trónusnál</title>
-      <title>Before The Throne Of God Above</title>
+      <title lang="en">Before The Throne Of God Above</title>
     </titles>
-    <verseOrder>v1 v2 v3 e1</verseOrder>
     <authors>
       <author type="music">Vikki Cook</author>
       <author type="words">Charitie Lees Bancroft</author>
       <author type="translation" lang="hu">Révész Árpád</author>
     </authors>
+    <copyright>© 1997 Sovereign Grace Worship</copyright>
+    <ccliNo>2306412</ccliNo>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="4"/>
       <songbook name="Hozsánna énekes" entry="5"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="4"/>
     </songbooks>
   </properties>
   <lyrics>

@@ -3,10 +3,17 @@
   <properties>
     <titles>
       <title>A szívemet átadom én</title>
-    </titles>
+        <title>Cares Chorus</title>
+      </titles>
+    <authors>
+      <author type="words">Kelly Willard</author>
+      <author type="music">Kelly Willard</author>
+    </authors>
+    <ccliNo>25974</ccliNo>
     <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="9"/>
+      <songbook name="Zuglói énekek" entry="5"/>
     </songbooks>
   </properties>
   <lyrics>

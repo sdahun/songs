@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A szeretet még többet ér</title>
+      <title lang="en">Love Is the More Excellent Way</title>
+    </titles>
+    <authors>
+      <author type="music">Babbie Mason</author>
+      <author type="music">Turner Lawton</author>
+    </authors>
+    <ccliNo>2090182</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="4"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Még ha angyalok nyelvén is<br/>szól e dallam,<br/>szeretet nélkül üresen cseng<br/>minden dallam,<br/>lehet olyan nagy hitem,<br/>amely hegyet mozdít,<br/>szeretet nélkül bármit teszek<br/>köddé foszlik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sokan prófétálnak<br/>a nevében,<br/>szeretet nélkül szavaik<br/>csak lehullnak,<br/>és ha minden titkot<br/>megismernek,<br/>szeretet nélkül elvétik<br/>az utat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Még ha tűzbe vetem is<br/>a testemet,<br/>szeretet nélkül lángra lobbant<br/>tűz leszek.<br/>Oda adhatom vagyonom,<br/>mindenem,<br/>szeretet nélkül nem marad<br/>csak kőszívem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem féltékeny, megbocsát,<br/>remény ébred lába nyomán,<br/>haragra sem gerjed,<br/>a bajban kitart.<br/>A szeretet hív,<br/>csak jöjj és új életet ad.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Aki hozzám fordul</title>
+    </titles>
+    <authors>
+      <author type="music">Ben Fielding</author>
+      <author type="translation" lang="hu">Soproni János</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="10"/>
+    </songbooks>
+    <themes>
+      <theme>Evangélizáció</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki hozzám fordul,<br/>azt ki nem vetem.<br/>Így ígérte Jézus<br/>neked és nekem.<br/>Látod, sok a bűnöd,<br/>nem bírod tovább,<br/>jöjj az Úrhoz, számít rád.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Megbocsátja minden bűnödet,<br/>békességet ad a szívednek.<br/>Veled marad mindig, hogyha akarod,<br/>félelemre nincs okod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volt-e már barátod,<br/>aki így szeret,<br/>meghalt, hogy tenéked<br/>adjon életet.<br/>Végtelen kegyelmet<br/>és üdvöt kínál,<br/>Jézus Krisztus téged vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El ne fordulj Tőle,<br/>mert késő lehet,<br/>nem lesz, aki kérje<br/>bűnös szívedet.<br/>Jöjj csak bátran hozzá,<br/>van még kegyelem,<br/>szeretete végtelen.</lines>
+    </verse>
+  </lyrics>
+</song>

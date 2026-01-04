@@ -3,8 +3,9 @@
   <properties>
     <titles>
       <title>Láncom lehullt</title>
-      <title>Amazing Grace</title>
-      <title>My Chains Are Gone</title>
+      <title>Az Úr irgalma végtelen</title>
+      <title lang="en">Amazing Grace</title>
+      <title lang="en">My Chains Are Gone</title>
     </titles>
     <verseOrder>v1 v2 c1 v3 c1 v4 c1 c1 e1 v5</verseOrder>
     <authors>
@@ -18,7 +19,6 @@
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>
       <songbook name="Dicsérem Neved 2" entry="18"/>
       <songbook name="Hozsánna énekes" entry="31"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="23"/>
     </songbooks>
   </properties>
   <lyrics>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Add, hogy a szívemmel lássak</title>
+      <title lang="en">Open the Eyes of My Heart</title>
+    </titles>
+    <authors>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Paul Baloche</author>
+      <author type="translation" lang="hu">István Judit</author>
+    </authors>
+    <ccliNo>2298355</ccliNo>
+    <verseOrder>v1 v1 c1 c1 v1 c1 b1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="7"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Add, hogy a szívemmel lássak,<br/>add, nekem látásodat!<br/>Uram, hadd lássak!<br/>Uram, hadd lássak!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kérlek, nyisd meg most szemem,<br/>egy pillantást, hadd vessek a mennyre,<br/>hogy valóban lássalak,<br/>miközben énekeljük: „Szent vagy!”.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy, szent vagy, szent vagy!<br/>Szent vagy, szent vagy, szent vagy!<br/>Szent vagy, szent vagy, szent vagy!<br/>Uram, Te szent vagy!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Uram, Te szent vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,11 +3,10 @@ package com.github.sdahun.songs;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.openlyrics.jlyrics.IOFactory;
 import org.openlyrics.jlyrics.Song;
+import org.openlyrics.jlyrics.hymnbook.Hymnbooks;
 import org.openlyrics.jlyrics.masswriter.IMassWriter;
-import org.openlyrics.jlyrics.masswriter.MassWriterType;
 import org.openlyrics.jlyrics.reader.ILyricsReader;
 import org.openlyrics.jlyrics.reader.ReaderType;
-import org.openlyrics.jlyrics.transform.ConfigSongBookData;
 import org.openlyrics.jlyrics.transform.SongTransformer;
 import org.openlyrics.jlyrics.transform.SongTransformerConfig;
 import org.openlyrics.jlyrics.writer.*;
@@ -18,118 +17,94 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+import static com.github.sdahun.songs.MassWriterFactory.getMassWriter;
 import static org.openlyrics.jlyrics.util.SongUtils.repeat;
 
 public class Main {
+    SongTransformerConfig config = new SongTransformerConfig();
+    Hymnbooks books = new Hymnbooks();
 
     public static void main(String[] args) {
+        new Main().generate();
+    }
+
+    public void generate() {
         System.out.println(repeat("=", 60));
         System.out.print(repeat(" ", 20));
         System.out.println("ÉNEKSZÖVEG ÁTALAKÍTÓ");
         System.out.println(repeat("=", 60));
 
-        SongTransformerConfig config = askForConfig();
+        //load hymnbooks data
+        try (InputStream hymnInputStream = Main.class.getClassLoader().getResourceAsStream("hymnbooks.json")) {
+            books.loadFromJson(hymnInputStream);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+        askForConfiguration();
 
         System.out.println("Kis türelmet, az átalakítás folyamatban...");
 
-        IMassWriter massWriter;
+        IMassWriter massWriter = getMassWriter(OutputType.values()[config.getWriterFormat()], config);
 
-        try {
-            switch (config.getWriterFormat()) {
-                case 1:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.OPENLP);
-                    massWriter.init(massWriter.generateFilename(), null, config);
-                    break;
-                case 2:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
-                    massWriter.init(massWriter.generateFilename(), new FreeShowWriter(), config);
-                    break;
-                case 3:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.EASYWORSHIP);
-                    massWriter.init(massWriter.generateFilename(), null, config);
-                    break;
-                case 4:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP).setFileExtension(".qsp");
-                    massWriter.init(massWriter.generateFilename(), new QueleaWriter(), config);
-                    break;
-                case 5:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
-                    massWriter.init(massWriter.generateFilename(), new OpenLyricsWriter(), config);
-                    break;
-                case 6:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
-                    massWriter.init(massWriter.generateFilename(), new PptxWriter(), config);
-                    break;
-                default:
-                    massWriter = IOFactory.getNewMassWriter(MassWriterType.ZIP);
-                    massWriter.init(massWriter.generateFilename(), new TextWriter(), config);
-                    break;
+        //iterate through all the hymnbooks
+        for (int i = 0; i < books.size(); i++) {
+
+            String songlist = config.getSelectedSongs().get(i);
+
+            if (songlist == null && config.getSelectedSongs().get(-1) != null) {
+                songlist = "0"; //all song from all songbook
             }
 
-            for (ConfigSongBookData book : config.getSongbooks()) {
-                String songlist = config.getSelectedSongs().get(config.getSongbooks().indexOf(book));
+            if (songlist == null) {
+                continue;
+            }
 
-                if (songlist == null && config.getSelectedSongs().get(-1) != null) {
-                    songlist = "0"; //all song from all songbook
-                }
+            System.out.println("Énekek átalakítása a következő énekesből: " + books.get(i).getName());
 
-                if (songlist != null) {
-                    System.out.println("Énekek átalakítása a következő énekesből: " + book.getName());
-                    if (songlist.equals("0")) {
-                        songlist = "1-999";
+            if (songlist.equals("0")) {
+                songlist = "1-" + books.get(i).getCount();
+            }
+
+            try {
+                ILyricsReader reader = IOFactory.getNewReader(ReaderType.OPENLYRICS);
+                SongTransformer transformer = new SongTransformer(books, config);
+
+                for (String part : songlist.split(",")) {
+                    List<Integer> elems = Arrays.stream(part.split("-"))
+                        .mapToInt(Integer::parseInt)
+                        .boxed()
+                        .collect(Collectors.toList());
+
+                    if (elems.size() == 1) {
+                        elems.add(elems.get(0));
                     }
 
-                    ILyricsReader reader = IOFactory.getNewReader(ReaderType.OPENLYRICS);
-                    SongTransformer transformer = new SongTransformer();
-
-                    for (String part : songlist.split(",")) {
-                        List<Integer> elems = Arrays.stream(part.split("-")).mapToInt(Integer::parseInt).boxed().collect(Collectors.toList());
-                        if (elems.size() == 1) {
-                            elems.add(elems.get(0));
-                        }
-
-                        if (elems.get(0) <= elems.get(1)) {
-                            for (int i = elems.get(0); i <= elems.get(1); i++) {
-                                String path = String.format("%s/%03d.xml", book.getFolder(), i);
-                                try (InputStream is = Main.class.getClassLoader().getResourceAsStream(path)) {
-                                    Song song = reader.read(is);
-                                    massWriter.add(transformer.transform(song, config));
-                                } catch (Exception e) {
-                                    //if not found, skip
-                                }
+                    if (elems.get(0) <= elems.get(1)) {
+                        for (int j = elems.get(0); j <= elems.get(1); j++) {
+                            String path = String.format("%s/%03d.xml", books.get(i).getFolder(), j);
+                            try (InputStream is = Main.class.getClassLoader().getResourceAsStream(path)) {
+                                Song song = reader.read(is);
+                                massWriter.add(transformer.transform(song));
+                            } catch (Exception e) {
+                                //if missing, skip
                             }
                         }
                     }
                 }
+            } catch (Exception e) {
+                throw new RuntimeException(e);
             }
-            massWriter.close();
+        }
 
+        try {
+            massWriter.close();
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
 
-    private static SongTransformerConfig loadSongbookDatasToConfig(SongTransformerConfig config) {
-        return config
-            .addSongbookData(new ConfigSongBookData("A", "Adj zengő éneket!", "adj_zengo_eneket"))
-            .addSongbookData(new ConfigSongBookData("B", "Baptista gyülekezeti énekeskönyv", "baptista_gyulekezeti_enekeskonyv"))
-            .addSongbookData(new ConfigSongBookData("T", "Dicsérem Neved 1", "dicserem_neved_1"))
-            .addSongbookData(new ConfigSongBookData("V", "Dicsérem Neved 2", "dicserem_neved_2"))
-            .addSongbookData(new ConfigSongBookData("W", "Dicsérem Neved 3", "dicserem_neved_3"))
-            .addSongbookData(new ConfigSongBookData("X", "Dicsérem Neved 4", "dicserem_neved_4"))
-            .addSongbookData(new ConfigSongBookData("Y", "Dicsérem Neved 5", "dicserem_neved_5"))
-            .addSongbookData(new ConfigSongBookData("E", "Erőm és énekem az Úr", "erom_es_enekem_az_ur"))
-            .addSongbookData(new ConfigSongBookData("H", "Hitünk énekei", "hitunk_enekei"))
-            .addSongbookData(new ConfigSongBookData("Q", "Hozsánna énekes", "hozsanna"))
-            .addSongbookData(new ConfigSongBookData("S", "Szent az Úr", "szent_az_ur"))
-            .addSongbookData(new ConfigSongBookData("U", "Üdv- és adventi énekek", "udv_es_adventi_enekek"))
-            .addSongbookData(new ConfigSongBookData("Z", "Zuglói Adventista Gyülekezeti Énekeskönyv", "zugloi_adventista_gyulekezeti_enekeskonyv"))
-        ;
-    }
-
-    private static SongTransformerConfig askForConfig() {
-        SongTransformerConfig config;
-
+    private void askForConfiguration() {
         int questionNumber = 0;
         Scanner scanner = new Scanner(System.in);
 
@@ -140,15 +115,12 @@ public class Main {
                 try (FileInputStream is = new FileInputStream("config.json")) {
                     ObjectMapper mapper = new ObjectMapper();
                     config = mapper.readValue(is, SongTransformerConfig.class);
-                    loadSongbookDatasToConfig(config);
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
-                return config;
+                return;
             }
         }
-
-        config = loadSongbookDatasToConfig(new SongTransformerConfig());
 
         config.setIntroSlide(choice(scanner, ++questionNumber, "Legyen nyitó dia az ének címével?", true));
         if (config.isIntroSlide()) {
@@ -169,22 +141,14 @@ public class Main {
         config.setEmptySlide(choice(scanner, ++questionNumber, "Legyen utolsó utáni üres dia?", false));
         config.setTagSlide(choice(scanner, ++questionNumber, "Legyen az utolsó dia után gyorskereső hivatkozás??", false));
 
-        List<String> writerFormats = new ArrayList<>(Arrays.asList(
-                "OpenLP (songs.sqlite adatbázisfájlban)",
-                "FreeShow (show fájlok zip fájlban)",
-                "EasyWorship (schedule fájlban)",
-                "Quelea Song Pack (.qsp fájlban)",
-                "OpenLyrics (xml fájlok zip fájlban)",
-                "Powerpoint (pptx fájlok zip fájlban)",
-                "Csak szöveg (txt fájlok zip fájlban)"
-        ));
+        List<String> writerFormats = OutputType.getDescriptions();
 
         config.setWriterFormat(getNumber(
                 scanner,
                 listToQuestion(++questionNumber, "Milyen formátumba kerüljenek az énekek?", writerFormats, false),
                 1,
                 writerFormats.size()
-        ));
+        )-1);
 
         config.setBatchSize(getNumber(scanner, "Hány ének kerüljön egy fájlba? (0 = mind egybe)", 0, 1000));
 
@@ -200,7 +164,7 @@ public class Main {
             String selectedBooks = getRange(
                     scanner,
                     listToQuestion(++questionNumber, "Sorold fel a kiválasztott énekeskönyvek sorszámát!",
-                            config.getSongbookNames(), true));
+                            books.getHymnbookNames(), true));
 
             Arrays.stream(selectedBooks.split(","))
                 .collect(Collectors.toList())
@@ -215,7 +179,7 @@ public class Main {
                             config.getSelectedSongs().put(i, getRange(
                                 scanner,
                                 String.format("  - Sorold fel a kiválasztott énekek sorszámát ebből az énekeskönyvből: %s\n    Válasz? (0 = mind) (pl.: 1-100,150): ",
-                                    config.getSongbookById(i).getName())
+                                    books.get(i).getName())
                         ));
                     }
                 }
@@ -230,7 +194,6 @@ public class Main {
                 throw new RuntimeException(e);
             }
         }
-        return config;
     }
 
     private static boolean choice(Scanner sc, int qNumber, String question, boolean defaultChoice) {

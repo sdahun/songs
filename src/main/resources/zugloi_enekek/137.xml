@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Gyönyörű nagy neved</title>
+      <title lang="en">What A Beautiful Name</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 b1 b2 c3 b2 c1 e1</verseOrder>
+    <ccliNo>7068424</ccliNo>
+    <authors>
+      <author>Ben Fielding</author>
+      <author>Brooke Ligertwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A világ kezdetén ott voltál,<br/>egy voltál az Istennel.<br/>A teremtés rejtette arcod,<br/>míg Megváltóként jöttél el.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Milyen gyönyörű nagy neved,<br/>gyönyörű nagy Neved<br/>Úr Jézus Krisztus,<br/>Nagy Király.<br/>Milyen gyönyörű nagy neved,<br/>minden név felett,<br/>milyen gyönyörű nagy neved,<br/>ó drága Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Mennyből földre jöttél értünk,<br/>vállaltad a keresztfát.<br/>Bűnömnél nagyobb szerelmed,<br/>semmi nem választ el már.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Milyen csodálatos neved,<br/>csodálatos neved,<br/>Úr Jézus Krisztus,<br/>Nagy Király.<br/>Milyen csodálatos neved,<br/>minden név felett,<br/>milyen csodálatos neved,<br/>ó, drága Jézus!<br/>Milyen csodálatos neved,<br/>ó, drága Jézus</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Üres a sírbolt, megnyílt a kárpit,<br/>hol a fullánkod bűn, halál?<br/>Ujjong a menny is, Téged dicsőít,<br/>mert újra élsz, feltámadtál.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Egyedül méltó, drága Megváltó<br/>örök Király és Isten vagy.<br/>Tiéd az ország, minden dicsőség<br/>Nevedre minden térdet hajt.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Milyen erős nagy neved,<br/>erős nagy neved<br/>Úr Jézus Krisztus,<br/>Nagy Király.<br/>Milyen erős nagy neved,<br/>minden név felett<br/>Milyen erős nagy neved,<br/>ó, drága Jézus!<br/>Milyen erős nagy neved,<br/>ó, drága Jézus!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Milyen gyönyörű nagy neved,<br/>ó drága Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

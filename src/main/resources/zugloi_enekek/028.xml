@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Dicsőség mennyben az Istennek</title>
+    </titles>
+    <authors>
+      <author type="music">Eger, 1855.</author>
+      <author type="words">Simon Jukundián (1813-1894.)</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség mennyben az Istennek!<br/>Dicsőség mennyben az Istennek!<br/>Az angyali seregek<br/>vígan így énekelnek:<br/>Dicsőség,<br/>dicsőség Istennek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Békesség földön az embernek!<br/>Békesség földön az embernek!<br/>Kit az igaz szeretet<br/>Jézushoz majd elvezet.<br/>Békesség,<br/>békesség embernek!</lines>
+    </verse>
+  </lyrics>
+</song>

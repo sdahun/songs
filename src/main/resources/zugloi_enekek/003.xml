@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A mélységből halld meg, Uram</title>
+    </titles>
+    <authors>
+      <author type="music">Pekka Simojoki</author>
+      <author type="words">Jansik Csaba</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="3"/>
+    </songbooks>
+    <themes>
+      <theme>Zsolt 40,2-4.</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mélységből halld meg, Uram,<br/>kiáltok hozzád,<br/>halld meg, Uram, hangomat!<br/>A mélységből halld meg, Uram,<br/>kiáltok hozzád,<br/>halld meg, Uram, hangomat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sötétségből vágyódom a<br/>világosságra,<br/>halld meg, Uram, hangomat!<br/>Sötétségből vágyódom a<br/>világosságra,<br/>halld meg, Uram, hangomat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sivárságban élő vizet<br/>keres a lelkem,<br/>halld meg, Uram, hangomat!<br/>Sivárságban élő vizet<br/>keres a lelkem,<br/>halld meg, Uram, hangomat!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ajándékul új éneket<br/>írj a szívembe,<br/>halld meg, Uram, hangomat!<br/>Ajándékul új éneket<br/>írj a szívembe,<br/>halld meg, Uram, hangomat!</lines>
+    </verse>
+  </lyrics>
+</song>

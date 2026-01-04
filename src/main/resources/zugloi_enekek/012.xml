@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldjad lelkem</title>
+    </titles>
+    <authors>
+      <author type="music">Háló Balázs</author>
+      <author type="words">Háló Heléna Hanna</author>
+    </authors>
+    <verseOrder>v1 c1 v1 c1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="12"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtőm eléd állok,<br/>szívem Neked kitárom.<br/>Ismerd meg lelkem mélyét,<br/>lényem minden rezdülését.<br/>Hálámat eléd hozom,<br/>hitem ma is megvallom.<br/>Bízom benned, nem csüggedek,<br/>kitartok, míg terád nézek.<br/>Várunk rád! Jöjj közénk tüzeddel!<br/>Nincsen más, ki méltó a dicséretre.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldjad lelkem<br/>a Menny és Föld urát!<br/>Áldjad lelkem,<br/>Övé minden imádás!<br/>Áldjad lelkem,<br/>csak Ő méltó rá!<br/>Feltámadt és minket vár<br/>a fenséges Király!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Minden áldás, minden hála<br/>csak Téged illet meg.<br/>Arra vágyom, hogy imádatom<br/>Hozzád szálljon fel.<br/>Te hűséges vagy,<br/>ígéreted sosem szeged meg.<br/>Szeretlek,<br/>és teljes szívemből éneklem:</lines>
+    </verse>
+  </lyrics>
+</song>

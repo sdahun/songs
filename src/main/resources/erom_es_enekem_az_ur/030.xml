@@ -4,12 +4,12 @@
     <titles>
       <title>Éjjel, nappal</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author type="music">Spirituálé</author>
       <author type="translation" lang="hu">Hányik Mária, 1980</author>
       <author type="translation" lang="hu">Hégely László, 1980</author>
     </authors>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="30"/>
       <songbook name="Hozsánna énekes" entry="51"/>

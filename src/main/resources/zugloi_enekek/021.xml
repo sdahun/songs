@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az Úr oly csodálatos</title>
+      <title>Awesome God</title>
+    </titles>
+    <authors>
+      <author type="music">Rich Mullins</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <ccliNo>41099</ccliNo>
+    <verseOrder>v1 v2 b1 v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr oly csodálatos,<br/>nincs más, csak Ő mindenható!<br/>Hatalma örökké tart,<br/>a mi Istenünk az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérd és magasztald Őt,<br/>mert jó és örökkévaló!<br/>Oly szent és dicsőséges<br/>a mi Istenünk, az Úr!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A mi Istenünk, az Úr!<br/>A mi Istenünk, az Úr!<br/>A mi Istenünk, az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

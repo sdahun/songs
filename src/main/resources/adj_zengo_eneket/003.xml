@@ -5,11 +5,11 @@
       <title>A mélyből Hozzád száll szavam</title>
       <title>Go Down Moses</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author type="music">Spirituálé</author>
       <author type="words">Cselényi István Gábor</author>
     </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="3"/>
       <songbook name="Hozsánna énekes" entry="4"/>

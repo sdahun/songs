@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Adventi hírnök</title>
+    </titles>
+    <authors>
+      <author type="music">H. Rohr</author>
+      <author type="words">M. Fresch</author>
+      <author type="translation" lang="hu">Hamar István</author>
+    </authors>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="8"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adventi hírnök, friss fenyőág,<br/>lobog az első gyertyaláng!<br/>Karácsonyt várva lázban a föld,<br/>Isteni gyermeket köszönt.<br/>Ujjong a szívünk, dalra gyúl,<br/>nincs már messze az Úr!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adventi hírnök, friss fenyőág,<br/>lobog már két kis gyertyaláng!<br/>Ha zörget Jézus, jól figyelj ám,<br/>betér a szívünk ajtaján!<br/>Ujjong a szívünk, dalra gyúl,<br/>nincs már messze az Úr!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adventi hírnök, friss fenyőág,<br/>lobog már három gyertyaláng!<br/>Múlnak az évek, életünk száll,<br/>de utunk végén Jézus vár!<br/>Ujjong a szívünk, dalra gyúl,<br/>nincs már messze az Úr!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adventi hírnök, friss fenyőág,<br/>lobog már négy kis gyertyaláng!<br/>Azt mondta Jézus: visszajön még,<br/>újjá lesz akkor föld és ég!<br/>Ujjong a szívünk, dalra gyúl,<br/>nincs már messze az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

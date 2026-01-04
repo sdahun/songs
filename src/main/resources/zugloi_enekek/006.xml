@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A Te hűséged az egekig ér</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="6"/>
+      <songbook name="Hozsánna énekes" entry="10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Te hűséged az egekig ér.<br/>A Te hűséged az egekig ér.<br/>Te vagy az élet,<br/>szóljon az ének,<br/>Igéd éltet ma és mindennapon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Velünk az Isten mindennapon,<br/>velünk az Isten mindennapon.<br/>Te vagy az élet,<br/>szóljon az ének,<br/>Igéd éltet ma és mindörökké.</lines>
+    </verse>
+  </lyrics>
+</song>

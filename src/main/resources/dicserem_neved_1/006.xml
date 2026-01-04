@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Álmokat kergettél és összedőlt minden</title>
+    </titles>
+    <authors>
+      <author type="music">Phil Johnson</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="6"/>
+    </songbooks>
+    <themes>
+      <theme>Evangélizáció</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Álmokat kergettél<br/>és összedőlt minden,<br/>terveket szőttél és feladtál.<br/>Kínoz sok kérdés, de válasz nincsen,<br/>tégy le mindent Jézus lábánál!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tedd le hát, add neki át,<br/>füstbe ment sok terved,<br/>összetört álmaid csalódását!<br/>Tedd le hát, add neki át,<br/>tedd le szent kezébe,<br/>és fájdalmad örömre váltja át!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem ígért Ő napfényt<br/>árnyék nélkül,<br/>nem ígért felhőtlen éveket,<br/>de szava lesz a sötét éjben fényül,<br/>bízd kezére minden terhedet!</lines>
+    </verse>
+  </lyrics>
+</song>

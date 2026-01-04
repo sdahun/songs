@@ -3,14 +3,22 @@
   <properties>
     <titles>
       <title>Az Úr irgalma végtelen</title>
+      <title>Láncom lehullt</title>
+      <title lang="en">Amazing Grace</title>
+      <title lang="en">My Chains Are Gone</title>
     </titles>
+    <authors>
+      <author type="music">Chris Tomlin</author>
+      <author type="music">(régi angol dallam)</author>
+      <author type="words">John Newton</author>
+      <author type="words">Chris Tomlin</author>
+    </authors>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 2" entry="18"/>
       <songbook name="Adj zengő éneket!" entry="77"/>
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>
       <songbook name="Hozsánna énekes" entry="31"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="23"/>
     </songbooks>
     <themes>
       <theme>Bizonyságtétel és megvallás</theme>

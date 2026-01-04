@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Adj zengő éneket!",
+        "abbreviation": "A",
+        "folder": "adj_zengo_eneket",
+        "count": 150,
+        "url": "https://regi.reformatus.hu/mutat/adj-zengo-neket/"
+    },
+    {
+        "name": "Baptista gyülekezeti énekeskönyv",
+        "abbreviation": "B",
+        "folder": "baptista_gyulekezeti_enekeskonyv",
+        "count": 560,
+        "url": "https://www.baptistawebshop.hu/shop--p443"
+    },
+    {
+        "name": "Dicsérem Neved 1",
+        "abbreviation": "T",
+        "folder": "dicserem_neved_1",
+        "count": 224,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Dicsérem Neved 2",
+        "abbreviation": "V",
+        "folder": "dicserem_neved_2",
+        "count": 230,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Dicsérem Neved 3",
+        "abbreviation": "W",
+        "folder": "dicserem_neved_3",
+        "count": 200,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Dicsérem Neved 4",
+        "abbreviation": "X",
+        "folder": "dicserem_neved_4",
+        "count": 222,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Dicsérem Neved 5",
+        "abbreviation": "Y",
+        "folder": "dicserem_neved_5",
+        "count": 225,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Dicsérjük Istent",
+        "abbreviation": "D",
+        "folder": "dicserjuk_istent",
+        "count": 145,
+        "url": "https://zene.adventista.hu/enekeskonyv/dicserjuk-istent-probaenekeskonyv"
+    },
+    {
+        "name": "Dúrkönyv",
+        "abbreviation": "G",
+        "folder": "durkonyv",
+        "count": 191,
+        "url": "https://durkonyv.hu/"
+    },
+    {
+        "name": "Erőm és énekem az Úr",
+        "abbreviation": "E",
+        "folder": "erom_es_enekem_az_ur",
+        "count": 143,
+        "url": "http://www.harmat.hu/uzlet/erom-es-enekem-az-ur"
+    },
+    {
+        "name": "Hitünk énekei",
+        "abbreviation": "H",
+        "folder": "hitunk_enekei",
+        "count": 477,
+        "url": "https://adventkiado.hu"
+    },
+    {
+        "name": "Hozsánna énekes",
+        "abbreviation": "Q",
+        "folder": "hozsanna",
+        "count": 219,
+        "url": "https://adventista.hu"
+    },
+    {
+        "name": "Szent András énekfüzet",
+        "abbreviation": "F",
+        "folder": "szent_andras_enekfuzet",
+        "count": 340,
+        "url": "https://enekfuzet.ujevangelizacio.hu"
+    },
+    {
+        "name": "Szent az Úr",
+        "abbreviation": "S",
+        "folder": "szent_az_ur",
+        "count": 40,
+        "url": "https://adventista.hu"
+    },
+    {
+        "name": "Üdv- és adventi énekek",
+        "abbreviation": "U",
+        "folder": "udv_es_adventi_enekek",
+        "count": 512,
+        "url": "https://yfc.hu/bolt/"
+    },
+    {
+        "name": "Zuglói énekek",
+        "abbreviation": "Z",
+        "folder": "zugloi_enekek",
+        "count": 100,
+        "url": "https://github.com/sdahun/songs"
+    }
+]

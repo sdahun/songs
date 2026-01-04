@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Fülem, szemem, orrom, szám</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fülem, szemem, orrom, szám,<br/>fülem, szemem, orrom, szám,<br/>fülem, szemem, orrom szám,<br/>mind az Urat dicséri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fejem, vállam, térdem, talpam,<br/>fejem, vállam, térdem, talpam,<br/>fejem, vállam, térdem, talpam,<br/>mind az Urat dicséri.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,11 +3,20 @@
   <properties>
     <titles>
       <title>Emlékezzél meg</title>
+      <title lang="en">Think About His Love</title>
     </titles>
+    <authors>
+      <author type="music">Walt Harrah</author>
+      <author type="words">Walt Harrah</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <copyright>© 1987 Integrity's Hosanna! Music</copyright>
+    <ccliNo>16299</ccliNo>
     <verseOrder>v1 v2 v1 v2 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="61"/>
       <songbook name="Adj zengő éneket!" entry="28"/>
+      <songbook name="Dicsérem Neved 2" entry="50"/>
     </songbooks>
   </properties>
   <lyrics>

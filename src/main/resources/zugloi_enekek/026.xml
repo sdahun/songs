@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Csendes éj</title>
+      <title lang="en">Silent Night</title>
+      <title lang="de">Stille Nacht</title>
+    </titles>
+    <authors>
+      <author type="music">Franz Xaver Grüber</author>
+      <author type="words">Joseph Mohr</author>
+    </authors>
+    <ccliNo>27862</ccliNo>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="26"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csendes éj! Szentséges éj!<br/>Mindenek nyugta mély.<br/>Nincs fent csak a szent szülepár,<br/>drága kisdedök álmainál;<br/>Szent fiú, aludjál!<br/>Szent fiú, aludjál!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csendes éj! Szentséges éj!<br/>Angyalok hangja kél.<br/>Halld az égi halleluját,<br/>szerte zengi e drága szavát;<br/>Krisztus megszabadít!<br/>Krisztus megszabadít!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Csendes éj! Szentséges éj!<br/>Szív örülj, higgy, remélj!<br/>Isten szent Fia hinti rád<br/>ajka vigasztaló mosolyát;<br/>Krisztus megszületett!<br/>Krisztus megszületett!</lines>
+    </verse>
+  </lyrics>
+</song>

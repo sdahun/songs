@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-23T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézus, áldjuk szent neved</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="music">Klaus Thewes, 2005. (1952-)</author>
+      <author type="words">Fekete István (1947-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjük Istent" entry="1"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten szenvedése és halála</theme>
+      <theme>Ésa 53,6</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, áldjuk szent neved,<br/>mert értünk hordtad a keresztet.<br/>Mint ártatlan bárány Te tűrted a szenvedést,<br/>és hordoztad némán a gúnyt, megvetést.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az emberek bár elhagytak,<br/>de fájdalmaikat hordoztad.<br/>Mint ártatlan bárány Te tűrted a szenvedést,<br/>és hordoztad némán a gúnyt, megvetést.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mint gyönge juhok elvesztünk.<br/>Az Úrnak útjától eltértünk,<br/>de elvettél vétket, mint egyetlen áldozat;<br/>Mi hálával áldjuk nagy irgalmadat.</lines>
+    </verse>
+  </lyrics>
+</song>

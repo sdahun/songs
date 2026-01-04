@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az első örömhírt</title>
+      <title lang="en">The First Noel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="translation" lang="hu">Révész Árpád</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="18"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az első örömhírt<br/>az angyal mondta<br/>a pusztában virrasztó<br/>pásztoroknak,<br/>mikor éjnek idején<br/>elnémult a táj,<br/>mikor összebújt fázón<br/>az alvó juhnyáj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örömhír, örömhír,<br/>örömhír nektek:<br/>Izráel Királya<br/>megszületett!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott messzi Keleten<br/>egy csillag kigyúlt,<br/>és tündöklő fénnyel<br/>az égen vonult,<br/>csodaszépen ragyogott<br/>és szórta a fényt,<br/>ilyen égi jelt nem látott<br/>senki se még.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És ott napkeleten<br/>a bölcsek nézték<br/>a csillagnak fényét<br/>és felismerték:<br/>Íme, megjött a Király,<br/>kit népek vártak,<br/>el is indultak hittel<br/>és rátaláltak.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ma szívünk zengi már<br/>a hit himnuszát<br/>és dicséri, áldja<br/>a mennyek Urát.<br/>Kinek szent szavára lett<br/>a Föld és az Ég,<br/>Fia vérén nyert üdvöt<br/>az emberiség!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Az üdvösség dala</title>
+      <title lang="en">The Salvation Poem</title>
+    </titles>
+    <authors>
+      <author>Matt McPherson</author>
+      <author>Sherry McPherson</author>
+    </authors>
+    <ccliNo>7120019</ccliNo>
+    <verseOrder>v1 c1 c1 b1 v1 c1 c1 b1 b2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="22"/>
+    </songbooks>
+    <themes>
+      <theme>Superbook</theme>
+      <theme>ApCsel 16,30-31</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, értünk adtad életed,<br/>feltámadtál, hogy megmenthess.<br/>Bocsásd meg kérlek a bűneimet!<br/>Jöjj és légy Úr a szívemben!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tégy újjá mindent bennem!<br/>Segíts nekem az életben!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Legyen Tiéd az életem.<br/>Legyen Tiéd, legyen Tiéd az életem.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tégy újjá mindent bennem!<br/>Segíts Uram az életben.<br/>Tégy újjá mindent bennem!<br/>Legyen Uram Tiéd az életem.</lines>
+    </verse>
+  </lyrics>
+</song>

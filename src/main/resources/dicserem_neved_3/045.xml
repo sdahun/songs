@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Feladtad méltó nagy neved</title>
+      <title>You laid aside your Majesty</title>
+    </titles>
+    <copyright>© 1985 Thankyou Music</copyright>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <ccliNo>78275</ccliNo>
+    <authors>
+      <author type="words">Noel Richards</author>
+      <author type="music">Noel Richards</author>
+      <author type="translation" lang="hu">Németh Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feladtad méltó nagy neved,<br/>feláldoztad az életed.<br/>Te formáltad azt,<br/>kiknek kezében szenvedtél.<br/>Minden bűnöm, szégyenem<br/>fennmaradt a kereszten,<br/>mégis újra élsz és<br/>Ura vagy mindeneknek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Tiéd vagyok, megnyerted szívem,<br/>dicsérni akarlak szüntelen,<br/>én soha meg nem állok,<br/>úgy szeretlek!<br/>Te vagy, ki értem adtad életed,<br/>hogy most szabaddá legyek.<br/>Hozzád száll a hangom már,<br/>imádlak Nagy Király!</lines>
+    </verse>
+  </lyrics>
+</song>

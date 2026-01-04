@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>A golgotára gondolok</title>
+      <title lang="en">O Praise The Name (Anástasis)</title>
+    </titles>
+    <authors>
+      <author type="music">Benjamin Hastings</author>
+      <author type="music">Dean Ussher</author>
+      <author type="music">Marty Sampson</author>
+    </authors>
+    <ccliNo>7037787</ccliNo>
+    <verseOrder>v1 v2 c1 v3 c1 v3 c1 v4 v4 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="2"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Golgotára gondolok,<br/>hol Jézus vére értem folyt.<br/>Látom sebét, kezén s lábán,<br/>Megváltómat a keresztfán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Könnyel testét eláztatták,<br/>József sírjába fektették.<br/>Bekötözték és elhagyták<br/>egyedül bent a Messiást.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, dicsérjük az Úr nevét,<br/>dicsérjük most és örökké!<br/>Vég nélkül zeng az énekünk,<br/>Urunk, ó, Istenünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harmadnapon hajnal hasadt,<br/>feltámadott a Menny fia.<br/>Halál, mondd csak, hol a fullánk?<br/>Angyal kar zeng: Jézus Király!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>És visszatér majd fehérben,<br/>ragyogva áttörve az éjt.<br/>Feltámadok a szentekkel,<br/>szemem Jézus arcán pihen.</lines>
+    </verse>
+  </lyrics>
+</song>

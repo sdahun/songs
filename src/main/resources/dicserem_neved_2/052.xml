@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Engem szeret Jézusom</title>
+      <title>Jesus loves me</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>4639417</ccliNo>
+    <authors>
+      <author type="music">William Batchelder Bradbury</author>
+      <author type="words">Anna Bartlett Warner</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="52"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Engem szeret Jézusom,<br/>Bibliámból jól tudom.<br/>Mind övé a kisgyermek,<br/>erőt ád a gyöngéknek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úgy van, Ő szeret,<br/>Ő szeret nagyon.<br/>Úgy van, Ő szeret,<br/>Igéjéből tudom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus értem szenvedett,<br/>megnyitotta az eget,<br/>bűnömtől megtisztított,<br/>mennyországba fogadott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus szeret, velem van,<br/>őriz minden utamban,<br/>mennybe viszi gyermekét,<br/>ott dicsérem szent nevét.</lines>
+    </verse>
+  </lyrics>
+</song>

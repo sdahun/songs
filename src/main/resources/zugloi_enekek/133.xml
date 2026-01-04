@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Fenségednél nincs vonzóbb</title>
+      <title lang="en">I Stand In Awe</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 c1</verseOrder>
+    <ccliNo>23914</ccliNo>
+    <authors>
+      <author type="words">Mark Altrogge</author>
+      <author type="music">Mark Altrogge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fenségednél nincs vonzóbb e földön,<br/>se dal, se szó, se kép.<br/>És nem találnék nálad szebbet,<br/>bármerre is indulnék.<br/>Benned van a szeretet fénye,<br/>csak Te vagy az egyetlen út.<br/>Benned megtalálok minden választ,<br/>nagy Király és győztes Úr.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Most csak nézlek és csodállak,<br/>és tiszta szívből áldlak.<br/>Minden tisztelet csak Hozzád száll,<br/>imádlak hű atyám!<br/>imádlak hű atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

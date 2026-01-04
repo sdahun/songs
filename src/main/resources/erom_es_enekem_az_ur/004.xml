@@ -4,15 +4,15 @@
     <titles>
       <title>Áldjon meg téged</title>
     </titles>
-    <verseOrder>v1</verseOrder>
     <authors>
-      <author>Draskóczy László</author>
+      <author type="music">Draskóczy László</author>
+      <author type="words">Draskóczy László</author>
     </authors>
+    <verseOrder>v1</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="4"/>
       <songbook name="Adj zengő éneket!" entry="10"/>
       <songbook name="Dicsérem Neved 1" entry="2"/>
-      <songbook name="Zuglói Adventista Gyülekezeti Énekeskönyv" entry="12"/>
     </songbooks>
     <themes>
       <theme>4Móz 6,24-26</theme>
@@ -20,7 +20,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Áldjon meg téged, áldjon az Úr!<br/>Őrizzen téged, őrizzen Ő!<br/>Orcáját mennyekből fordítsa le rád Atyád!<br/>Könyörüljön rajtad, könyörüljön rajtad!<br/>Adjon békességet!</lines>
+      <lines>Áldjon meg téged, áldjon az Úr!<br/>Őrizzen téged, őrizzen Ő!<br/>Orcáját mennyekből<br/>fordítsa le rád Atyád!<br/>Könyörüljön rajtad,<br/>könyörüljön rajtad!<br/>Adjon békességet!</lines>
     </verse>
   </lyrics>
 </song>

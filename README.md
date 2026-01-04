@@ -31,31 +31,34 @@ lehet olvasni.
 
 # Énekeskönyvek
 
-A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési lehetőségeinek
-linkjei:
+A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési lehetőségeinek linkjei:
 
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
-| [Adj zengő éneket!](http://www.kalvinkiado.hu/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=988&category_id=43&option=com_virtuemart&Itemid=3&lang=hu) | ![Feldolgozottság](https://progress-bar.xyz/100) (150/150) |
-| [Baptista gyülekezeti énekeskönyv](http://www.konyvesbolt.baptist.hu) | ![Feldolgozottság](https://progress-bar.xyz/2) (9/560) |
-| [Dicsérem Neved 1.](http://dicseremneved.hu) | ![Feldolgozottság](https://progress-bar.xyz/4) (8/224) |
-| [Dicsérem Neved 2.](http://dicseremneved.hu) | ![Feldolgozottság](https://progress-bar.xyz/18) (41/230) |
-| [Dicsérem Neved 3.](http://dicseremneved.hu) | ![Feldolgozottság](https://progress-bar.xyz/1) (2/200) |
-| [Dicsérem Neved 4.](http://dicseremneved.hu) | ![Feldolgozottság](https://progress-bar.xyz/1) (2/222) |
-| [Dicsérem Neved 5.](http://dicseremneved.hu) | ![Feldolgozottság](https://progress-bar.xyz/2) (5/225) |
-| [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur) | ![Feldolgozottság](https://progress-bar.xyz/50) (72/143) |
-| [Hitünk énekei](http://adventkiado.hu) | ![Feldolgozottság](https://progress-bar.xyz/100) (477/477) |
-| [Hozsánna énekes](http://adventista.hu) | ![Feldolgozottság](https://progress-bar.xyz/100) (219/219) |
-| [Szent az Úr](http://adventista.hu) | ![Feldolgozottság](https://progress-bar.xyz/100) (40/40) |
-| [Üdv- és Adventi Énekek](https://www.antikvarium.hu/konyv/udv-es-adventi-enekek-473997) | ![Feldolgozottság](https://progress-bar.xyz/9) (45/512) |
-| [Zuglói Adventista Gyülekezeti Énekeskönyv](https://zuglo.adventista.hu/) | ![Feldolgozottság](https://progress-bar.xyz/13) (25/199) |
+| [Adj zengő éneket!](https://regi.reformatus.hu/mutat/adj-zengo-neket/) | <meter value="150" max="150" optimum="150" low="45" high="105"></meter> 100% (150/150) |
+| [Baptista gyülekezeti énekeskönyv](https://www.baptistawebshop.hu/shop--p443) | <meter value="9" max="560" optimum="560" low="168" high="392"></meter> 1% (9/560) |
+| [Dicsérem Neved 1](https://yfc.hu/bolt/) | <meter value="18" max="224" optimum="224" low="67" high="156"></meter> 8% (18/224) |
+| [Dicsérem Neved 2](https://yfc.hu/bolt/) | <meter value="46" max="230" optimum="230" low="69" high="161"></meter> 20% (46/230) |
+| [Dicsérem Neved 3](https://yfc.hu/bolt/) | <meter value="6" max="200" optimum="200" low="60" high="140"></meter> 3% (6/200) |
+| [Dicsérem Neved 4](https://yfc.hu/bolt/) | <meter value="3" max="222" optimum="222" low="66" high="155"></meter> 1% (3/222) |
+| [Dicsérem Neved 5](https://yfc.hu/bolt/) | <meter value="6" max="225" optimum="225" low="67" high="157"></meter> 2% (6/225) |
+| [Dicsérjük Istent](https://zene.adventista.hu/enekeskonyv/dicserjuk-istent-probaenekeskonyv) | <meter value="5" max="145" optimum="145" low="43" high="101"></meter> 3% (5/145) |
+| [Dúrkönyv](https://durkonyv.hu/) | <meter value="1" max="191" optimum="191" low="57" high="133"></meter> 0% (1/191) |
+| [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur) | <meter value="72" max="143" optimum="143" low="42" high="100"></meter> 50% (72/143) |
+| [Hitünk énekei](https://adventkiado.hu) | <meter value="477" max="477" optimum="477" low="143" high="333"></meter> 100% (477/477) |
+| [Hozsánna énekes](https://adventista.hu) | <meter value="219" max="219" optimum="219" low="65" high="153"></meter> 100% (219/219) |
+| [Szent András énekfüzet](https://enekfuzet.ujevangelizacio.hu) | <meter value="1" max="340" optimum="340" low="102" high="237"></meter> 0% (1/340) |
+| [Szent az Úr](https://adventista.hu) | <meter value="40" max="40" optimum="40" low="12" high="28"></meter> 100% (40/40) |
+| [Üdv- és adventi énekek](https://yfc.hu/bolt/) | <meter value="45" max="512" optimum="512" low="153" high="358"></meter> 8% (45/512) |
+| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="41" max="100" optimum="100" low="30" high="70"></meter> 41% (41/100) |
 
-A gyűjteményben jelenleg 1095 darab ének található.
+A gyűjteményben jelenleg 1139 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
 * [OpenLP](https://openlp.org) - ingyenes, nyílt forrású gyülekezeti dicsőítés vetítő szoftver
 * [FreeShow](https://freeshow.app) - ingyenes, nyílt forrású gyülekezeti vetítő szoftver
+* [Quelea](https://quelea.org/) - ingyenes, nyílt forrású gyülekezeti vetító szoftver
 * [EasyWorship](https://www.easyworship.com/) - egy hatékony, mégis egyszerű gyülekezeti vetítő szoftver (nem ingyenes)
 * [PowerPoint](https://products.office.com/hu-hu/powerpoint) - diabemutató szofver
 

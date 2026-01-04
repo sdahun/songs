@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Éneklem a Te jóságodat</title>
+      <title lang="en">Goodness of God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 b1 c1 e1</verseOrder>
+    <authors>
+      <author type="music">Ben Fielding</author>
+      <author type="music">Brian Johnson</author>
+      <author type="music">Ed Cash</author>
+      <author type="music">Jason Ingram</author>
+      <author type="music">Jenn Johnson</author>
+      <author type="translation" lang="hu">Csöngedi Péter</author>
+    </authors>
+    <ccliNo>7117726</ccliNo>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úgy szeretlek,<br/>mert kegyelmed sose csal meg,<br/>s minden nap<br/>tenyeredben tartasz.<br/>Reggel, ébredéstől<br/>lefekvésemig<br/>éneklem<br/>a te jóságodat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden utamban hű voltál,<br/>egész életemben jó voltál.<br/>Minden erőmmel, míg élek<br/>éneklem a Te jóságodat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szelíd hangon,<br/>sok-sok tűzön át vezettél,<br/>s a sötétségben<br/>nincsen más ilyen közel.<br/>Fiaddá fogadtál,<br/>barátként kísérsz,<br/>úgy élvezem<br/>a Te jóságodat.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jóságod fut utánam, s utolér engem!<br/>Hűséged megölel, az egekig emel!<br/>Leteszek mindent a Te lábadhoz,<br/>átadom Neked!<br/>Jóságod nem hagy el,<br/>nem hagy el sosem!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Éneklem<br/>a Te jóságodat!</lines>
+    </verse>
+  </lyrics>
+</song>

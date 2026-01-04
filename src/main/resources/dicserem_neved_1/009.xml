@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Aki Isten felé fordul</title>
+    </titles>
+    <authors>
+      <author type="music">Cyril Sovire</author>
+      <author type="translation" lang="hu">Kovács Z.</author>
+      <author type="translation" lang="hu">Jobbágy I.</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="9"/>
+    </songbooks>
+    <themes>
+      <theme>Bűnbánat, megtérés</theme>
+      <theme>1Jn 1,9</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki Isten felé fordul,<br/>igaz bűnbánatra indul,<br/>aki megtér hamis útról,<br/>Isten annak megbocsát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aki Isten felé fordul,<br/>igaz bűnbánatra indul,<br/>aki megtér hamis útról,<br/>Isten hallja, ha kiált,<br/>küldi reá áldását!</lines>
+    </verse>
+  </lyrics>
+</song>

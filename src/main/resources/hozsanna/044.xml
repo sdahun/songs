@@ -3,7 +3,13 @@
   <properties>
     <titles>
       <title>Égi Atyánk</title>
+      <title lang="en">Blessed Be The Lord God Almighty</title>
     </titles>
+    <authors>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
+    </authors>
+    <ccliNo>21480</ccliNo>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="44"/>

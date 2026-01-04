@@ -3,15 +3,16 @@
   <properties>
     <titles>
       <title>A hegyek, s tengerek felett</title>
+      <title>Mindig csak Rólad énekelnék</title>
       <title>I could sing of your love forever</title>
     </titles>
-    <copyright>© 1994 Curious? Music UK</copyright>
-    <verseOrder>v1 v2 c1 v1 v2 c1 b1 c1 c1</verseOrder>
-    <ccliNo>1043199</ccliNo>
     <authors>
       <author type="music">Martin Smith</author>
       <author type="translation" lang="hu">Németh Judit</author>
     </authors>
+    <copyright>© 1994 Curious? Music UK</copyright>
+    <ccliNo>1043199</ccliNo>
+    <verseOrder>v1 v2 c1 v1 v2 c1 b1 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="2"/>
       <songbook name="Adj zengő éneket!" entry="87"/>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-23T00:00:00">
+  <properties>
+    <titles>
+      <title>Úr Jézus, szavad él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="music">Paul Gerhardt, 1653. (1606-1676.)</author>
+      <author type="words">Fekete István, 2020. (1947-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjük Istent" entry="2"/>
+    </songbooks>
+    <themes>
+      <theme>A Fiú Isten visszajövetele előtti jelek</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Úr Jézus, szavad él,<br/>mit régen ígértél:<br/>a sok jelet, ha látjuk<br/>– míg visszatérted várjuk –,<br/>szent országod jön el,<br/>csak hittel nézzünk fel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Él bennem a remény,<br/>hogy veled leszek én,<br/>hol fájdalom és bánat<br/>– mi ma még sokat árthat –<br/>e földön nem lesz már,<br/>mit újjáalkottál.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mit ér e nagy világ,<br/>mely földi kincset ád?<br/>De többet ér ma nékem,<br/>a földre szállott Éden,<br/>mert elkészítetted<br/>a hívő népeknek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bár lelkem gyakran fél,<br/>de mégis hisz, remél,<br/>mert országod, ha eljön,<br/>majd béke lesz e földön –;<br/>Add meg, én Istenem,<br/>én áldott Mesterem!</lines>
+    </verse>
+  </lyrics>
+</song>

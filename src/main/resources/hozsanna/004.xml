@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>A mélyből hozzád száll szavam</title>
+      <title>Go Down Moses</title>
     </titles>
+    <authors>
+      <author type="music">Spirituálé</author>
+      <author type="words">Cselényi István Gábor</author>
+    </authors>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="4"/>

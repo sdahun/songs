@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Ajtódnál valaki megáll</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="11"/>
+    </songbooks>
+    <themes>
+      <theme>Evangélizáció</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ajtódnál valaki megáll,<br/>ajtódnál valaki megáll.<br/>Ó, testvér, most légy csak csendben,<br/>ajtódnál valaki megáll.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jézusod áll kint,<br/>ajtódon valaki kopog,<br/>Jézusod áll kint,<br/>ajtódon valaki kopog.<br/>Ó, testvér, most légy csak csendben,<br/>ajtódon valaki kopog.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusod áll kint,<br/>bocsásd be szíved ajtaján,<br/>Jézusod áll kint,<br/>bocsásd be szíved ajtaján.<br/>Ó, testvér, most légy csak csendben,<br/>bocsásd be szíved ajtaján!</lines>
+    </verse>
+  </lyrics>
+</song>

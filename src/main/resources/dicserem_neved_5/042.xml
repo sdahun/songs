@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Csak Krisztusban</title>
+      <title lang="en">In Christ alone</title>
+    </titles>
+    <authors>
+      <author type="words">Keith Getty</author>
+      <author type="music">Keith Getty</author>
+      <author type="words">Stuart Townend</author>
+      <author type="music">Stuart Townend</author>
+      <author type="translation" lang="hu">Révész Árpád</author>
+    </authors>
+    <copyright>© 2001 Thankyou Music</copyright>
+    <ccliNo>3350395</ccliNo>
+    <verseOrder>v1 v2 v3 v4 e1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 5" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Krisztusban kaptam reményt,<br/>új örömet, új életcélt.<br/>Őrá mindig számíthatok,<br/>bármilyen nagy próbát kapok.<br/>Szerelme lángja égig ér,<br/>békéje mélyebb tengernél.<br/>Hű pártfogóm, Ő mindenem,<br/>nagy szeretettel véd engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Krisztusban, ki gyermek lett,<br/>Isten a földön megjelent.<br/>Úgy jött ide, mint ajándék,<br/>menteni jött, de Őt verték.<br/>Míg értünk halt a kereszten,<br/>kiengesztelte az embert.<br/>A bűnöm mind Őrajta volt,<br/>így nekem életet adott.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Míg teste sírban nyugodott,<br/>gondolták a fény halott.<br/>De harmadnap feljött a Nap,<br/>Krisztus a sírból feltámadt.<br/>Most már Övé a győzelem,<br/>megszabadult az életem.<br/>Én az Övé, Ő az enyém,<br/>áldozatának érdemén.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nincs több bűnvád, rémes halál,<br/>Krisztus bennem él most már,<br/>és bölcsőmtől a síromig<br/>Ővele eldőlt sorsom is.<br/>Sem nem pokol, sem emberek<br/>kezéből már ki nem vehet.<br/>Míg visszatér, és mennybe hív,<br/>nagy diadalban részesít.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Sem nem pokol, sem emberek<br/>kezéből már ki nem vehet.<br/>Míg visszatér, és mennybe hív,<br/>nagy diadalban részesít.</lines>
+    </verse>
+  </lyrics>
+</song>

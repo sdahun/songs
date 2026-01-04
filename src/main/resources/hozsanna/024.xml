@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Amikor úgy érzed</title>
+      <title lang="en">By Faith</title>
     </titles>
+    <authors>
+      <author type="music">Chris Rice</author>
+      <author type="music">Scott MacLeod</author>
+      <author type="words">Kim Boyce</author>
+      <author type="words">Denny Correll</author>
+    </authors>
     <verseOrder>v1 c1 v2 c1 e1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="24"/>

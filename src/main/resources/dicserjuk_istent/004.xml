@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-23T00:00:00">
+  <properties>
+    <titles>
+      <title>Áldás szálljon rád</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Julius André (1808-1880.)</author>
+      <author type="words">Fekete István (1947-)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjük Istent" entry="4"/>
+    </songbooks>
+    <themes>
+      <theme>A gyülekezet élete - keresztség</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldás szálljon rád,<br/>mit az Úr keze nyújtott néked!<br/>Igét vettél át,<br/>mert az Úr szája szólított meg téged.<br/>Végy erőt, áldjad őt!<br/>Lelke biztos oltalom.<br/>Végy erőt, áldjad őt!<br/>Szent Fia vezet minden úton.</lines>
+    </verse>
+  </lyrics>
+</song>

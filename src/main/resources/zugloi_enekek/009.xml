@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+    </titles>
+    <authors>
+      <author type="music">Michael W. Smith</author>
+    </authors>
+    <ccliNo>626713</ccliNo>
+    <verseOrder>v1 v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="9"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja! Halleluja!<br/>Neked hódolunk trónod előtt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja! Szent vagy, szent vagy,<br/>élő Isten, Mindenható!<br/>Nagy a Te neved! Nagy a Te neved!<br/>Isten Báránya!<br/>Szent vagy! Élő Isten, Mindenható!<br/>Nagy a Te neved! Nagy a Te neved!<br/>Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

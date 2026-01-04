@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2025-10-29T00:00:00">
+  <properties>
+    <titles>
+      <title>Adj, Uram, nékem szeretetet</title>
+    </titles>
+    <authors>
+      <author type="music">Graham Kendrick</author>
+      <author type="translation" lang="hu">Jobbágy István</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="13"/>
+    </songbooks>
+    <themes>
+      <theme>Szeretet</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Uram, nékem<br/>szeretetet,<br/>képmutatástól<br/>óvd szívemet;<br/>hadd örüljek mindig<br/>a más örömén,<br/>és hadd töltsön el részvét<br/>a más könnyén!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jóságos szívvel<br/>áldj meg, Uram,<br/>irgalom útját<br/>hadd járhassam:<br/>megbocsátni tudjak,<br/>ha bántalom ért,<br/>és lehessek így hálás<br/>irgalmadért!</lines>
+    </verse>
+  </lyrics>
+</song>
