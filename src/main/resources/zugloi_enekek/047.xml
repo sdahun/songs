@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hozzád száll jó Atyám</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="47"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád száll jó Atyám,<br/>hozzád száll most is hő imám.<br/>Szívemet fogadd el Jézusom,<br/>ez most egyetlen óhajom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szövetség legyen a szeretet,<br/>kössön össze most minden szívet.<br/>Hozzád száll bűnös gyenge hő imám,<br/>fogadd el kérlek most is jó Atyám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Köszönöm Jézusom<br/>azt, hogy szeretsz engem nagyon.<br/>Erős vár vagy nekem oltalom,<br/>bajban hordozol karodon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Védő pajzs vagy nekem,<br/>így már nem árthat senki sem.<br/>Jöjj hamar, várlak hű Jézusom,<br/>tudom, eljössz majd egy napon.</lines>
+    </verse>
+  </lyrics>
+</song>

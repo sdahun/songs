@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Igazságban, szentségben</title>
+      <title lang="en">I Will Offer Up My Life</title>
     </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+    <ccliNo>1083764</ccliNo>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="97"/>
@@ -14,7 +19,7 @@
       <lines>Igazságban, szentségben,<br/>életem átadom.<br/>Szerelmemnek olaját,<br/>s teljes hódolatom.<br/>Mindent átadok Neked,<br/>fogadd el Istenem,<br/>oltárodra hadd tegyem,<br/>itt van megtört szívem.</lines>
     </verse>
     <verse name="c1">
-      <lines>Jézus hű, jó barát,<br/>mondd mit adhatok?<br/>Szerető nagy Király<br/>vajon mit hozhatok?<br/>Mit mondhatnék Neked,<br/>miről szóljon dalom?<br/>Neved dicséretét hozom ajkaimon!<br/>Hálám elmondani minden szó szegény,<br/>hiszen oly nagy szeretettel<br/>tartozom Neked én!</lines>
+      <lines>Jézus hű, jó barát,<br/>mondd mit adhatok?<br/>Szerető nagy Király<br/>vajon mit hozhatok?<br/>Mit mondhatnék Neked,<br/>miről szóljon dalom?<br/>Neved dicséretét<br/>hozom ajkaimon!<br/>Hálám elmondani<br/>minden szó szegény,<br/>hiszen oly nagy szeretettel<br/>tartozom Neked én!</lines>
     </verse>
     <verse name="v2">
       <lines>Értem adtad életed,<br/>Tiéd vagyok ma már.<br/>Meghaltál a keresztfán,<br/>ez volt értem az ár.<br/>Ott győzted le bűneim,<br/>lemostad szégyenem,<br/>a mennybe ajtót nyitottál,<br/>és behívtál engem.</lines>

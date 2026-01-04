@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Hozzád száll az énekem</title>
+      <title lang="en">Lord, I Lift Your Name on High</title>
     </titles>
+    <authors>
+      <author type="music">Rick Founds</author>
+      <author type="words">Rick Founds</author>
+      <author type="translation" lang="hu">Simonfalvi Krisztián</author>
+    </authors>
+    <ccliNo>117947</ccliNo>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="95"/>

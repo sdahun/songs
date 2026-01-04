@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Hűséged végtelen</title>
+      <title lang="en">Great Is Thy Faithfulness</title>
     </titles>
+    <authors>
+      <author type="music">William Marion Runyan, 1923</author>
+      <author type="words">Thomas Obediah Chisholm, 1923</author>
+      <author type="translation" lang="hu">Gerzsenyi László</author>
+    </authors>
+    <ccliNo>18723</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="96"/>

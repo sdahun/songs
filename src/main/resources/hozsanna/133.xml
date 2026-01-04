@@ -3,10 +3,19 @@
   <properties>
     <titles>
       <title>Lásd Ő jön</title>
+      <title>Illés napjai</title>
+      <title lang="en">Days of Elijah</title>
     </titles>
+    <authors>
+      <author type="words">Robin Mark</author>
+      <author type="music">Robin Mark</author>
+    </authors>
+    <copyright>© 1996 Song Solutions Daybreak</copyright>
+    <ccliNo>1537904</ccliNo>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="133"/>
+      <songbook name="Zuglói énekek" entry="49"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -14,7 +23,7 @@
       <lines>Most Illés napjait éljük<br/>és hirdetjük az Úr szavát.<br/>Ma Mózes szolgád napja virradt újra<br/>és igazságod végre helyreáll.<br/>Bár e nap próbákkal terhelt,<br/>éhség van, sötét és harc,<br/>de hangunk kiáltja a pusztákon át:<br/>„Készítsétek el az Úr útját!”</lines>
     </verse>
     <verse name="c1">
-      <lines>Hát lásd Ő jön, fent a felhőkön,<br/>ragyog, mint a nap, ha a kürtök hangja szól.<br/>Dicsérd Őt, az ünnep éve van<br/>és a Sionról jön el a megváltó!</lines>
+      <lines>Hát lásd Ő jön,<br/>fent a felhőkön,<br/>ragyog, mint a nap,<br/>ha a kürtök hangja szól.<br/>Dicsérd Őt, az ünnep éve van<br/>és a Sionról jön el a megváltó!</lines>
     </verse>
     <verse name="v2">
       <lines>Ezékiel napjait éljük,<br/>a száraz csontra ismét hús kerül.<br/>Ma Dávid szolgád napját látjuk újra,<br/>a dicséretnek új templom épül.<br/>Új aratás napja jött el,<br/>a mezők már fehérlenek.<br/>És mi mint a szőlőskert munkásai,<br/>az Úr igéjét így hirdetjük ki:</lines>

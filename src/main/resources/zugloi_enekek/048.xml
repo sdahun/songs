@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hozsánna</title>
+      <title>Látom az élő Jézust</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="48"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Látom az élő Jézust,<br/>tűzfelhőben visszatér,<br/>és hódol majd<br/>a mindenség, Ő él.<br/>Látom örök kegyelmét<br/>elfedezni vétkeink.<br/>Megváltottak éneklik:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozsánna, hozsánna,<br/>jöjj megváltó Királyunk!<br/>Hozsánna, hozsánna,<br/>jöjj megváltó Királyunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látok egy nemzedéket,<br/>kik tudják mi az elhívás.<br/>Egy szent népet,<br/>mely hitben jár.<br/>Egy nép, mely minden harcát<br/>térden állva vívja meg.<br/>Ébredést kér és győztes lesz!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Teremts bennem új szívet,<br/>hadd lássam amit Te,<br/>nyisd meg szemeimet!<br/>Hadd szeressek úgy,<br/>mint Te szerettél!<br/>Fájjon az, mi Neked fáj,<br/>hogy elvégezzem azt, amire elhívtál,<br/>hogy készen álljak végül majd előtted.</lines>
+    </verse>
+  </lyrics>
+</song>
