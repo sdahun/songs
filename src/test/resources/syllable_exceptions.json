@@ -265,6 +265,8 @@
 
   "dicserem_neved_3/012.xml;v2;1",
 
+  "dicserem_neved_3/056.xml;v2;4",
+
   "dicserem_neved_4/006.xml;v2;3",
   "dicserem_neved_4/006.xml;v2;6",
 
@@ -672,7 +674,7 @@
 
   "szent_az_ur/007.xml;v2;3",
 
-  "szent_az_ur/009.xml;v2;5",
+  "szent_az_ur/009.xml;v2;10",
 
   "szent_az_ur/010.xml;v2;1",
 
@@ -684,7 +686,9 @@
   "szent_az_ur/012.xml;v2;1",
 
   "szent_az_ur/022.xml;v2;1",
-  "szent_az_ur/022.xml;v2;3",
+  "szent_az_ur/022.xml;v2;4",
+  "szent_az_ur/022.xml;v2;7",
+  "szent_az_ur/022.xml;v2;8",
 
   "szent_az_ur/026.xml;v2;2",
   "szent_az_ur/026.xml;v3;4",
@@ -822,6 +826,12 @@
   "zugloi_enekek/042.xml;v2;4",
   "zugloi_enekek/042.xml;v2;5",
   "zugloi_enekek/042.xml;v2;8",
-  "zugloi_enekek/042.xml;v2;9"
+  "zugloi_enekek/042.xml;v2;9",
 
+  "zugloi_enekek/045.xml;v2;3",
+  "zugloi_enekek/045.xml;v2;4",
+  "zugloi_enekek/045.xml;v3;2",
+  "zugloi_enekek/045.xml;v3;3",
+  "zugloi_enekek/045.xml;v3;4"
+  
 ]

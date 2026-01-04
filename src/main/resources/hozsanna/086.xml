@@ -3,18 +3,23 @@
   <properties>
     <titles>
       <title>Hálát adva áldja Istent</title>
+      <title>Méltó vagy, Uram</title>
+      <title lang="en">Thou Art Worthy</title>
     </titles>
-    <verseOrder>o1 o2</verseOrder>
+    <authors>
+      <author type="music">Pauline Michael Mills</author>
+      <author type="words">Bágyi Péter</author>
+    </authors>
+    <ccliNo>14789</ccliNo>
+    <verseOrder>v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="86"/>
+      <songbook name="Szent az Úr" entry="22"/>
     </songbooks>
   </properties>
   <lyrics>
-    <verse name="o1">
-      <lines>Hálát adva áldja Istent,<br/>áldja Istent, mi él.<br/>Róla zeng minden,<br/>mennyben és itt lenn,<br/>zengve az Ő szent nevét.</lines>
-    </verse>
-    <verse name="o2">
-      <lines>Az Úrhoz, az Úrhoz<br/>száll hála, dicséret.<br/>Mert Ő teremtő nagy Úr.<br/>Minden teremtmény<br/>adjon ma hálát,<br/>méltó erre az Úr.</lines>
+    <verse name="v1">
+      <lines>Hálát adva áldja Istent,<br/>áldja Istent, mi él.<br/>Róla zeng minden,<br/>mennyben és itt lenn,<br/>zengve az Ő szent nevét.<br/>Az Úrhoz, az Úrhoz<br/>száll hála, dicséret.<br/>Mert Ő teremtő nagy Úr.<br/>Minden teremtmény<br/>adjon ma hálát,<br/>méltó erre az Úr.</lines>
     </verse>
   </lyrics>
 </song>

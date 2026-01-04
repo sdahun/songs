@@ -4,11 +4,11 @@
     <titles>
       <title>Hívlak, Uram</title>
     </titles>
-    <verseOrder>v1 c1 b1 v1</verseOrder>
     <authors>
       <author type="music">Lakatos Péter</author>
       <author type="words">Lakatos Péter</author>
     </authors>
+    <verseOrder>v1 c1 b1 v1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="40"/>
       <songbook name="Hozsánna énekes" entry="93"/>
@@ -16,7 +16,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hívlak Uram, várlak Uram,<br/>Benned bízom, Benned reménykedem.<br/>Hívlak Uram, várlak Uram,<br/>légy segítségem, légy menedékem!</lines>
+      <lines>Hívlak Uram,<br/>várlak Uram,<br/>Benned bízom,<br/>Benned reménykedem.<br/>Hívlak Uram,<br/>várlak Uram,<br/>légy segítségem,<br/>légy menedékem!</lines>
     </verse>
     <verse name="c1">
       <lines>Mert Te szóltál,<br/>és előállt a földkerekség.<br/>Mert Te szóltál,<br/>és csillagok lettek az ég tengerén.<br/>Mert Te szóltál,<br/>és víz fakadt a kősziklából.<br/>Mert Te szóltál,<br/>és megindult a föld a szavadtól.</lines>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hallelu, hallelu</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="44"/>
+      <songbook name="Erőm és énekem az Úr" entry="49"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelu, hallelu, hallelu,<br/>halleluja, áldott az Úr!<br/>Hallelu, hallelu, hallelu,<br/>halleluja, áldott az Úr!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott az Úr, halleluja!<br/>Áldott az Úr, halleluja!<br/>Áldott az Úr, halleluja!<br/>Áldott az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

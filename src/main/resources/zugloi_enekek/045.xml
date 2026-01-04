@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hívlak Jézus</title>
+      <title lang="en">I Speak Jesus</title>
+    </titles>
+    <authors>
+      <author>Here Be Lions</author>
+      <author>Abby Benton</author>
+      <author>Carlene Prince</author>
+      <author>Dustin Smith</author>
+      <author>Jesse Reeves</author>
+      <author>Kristen Dutton</author>
+      <author>Raina Pratt</author>
+      <author type="translation" lang="hu">Dobrocsi Gábor</author>
+    </authors>
+    <ccliNo>7136201</ccliNo>
+    <verseOrder>v1 v2 c1 v3 c1 b1 b1 b1 c1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hatalmas neved kimondom, Jézus,<br/>minden szív és gondolat felett,<br/>mert jelenlétedből<br/>békesség árad.<br/>Hívlak Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hatalmas neved kimondom, Jézus,<br/>minden sötét függőség felett,<br/>mert van remény<br/>és van teljes szabadság.<br/>Hívlak Jézus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A neved élet, a neved gyógyír,<br/>neved erő.<br/>Láncokat tör szét, szökik az árnyék<br/>fénye elől.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hatalmas neved kimondom, Jézus,<br/>a félelem és szorongás felett,<br/>a csüggedés vermében<br/>szenvedőkért.<br/>Hívlak Jézus!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A hegytetőkről zengjen,<br/>az utcán hirdessék!<br/>A sötétségen át kiáltsuk<br/>Jézus nagy nevét!<br/>Az egész családomra<br/>ragyogjon fel e név: Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

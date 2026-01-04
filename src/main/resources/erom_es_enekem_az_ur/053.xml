@@ -3,13 +3,15 @@
   <properties>
     <titles>
       <title>Hinni taníts, Uram</title>
+      <title lang="en">Teach Me Thy Way, O Lord</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-      <author type="music">M. Ramsey</author>
-      <author type="words">M. Ramsey, 1905</author>
+      <author type="music">Benjamin Mansell Ramsey</author>
+      <author type="words">Benjamin Mansell Ramsey</author>
       <author type="translation" lang="hu">Thaly Loránd</author>
     </authors>
+    <ccliNo>3181258</ccliNo>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Erőm és énekem az Úr" entry="53"/>
       <songbook name="Hozsánna énekes" entry="90"/>

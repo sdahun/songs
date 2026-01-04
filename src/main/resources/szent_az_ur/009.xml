@@ -3,23 +3,25 @@
   <properties>
     <titles>
       <title>Hatalmas, nagy Isten</title>
+      <title lang="en">Come And Sing Praises</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author type="music">Greg Massanari</author>
       <author type="words">Morris Chapman</author>
       <author type="translation" lang="hu">Szilvási Ágota</author>
     </authors>
+    <ccliNo>38277</ccliNo>
+    <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Szent az Úr" entry="9"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hatalmas, nagy Isten, mindenható.<br/>Csak egyedül Te vagy erős és jó.<br/>Szereteted árad az emberekre szét;<br/>áldásaid érzi minden szív, ki Téged hív.<br/>Szóljon az ének Szent, nagy nevének!<br/>Szóljon dicséret, hogy Jézus az Úr!<br/>Hódolva zengjed meghajtva térded!<br/>Szóljon az ének, hogy Jézus az Úr!</lines>
+      <lines>Hatalmas, nagy Isten,<br/>mindenható.<br/>Csak egyedül Te vagy<br/>erős és jó.<br/>Szereteted árad<br/>az emberekre szét;<br/>áldásaid érzi minden szív,<br/>ki Téged hív.<br/>Szóljon az ének<br/>Szent, nagy nevének!<br/>Szóljon dicséret,<br/>hogy Jézus az Úr!<br/>Hódolva zengjed<br/>meghajtva térded!<br/>Szóljon az ének,<br/>hogy Jézus az Úr!</lines>
     </verse>
     <verse name="v2">
-      <lines>Királyok Királya, Urak Ura.<br/>Dicséret és hála, Isten Fia.<br/>Szereteted árad az emberekre szét;<br/>áldásaid érzi minden szív, ki Téged hív.<br/>Meghalt teérted; már van örök élted!<br/>Zengjen dicséret, mert Jézus az Úr!<br/>Jöjj és imádd Őt meghajtva térded!<br/>Szóljon az ének, mert Jézus az Úr!</lines>
+      <lines>Királyok Királya,<br/>Urak Ura.<br/>Dicséret és hála,<br/>Isten Fia.<br/>Szereteted árad<br/>az emberekre szét;<br/>áldásaid érzi minden szív,<br/>ki Téged hív.<br/>Meghalt teérted;<br/>már van örök élted!<br/>Zengjen dicséret,<br/>mert Jézus az Úr!<br/>Jöjj és imádd Őt<br/>meghajtva térded!<br/>Szóljon az ének,<br/>mert Jézus az Úr!</lines>
     </verse>
   </lyrics>
 </song>

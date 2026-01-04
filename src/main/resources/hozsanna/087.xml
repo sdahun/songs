@@ -4,6 +4,10 @@
     <titles>
       <title>Halleluja, zengve zeng hálaének</title>
     </titles>
+    <authors>
+      <author type="music">David Peacock</author>
+      <author type="translation" lang="hu">Déri Balázs, 1984</author>
+    </authors>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="87"/>

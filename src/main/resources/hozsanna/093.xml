@@ -4,20 +4,24 @@
     <titles>
       <title>Hívlak, Uram, várlak, Uram</title>
     </titles>
-    <verseOrder>o1 o2 o3</verseOrder>
+    <authors>
+      <author type="music">Lakatos Péter</author>
+      <author type="words">Lakatos Péter</author>
+    </authors>
+    <verseOrder>v1 c1 b1 v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="93"/>
       <songbook name="Adj zengő éneket!" entry="40"/>
     </songbooks>
   </properties>
   <lyrics>
-    <verse name="o1">
-      <lines>Hívlak Uram, várlak, Uram,<br/>Benned bízom, Benned reménykedem.<br/>Hívlak Uram, várlak Uram,<br/>légy segítségem, légy menedékem!</lines>
+    <verse name="v1">
+      <lines>Hívlak Uram,<br/>várlak, Uram,<br/>Benned bízom,<br/>Benned reménykedem.<br/>Hívlak Uram,<br/>várlak Uram,<br/>légy segítségem,<br/>légy menedékem!</lines>
     </verse>
-    <verse name="o2">
+    <verse name="c1">
       <lines>Mert Te szóltál<br/>és előállt a földkerekség,<br/>mert Te szóltál<br/>és csillagok lettek az ég tengerén,<br/>mert Te szóltál<br/>és víz fakadt a kősziklából,<br/>mert Te szóltál<br/>és megindult a föld a szavadtól.</lines>
     </verse>
-    <verse name="o3">
+    <verse name="b1">
       <lines>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el Uram,<br/>és cselekedjél!<br/>Benned bízom én,<br/>Terád vágyom én,<br/>jöjj el Uram,<br/>és cselekedjél!</lines>
     </verse>
   </lyrics>

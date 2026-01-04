@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hintsd szerteszét</title>
+    </titles>
+    <authors>
+        <author type="music">Amerikai dallam</author>
+        <author type="words">Gerzsenyi László</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="365"/>
+      <songbook name="Hozsánna énekes" entry="91"/>
+      <songbook name="Hozsánna énekes" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hintsd szerteszét<br/>a szeretet kincseit,<br/>élj másokért,<br/>az Úr téged így tanít.<br/>Ha sóvá lesz az életed,<br/>úgy ízesül a világ,<br/>megérzik majd az emberek<br/>az Úr Jézus irgalmát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézusra nézz,<br/>Ő legyen a példakép!<br/>Tégy jót, szeress,<br/>így mutasd be életét!<br/>A szolgálathoz új erőt<br/>te mindig csak tőle várj,<br/>az úrtól vedd az égi fényt,<br/>és ragyogj, mint napsugár!</lines>
+    </verse>
+  </lyrics>
+</song>

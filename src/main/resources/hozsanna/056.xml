@@ -4,9 +4,15 @@
     <titles>
       <title>Élj másokért!</title>
     </titles>
+    <authors>
+        <author type="music">Amerikai dallam</author>
+        <author type="words">Gerzsenyi László</author>
+    </authors>
     <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="56"/>
+      <songbook name="Baptista gyülekezeti énekeskönyv" entry="365"/>
+      <songbook name="Hozsánna énekes" entry="91"/>
     </songbooks>
   </properties>
   <lyrics>

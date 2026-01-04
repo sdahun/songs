@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Hozzád jövök, Uram</title>
+    </titles>
+    <authors>
+      <author>Fóris Rita</author>
+    </authors>
+    <verseOrder>v1 c1 v1 c1 c2 b1 b1 c1 c2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az, aki Benned bízik,<br/>soha meg nem szégyenül.<br/>Az, aki Hozzád hittel lép,<br/>minden bajból megmenekül.<br/>Jézus, Te vagy a jó pásztor,<br/>aki életet adtál halálod árán.<br/>Jézus, Te vagy a hűséges társ,<br/>aki éjjel-nappal mindig vársz rám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozzád jövök, Uram,<br/>hozzád emelem tekintetem.<br/>Mert nincsen más, kiben bízhatnék,<br/>csak Te vagy a Messiás.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hozzád jövök, Uram,<br/>Hozzád emelem fel kezeimet.<br/>Mert szent vagy, Mindenható,<br/>csak Te vagy a Megváltó.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hát engedd hangod hallanom<br/>és engedd arcod látnom.<br/>Ahogy Téged csodállak,<br/>betöltesz élettel.</lines>
+    </verse>
+  </lyrics>
+</song>

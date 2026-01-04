@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Halleluja, Jézust dicsérd</title>
+    </titles>
+    <authors>
+      <author>A. Toledano</author>
+      <author>Y. Tehor-Lev</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c2 e1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja, Jézust dicsérd!<br/>Halleluja, mindörökké él!<br/>Csak Ő néki zengnek a habok,<br/>a szél, a fák, a csillagok:<br/>minden élő Néki<br/>zengi énekét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja Istennek,<br/>egyedül csak az Ő nevének!<br/>Minden lélek dicsérje Őt,<br/>énekelj az Úrnak te egész föld!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halleluja, Jézust dicsérd!<br/>Halleluja, mindörökké él!<br/>Ő az első és az utolsó,<br/>Ő a kezdet és a vég:<br/>Egyedül csak Övé<br/>minden dicsőség!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Halleluja Istennek,<br/>Halleluja az Ő nevének!<br/>Trónja elé száll ez a dal,<br/>velünk zengi az égi kar: Halleluja!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Halleluja,<br/>halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

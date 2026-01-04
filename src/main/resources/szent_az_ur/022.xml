@@ -3,23 +3,27 @@
   <properties>
     <titles>
       <title>Méltó vagy, Uram</title>
+      <title>Hálát adva áldja Istent</title>
+      <title lang="en">Thou Art Worthy</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
     <authors>
-      <author type="music">Pauline Mills</author>
+      <author type="music">Pauline Michael Mills</author>
       <author type="words">Szilvási Ágota</author>
       <author type="words">Bágyi Péter</author>
     </authors>
+    <ccliNo>14789</ccliNo>
+    <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Szent az Úr" entry="22"/>
+      <songbook name="Hozsánna énekes" entry="86"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Méltó vagy, Uram, méltó vagy, Uram!<br/>Te vagy méltó Uram.<br/>Méltó vagy, hogy végy tisztességet,<br/>dicsőséget és erőt.<br/>Mert alkotója vagy Te minden dolognak,<br/>teremtő nagy Isten vagy.<br/>Minden teremtmény adjon ma hálát.<br/>Méltó erre az Úr.</lines>
+      <lines>Méltó vagy, Uram, méltó vagy, Uram!<br/>Te vagy méltó, Uram.<br/>Méltó vagy, hogy végy<br/>tisztességet,<br/>dicsőséget és erőt.<br/><br/>Mert alkotója vagy Te<br/>minden dolognak,<br/>teremtő nagy Isten vagy.<br/><br/>Minden teremtmény<br/>adjon ma hálát.<br/>Méltó erre az Úr.</lines>
     </verse>
     <verse name="v2">
-      <lines>Hálát adva áldja Istent,<br/>áldja Istent mi él.<br/>Róla zeng minden, mennyben és itt lenn,<br/>zengve az Ő szent nevét.<br/>Az Úrhoz, az Úrhoz száll hála, dicséret,<br/>mert Ő teremtő nagy Úr.<br/>Minden teremtmény adjon ma hálát,<br/>méltó erre az Úr.</lines>
+      <lines>Hálát adva áldja Istent,<br/>áldja Istent, mi él.<br/>Róla zeng minden,<br/>mennyben és itt lenn,<br/>zengve az Ő szent nevét.<br/><br/>Az Úrhoz, az Úrhoz<br/>száll hála, dicséret,<br/>mert Ő teremtő nagy Úr.<br/><br/>Minden teremtmény<br/>adjon ma hálát,<br/>méltó erre az Úr.</lines>
     </verse>
   </lyrics>
 </song>
