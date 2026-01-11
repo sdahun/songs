@@ -3,11 +3,15 @@
   <properties>
     <titles>
       <title>Jézus neve fenséges!</title>
-      <title>Jézus name above all names</title>
+      <title>Jézus, Name Above All Names</title>
     </titles>
-    <copyright>1974, 1978 Universal Music - Brentwood Benson Publishing</copyright>
-    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="music">Naida Hearn</author>
+      <author type="words">Naida Hearn</author>
+    </authors>
+    <copyright>© 1974, 1978 Scripture In Song</copyright>
     <ccliNo>21291</ccliNo>
+    <verseOrder>v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="109"/>
     </songbooks>

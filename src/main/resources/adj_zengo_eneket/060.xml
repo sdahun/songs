@@ -3,13 +3,13 @@
   <properties>
     <titles>
       <title>Jézus, neved oly csodálatos</title>
-      <title>The Sweetest Name of All</title>
+      <title lang="en">The Sweetest Name of All</title>
     </titles>
-    <verseOrder>v1 v2 v3 e1</verseOrder>
     <authors>
       <author type="music">Tom Coomes</author>
       <author type="words">Tom Coomes</author>
     </authors>
+    <verseOrder>v1 v2 v3 e1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="60"/>
       <songbook name="Hozsánna énekes" entry="110"/>

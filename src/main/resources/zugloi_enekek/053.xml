@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus szeret minden kicsi gyereket</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="53"/>
+      <songbook name="Dicsérem Neved 2" entry="103"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szeret minden kicsi gyereket,<br/>Jézus szeret minden kicsi gyereket,<br/>Jézus szeret minden kicsi gyereket,<br/>minden kicsi gyerek jöhet Hozzá!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy kicsi, két kicsi,<br/>három kicsi gyereket,<br/>négy kicsi, öt kicsi,<br/>hat kicsi gyereket,<br/>hét kicsi, nyolc kicsi,<br/>kilenc kicsi gyereket,<br/>minden kicsi<br/>gyerek jöhet Hozzá!</lines>
+    </verse>
+  </lyrics>
+</song>

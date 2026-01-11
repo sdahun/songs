@@ -3,10 +3,18 @@
   <properties>
     <titles>
       <title>Jézus, hű Megváltó</title>
+      <title lang="en">There is a Redeemer</title>
     </titles>
+    <authors>
+      <author type="music">Melody Green</author>
+      <author type="words">Melody Green</author>
+      <author type="translation" lang="hu">Kulcsár Tibor</author>
+    </authors>
+    <ccliNo>11483</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="107"/>
+      <songbook name="Erőm és énekem az Úr" entry="72"/>
     </songbooks>
   </properties>
   <lyrics>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jábec ima</title>
+    </titles>
+    <authors>
+      <author type="music">Révész Dániel</author>
+      <author type="words">Révész Dániel</author>
+    </authors>
+    <verseOrder>v1 c1 v1 v1 c1 c1 v1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bárcsak nagyon megáldanál,<br/>és kiszélesítenéd határaim!<br/>Bárcsak nagyon megáldanál,<br/>és kiszélesítenéd határaim!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Velem lennél,<br/>megóvnál minden bajtól,<br/>velem lennél,<br/>megóvnál a fájdalomtól,<br/>velem lennél.</lines>
+    </verse>
+  </lyrics>
+</song>

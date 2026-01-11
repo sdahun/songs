@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézus a király</title>
+    </titles>
+    <authors>
+      <author>RANDOM</author>
+    </authors>
+    <verseOrder>v1 c1 b2 c1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="50"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha sötétség vesz körül téged,<br/>Ne félj, van remény!<br/>Jézusban van örök élet,<br/>Ő az út, a fény!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldjad Őt teljes szívből,<br/>Hirdesd Nagy nevét!<br/>Megmentett a sötétből,<br/>Meghalt, hogy te élj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha nem tudod, hogy élet<br/>merre visz tovább,<br/>Hidd el, hogyha kéred,<br/>utat mutat, csak várj!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jézus a király, Ő az út, a fény!<br/>Jézus a király, meghalt, hogy te élj!</lines>
+    </verse>
+  </lyrics>
+</song>

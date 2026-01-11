@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jó Atyám, kitárom szívem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 1" entry="101"/>
+      <songbook name="Hozsánna énekes" entry="117"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó Atyám, kitárom szívem Teneked,<br/>úgy várom közelséged, Istenem.<br/>Jöjj a szívembe,<br/>töltsd be teljesen,<br/>adj új életet, Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Te vagy a kincsem, életem<br/>és Te oly kedves vagy énnekem.<br/>És én szeretlek,<br/>igen szeretlek,<br/>Uram, szeretlek, Téged!</lines>
+    </verse>
+  </lyrics>
+</song>

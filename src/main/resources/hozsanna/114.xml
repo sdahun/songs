@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Jézus visszajön</title>
+      <title lang="en">Soon And Very Soon</title>
     </titles>
+    <authors>
+      <author type="music">Andraé Crouch</author>
+      <author type="words">Andraé Crouch</author>
+      <author type="translation" lang="hu">Havár Sándorné</author>
+    </authors>
+    <ccliNo>11249</ccliNo>
     <verseOrder>v1 v2 v3 v1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="114"/>

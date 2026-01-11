@@ -3,14 +3,17 @@
   <properties>
     <titles>
       <title>Istenem, nem értem</title>
-      <title>Father God, I wonder</title>
+      <title lang="en">Father God, I wonder</title>
+      <title lang="en">I Will Sing Your Praises</title>
     </titles>
-    <verseOrder>v1 c1</verseOrder>
     <authors>
       <author type="music">Ian Smale</author>
-      <author type="words">Ishmael</author>
+      <author type="words">Ian Smale</author>
       <author type="translation" lang="hu">Simonfalvi Zsolt</author>
     </authors>
+    <copyright>© 1984 Thankyou Music</copyright>
+    <ccliNo>58202</ccliNo>
+    <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="54"/>
       <songbook name="Erőm és énekem az Úr" entry="65"/>

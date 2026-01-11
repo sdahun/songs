@@ -5,22 +5,23 @@
       <title>Jézus, véred megtisztít</title>
       <title>It’s Your Blood</title>
     </titles>
-    <verseOrder>v1 v1 e1</verseOrder>
     <authors>
       <author type="music">Michael Christ</author>
       <author type="words">Michael Christ</author>
       <author type="translation" lang="hu">Harkai Tamás</author>
     </authors>
+    <ccliNo>59287</ccliNo>
+    <verseOrder>v1 v1 e1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="65"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jézus, véred megtisztít,<br/>véred ad új életet,<br/>véred tesz ma szabaddá,<br/>értem folyt e drága vér!<br/>Így a lelkem fehér, mint a hó, mint a hó,<br/>Úr Jézus, Te megölt Bárány.</lines>
+      <lines>Jézus, véred megtisztít,<br/>véred ad új életet,<br/>véred tesz ma szabaddá,<br/>értem folyt e drága vér!<br/>Így a lelkem<br/>fehér, mint a hó, mint a hó,<br/>Úr Jézus,<br/>Te megölt Bárány.</lines>
     </verse>
     <verse name="e1">
-      <lines>Úr Jézus, Te megölt Bárány.</lines>
+      <lines>Úr Jézus,<br/>Te megölt Bárány.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Jézusom, áldozatodra gondolok</title>
+      <title lang="en">Once Again</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redmann</author>
+      <author type="music">Matt Redmann</author>
+      <author type="translation" lang="hu">Marika Payne</author>
+    </authors>
+    <copyright>© 1995 Thankyou Music</copyright>
+    <ccliNo>1564362</ccliNo>
+    <verseOrder>v1 c1 v2 c1 e1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 4" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusom,<br/>áldozatodra gondolok,<br/>meghaltál értem<br/>a Golgotán.<br/>Te mindig vársz,<br/>hátat soha nem fordítanál,<br/>most újra itt vagyok.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Drága véred értem folyt,<br/>ott fent, a keresztfán,<br/>alázattal térdre hullok<br/>kegyelmed láttán.<br/>Most újra hálás szívem,<br/>újra leteszem életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most magasra<br/>emelem fel szent neved,<br/>hisz csak Te vagy méltó,<br/>megváltó Úr.<br/>Csodálom<br/>megmentő kegyelmedet<br/>és imádom szent neved.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Köszönöm Neked, köszönöm Neked,<br/>köszönöm Neked a keresztet!</lines>
+    </verse>
+  </lyrics>
+</song>

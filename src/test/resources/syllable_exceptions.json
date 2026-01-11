@@ -41,7 +41,7 @@
   "adj_zengo_eneket/050.xml;v2;1",
   "adj_zengo_eneket/050.xml;v2;3",
 
-  "adj_zengo_eneket/058.xml;v2;3",
+  "adj_zengo_eneket/058.xml;v2;4",
 
   "adj_zengo_eneket/059.xml;v3;2",
 
@@ -181,6 +181,10 @@
 
   "dicserem_neved_1/015.xml;v3;1",
 
+  "dicserem_neved_1/101.xml;v2;1",
+  "dicserem_neved_1/101.xml;v2;2",
+  "dicserem_neved_1/101.xml;v2;5",
+
   "dicserem_neved_1/183.xml;v2;4",
 
 
@@ -269,6 +273,13 @@
 
   "dicserem_neved_4/006.xml;v2;3",
   "dicserem_neved_4/006.xml;v2;6",
+
+  "dicserem_neved_4/094.xml;v2;1",
+  "dicserem_neved_4/094.xml;v2;2",
+  "dicserem_neved_4/094.xml;v2;3",
+  "dicserem_neved_4/094.xml;v2;5",
+  "dicserem_neved_4/094.xml;v2;6",
+  "dicserem_neved_4/094.xml;v2;7",
 
   "dicserem_neved_4/174.xml;v2;2",
 
@@ -474,6 +485,8 @@
   "hozsanna/103.xml;v2;2",
   "hozsanna/103.xml;v2;3",
   "hozsanna/103.xml;v2;4",
+  "hozsanna/103.xml;v2;5",
+  "hozsanna/103.xml;v2;6",
 
   "hozsanna/106.xml;v2;1",
   "hozsanna/106.xml;v2;3",
@@ -847,5 +860,10 @@
   "zugloi_enekek/050.xml;v2;2",
   "zugloi_enekek/050.xml;v2;4",
   "zugloi_enekek/050.xml;v2;5",
-  "zugloi_enekek/050.xml;v2;6"
+  "zugloi_enekek/050.xml;v2;6",
+
+  "zugloi_enekek/052.xml;v2;1",
+  "zugloi_enekek/052.xml;v2;3",
+  "zugloi_enekek/052.xml;v2;4"
+
 ]

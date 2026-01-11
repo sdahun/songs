@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Jézus, tiszta lényed nézve</title>
+      <title lang="en">Shine Jesus Shine</title>
     </titles>
+    <authors>
+      <author type="music">Graham Kendrick</author>
+      <author type="words">Graham Kendrick</author>
+      <author type="translation" lang="hu">Mikes Attila</author>
+    </authors>
+    <ccliNo>30426</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="112"/>
@@ -14,7 +21,7 @@
       <lines>Jézus, tiszta lényed nézve,<br/>lelkünk vágyik az égi fényre.<br/>Jöjj a szívünket átadjuk néked,<br/>töltsön el öröm, mennyei béke.</lines>
     </verse>
     <verse name="c1">
-      <lines>Világíts! Világíts! Jézus ragyogj,<br/>töltsd be szent, égi fénnyel éltünk.<br/>Szívünk tüzét, kérünk, gerjeszd fel.<br/>Hadd jusson el minden néphez<br/>e nagy kegyelem.<br/>Küldd szent tüzed,<br/>mindenhol fény legyen!</lines>
+      <lines>Világíts! Világíts! Jézus ragyogj,<br/>töltsd be szent, égi fénnyel éltünk.<br/>Szívünk tüzét, kérünk, gerjeszd fel.<br/>Hadd jusson el<br/>minden néphez e nagy kegyelem.<br/>Küldd szent tüzed,<br/>mindenhol fény legyen!</lines>
     </verse>
     <verse name="v2">
       <lines>Miért kell, ó, az éjben járnunk,<br/>célt, reményt vajon hol találunk?<br/>Nem kell sírnod, nem kell félned,<br/>Jézus bűnné lett értem és érted.</lines>
