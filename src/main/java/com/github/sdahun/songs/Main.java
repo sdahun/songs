@@ -7,6 +7,7 @@ import org.openlyrics.jlyrics.hymnbook.Hymnbooks;
 import org.openlyrics.jlyrics.masswriter.IMassWriter;
 import org.openlyrics.jlyrics.reader.ILyricsReader;
 import org.openlyrics.jlyrics.reader.ReaderType;
+import org.openlyrics.jlyrics.song.properties.Author;
 import org.openlyrics.jlyrics.transform.SongTransformer;
 import org.openlyrics.jlyrics.transform.SongTransformerConfig;
 import org.openlyrics.jlyrics.writer.*;
@@ -85,6 +86,13 @@ public class Main {
                             String path = String.format("%s/%03d.xml", books.get(i).getFolder(), j);
                             try (InputStream is = Main.class.getClassLoader().getResourceAsStream(path)) {
                                 Song song = reader.read(is);
+
+                                //add dash author if output is openlp and there's no author because "Author Unknown" is ugly
+                                if (OutputType.values()[config.getWriterFormat()].equals(OutputType.OPENLP) &&
+                                  song.getProperties().getAuthors().isEmpty()) {
+                                    song.getProperties().getAuthors().add(new Author().setName("-"));
+                                }
+
                                 massWriter.add(transformer.transform(song));
                             } catch (Exception e) {
                                 //if missing, skip
