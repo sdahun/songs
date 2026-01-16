@@ -3,10 +3,18 @@
   <properties>
     <titles>
       <title>Jöjj, itt az idő, hogy dicsérd</title>
+      <title lang="en">Come, Now Is The Time To Worship</title>
     </titles>
+    <authors>
+      <author type="words">Brian Doerksen</author>
+      <author type="music">Brian Doerksen</author>
+    </authors>
+    <copyright>© 1998 Vineyard Songs</copyright>
+    <ccliNo>2430948</ccliNo>
     <verseOrder>v1 v1 c1 v1 v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="122"/>
+      <songbook name="Dicsérem Neved 3" entry="93"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -14,7 +22,7 @@
       <lines>Jöjj, itt az idő, hogy dicsérd!<br/>Jöjj kapudat tárd az Úr felé!<br/>Jöjj, úgy, ahogy vagy és dicsérd!<br/>Jöjj, menjünk együtt az Úr felé, jöjj!</lines>
     </verse>
     <verse name="c1">
-      <lines>Egyszer minden nyelv megvallja, hogy Ő az Úr<br/>és mindenki térdet hajt!<br/>Megtalálja a legnagyobb kincset,<br/>ki Őt választja ma!</lines>
+      <lines>Egyszer minden nyelv megvallja,<br/>hogy Ő az Úr<br/>és mindenki térdet hajt!<br/><br/>Megtalálja a legnagyobb kincset,<br/>ki Őt választja ma!</lines>
     </verse>
   </lyrics>
 </song>

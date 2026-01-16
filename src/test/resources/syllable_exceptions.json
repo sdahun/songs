@@ -522,14 +522,14 @@
   "hozsanna/129.xml;v2;2",
 
   "hozsanna/130.xml;v2;1",
-  "hozsanna/130.xml;v2;2",
   "hozsanna/130.xml;v2;3",
+  "hozsanna/130.xml;v2;5",
   "hozsanna/130.xml;v3;1",
-  "hozsanna/130.xml;v3;2",
   "hozsanna/130.xml;v3;3",
+  "hozsanna/130.xml;v3;5",
   "hozsanna/130.xml;v4;1",
-  "hozsanna/130.xml;v4;2",
   "hozsanna/130.xml;v4;3",
+  "hozsanna/130.xml;v4;5",
 
   "hozsanna/133.xml;v2;1",
   "hozsanna/133.xml;v2;2",
@@ -864,6 +864,20 @@
 
   "zugloi_enekek/052.xml;v2;1",
   "zugloi_enekek/052.xml;v2;3",
-  "zugloi_enekek/052.xml;v2;4"
+  "zugloi_enekek/052.xml;v2;4",
+
+  "zugloi_enekek/057.xml;v2;1",
+  "zugloi_enekek/057.xml;v2;2",
+  "zugloi_enekek/057.xml;v2;4",
+  "zugloi_enekek/057.xml;v2;5",
+  "zugloi_enekek/057.xml;v2;6",
+
+  "zugloi_enekek/058.xml;v2;1",
+  "zugloi_enekek/058.xml;v2;2",
+  "zugloi_enekek/058.xml;v2;3",
+  "zugloi_enekek/058.xml;v2;4",
+  "zugloi_enekek/058.xml;v2;5",
+  "zugloi_enekek/058.xml;v2;6",
+  "zugloi_enekek/058.xml;v2;8"
 
 ]

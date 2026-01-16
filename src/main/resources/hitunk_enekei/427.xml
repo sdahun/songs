@@ -4,6 +4,11 @@
     <titles>
       <title>Jövel az élet vizéhez</title>
     </titles>
+    <authors>
+      <author type="music">G. C. Stebbins, 1883.</author>
+      <author type="words">F. Crosby, 1876.</author>
+      <author type="translation" lang="hu">Sréter F.</author>
+    </authors>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="427"/>

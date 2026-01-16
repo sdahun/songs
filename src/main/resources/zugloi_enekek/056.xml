@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kegyelemből léphetünk be</title>
+      <title lang="en">Only By Grace</title>
+    </titles>
+    <authors>
+      <author type="music">Gerrit Gustafson</author>
+      <author type="words">Gerrit Gustafson</author>
+      <author type="translation" lang="hu">Mézes Áron</author>
+    </authors>
+    <ccliNo>190579</ccliNo>
+    <verseOrder>v1 c1 v1 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="56"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelemből léphetünk be<br/>szent jelenlétedbe,<br/>nem saját érdemeinkből,<br/>csak Jézus vérével.<br/>Jelenlétedbe hívsz most,<br/>hívsz ó Uram,<br/>kegyelem által vezérelsz,<br/>jövök Hozzád, Uram.<br/>Jövök Hozzád, Uram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden törvényszegésünket<br/>elvetted,<br/>s a Bárány drága,<br/>szent vérével mostál meg.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,16 +3,16 @@
   <properties>
     <titles>
       <title>Kenyered és borod</title>
-      <title>The Last Supper</title>
+      <title lang="en">The Last Supper</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
     <authors>
       <author type="music">Andrew Lloyd Webber</author>
       <author type="music">(Jézus Krisztus Szupersztár c. musicalből)</author>
       <author type="words">Tim Rice</author>
-      <author type="words">Gáncs Márti</author>
-      <author type="words">Szládek István</author>
+      <author type="translation" lang="hu">Gáncs Márti</author>
+      <author type="translation" lang="hu">Szládek István</author>
     </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="70"/>
       <songbook name="Hozsánna énekes" entry="127"/>

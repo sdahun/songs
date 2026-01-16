@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Karjaid közt</title>
+      <title lang="en">Boldly I approach</title>
+    </titles>
+    <authors>
+      <author type="music">Rend Collective</author>
+      <author type="translation" lang="hu">Hunyadi Tamás</author>
+    </authors>
+    <ccliNo>7014655</ccliNo>
+    <verseOrder>v1 v2 c1 v3 c1 b1 b1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="55"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hogy bízhattál rám oly kincset,<br/>mit angyalok sem kapnak meg?<br/>Féltőn hívtál, itt állok hát<br/>Isten királyi trónjánál.<br/>És int felém két sebzett kéz –<br/>a Megváltó karjába zár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha szívem vádlás döfné át,<br/>ha Sátán bűnömmel kísért,<br/>egy szó és gyászom szétrebben –<br/>az Úr van itt, az egyetlen.<br/>Én áldom Őt, ki küzd és győz –<br/>biztos bástya lelkem várán.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Itt állok most trónodnál,<br/>nincs több bűn, megváltottál!<br/>Jézus vérén át<br/>bátran lépek Hozzád,<br/>szent karjaid közt otthon vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten Fiát, Jézust látom,<br/>meghalt értem, hogy megváltson.<br/>Ártatlan, bűntelen szentség,<br/>szépség, mit szem nem látott még.<br/>Száz és száz szó, száz és száz dal<br/>nem írhatja le fenségét.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szálljon fel hála és imádat,<br/>szívünkben elmos minden vádat.<br/>Ó áldjuk Őt, áldjuk azt,<br/>ki vérét adta bűnünkért!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Szent karjaid közt otthon vár.</lines>
+    </verse>
+  </lyrics>
+</song>

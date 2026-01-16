@@ -3,7 +3,15 @@
   <properties>
     <titles>
       <title>Jöjj és ünnepelj</title>
+      <title lang="en">I Will Celebrate</title>
     </titles>
+    <authors>
+      <author type="words">Rita Baloche</author>
+      <author type="music">Rita Baloche</author>
+      <author type="translation" lang="hu">Vámos Viktória</author>
+    </authors>
+    <copyright>© 1990 Universal Music - Brentwood Benson Publishing</copyright>
+    <ccliNo>443123</ccliNo>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="121"/>

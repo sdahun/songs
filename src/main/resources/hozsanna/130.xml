@@ -3,6 +3,7 @@
   <properties>
     <titles>
       <title>Kicsiny kis fényemmel</title>
+      <title lang="en">This Little Light Of Mine</title>
     </titles>
     <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
@@ -11,16 +12,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kicsiny kis fényemmel világítani fogok!<br/>Kicsiny kis fényemmel világítani fogok!<br/>Kicsiny kis fényemmel világítani fogok!<br/>Áldom Őt, mindennap és mindenhol.</lines>
+      <lines>Kicsiny kis fényemmel<br/>világítani fogok!<br/>Kicsiny kis fényemmel<br/>világítani fogok!<br/>Kicsiny kis fényemmel<br/>világítani fogok!<br/>Áldom Őt,<br/>mindennap és mindenhol.</lines>
     </verse>
     <verse name="v2">
-      <lines>Elrejtsem-e fényemet, (nem), világítani fogok!<br/>Elrejtsem-e fényemet, (nem), világítani fogok!<br/>Elrejtsem-e fényemet, (nem), világítani fogok!<br/>Áldom Őt, mindennap és mindenhol.</lines>
+      <lines>Elrejtsem-e fényemet, (nem),<br/>világítani fogok!<br/>Elrejtsem-e fényemet, (nem),<br/>világítani fogok!<br/>Elrejtsem-e fényemet, (nem),<br/>világítani fogok!<br/>Áldom Őt,<br/>mindennap és mindenhol.</lines>
     </verse>
     <verse name="v3">
-      <lines>Sátán sem állíthat meg, (nem), világítani fogok!<br/>Sátán sem állíthat meg, (nem), világítani fogok!<br/>Sátán sem állíthat meg, (nem), világítani fogok!<br/>Áldom Őt, mindennap és mindenhol.</lines>
+      <lines>Sátán sem állíthat meg, (nem),<br/>világítani fogok!<br/>Sátán sem állíthat meg, (nem),<br/>világítani fogok!<br/>Sátán sem állíthat meg, (nem),<br/>világítani fogok!<br/>Áldom Őt,<br/>mindennap és mindenhol.</lines>
     </verse>
     <verse name="v4">
-      <lines>Így teszek míg Jézus jön, (igen), világítani fogok!<br/>Így teszek míg Jézus jön, (igen), világítani fogok!<br/>Így teszek míg Jézus jön, (igen), világítani fogok!<br/>Áldom Őt, mindennap és mindenhol.</lines>
+      <lines>Így teszek míg Jézus jön, (igen),<br/>világítani fogok!<br/>Így teszek míg Jézus jön, (igen),<br/>világítani fogok!<br/>Így teszek míg Jézus jön, (igen),<br/>világítani fogok!<br/>Áldom Őt,<br/>mindennap és mindenhol.</lines>
     </verse>
   </lyrics>
 </song>

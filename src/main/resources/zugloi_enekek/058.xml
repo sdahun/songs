@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Kevés a szó</title>
+    </titles>
+    <authors>
+      <author type="music">Molnár Orsolya</author>
+      <author type="words">Molnár Orsolya</author>
+      <author type="words">Molnár Zsolt</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha éhes vagyok ennem adsz,<br/>ha szomjazom megitatsz,<br/>ha fázom betakarsz,<br/>ha szomorkodom te vigasztalsz,<br/>ha messze járok hazavársz,<br/>ha megjövök karodba zársz,<br/>ha elesnék te felemelsz,<br/>ha rossz napom van is elviselsz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bárcsak el tudnám neked mondani,<br/>de nincsenek rá szavak,<br/>hogy a hálám egyre nő,<br/>mint folyammá duzzadó kis patak.<br/>Kevés a szó,<br/>hogy köszönöm,<br/>de lehet, hogy nem is kell<br/>mást mondanom,<br/>talán elég lesz az is,<br/>ha szeretettel ölel át két karom!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha nem vagyok veled, hiányolsz,<br/>ha beteg vagyok te ápolsz,<br/>ha gondban vagyok tanácsot adsz,<br/>ha tévedek, akkor is elfogadsz,<br/>ha jót teszek, akkor megdicsérsz,<br/>ha félek az úton, elkísérsz,<br/>ha bánatom van, meghallgatsz,<br/>ha fáradt vagyok, elringatsz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ha bántanak, te megvédesz,<br/>ha más nem, te akkor is megértesz,<br/>ha feladnám, olyankor te biztatsz,<br/>ha elbuknék, újra hitet adsz!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha elvesznék, te rám találsz,<br/>hogy álmaim elérjem mellém állsz<br/>te vagy, aki gondot viselsz rám,<br/>Szeretlek téged, édesanyám!</lines>
+    </verse>
+  </lyrics>
+</song>

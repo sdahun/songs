@@ -3,8 +3,16 @@
   <properties>
     <titles>
       <title>Kenyered és borod</title>
+      <title lang="en">The Last Supper</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="music">Andrew Lloyd Webber</author>
+      <author type="music">(Jézus Krisztus Szupersztár c. musicalből)</author>
+      <author type="words">Tim Rice</author>
+      <author type="translation" lang="hu">Gáncs Márti</author>
+      <author type="translation" lang="hu">Szládek István</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="127"/>
       <songbook name="Adj zengő éneket!" entry="70"/>
@@ -12,19 +20,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kenyered és borod táplál engem,<br/>Te gyógyítod szívem, hogyha fáj.<br/>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
+      <lines>Kenyered és borod táplál engem,<br/>Te gyógyítod szívem, hogyha fáj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
     </verse>
     <verse name="v2">
-      <lines>Amíg veled járok én az úton,<br/>Minden gondom messze-messze száll.<br/>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
+      <lines>Amíg veled járok én az úton,<br/>Minden gondom messze-messze száll.</lines>
     </verse>
     <verse name="v3">
-      <lines>Hétköznapok terhe ami fáraszt,<br/>adj erőt, ha nem bírom tovább!<br/>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
+      <lines>Hétköznapok terhe ami fáraszt,<br/>adj erőt, ha nem bírom tovább!</lines>
     </verse>
     <verse name="v4">
-      <lines>A Te tested éltessen bennünket,<br/>s adjon nekünk lelki kenyeret!<br/>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
+      <lines>A Te tested éltessen bennünket,<br/>s adjon nekünk lelki kenyeret!</lines>
     </verse>
     <verse name="v5">
-      <lines>A Te véred által menekült meg<br/>Földünk népe minden bűn alól.<br/>Maradj velünk, úgy kérünk,<br/>Jézus, maradj velünk!<br/>Tiéd leszek, Néked élek már.</lines>
+      <lines>A Te véred által menekült meg<br/>Földünk népe minden bűn alól.</lines>
     </verse>
   </lyrics>
 </song>

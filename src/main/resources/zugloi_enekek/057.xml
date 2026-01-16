@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Győztes</title>
+      <title>Kell, hogy végre érezd</title>
+      <title lang="en">Mighty To Save</title>
+    </titles>
+    <authors>
+      <author type="music">Ben Fielding</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation" lang="hu">Hunyadi Tamás</author>
+    </authors>
+    <ccliNo>4591782</ccliNo>
+    <verseOrder>v1 c1 v2 c1 b1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="57"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kell, hogy végre érezd,<br/>hogy mennyire szeret az Isten.<br/>Kegyelme éltet<br/>és kell, hogy végre átéld,<br/>ahogy a megbocsátás<br/>átformál egy népet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Győztes, hegyeket mozdít el,<br/>Király és Szabadító,<br/>ítél és megsegít.<br/>Megváltó, üdvösség szerzője,<br/>mert Ő legyőzte a sírt,<br/>Ő legyőzte a sírt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha hibáztam, Te védj meg,<br/>ölelj át, ha félek,<br/>töltsd be életem!<br/>Meghajlok előtted,<br/>szívemből követlek,<br/>csak Érted élek!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Életünkkel mondjuk el, hogy élsz,<br/>hirdetjük Megváltónk dicsőségét!<br/>Jézus!</lines>
+    </verse>
+  </lyrics>
+</song>

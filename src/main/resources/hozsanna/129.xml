@@ -2,8 +2,16 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
   <properties>
     <titles>
-      <title>Ki olyan, mint ő</title>
+      <title>Ki olyan, mint Ő</title>
+      <title lang="en">Who Is Like Him</title>
+      <title lang="en">Praise Adonai</title>
     </titles>
+    <authors>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Paul Baloche</author>
+      <author type="translation" lang="hu">Komáromi Kornél</author>
+    </authors>
+    <ccliNo>2612742</ccliNo>
     <verseOrder>v1 c1 v2 c2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="129"/>
