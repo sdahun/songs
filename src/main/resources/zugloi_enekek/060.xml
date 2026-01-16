@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lámpás</title>
+    </titles>
+    <authors>
+      <author>RANDOM</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Segítségem Te vagy,<br/>kegyelmes Istenem,<br/>világíts életemben<br/>minden nap.<br/>Lámpás vagy énnekem,<br/>a sötét éjjelen,<br/>fényeddel töltsd be<br/>szívem, mindenem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy életemnek fénye,<br/>lámpás a sötét éjben.<br/>Éjszakának holdvilága,<br/>ragyogj fel nekem, Istenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hordozod terheim,<br/>leteszem vétkeim,<br/>ne hagyj elesni engem<br/>Megváltóm!<br/>Erősítsd szívemet,<br/>formáld át lényemet,<br/>Te légy a szabadítóm<br/>Jézusom!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ha már nem látnám<br/>tündöklő fényességed,<br/>elvesznék én a<br/>homályban.<br/>De látom, hogy fényeddel<br/>beragyogsz Te mindent,<br/>Lényed oly csodás!</lines>
+    </verse>
+  </lyrics>
+</song>

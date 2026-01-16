@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Légy Te az első nékem</title>
+      <title>Seekers Of Your Heart</title>
     </titles>
+    <authors>
+      <author type="music">Beverly Darnall</author>
+      <author type="music">Dick Tunney</author>
+      <author type="music">Melodie Tunney</author>
+    </authors>
+    <ccliNo>10635</ccliNo>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="137"/>

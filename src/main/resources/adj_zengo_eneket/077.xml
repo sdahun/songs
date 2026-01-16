@@ -7,13 +7,13 @@
       <title lang="en">Amazing Grace</title>
       <title lang="en">My Chains Are Gone</title>
     </titles>
-    <verseOrder>v1 v2 c1 v3 c1 v4 c1 c1 e1 v5</verseOrder>
     <authors>
       <author type="music">Chris Tomlin</author>
       <author type="music">(régi angol dallam)</author>
       <author type="words">John Newton</author>
       <author type="words">Chris Tomlin</author>
     </authors>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 c1 e1 v5</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="77"/>
       <songbook name="Baptista gyülekezeti énekeskönyv" entry="270"/>

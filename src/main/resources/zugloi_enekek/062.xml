@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Lelkem, áldd az Urat</title>
+      <title lang="en">10000 Reasons</title>
+    </titles>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+    </authors>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lelkem, áldd az Urat, áldd az Urat,<br/>egyedül Őt imádd!<br/>Zengj úgy, mint soha még,<br/>Őt dicsérd!<br/>A lelkem csak Téged áld!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Egy új nap kél,<br/>és már ébred minden,<br/>itt az idő,<br/>hogy áldjalak,<br/>és bármi ér ma,<br/>bármit rejt az út előttem,<br/>hadd zengjek<br/>este is majd hálával.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyelmed nagy<br/>és türelmed hosszú,<br/>Szerelmed mély<br/>és az égig ér,<br/>Nem szűnök énekelni<br/>jóságodról,<br/>Tízezer okom van,<br/>hogy zengjek még.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>És egy nap majd<br/>ez a test elgyengül,<br/>Erőm elhagy,<br/>s utam véget ér,<br/>A mennyben mégis Téged<br/>áldalak majd,<br/>Tízezer évig és<br/>mindörökké!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>A lelkem csak Téged áld!</lines>
+    </verse>
+  </lyrics>
+</song>

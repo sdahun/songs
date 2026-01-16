@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Krisztus vár</title>
+    </titles>
+    <authors>
+      <author type="music">Pintér Béla</author>
+      <author type="words">Pintér Béla</author>
+    </authors>
+    <verseOrder>v1 v2 c1 e1 v3 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="59"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondd csak, mit vársz az ünneptől?<br/>Tudsz-e majd örülni szívedből?<br/>Várod, elönt a boldogság,<br/>hiszed, csak néhány lépés már,<br/>de a szíved mondd mióta vár?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mondd csak, mit vársz a holnaptól?<br/>Mindent megoldasz magadtól!<br/>Várod, sorsod jobb lesz talán,<br/>s a terhed majd csak szűnik már,<br/>de a szíved mondd, mióta vár?<br/>A szíved mondd, mióta vár?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Isten ünnepelni hív.<br/>Ha ő szólít, érti a szív.<br/>Nézd, már minden készen áll,<br/>Ő is ott ül az asztalnál.<br/>Körülötte millió ember,<br/>tágra nyílt, ragyogó szemmel,<br/>kik tudják, mi az igazság.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Karácsony üzeni: Krisztus vár.<br/>Karácsony üzeni: Krisztus vár.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mondd csak, mit vársz az Istentől?<br/>Hiszed-e, megérinthet fentről?<br/>Egészen közel jön hozzád,<br/>többet adhat, mint gondolnád,<br/>Ő az, akit a szíved régen vár.<br/>Ő az, akit a szíved régen vár.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,16 +3,16 @@
   <properties>
     <titles>
       <title>Rejts most el</title>
-      <title>Still</title>
+      <title lang="en">Still</title>
     </titles>
-    <copyright>© 2002 Hillsong Music Publishing</copyright>
-    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
-    <ccliNo>3940963</ccliNo>
     <authors>
       <author type="music">Reuben Timothy Morgan</author>
       <author type="words">Reuben Timothy Morgan</author>
       <author type="translation" lang="hu">Labadics Kriszta</author>
     </authors>
+    <copyright>© 2002 Hillsong Music Publishing</copyright>
+    <ccliNo>3940963</ccliNo>
+    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 4" entry="174"/>
       <songbook name="Adj zengő éneket!" entry="113"/>

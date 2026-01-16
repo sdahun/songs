@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Legjobb helyen</title>
+    </titles>
+    <authors>
+      <author>RANDOM</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v2 e1 c1 c1 b1 b1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A múlt még visszahúz,<br/>van emlék, ami nem fakul,<br/>de bármi történt is velem,<br/>itt vagyok a legjobb helyen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kezedben az életem,<br/>biztonságot adsz nekem,<br/>s ha rágódok is miérteken,<br/>itt vagyok a legjobb helyen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Körbevesz két kezed,<br/>hatalmas karod vezet,<br/>tenyeredbe írtad fel nevem,<br/>itt vagyok a legjobb helyen.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Terhem lábadhoz teszem,<br/>most már végleg elengedem,<br/>Jézus, mindent átadok neked,<br/>mert nálad van a legjobb helyen!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Itt vagyok a legjobb helyen!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ma csak álmodom arról</title>
+      <title lang="en">I Can Only Imagine</title>
+    </titles>
+    <authors>
+      <author>Bart Millard</author>
+    </authors>
+    <ccliNo>2978857</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="62"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma csak álmodom arról,<br/>gyönyörű lehet,<br/>ha ott állok<br/>végre előtted.<br/>Ma csak álmodom arról,<br/>hogy lesz majd egy nap,<br/>mikor színről-színre látlak.<br/>Ma csak álmodom arról!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mit érzek majd akkor,<br/>mikor dicsőséged vár,<br/>talán csendben csodállak,<br/>vagy a lábam táncot jár,<br/>vajon térdemre hullok,<br/>vagy állva nézek rád,<br/>halleluját kiáltok,<br/>vagy elnémul a szám.<br/>Ma csak álmodom arról,<br/>ma csak álmodom arról!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma csak álmodom arról,<br/>bár ott lennék már,<br/>ahol a Fiú<br/>a menyegzőre vár.<br/>Ma csak álmodom arról,<br/>mikor nem lesz más,<br/>csupán boldog, örök imádás.<br/>Ma csak álmodom arról,<br/>ma csak álmodom arról!</lines>
+    </verse>
+  </lyrics>
+</song>
