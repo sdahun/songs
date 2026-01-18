@@ -51,9 +51,9 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Szent András énekfüzet](https://enekfuzet.ujevangelizacio.hu) | <meter value="1" max="340" optimum="340" low="102" high="237"></meter> 0% (1/340) |
 | [Szent az Úr](https://adventista.hu) | <meter value="40" max="40" optimum="40" low="12" high="28"></meter> 100% (40/40) |
 | [Üdv- és adventi énekek](https://yfc.hu/bolt/) | <meter value="47" max="512" optimum="512" low="153" high="358"></meter> 9% (47/512) |
-| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="73" max="100" optimum="100" low="30" high="70"></meter> 73% (73/100) |
+| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="79" max="100" optimum="100" low="30" high="70"></meter> 79% (79/100) |
 
-A gyűjteményben jelenleg 1184 darab ének található.
+A gyűjteményben jelenleg 1190 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:

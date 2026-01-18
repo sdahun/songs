@@ -3,21 +3,24 @@
   <properties>
     <titles>
       <title>Ó, áldd Isten nagy kegyét</title>
+      <title lang="en">Give Thanks</title>
     </titles>
-    <verseOrder>v1 v2 c1 c1 e1</verseOrder>
+    <authors>
+      <author type="music">Henry Smith</author>
+      <author type="words">Henry Smith</author>
+    </authors>
+    <ccliNo>20285</ccliNo>
+    <verseOrder>v1 v1 c1 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="167"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ó, áldd Isten nagy kegyét,<br/>dicsérd buzgón szent nevét,<br/>és Őt szívedből imádd, küldte egy Fiát!</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Ó, áldd Isten nagy kegyét,<br/>dicsérd buzgón nagy kegyét,<br/>és Őt szívedből imádd, küldte egy Fiát!</lines>
+      <lines>Ó, áldd Isten nagy kegyét,<br/>dicsérd buzgón szent nevét,<br/>és Őt szívedből imádd,<br/>küldte egy Fiát!</lines>
     </verse>
     <verse name="c1">
-      <lines>Ó, halld, Krisztus hozzánk önként jött,<br/>bűnös földre költözött,<br/>ki gazdag volt, szegénnyé lett értünk.</lines>
+      <lines>Ó, halld,<br/>Krisztus hozzánk önként jött,<br/>bűnös földre költözött,<br/>ki gazdag volt, szegénnyé lett értünk.</lines>
     </verse>
     <verse name="e1">
       <lines>Őt áldd!</lines>

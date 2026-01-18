@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, jöjjetek, hívek</title>
+      <title lang="en">O Come All Ye Faithful</title>
+    </titles>
+    <authors>
+      <author type="music">John F. Wade (1711-1786.)</author>
+      <author type="words">John F. Wade (1711-1786.)</author>
+      <author type="words">Frederick Oakeley (1802-1880.)</author>
+    </authors>
+    <ccliNo>31054</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="78"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, jöjjetek, hívek,<br/>ujjongva, vidáman!<br/>Ó, jöjjetek, jöjjetek,<br/>vár Betlehem!<br/>Megszületett az<br/>angyalok királya!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, jöjjetek, imádjuk,<br/>Ó, jöjjetek, imádjuk,<br/>Ó, jöjjetek, imádjuk<br/>az Urat!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyali kórus,<br/>ujjongva köszöntse,<br/>a mennyek serege<br/>így daloljon:<br/>Dicsőség Néked,<br/>Magasságos Isten!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Üdvözlégy, Jézus,<br/>ki értünk születtél,<br/>csak Téged illet<br/>minden tisztelet!<br/>Istennek Fia<br/>Testet öltött végre;</lines>
+    </verse>
+  </lyrics>
+</song>

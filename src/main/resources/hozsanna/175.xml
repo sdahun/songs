@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Olyan jó előtted állni</title>
+      <title lang="fi">Luona itkumuurin</title>
     </titles>
+    <authors>
+      <author type="music">Pekka Simojoki</author>
+      <author type="words">Pekka Simojoki</author>
+    </authors>
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="175"/>

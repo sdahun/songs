@@ -1268,3 +1268,9 @@
 | 71. | [Mindent kegyelemből - Csak Téged](./src/main/resources/zugloi_enekek/071.xml) |
 | 72. | [Mint az asszony](./src/main/resources/zugloi_enekek/072.xml) |
 | 73. | [Nézz most rá](./src/main/resources/zugloi_enekek/073.xml) |
+| 74. | [Nincs más Isten](./src/main/resources/zugloi_enekek/074.xml) |
+| 75. | [Nyisd meg a szívem, Ó Jézus](./src/main/resources/zugloi_enekek/075.xml) |
+| 76. | [Nyisd meg szemed](./src/main/resources/zugloi_enekek/076.xml) |
+| 77. | [Ó mily csodás isteni szeretet](./src/main/resources/zugloi_enekek/077.xml) |
+| 78. | [Ó, jöjjetek, hívek](./src/main/resources/zugloi_enekek/078.xml) |
+| 79. | [Ó, népek teremtője](./src/main/resources/zugloi_enekek/079.xml) |

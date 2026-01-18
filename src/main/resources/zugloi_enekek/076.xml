@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nyisd meg szemed</title>
+      <title lang="en">Open Your Eyes</title>
+    </titles>
+    <authors>
+      <author type="music">Carl Tuttle</author>
+      <author type="words">Carl Tuttle</author>
+    </authors>
+    <ccliNo>74468</ccliNo>
+    <verseOrder>v1 c1 c1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="76"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nyisd meg szemed,<br/>lásd meg dicsőségét<br/>nyisd meg szíved,<br/>ismerd meg teremtőjét.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oly jó az Úr, oly felséges,<br/>Ott áll ajtód előtt, és zörget.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ő alkotód,<br/>aki gondot visel rád,<br/>Magához von,<br/>kegyelmével vigyáz.</lines>
+    </verse>
+  </lyrics>
+</song>

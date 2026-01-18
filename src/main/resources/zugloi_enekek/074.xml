@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nincs más Isten</title>
+      <title lang="en">Our God</title>
+    </titles>
+    <authors>
+      <author type="music">Chris Tomlin</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jonas Myrin</author>
+      <author type="words">Jonas Myrin</author>
+      <author type="music">Matt Redman</author>
+      <author type="words">Matt Redman</author>
+      <author type="translation" lang="hu">Váradi Attila</author>
+    </authors>
+    <ccliNo>5677416</ccliNo>
+    <verseOrder>v1 v2 p1 c1 v2 p1 c1 p1 c2 b1 b1 b1 p1 c1 p1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="74"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nálad lett borrá a víz,<br/>holtakat életre hívsz.<br/>Nincs más Isten,<br/>nincsen más!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te ragyogod be az éjt,<br/>Te hozod el a reményt.<br/>Nincs más Isten,<br/>nincsen más!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Te vagy az Isten,<br/>kinek nevére<br/>leborul minden<br/>a földön, az égen.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hegyeket mozdít,<br/>beteget gyógyít az Úr ma is.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Szíveket hódít,<br/>sebeket gyógyít az Úr ma is.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>És hogyha Isten velünk,<br/>ember nem árthat nekünk.<br/>Mert hogyha Te vagy velünk,<br/>ki lehet ellenünk?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ki lehet ellenünk?</lines>
+    </verse>
+  </lyrics>
+</song>

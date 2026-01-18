@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nyisd meg a szívem, Ó Jézus</title>
+      <title lang="en">Open The Eyes Of My Heart</title>
+    </titles>
+    <authors>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Paul Baloche</author>
+    </authors>
+    <ccliNo>2298355</ccliNo>
+    <verseOrder>v1 v1 c1 c1 b1 b1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nyisd meg a szívem, Ó Jézus,<br/>nyisd meg a szívem, Uram!<br/>Látnom kell téged,<br/>látnom kell téged!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, dicsőség ura,<br/>ragyogj fel, mint hold az éjben!<br/>Lelkemnek pásztora,<br/>teremts tiszta szívet bennem!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy, szent vagy, szent vagy!<br/>Szent vagy, szent vagy, szent vagy!<br/>Szent vagy, szent vagy, szent vagy!<br/>Látnom kell téged!</lines>
+    </verse>
+  </lyrics>
+</song>

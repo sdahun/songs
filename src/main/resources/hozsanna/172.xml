@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Oly jó benned bízni</title>
+      <title lang="en">'Tis So Sweet To Trust In Jesus (Trust In Jesus)</title>
     </titles>
+    <authors>
+      <author type="music">William J. Kirkpatrick</author>
+      <author type="words">Louisa M. R. Stead</author>
+    </authors>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="172"/>

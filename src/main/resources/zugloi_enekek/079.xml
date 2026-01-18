@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ó, népek teremtője</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, népek teremtője,<br/>add kegyelmed nekem,<br/>hogy képes legyen másokat<br/>is szeretni szívem,<br/>és minden embertársamban<br/>így megtaláljam azt,<br/>kit éppen úgy szeretsz,<br/>mint engem, s megváltasz, Uram.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Omlaszd le, kérünk téged,<br/>mindazt, mi körbevesz,<br/>a falat, ami belül<br/>osztja meg a népedet,<br/>hogy hadd keressem végre<br/>mások érdekét, javát,<br/>hogy Jézus meleg<br/>szívjóságát így adhassam át.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bocsásd meg, uram, kérlek,<br/>a fájó vétkeket,<br/>mik hajthatatlan lényemet<br/>hirdették, s nem neved,<br/>add látnom azt, hogy minden<br/>át nem gondolt tett és szó<br/>csak újra téged feszít meg,<br/>ó drága Megváltó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Adj nékem bátorságot,<br/>hogy merjek szólni ott,<br/>hol némaságra kényszerítik<br/>azt, ki elnyomott,<br/>és akkor is, ha célkeresztbe<br/>állok ezzel én,<br/>Uram segíts, hogy megbocsássak<br/>úgy, ahogy te rég.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hadd töltsön be Szentlelked,<br/>és járja át szívem<br/>a szeretet, mely tőled árad<br/>véges-végtelen,<br/>hogy bármihez ha érek,<br/>vagy bárhol járok én,<br/>az úgy tűnjön, mintha te jártál<br/>volna ott, s nem én.</lines>
+    </verse>
+  </lyrics>
+</song>
