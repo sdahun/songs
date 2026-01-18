@@ -3,18 +3,27 @@
   <properties>
     <titles>
       <title>Megtört a teste</title>
+      <title lang="en">Broken For Me</title>
     </titles>
-    <verseOrder>v1 v2 e1</verseOrder>
+    <authors>
+      <author type="music">Janet Lunt</author>
+      <author type="translation" lang="hu">Kulcsár Tibor</author>
+    </authors>
+    <copyright>© 1978 Sovereign Music UK</copyright>
+    <verseOrder>c1 v1 c1 v2 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="142"/>
     </songbooks>
   </properties>
   <lyrics>
+    <verse name="c1">
+      <lines>Megtört a teste énértem is,<br/>kiomlott a vére teérted is.</lines>
+    </verse>
     <verse name="v1">
-      <lines>Megtört a teste énértem is,<br/>kiomlott a vére teérted is.<br/>Vállalta értünk a Golgotát,<br/>a bűnök terhét, a kínhalált.</lines>
+      <lines>Vállalta értünk a Golgotát,<br/>a bűnök terhét, a kínhalált.</lines>
     </verse>
     <verse name="v2">
-      <lines>Megtört a teste énértem is,<br/>kiomlott a vére teérted is.<br/>Kenyérben, borban emlékezünk,<br/>meghagyta Jézus, hogy így tegyünk.</lines>
+      <lines>Kenyérben, borban emlékezünk,<br/>meghagyta Jézus, hogy így tegyünk.</lines>
     </verse>
     <verse name="e1">
       <lines>Megtört a teste helyettem is,<br/>kiomlott a vére helyetted is.</lines>

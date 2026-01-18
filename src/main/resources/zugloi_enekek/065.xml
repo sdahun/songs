@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-04T10:46:55">
+  <properties>
+    <titles>
+      <title>Megváltóm szól nekem</title>
+      <title>Ó, áldom Őt</title>
+      <title lang="en">Jesus Paid It All</title>
+    </titles>
+    <authors>
+      <author type="music">John Thomas Grape</author>
+      <author type="words">Elvina Mabel Hall</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v3 c1 b1 b1 b1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="65"/>
+      <songbook name="Üdv- és adventi énekek" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megváltóm szól nekem:<br/>„Gyermek, kicsiny erőd?<br/>Nyugtot találsz bennem,<br/>leszek a segítőd!”</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent véred, Jézusom,<br/>lemossa bűnömet,<br/>erőd csodás nagyon,<br/>meglágyít kőszívet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus elvette<br/>minden bűnömet,<br/>nincsen már több tartozás,<br/>vére tisztított meg.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nincs bennem semmi jó,<br/>kegyedre érdemes.<br/>Te vagy az Üdvadó,<br/>ki Istenhez vezetsz.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, áldom Őt, ki megváltott<br/>és a halálból kihozott.</lines>
+    </verse>
+  </lyrics>
+</song>

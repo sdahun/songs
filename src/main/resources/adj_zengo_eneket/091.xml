@@ -3,18 +3,18 @@
   <properties>
     <titles>
       <title>Nagy Istenem</title>
-      <title>How Great Thou Art</title>
-      <title>O store Gud</title>
+      <title lang="en">How Great Thou Art</title>
+      <title lang="se">O store Gud</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 v3 c1 e1</verseOrder>
     <authors>
       <author type="music">Adolph Edgren</author>
       <author type="music">Stuart Wesley Keen Hine</author>
       <author type="music">svéd népi dallam nyomán</author>
       <author type="words">Carl Gustav Boberg</author>
       <author type="words">Stuart Wesley Keen Hine</author>
-      <author type="translation" lang="hu">Déri Balázs</author>
+      <author type="translation" lang="hu">Vargha Gyuláné</author>
     </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="91"/>
       <songbook name="Hozsánna énekes" entry="160"/>
@@ -22,19 +22,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nagy Istenem, ha nézem a világot,<br/>mit alkotott Te szent „Legyen!” szavad.<br/>Ha látom én sok millió alkotásod,<br/>kiket vezetsz és táplálsz egymagad.</lines>
+      <lines>Nagy Istenem,<br/>ha nézem a világot,<br/>mit alkotott<br/>Te szent „Legyen!” szavad.<br/>Ha látom én<br/>sok millió alkotásod,<br/>kiket vezetsz<br/>és táplálsz egymagad.</lines>
     </verse>
     <verse name="c1">
-      <lines>A szívem áld, és hála tölti be:<br/>mily nagy vagy Te, mily nagy vagy Te!<br/>A szívem áld, és hála tölti be:<br/>mily nagy vagy Te, mily nagy vagy Te!</lines>
+      <lines>A szívem áld,<br/>és hála tölti be:<br/>mily nagy vagy Te,<br/>mily nagy vagy Te!<br/>A szívem áld,<br/>és hála tölti be:<br/>mily nagy vagy Te,<br/>mily nagy vagy Te!</lines>
     </verse>
     <verse name="v2">
-      <lines>Ha szól Igéd és benne Rád találok,<br/>ha láthatom, mily nagyok tetteid.<br/>Ki népedet ily gazdagon megáldod,<br/>elhordozod, bár látod bűneit.</lines>
+      <lines>Ha szól Igéd<br/>és benne Rád találok,<br/>ha láthatom,<br/>mily nagyok tetteid.<br/>Ki népedet<br/>ily gazdagon megáldod,<br/>elhordozod,<br/>bár látod bűneit.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ha mennybe hívsz, majd mikor Eléd állok,<br/>megláthatom Te fényességedet.<br/>Ha majd reám szent Arcod vet világot,<br/>leborulok és dicsőítelek!</lines>
+      <lines>Ha mennybe hívsz,<br/>majd mikor Eléd állok,<br/>megláthatom<br/>Te fényességedet.<br/>Ha majd reám<br/>szent Arcod vet világot,<br/>leborulok<br/>és dicsőítelek!</lines>
     </verse>
     <verse name="e1">
-      <lines>Mily nagy vagy Te, mily nagy vagy Te!</lines>
+      <lines>Mily nagy vagy Te,<br/>mily nagy vagy Te!</lines>
     </verse>
   </lyrics>
 </song>

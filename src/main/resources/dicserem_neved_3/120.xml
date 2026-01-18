@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Megváltva!</title>
+      <title lang="en">Redeemed!</title>
+    </titles>
+    <authors>
+      <author type="music">Aubrey Lee Butler</author>
+      <author type="words">Fanny Jane Crosby</author>
+      <author type="translation" lang="hu">Nagy József</author>
+    </authors>
+    <copyright>© Words: Public DomainMusic: 1966, 1967 Broadman Press</copyright>
+    <ccliNo>203796</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="120"/>
+      <songbook name="Hozsánna énekes" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megváltva! Mily boldogan vallom<br/>a Bárány szent vére árán!<br/>Megváltva! Mily végtelen áldás,<br/>hogy gyermeke vagyok immár!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Megváltva, megváltva!<br/>Ó, hála neked jó Atyám!<br/>Kegyelmed oly végtelen gazdag,<br/>a szívem csak téged imád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megmentve! Most áldom az Urat,<br/>és éneklek új éneket,<br/>mert fénye a lelkembe ragyog,<br/>megújítja életemet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Megváltóm! Csak téged imádlak<br/>és hódolva porba hullok.<br/>Ím zeng, zeng a hódolat hangja,<br/>míg előtted leborulok.</lines>
+    </verse>
+  </lyrics>
+</song>

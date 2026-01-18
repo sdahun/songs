@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Menjünk most együtt az Úrhoz</title>
+      <title lang="en">For The Lord Is Good</title>
+    </titles>
+    <authors>
+      <author type="music">Billy Funk</author>
+      <author type="translation" lang="hu">Szőcs Gergely</author>
+    </authors>
+    <copyright>© 1995 Integrity's Hosanna! Music</copyright>
+    <ccliNo>1763417</ccliNo>
+    <verseOrder>v1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 3" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Menjünk most együtt az Úrhoz,<br/>mennyei trónjához.<br/>Örömmel lépjünk elébe,<br/>kiáltsuk: nagy az Ő neve!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsérje Őt a hangszerek hangja,<br/>néki szóljon minden dal!<br/>Dicsérje Istent a menny és a föld,<br/>hálaáldozat szálljon hozzá föl!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert az Isten jó!<br/>(Mert az Isten jó!)<br/>Mert az Isten jó!<br/>(Mert az Isten jó!)<br/>Igen, Isten jó,<br/>az Ő kegyelme örökké tart!</lines>
+    </verse>
+  </lyrics>
+</song>

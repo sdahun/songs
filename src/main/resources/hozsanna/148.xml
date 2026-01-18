@@ -3,7 +3,15 @@
   <properties>
     <titles>
       <title>Mikor még semmi</title>
+      <title lang="en">Above All</title>
     </titles>
+    <authors>
+      <author type="words">Paul Baloche</author>
+      <author type="music">Paul Baloche</author>
+      <author type="words">Lenny LeBlanc</author>
+      <author type="music">Lenny LeBlanc</author>
+    </authors>
+    <ccliNo>2672885</ccliNo>    
     <verseOrder>v1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="148"/>
@@ -11,13 +19,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mikor még semmi nem létezett,<br/>nemzetek, népek, királyok és bölcsek,<br/>nem volt még ember és földi élet sem.<br/>Te akkor már szerettél engem.</lines>
+      <lines>Mikor még semmi<br/>nem létezett,<br/>nemzetek, népek,<br/>királyok és bölcsek,<br/>nem volt még ember<br/>és földi élet sem.<br/>Te akkor már<br/>szerettél engem.</lines>
     </verse>
     <verse name="v2">
-      <lines>Hatalmak jöttek és tűntek el,<br/>de oly csodát, mint Te senki nem tehet.<br/>A földnek kincse nem érhet fel veled<br/>és senki másé nem lesz már szívem.</lines>
+      <lines>Hatalmak jöttek<br/>és tűntek el,<br/>de oly csodát, mint Te<br/>senki nem tehet.<br/>A földnek kincse<br/>nem érhet fel veled<br/>és senki másé<br/>nem lesz már szívem.</lines>
     </verse>
     <verse name="c1">
-      <lines>Eljöttél, feláldoztad magad.<br/>Szenvedtél azért, hogy célt mutass.<br/>Helyettem meghaltál, hogy éljek<br/>és ezért követlek bárhová.</lines>
+      <lines>Eljöttél,<br/>feláldoztad magad.<br/>Szenvedtél<br/>azért, hogy célt mutass.<br/>Helyettem<br/>meghaltál, hogy éljek<br/>és ezért<br/>követlek bárhová.</lines>
     </verse>
   </lyrics>
 </song>

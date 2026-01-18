@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Milyen jó Őt dicsőíteni</title>
+      <title lang="en">It Is Good To Praise The Lord</title>
+    </titles>
+    <authors>
+      <author>Lenny LeBlanc</author>
+    </authors>
+    <copyright>© 1997 Doulos Publishing</copyright>
+    <ccliNo>121782</ccliNo>
+    <verseOrder>v1 e1 v1 e2 e2 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="69"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milyen jó Őt dicsőíteni!<br/>Ó, mily jó a fenségéről zengeni!<br/>Hirdetni nevét korán reggel,<br/>az Ő hűségét este!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ó, Őt dicsérd<br/>és áldd Isten nevét, az Urat!</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Ó, Őt dicsérd<br/>és áldd Isten nevét!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-08-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Minden, mi él, csak Téged hirdet</title>
+    </titles>
+    <authors>
+      <author type="words">Cselényi István Gábor</author>
+    </authors>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Dicsérem Neved 2" entry="147"/>
+      <songbook name="Adj zengő éneket!" entry="86"/>
+      <songbook name="Hozsánna énekes" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Minden, mi él,<br/>csak Téged hirdet,<br/>minden dicsér,<br/>mert mind a műved.<br/>Azzal, hogy él,<br/>ezt zengi Néked:<br/>dicsérlek én,<br/>dicsérlek Téged!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dicsér az ég,<br/>Nap, Hold és csillagok,<br/>fény és sötét,<br/>Nap, éj és hajnalok.<br/>Dicsér a szél,<br/>felhő és hóvihar,<br/>a víz, a tűz:<br/>megannyi tiszta dallam!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsér a föld,<br/>dicséri szent Neved,<br/>mint jó anyánk,<br/>táplál s ad eledelt.<br/>Virág, gyümölcs,<br/>zöld fű, fa, hegyvidék,<br/>tó és folyó,<br/>síkság és büszke bérc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A nagy világ<br/>létével énekel,<br/>szavunkra vár,<br/>hogy hangja dal legyen.<br/>Zúgjuk tehát<br/>ég és föld énekét,<br/>zengjük velük:<br/>nagy Isten, áldott légy!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Dicsérlek én!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -168,6 +168,7 @@
 | 246. | [Velem vándorol utamon Jézus](./src/main/resources/baptista_gyulekezeti_enekeskonyv/246.xml) |
 | 258. | [Az Úr gondol ránk](./src/main/resources/baptista_gyulekezeti_enekeskonyv/258.xml) |
 | 270. | [Az Úr irgalma végtelen](./src/main/resources/baptista_gyulekezeti_enekeskonyv/270.xml) |
+| 365. | [Hintsd szerteszét](./src/main/resources/baptista_gyulekezeti_enekeskonyv/365.xml) |
 
 ## Dicsérem Neved 1 (/dicserem_neved_1)
 
@@ -189,6 +190,7 @@
 | 14. | [Adj új erőt, Urunk](./src/main/resources/dicserem_neved_1/014.xml) |
 | 15. | [Abbá Atyánk](./src/main/resources/dicserem_neved_1/015.xml) |
 | 29. | [Atyám, két kezedben](./src/main/resources/dicserem_neved_1/029.xml) |
+| 101. | [Jó Atyám, kitárom szívem](./src/main/resources/dicserem_neved_1/101.xml) |
 | 183. | [Róla beszél fű, virág](./src/main/resources/dicserem_neved_1/183.xml) |
 | 222. | [Zengj halleluját az Úrnak](./src/main/resources/dicserem_neved_1/222.xml) |
 
@@ -241,7 +243,9 @@
 | 50. | [Emlékezzél meg](./src/main/resources/dicserem_neved_2/050.xml) |
 | 52. | [Engem szeret Jézusom](./src/main/resources/dicserem_neved_2/052.xml) |
 | 62. | [Én fel sem foghatom](./src/main/resources/dicserem_neved_2/062.xml) |
-| 67. | [Fel vígan ünnepelj](./src/main/resources/dicserem_neved_2/067.xml) |
+| 67. | [Fel, vígan ünnepelj](./src/main/resources/dicserem_neved_2/067.xml) |
+| 103. | [Jézus szeret minden kicsi gyereket](./src/main/resources/dicserem_neved_2/103.xml) |
+| 147. | [Minden, mi él, csak Téged hirdet](./src/main/resources/dicserem_neved_2/147.xml) |
 
 ## Dicsérem Neved 3 (/dicserem_neved_3)
 
@@ -253,6 +257,10 @@
 | 39. | [Erőt adsz minden helyzetben](./src/main/resources/dicserem_neved_3/039.xml) |
 | 45. | [Feladtad méltó nagy neved](./src/main/resources/dicserem_neved_3/045.xml) |
 | 52. | [Hadd zengjen új dal](./src/main/resources/dicserem_neved_3/052.xml) |
+| 56. | [Halleluja, Jézust dicsérd](./src/main/resources/dicserem_neved_3/056.xml) |
+| 93. | [Jöjj, itt az idő, hogy dicsérd](./src/main/resources/dicserem_neved_3/093.xml) |
+| 120. | [Megváltva!](./src/main/resources/dicserem_neved_3/120.xml) |
+| 123. | [Menjünk most együtt az Úrhoz](./src/main/resources/dicserem_neved_3/123.xml) |
 
 ## Dicsérem Neved 4 (/dicserem_neved_4)
 
@@ -260,6 +268,8 @@
 | ---: | :------------------- |
 | 6. | [Adj imádó szívet](./src/main/resources/dicserem_neved_4/006.xml) |
 | 54. | [Fejet hajt a mindenség](./src/main/resources/dicserem_neved_4/054.xml) |
+| 57. | [Fényed](./src/main/resources/dicserem_neved_4/057.xml) |
+| 94. | [Jézusom, áldozatodra gondolok](./src/main/resources/dicserem_neved_4/094.xml) |
 | 174. | [Rejts most el](./src/main/resources/dicserem_neved_4/174.xml) |
 
 ## Dicsérem Neved 5 (/dicserem_neved_5)
@@ -924,7 +934,7 @@
 | 70. | [Ez az öröm el ne múljék](./src/main/resources/hozsanna/070.xml) |
 | 71. | [Fejet hajt a mindenség](./src/main/resources/hozsanna/071.xml) |
 | 72. | [Fényed](./src/main/resources/hozsanna/072.xml) |
-| 73. | [Fel vígan ünnepelj](./src/main/resources/hozsanna/073.xml) |
+| 73. | [Fel, vígan ünnepelj](./src/main/resources/hozsanna/073.xml) |
 | 74. | [Fölveszem a dicséret köntösét](./src/main/resources/hozsanna/074.xml) |
 | 75. | [Futunk, s nem lankadunk](./src/main/resources/hozsanna/075.xml) |
 | 76. | [Gyermekként jött](./src/main/resources/hozsanna/076.xml) |
@@ -936,7 +946,7 @@
 | 82. | [Hadd zengjen új dal](./src/main/resources/hozsanna/082.xml) |
 | 83. | [Hála, hogy itt a csendes reggel](./src/main/resources/hozsanna/083.xml) |
 | 84. | [Halál völgye ott már nem lesz többé](./src/main/resources/hozsanna/084.xml) |
-| 85. | [Hálát adok Uram](./src/main/resources/hozsanna/085.xml) |
+| 85. | [Hálát adok, Uram](./src/main/resources/hozsanna/085.xml) |
 | 86. | [Hálát adva áldja Istent](./src/main/resources/hozsanna/086.xml) |
 | 87. | [Halleluja, zengve zeng hálaének](./src/main/resources/hozsanna/087.xml) |
 | 88. | [Hallottál-e arról](./src/main/resources/hozsanna/088.xml) |
@@ -980,7 +990,7 @@
 | 126. | [Kelj fel, lelkem](./src/main/resources/hozsanna/126.xml) |
 | 127. | [Kenyered és borod](./src/main/resources/hozsanna/127.xml) |
 | 128. | [Kész az én szívem](./src/main/resources/hozsanna/128.xml) |
-| 129. | [Ki olyan, mint ő](./src/main/resources/hozsanna/129.xml) |
+| 129. | [Ki olyan, mint Ő](./src/main/resources/hozsanna/129.xml) |
 | 130. | [Kicsiny kis fényemmel](./src/main/resources/hozsanna/130.xml) |
 | 131. | [Krisztus Úr, a nagy Király](./src/main/resources/hozsanna/131.xml) |
 | 132. | [Küldd Szentlelked](./src/main/resources/hozsanna/132.xml) |
@@ -992,7 +1002,7 @@
 | 138. | [Legyen áldás az úton](./src/main/resources/hozsanna/138.xml) |
 | 139. | [Még nem is éltem](./src/main/resources/hozsanna/139.xml) |
 | 140. | [Megkérdezed](./src/main/resources/hozsanna/140.xml) |
-| 141. | [Megváltva](./src/main/resources/hozsanna/141.xml) |
+| 141. | [Megváltva!](./src/main/resources/hozsanna/141.xml) |
 | 142. | [Megtört a teste](./src/main/resources/hozsanna/142.xml) |
 | 143. | [Menjetek be kapuin](./src/main/resources/hozsanna/143.xml) |
 | 144. | [Menjünk az Úr elé](./src/main/resources/hozsanna/144.xml) |
@@ -1172,6 +1182,8 @@
 | 57. | [Adjátok a szent bibliát kezembe](./src/main/resources/udv_es_adventi_enekek/057.xml) |
 | 63. | [Ím ma az egész égbolt](./src/main/resources/udv_es_adventi_enekek/063.xml) |
 | 64. | [E szent nap reggele](./src/main/resources/udv_es_adventi_enekek/064.xml) |
+| 107. | [Megváltóm szól nekem](./src/main/resources/udv_es_adventi_enekek/107.xml) |
+| 168. | [Jövel az élet vizéhez](./src/main/resources/udv_es_adventi_enekek/168.xml) |
 
 ## Zuglói énekek (/zugloi_enekek)
 
@@ -1209,12 +1221,41 @@
 | 30. | [Egy nap mindent újjá teszel](./src/main/resources/zugloi_enekek/030.xml) |
 | 31. | [Együtt lesz majd mind](./src/main/resources/zugloi_enekek/031.xml) |
 | 32. | [Eljön az Úr](./src/main/resources/zugloi_enekek/032.xml) |
-| 1. | [Éneklem a Te jóságodat](./src/main/resources/zugloi_enekek/111.xml) |
-| 2. | [Fenn a mennyben az Úr](./src/main/resources/zugloi_enekek/132.xml) |
-| 3. | [Fenségednél nincs vonzóbb](./src/main/resources/zugloi_enekek/133.xml) |
-| 4. | [Fülem, szemem, orrom, szám](./src/main/resources/zugloi_enekek/134.xml) |
-| 5. | [Gyere te is velünk](./src/main/resources/zugloi_enekek/135.xml) |
-| 6. | [Gyönyörű mind](./src/main/resources/zugloi_enekek/136.xml) |
-| 7. | [Gyönyörű nagy neved](./src/main/resources/zugloi_enekek/137.xml) |
-| 8. | [Győztes vagyok](./src/main/resources/zugloi_enekek/138.xml) |
-| 9. | [Gyere el a jászolhoz](./src/main/resources/zugloi_enekek/139.xml) |
+| 33. | [Éneklem a Te jóságodat](./src/main/resources/zugloi_enekek/033.xml) |
+| 34. | [Ez a szó: szeretet](./src/main/resources/zugloi_enekek/034.xml) |
+| 35. | [Fenn a mennyben az Úr](./src/main/resources/zugloi_enekek/035.xml) |
+| 36. | [Fenségednél nincs vonzóbb](./src/main/resources/zugloi_enekek/036.xml) |
+| 37. | [Fülem, szemem, orrom, szám](./src/main/resources/zugloi_enekek/037.xml) |
+| 38. | [Gyere te is velünk](./src/main/resources/zugloi_enekek/038.xml) |
+| 39. | [Gyönyörű mind](./src/main/resources/zugloi_enekek/039.xml) |
+| 40. | [Gyönyörű nagy neved](./src/main/resources/zugloi_enekek/040.xml) |
+| 41. | [Győztes vagyok](./src/main/resources/zugloi_enekek/041.xml) |
+| 42. | [Gyere el a jászolhoz](./src/main/resources/zugloi_enekek/042.xml) |
+| 43. | [Hálát adok, Uram](./src/main/resources/zugloi_enekek/043.xml) |
+| 44. | [Hallelu, hallelu](./src/main/resources/zugloi_enekek/044.xml) |
+| 45. | [Hívlak Jézus](./src/main/resources/zugloi_enekek/045.xml) |
+| 46. | [Hozzád jövök, Uram](./src/main/resources/zugloi_enekek/046.xml) |
+| 47. | [Hozzád száll jó Atyám](./src/main/resources/zugloi_enekek/047.xml) |
+| 48. | [Hozsánna](./src/main/resources/zugloi_enekek/048.xml) |
+| 49. | [Illés napjai](./src/main/resources/zugloi_enekek/049.xml) |
+| 50. | [Irgalma éltet](./src/main/resources/zugloi_enekek/050.xml) |
+| 51. | [Jábec ima](./src/main/resources/zugloi_enekek/051.xml) |
+| 52. | [Jézus a király](./src/main/resources/zugloi_enekek/052.xml) |
+| 53. | [Jézus szeret minden kicsi gyereket](./src/main/resources/zugloi_enekek/053.xml) |
+| 54. | [Jó Őt dicsérni](./src/main/resources/zugloi_enekek/054.xml) |
+| 55. | [Karjaid közt](./src/main/resources/zugloi_enekek/055.xml) |
+| 56. | [Kegyelemből léphetünk be](./src/main/resources/zugloi_enekek/056.xml) |
+| 57. | [Győztes](./src/main/resources/zugloi_enekek/057.xml) |
+| 58. | [Kevés a szó](./src/main/resources/zugloi_enekek/058.xml) |
+| 59. | [Krisztus vár](./src/main/resources/zugloi_enekek/059.xml) |
+| 60. | [Lámpás](./src/main/resources/zugloi_enekek/060.xml) |
+| 61. | [Legjobb helyen](./src/main/resources/zugloi_enekek/061.xml) |
+| 62. | [Lelkem, áldd az Urat](./src/main/resources/zugloi_enekek/062.xml) |
+| 63. | [Ma csak álmodom arról](./src/main/resources/zugloi_enekek/063.xml) |
+| 64. | [Megívtál, hogy vízre lépjek](./src/main/resources/zugloi_enekek/064.xml) |
+| 65. | [Megváltóm szól nekem](./src/main/resources/zugloi_enekek/065.xml) |
+| 66. | [Méltó a Bárány](./src/main/resources/zugloi_enekek/066.xml) |
+| 67. | [Mennyei hely](./src/main/resources/zugloi_enekek/067.xml) |
+| 68. | [Mily nagy vagy Urunk](./src/main/resources/zugloi_enekek/068.xml) |
+| 69. | [Milyen jó Őt dicsőíteni](./src/main/resources/zugloi_enekek/069.xml) |
+| 70. | [Mindenem Övé](./src/main/resources/zugloi_enekek/070.xml) |

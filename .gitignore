@@ -4,3 +4,4 @@ target/
 .DS_Store
 config.json
 songlist.json
+wordlist*

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Méltó a Bárány</title>
+    </titles>
+    <verseOrder>v1 v1 c1 c1 v1 v1 b1 b1 v1 v1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Méltó a Bárány,<br/>szívünkben hála<br/>Újra, meg újra<br/>dicsőséged árad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Méltó, méltó,<br/>szívünk énekli:<br/>méltó, méltó,<br/>minden dicsőség Tiéd!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Élő kövekként épül<br/>Istennek háza,<br/>megváltott életek imája<br/>Hozzád száll ma.</lines>
+    </verse>
+  </lyrics>
+</song>

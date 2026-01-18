@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mennyei hely</title>
+    </titles>
+    <authors>
+      <author type="music">Révész Dániel</author>
+      <author type="words">Révész Dániel</author>
+    </authors>
+    <verseOrder>v1 c1 c1 c2 b1 b1 b2 b2 v2 c1 c1 c2 b1 b1 b2 b2 c1 c1 c2 b1 b1 b2 b2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy hely,<br/>ahova mehetek én,<br/>mert nem leszek mindig<br/>a föld közepén.<br/>Isten úgy vár, hogy vele legyek,<br/>hol angyalok zengnek a felhők felett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Köszönöm, Jézus, hogy meghaltál,<br/>így fenn a menny már rám vár,<br/>hol az arany utcákon táncolok,<br/>és örömmel kiáltozok.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Én így dalolok:</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ez az a hely, ahol otthon vagyok,<br/>ahol én táncolok, tapsolok.<br/>Ez az a hely, ahol jó nekem,<br/>mert velem van az én Istenem.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Mert van az a hely:<br/>a mennyei hely.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sokan mondják,<br/>hogy ez csak mese,<br/>hogy az ember a földről<br/>a mennybe menne.<br/>Ilyenkor szemeim csak fölnéznek.<br/>Ezt Jézus ígérte és neki hiszem.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -3,18 +3,29 @@
   <properties>
     <titles>
       <title>Minden új nap</title>
+      <title lang="en">My Greatest Love Is You</title>
     </titles>
-    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="music">Russel Fragar</author>
+      <author type="translation" lang="hu">Veress Zoltán</author>
+      <author type="translation" lang="hu ">Pintér Béla</author>
+    </authors>
+    <copyright>© 1997 Hillsong Music Publishing</copyright>
+    <ccliNo>2301534</ccliNo>
+    <verseOrder>v1 c1 v1 c1 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="153"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Minden új nap Veled kezdődik el,<br/>megtöltöd szívem kincseiddel.<br/>Szentséged szépsége megújít engem,<br/>Te vagy szerelmesem!</lines>
+      <lines>Minden új nap<br/>Veled kezdődik el,<br/>megtöltöd szívem<br/>kincseiddel.<br/>Szentséged szépsége<br/>megújít engem,<br/>Te vagy szerelmesem!</lines>
     </verse>
     <verse name="c1">
-      <lines>Jövök Hozzád, kegyelmedbe,<br/>folyó, mely árad, mosson meg engem!<br/>Tisztítson meg teljesen!<br/>Te vagy szerelmesem!</lines>
+      <lines>Jövök Hozzád,<br/>kegyelmedbe,<br/>folyó, mely árad,<br/>mosson meg engem!<br/>Tisztítson meg teljesen!<br/>Te vagy szerelmesem!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Tisztítson meg teljesen!<br/>Te vagy szerelmesem!</lines>
     </verse>
   </lyrics>
 </song>

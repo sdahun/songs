@@ -83,8 +83,8 @@
   "adj_zengo_eneket/079.xml;v2;5",
   "adj_zengo_eneket/079.xml;v4;3",
 
-  "adj_zengo_eneket/086.xml;v2;4",
-  "adj_zengo_eneket/086.xml;v3;4",
+  "adj_zengo_eneket/086.xml;v2;8",
+  "adj_zengo_eneket/086.xml;v3;8",
 
   "adj_zengo_eneket/087.xml;v2;4",
 
@@ -98,8 +98,8 @@
   "adj_zengo_eneket/089.xml;v2;3",
   "adj_zengo_eneket/089.xml;v3;1",
 
-  "adj_zengo_eneket/091.xml;v2;3",
-  "adj_zengo_eneket/091.xml;v3;3",
+  "adj_zengo_eneket/091.xml;v2;6",
+  "adj_zengo_eneket/091.xml;v3;6",
 
   "adj_zengo_eneket/094.xml;v3;3",
 
@@ -265,11 +265,19 @@
   "dicserem_neved_2/067.xml;v2;3",
   "dicserem_neved_2/067.xml;v2;4",
 
+  "dicserem_neved_2/147.xml;v2;8",
+  "dicserem_neved_2/147.xml;v3;8",
+
   "dicserem_neved_3/002.xml;v2;4",
 
   "dicserem_neved_3/012.xml;v2;1",
 
   "dicserem_neved_3/056.xml;v2;4",
+
+  "dicserem_neved_3/123.xml;v2;1",
+  "dicserem_neved_3/123.xml;v2;2",
+  "dicserem_neved_3/123.xml;v2;3",
+  "dicserem_neved_3/123.xml;v2;4",
 
   "dicserem_neved_4/006.xml;v2;3",
   "dicserem_neved_4/006.xml;v2;6",
@@ -547,7 +555,9 @@
   "hozsanna/138.xml;v4;3",
   "hozsanna/138.xml;v4;5",
 
+  "hozsanna/148.xml;v2;3",
   "hozsanna/148.xml;v2;4",
+  "hozsanna/148.xml;v2;7",
 
   "hozsanna/149.xml;v2;2",
   "hozsanna/149.xml;v2;3",
@@ -561,15 +571,15 @@
   "hozsanna/150.xml;v3;2",
   "hozsanna/150.xml;v3;4",
 
-  "hozsanna/151.xml;v2;4",
-  "hozsanna/151.xml;v3;4",
+  "hozsanna/151.xml;v2;8",
+  "hozsanna/151.xml;v3;8",
 
   "hozsanna/158.xml;v2;1",
   "hozsanna/158.xml;v2;2",
   "hozsanna/158.xml;v2;4",
 
-  "hozsanna/160.xml;v2;3",
-  "hozsanna/160.xml;v3;3",
+  "hozsanna/160.xml;v2;6",
+  "hozsanna/160.xml;v3;6",
 
   "hozsanna/164.xml;v2;1",
   "hozsanna/164.xml;v2;2",
@@ -896,6 +906,20 @@
   "zugloi_enekek/062.xml;v3;5",
   "zugloi_enekek/062.xml;v3;6",
   "zugloi_enekek/062.xml;v3;7",
-  "zugloi_enekek/062.xml;v3;8"
+  "zugloi_enekek/062.xml;v3;8",
+
+  "zugloi_enekek/064.xml;v2;1",
+  "zugloi_enekek/064.xml;v2;3",
+  "zugloi_enekek/064.xml;v2;4",
+
+  "zugloi_enekek/067.xml;v2;1",
+  "zugloi_enekek/067.xml;v2;2",
+  "zugloi_enekek/067.xml;v2;3",
+  "zugloi_enekek/067.xml;v2;5",
+
+  "zugloi_enekek/068.xml;v2;2",
+  "zugloi_enekek/068.xml;v2;4",
+  "zugloi_enekek/068.xml;v2;6",
+  "zugloi_enekek/068.xml;v2;7"
 
 ]

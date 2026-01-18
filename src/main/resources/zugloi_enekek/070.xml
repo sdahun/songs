@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mindenem Övé</title>
+      <title lang="en">I Surrender All</title>
+    </titles>
+    <authors>
+      <author type="music">Winfield Scott Weeden, 1896.</author>
+      <author type="words">Judson Wheeler Van DeVenter, 1896.</author>
+    </authors>
+    <ccliNo>23189</ccliNo>
+    <verseOrder>c1 v1 v2 c1 v3 c1 b1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívem hoztam áldozatul,<br/>Jézus, légy Te benne Úr.<br/>Vágyom melletted maradni<br/>ma és múlhatatlanul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bármim volna, Néked hoztam,<br/>lábaidhoz raktam le.<br/>A világgal múlik minden,<br/>Te megmaradsz örökre.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mindenem Övé,<br/>mindenem Övé!<br/>Testem, lelkem, mindenestül<br/>teljesen Övé!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tölts be igéddel, örömmel,<br/>üdvöm reménységével.<br/>Mennyországod légkörével<br/>mindenestől árassz el!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tied vagyok, szabad vagyok<br/>Szentlélek jöjj a szívembe!<br/>Hogy szeressek és hirdessem<br/>együtt lehetünk kezedben.</lines>
+    </verse>
+  </lyrics>
+</song>

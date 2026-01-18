@@ -2,11 +2,20 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2018-04-01T00:00:00">
   <properties>
     <titles>
-      <title>Megváltva</title>
+      <title>Megváltva!</title>
+      <title lang="en">Redeemed!</title>
     </titles>
+    <authors>
+      <author type="music">Aubrey Lee Butler</author>
+      <author type="words">Fanny Jane Crosby</author>
+      <author type="translation" lang="hu">Nagy József</author>
+    </authors>
+    <copyright>© Words: Public DomainMusic: 1966, 1967 Broadman Press</copyright>
+    <ccliNo>203796</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="141"/>
+      <songbook name="Dicsérem Neved 3" entry="120"/>
     </songbooks>
   </properties>
   <lyrics>

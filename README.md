@@ -36,11 +36,11 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | Énekeskönyv | Feldolgozottság |
 | ----------- | --------------- |
 | [Adj zengő éneket!](https://regi.reformatus.hu/mutat/adj-zengo-neket/) | <meter value="150" max="150" optimum="150" low="45" high="105"></meter> 100% (150/150) |
-| [Baptista gyülekezeti énekeskönyv](https://www.baptistawebshop.hu/shop--p443) | <meter value="9" max="560" optimum="560" low="168" high="392"></meter> 1% (9/560) |
-| [Dicsérem Neved 1](https://yfc.hu/bolt/) | <meter value="18" max="224" optimum="224" low="67" high="156"></meter> 8% (18/224) |
-| [Dicsérem Neved 2](https://yfc.hu/bolt/) | <meter value="46" max="230" optimum="230" low="69" high="161"></meter> 20% (46/230) |
-| [Dicsérem Neved 3](https://yfc.hu/bolt/) | <meter value="6" max="200" optimum="200" low="60" high="140"></meter> 3% (6/200) |
-| [Dicsérem Neved 4](https://yfc.hu/bolt/) | <meter value="4" max="222" optimum="222" low="66" high="155"></meter> 1% (4/222) |
+| [Baptista gyülekezeti énekeskönyv](https://www.baptistawebshop.hu/shop--p443) | <meter value="10" max="560" optimum="560" low="168" high="392"></meter> 1% (10/560) |
+| [Dicsérem Neved 1](https://yfc.hu/bolt/) | <meter value="19" max="224" optimum="224" low="67" high="156"></meter> 8% (19/224) |
+| [Dicsérem Neved 2](https://yfc.hu/bolt/) | <meter value="48" max="230" optimum="230" low="69" high="161"></meter> 20% (48/230) |
+| [Dicsérem Neved 3](https://yfc.hu/bolt/) | <meter value="10" max="200" optimum="200" low="60" high="140"></meter> 5% (10/200) |
+| [Dicsérem Neved 4](https://yfc.hu/bolt/) | <meter value="5" max="222" optimum="222" low="66" high="155"></meter> 2% (5/222) |
 | [Dicsérem Neved 5](https://yfc.hu/bolt/) | <meter value="6" max="225" optimum="225" low="67" high="157"></meter> 2% (6/225) |
 | [Dicsérjük Istent](https://zene.adventista.hu/enekeskonyv/dicserjuk-istent-probaenekeskonyv) | <meter value="5" max="145" optimum="145" low="43" high="101"></meter> 3% (5/145) |
 | [Dúrkönyv](https://durkonyv.hu/) | <meter value="1" max="191" optimum="191" low="57" high="133"></meter> 0% (1/191) |
@@ -49,10 +49,10 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Hozsánna énekes](https://adventista.hu) | <meter value="219" max="219" optimum="219" low="65" high="153"></meter> 100% (219/219) |
 | [Szent András énekfüzet](https://enekfuzet.ujevangelizacio.hu) | <meter value="1" max="340" optimum="340" low="102" high="237"></meter> 0% (1/340) |
 | [Szent az Úr](https://adventista.hu) | <meter value="40" max="40" optimum="40" low="12" high="28"></meter> 100% (40/40) |
-| [Üdv- és adventi énekek](https://yfc.hu/bolt/) | <meter value="45" max="512" optimum="512" low="153" high="358"></meter> 8% (45/512) |
-| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="43" max="100" optimum="100" low="30" high="70"></meter> 43% (43/100) |
+| [Üdv- és adventi énekek](https://yfc.hu/bolt/) | <meter value="47" max="512" optimum="512" low="153" high="358"></meter> 9% (47/512) |
+| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="70" max="100" optimum="100" low="30" high="70"></meter> 70% (70/100) |
 
-A gyűjteményben jelenleg 1142 darab ének található.
+A gyűjteményben jelenleg 1180 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:
