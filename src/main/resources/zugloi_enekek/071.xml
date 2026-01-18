@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mindent kegyelemből - Csak Téged</title>
+    </titles>
+    <authors>
+      <author type="music">Fóris Attila</author>
+      <author type="music">Robert Lowry (1826-1899.)</author>
+      <author type="words">Fóris Attila</author>
+    </authors>
+    <verseOrder>v1 v1 c1 c2 b1 b1 c2 b1 b1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindent kegyelemből<br/>kaptam Tőled, Uram.<br/>Olyan hálás Neked a szívem,<br/>mert megtapasztaltam,<br/>hogy a Te szereteted<br/>elér a szívem legmélyéig.<br/>Hűséged megőrzi utam<br/>velem vagy mindig.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hát dicsérlek most Téged, Istenem<br/>Hozzád szálljon új énekem!<br/>Mert kegyelmed utánam futott<br/>szereteted megváltoztatott.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>És betöltesz békességeddel,<br/>elárasztod lelkem örömmel,<br/>elborítasz szent tüzeddel.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Csak Téged, csakis Téged,<br/>Jézus csakis Téged,<br/>csak Téged kíván lelkem,<br/>Uram, Téged!</lines>
+    </verse>
+  </lyrics>
+</song>

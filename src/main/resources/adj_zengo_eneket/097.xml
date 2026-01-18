@@ -4,10 +4,10 @@
     <titles>
       <title>Ne félj, mert megváltottalak</title>
     </titles>
-    <verseOrder>c1 c1 v1 c1 c1 v2 c1 c1</verseOrder>
     <authors>
       <author type="music">Signum együttes</author>
     </authors>
+    <verseOrder>c1 c1 v1 c1 c1 v2 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="97"/>
       <songbook name="Hozsánna énekes" entry="164"/>
@@ -21,10 +21,10 @@
       <lines>Ne félj, mert megváltottalak,<br/>neveden szólítottalak,<br/>karjaimba zártalak,<br/>örökre Enyém vagy!</lines>
     </verse>
     <verse name="v1">
-      <lines>Viruló réteken át,<br/>hűs forrás felé vezetlek!<br/>Pásztorod vagyok,<br/>elveszni senkit sem hagyok,<br/>karom feléd tárom, kiárad áldásom!<br/>Nem rejtőzöm el, szívem a szívednek felel,<br/>amikor úgy érzed,<br/>nyomaszt az élet.</lines>
+      <lines>Viruló réteken át,<br/>hűs forrás felé vezetlek!<br/>Pásztorod vagyok,<br/>elveszni senkit sem hagyok,<br/>karom feléd tárom,<br/>kiárad áldásom!<br/>Nem rejtőzöm el,<br/>szívem a szívednek felel,<br/>amikor úgy érzed,<br/>nyomaszt az élet.</lines>
     </verse>
     <verse name="v2">
-      <lines>Nem taszítalak el,<br/>amikor vétkezel.<br/>Irgalmat lelsz a szívemben,<br/>örök feléd a hűségem!<br/>Amerre jársz, védlek, nyomodba lépek.<br/>Nem rejtőzöm el, szeretet-lángom átölel!<br/>Ne félj, ha éjben jársz,<br/>hidd, hogy a fény vár rád!</lines>
+      <lines>Nem taszítalak el,<br/>amikor vétkezel.<br/>Irgalmat lelsz a szívemben,<br/>örök feléd a hűségem!<br/>Amerre jársz, védlek,<br/>nyomodba lépek.<br/>Nem rejtőzöm el,<br/>szeretet-lángom átölel!<br/>Ne félj, ha éjben jársz,<br/>hidd, hogy a fény vár rád!</lines>
     </verse>
   </lyrics>
 </song>

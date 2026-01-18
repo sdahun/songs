@@ -95,8 +95,10 @@
   "adj_zengo_eneket/088.xml;v3;4",
 
   "adj_zengo_eneket/089.xml;v2;1",
+  "adj_zengo_eneket/089.xml;v2;2",
   "adj_zengo_eneket/089.xml;v2;3",
   "adj_zengo_eneket/089.xml;v3;1",
+  "adj_zengo_eneket/089.xml;v3;2",
 
   "adj_zengo_eneket/091.xml;v2;6",
   "adj_zengo_eneket/091.xml;v3;6",
@@ -111,8 +113,8 @@
   "adj_zengo_eneket/097.xml;v2;1",
   "adj_zengo_eneket/097.xml;v2;2",
   "adj_zengo_eneket/097.xml;v2;3",
-  "adj_zengo_eneket/097.xml;v2;5",
-  "adj_zengo_eneket/097.xml;v2;8",
+  "adj_zengo_eneket/097.xml;v2;6",
+  "adj_zengo_eneket/097.xml;v2;10",
 
   "adj_zengo_eneket/103.xml;v2;1",
   "adj_zengo_eneket/103.xml;v2;2",
@@ -574,9 +576,9 @@
   "hozsanna/151.xml;v2;8",
   "hozsanna/151.xml;v3;8",
 
-  "hozsanna/158.xml;v2;1",
   "hozsanna/158.xml;v2;2",
-  "hozsanna/158.xml;v2;4",
+  "hozsanna/158.xml;v2;3",
+  "hozsanna/158.xml;v2;8",
 
   "hozsanna/160.xml;v2;6",
   "hozsanna/160.xml;v3;6",
@@ -920,6 +922,9 @@
   "zugloi_enekek/068.xml;v2;2",
   "zugloi_enekek/068.xml;v2;4",
   "zugloi_enekek/068.xml;v2;6",
-  "zugloi_enekek/068.xml;v2;7"
+  "zugloi_enekek/068.xml;v2;7",
+
+  "zugloi_enekek/073.xml;v2;2",
+  "zugloi_enekek/073.xml;v3;2"
 
 ]

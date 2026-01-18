@@ -45,14 +45,15 @@ A gyűjteményben szereplő énekeskönyvek feldolgozottsága és beszerzési le
 | [Dicsérjük Istent](https://zene.adventista.hu/enekeskonyv/dicserjuk-istent-probaenekeskonyv) | <meter value="5" max="145" optimum="145" low="43" high="101"></meter> 3% (5/145) |
 | [Dúrkönyv](https://durkonyv.hu/) | <meter value="1" max="191" optimum="191" low="57" high="133"></meter> 0% (1/191) |
 | [Erőm és énekem az Úr](http://www.harmat.hu/uzlet/erom-es-enekem-az-ur) | <meter value="72" max="143" optimum="143" low="42" high="100"></meter> 50% (72/143) |
+| [Énekeljünk az Úrnak!](https://www.baptistawebshop.hu/shop--p696) | <meter value="1" max="200" optimum="200" low="60" high="140"></meter> 0% (1/200) |
 | [Hitünk énekei](https://adventkiado.hu) | <meter value="477" max="477" optimum="477" low="143" high="333"></meter> 100% (477/477) |
 | [Hozsánna énekes](https://adventista.hu) | <meter value="219" max="219" optimum="219" low="65" high="153"></meter> 100% (219/219) |
 | [Szent András énekfüzet](https://enekfuzet.ujevangelizacio.hu) | <meter value="1" max="340" optimum="340" low="102" high="237"></meter> 0% (1/340) |
 | [Szent az Úr](https://adventista.hu) | <meter value="40" max="40" optimum="40" low="12" high="28"></meter> 100% (40/40) |
 | [Üdv- és adventi énekek](https://yfc.hu/bolt/) | <meter value="47" max="512" optimum="512" low="153" high="358"></meter> 9% (47/512) |
-| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="70" max="100" optimum="100" low="30" high="70"></meter> 70% (70/100) |
+| [Zuglói énekek](https://github.com/sdahun/songs) | <meter value="73" max="100" optimum="100" low="30" high="70"></meter> 73% (73/100) |
 
-A gyűjteményben jelenleg 1180 darab ének található.
+A gyűjteményben jelenleg 1184 darab ének található.
 
 # Támogatott szoftverek
 Az énekszöveg átalakító az alábbi szoftverek számára készít importálható fájlformátumokat:

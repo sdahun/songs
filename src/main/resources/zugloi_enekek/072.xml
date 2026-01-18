@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Mint az asszony</title>
+      <title>Like The Woman</title>
+    </titles>
+    <authors>
+      <author type="words">Rodney Morgan Howard-Bowne</author>
+      <author type="music">Rodney Morgan Howard-Bowne</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <verseOrder>v1 c1 v1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="72"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mint az asszony az Ő ruhája szegélyét,<br/>megragadjuk az Úr jelenlétét,<br/>mint a vak koldus az út szélén,<br/> kiáltunk, s futunk az Úr elé.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És hirtelen egy mennyei kéz megáld,<br/>Jézus az, aki megsegít.<br/>És hirtelen a mennyei erő leszáll,<br/>Jézus jön, s meggyógyít.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézus jön, s meggyógyít.</lines>
+    </verse>
+  </lyrics>
+</song>

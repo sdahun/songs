@@ -3,7 +3,14 @@
   <properties>
     <titles>
       <title>Nagy Király</title>
+      <title lang="en">Majesty</title>
     </titles>
+    <authors>
+      <author type="music">Jack Williams Hayford</author>
+      <author type="words">Jack Williams Hayford</author>
+      <author type="translation" lang="hu">Kulcsár Tibor</author>
+    </authors>
+    <ccliNo>1527</ccliNo>
     <verseOrder>v1 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="161"/>
@@ -12,13 +19,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nagy Király, fenséges Úr, Király,<br/>Isten Fia, tied minden magasztalás!<br/>Szent sereg előtted hajt fejet,<br/>hozsannát zeng: „Te vagy a Szent!” Téged imád.</lines>
+      <lines>Nagy Király,<br/>fenséges Úr, Király,<br/>Isten Fia,<br/>tied minden magasztalás!<br/>Szent sereg<br/>előtted hajt fejet,<br/>hozsannát zeng:<br/>„Te vagy a Szent!” Téged imád.</lines>
     </verse>
     <verse name="c1">
       <lines>Nincs más név!<br/>Te vagy az üdv, az Élet, Jézus.<br/>Megtartónk, Szabadítónk,<br/>csak te vagy a Fény!</lines>
     </verse>
     <verse name="e1">
-      <lines>Nagy Király, imádunk nagy Király!<br/>Hatalom, üdv, áldás, erő, minden Tied!</lines>
+      <lines>Nagy Király,<br/>imádunk nagy Király!<br/>Hatalom, üdv,<br/>áldás, erő, minden Tied!</lines>
     </verse>
   </lyrics>
 </song>

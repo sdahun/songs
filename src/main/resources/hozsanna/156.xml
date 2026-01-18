@@ -3,10 +3,17 @@
   <properties>
     <titles>
       <title>Mint szarvas</title>
+      <title lang="en">As The Deer</title>
     </titles>
+    <authors>
+      <author type="music">Marty Nystrom</author>
+      <author type="words">Marty Nystrom</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="156"/>
+      <songbook name="Adj zengő éneket!" entry="89"/>
     </songbooks>
   </properties>
   <lyrics>
@@ -14,7 +21,7 @@
       <lines>Mint szarvas hűs vízforrásra,<br/>úgy szomjazik lelkem Rád.<br/>Vágyódom az élő Isten után,<br/>hogy mehessek Hozzád.</lines>
     </verse>
     <verse name="c1">
-      <lines>Miért csüggedsz el én lelkem?<br/>Hisz pajzsod Ő és támaszod.<br/>Bízz az Úrban, mert karja megszabadít,<br/>s hálával áldozol.</lines>
+      <lines>Miért csüggedsz el én lelkem?<br/>Hisz pajzsod Ő és támaszod.<br/>Bízz az Úrban,<br/>mert karja megszabadít,<br/>s hálával áldozol.</lines>
     </verse>
   </lyrics>
 </song>

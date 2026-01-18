@@ -3,10 +3,18 @@
   <properties>
     <titles>
       <title>Mindörökké hű az Úr</title>
+      <title lang="en">I Just Came To Praise The Lord</title>
     </titles>
+    <authors>
+      <author type="music">Wayne Romero</author>
+      <author type="words">Wayne Romero</author>
+      <author type="translation" lang="hu">Déri Balázs</author>
+    </authors>
+    <ccliNo>15025</ccliNo>
     <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="157"/>
+      <songbook name="Énekeljünk az Úrnak!" entry="172"/>
     </songbooks>
   </properties>
   <lyrics>

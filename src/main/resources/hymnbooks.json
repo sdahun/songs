@@ -70,6 +70,13 @@
         "url": "http://www.harmat.hu/uzlet/erom-es-enekem-az-ur"
     },
     {
+        "name": "Énekeljünk az Úrnak!",
+        "abbreviation": "F",
+        "folder": "enekeljunk_az_urnak",
+        "count": 200,
+        "url": "https://www.baptistawebshop.hu/shop--p696"
+    },
+    {
         "name": "Hitünk énekei",
         "abbreviation": "H",
         "folder": "hitunk_enekei",

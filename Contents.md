@@ -376,6 +376,12 @@
 | 71. | [Jézus, dicsőség néked](./src/main/resources/erom_es_enekem_az_ur/071.xml) |
 | 72. | [Jézus hű megváltó](./src/main/resources/erom_es_enekem_az_ur/072.xml) |
 
+## Énekeljünk az Úrnak! (/enekeljunk_az_urnak)
+
+| Ssz. | Az ének címe/kezdete |
+| ---: | :------------------- |
+| 172. | [Mindörökké hű az Úr](./src/main/resources/enekeljunk_az_urnak/172.xml) |
+
 ## Hitünk énekei (/hitunk_enekei)
 
 | Ssz. | Az ének címe/kezdete |
@@ -1019,7 +1025,7 @@
 | 155. | [Mint szarvas hűs forrás után](./src/main/resources/hozsanna/155.xml) |
 | 156. | [Mint szarvas](./src/main/resources/hozsanna/156.xml) |
 | 157. | [Mindörökké hű az Úr](./src/main/resources/hozsanna/157.xml) |
-| 158. | [Mit is mondhatnék](./src/main/resources/hozsanna/158.xml) |
+| 158. | [Mit is mondhatnék?](./src/main/resources/hozsanna/158.xml) |
 | 159. | [Most áldalak](./src/main/resources/hozsanna/159.xml) |
 | 160. | [Nagy Istenem](./src/main/resources/hozsanna/160.xml) |
 | 161. | [Nagy Király](./src/main/resources/hozsanna/161.xml) |
@@ -1259,3 +1265,6 @@
 | 68. | [Mily nagy vagy Urunk](./src/main/resources/zugloi_enekek/068.xml) |
 | 69. | [Milyen jó Őt dicsőíteni](./src/main/resources/zugloi_enekek/069.xml) |
 | 70. | [Mindenem Övé](./src/main/resources/zugloi_enekek/070.xml) |
+| 71. | [Mindent kegyelemből - Csak Téged](./src/main/resources/zugloi_enekek/071.xml) |
+| 72. | [Mint az asszony](./src/main/resources/zugloi_enekek/072.xml) |
+| 73. | [Nézz most rá](./src/main/resources/zugloi_enekek/073.xml) |

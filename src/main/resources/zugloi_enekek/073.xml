@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Nézz most rá</title>
+    </titles>
+    <authors>
+      <author type="words">Nagy Beáta</author>
+      <author type="music">Nagy Beáta</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nézz most rá, itt van a perc.<br/>Szólj hozzá, hisz mindig felel.<br/>Hidd el, elfogadja gyönge imád,<br/>Jézus vár, mindig vár rád!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Éld át a Lélek hatalmát!<br/>Ne add fel, hinned kell,<br/>győzelem vár rád!<br/>Lásd Őt, melletted áll,<br/>mert tudnod kell a cél<br/>nincs messze már.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indulj el, fogd meg kezét.<br/>Elkísér, bármerre mész.<br/>Jézus hű barátod, számíthatsz rá,<br/>Megért Ő, szívedbe lát!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Érezd hát, nagyon szeret.<br/>Add át ma életedet.<br/>Nem vagy egyedül a gondjaiddal,<br/>lelkedből szóljon a dal!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Nincs messze már!</lines>
+    </verse>
+  </lyrics>
+</song>
