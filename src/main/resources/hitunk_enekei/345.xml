@@ -4,11 +4,11 @@
     <titles>
       <title>Szent szombat napja üdvözlégy!</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author type="music">Matthews Richards, 1883. (1826-1910.)</author>
       <author type="words">Edmeston James (1791-1867.)</author>
     </authors>
+    <verseOrder>v1 v2 v3</verseOrder>
     <songbooks>
       <songbook name="Hitünk énekei" entry="345"/>
     </songbooks>

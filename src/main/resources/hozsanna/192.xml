@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Szívből köszönöm, Uram</title>
+      <title lang="de">Ich danke meinem Gott</title>
     </titles>
+    <authors>
+      <author type="music">Claude Fraysse</author>
+      <author type="translation" lang="hu">Mikes Attila</author>
+    </authors>
     <verseOrder>v1 v2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="192"/>
@@ -11,10 +16,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szívből köszönöm, Uram, az életet,<br/>mind a jóért, mit oly bőven adtál nekem,<br/>zengek hálaéneket.<br/>Szívből köszönöm, Uram, a békémet,<br/>most hozzád száll az öröm hangjain:<br/>Halleluja.</lines>
+      <lines>Szívből köszönöm, Uram,<br/>az életet,<br/>mind a jóért,<br/>mit oly bőven adtál nekem,<br/>zengek hálaéneket.<br/>Szívből köszönöm, Uram, a békémet,<br/>most hozzád száll az öröm hangjain:<br/>Halleluja.</lines>
     </verse>
     <verse name="v2">
-      <lines>Áldom, dicsérem neved, mert úgy szeretsz,<br/>mikor próbákkal küzdök, Te rám tekintesz,<br/>felém nyújtod szent kezed.<br/>Szívből köszönöm, Uram, az új erőt.<br/>A lelkem hálaimát mond neked:<br/>Halleluja!</lines>
+      <lines>Áldom, dicsérem neved,<br/>mert úgy szeretsz,<br/>mikor próbákkal küzdök,<br/>Te rám tekintesz,<br/>felém nyújtod szent kezed.<br/>Szívből köszönöm, Uram, az új erőt.<br/>A lelkem hálaimát mond neked:<br/>Halleluja!</lines>
     </verse>
   </lyrics>
 </song>

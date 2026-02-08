@@ -630,9 +630,20 @@
   "hozsanna/184.xml;v2;5",
   "hozsanna/184.xml;v2;7",
 
+  "hozsanna/187.xml;v2;2",
+  "hozsanna/187.xml;v2;3",
+  "hozsanna/187.xml;v2;4",
+  "hozsanna/187.xml;v2;5",
+  "hozsanna/187.xml;v2;6",
+  "hozsanna/187.xml;v2;7",
+  "hozsanna/187.xml;v2;8",
+
   "hozsanna/190.xml;v3;3",
 
   "hozsanna/191.xml;v2;1",
+
+  "hozsanna/192.xml;v2;3",
+  "hozsanna/192.xml;v2;4",
 
   "hozsanna/194.xml;v2;3",
 
@@ -952,6 +963,18 @@
   "zugloi_enekek/079.xml;v5;4",
   "zugloi_enekek/079.xml;v5;5",
   "zugloi_enekek/079.xml;v5;7",
-  "zugloi_enekek/079.xml;v5;8"
+  "zugloi_enekek/079.xml;v5;8",
+
+  "zugloi_enekek/081.xml;v2;1",
+  "zugloi_enekek/081.xml;v3;1",
+  "zugloi_enekek/081.xml;v3;2",
+
+  "zugloi_enekek/083.xml;v2;1",
+  "zugloi_enekek/083.xml;v2;3",
+
+  "zugloi_enekek/087.xml;v2;3",
+  "zugloi_enekek/087.xml;v2;4",
+  "zugloi_enekek/087.xml;v2;7",
+  "zugloi_enekek/087.xml;v2;8"
 
 ]

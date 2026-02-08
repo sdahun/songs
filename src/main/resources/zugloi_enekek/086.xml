@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szent vagy örökké</title>
+      <title lang="en">Holy Forever</title>
+    </titles>
+    <authors>
+      <author type="music">Chris Tomlin</author>
+      <author type="music">Jason Ingram</author>
+      <author type="music">Phil Wickham</author>
+      <author type="music">Brian Johnson</author>
+      <author type="music">Jenn Johnson</author>
+    </authors>
+    <ccliNo>7201044</ccliNo>
+    <verseOrder>v1 b1 c1 v2 c1 c2 b1 b1 c1 c2 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leborul mind előtted<br/>sok ezer nemzedék<br/>és éneklik a Bárány énekét.<br/>Kik rég előttünk éltek,<br/>s ki utánunk hisz még,<br/>mind éneklik a Bárány énekét.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>E név csak a méltó,<br/>nincs más, ki hasonló,<br/>e név áll minden név felett!<br/>Legyőzött birodalmak<br/>királyok és hatalmak,<br/>e név áll minden név felett!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Leborul a menny: Szent vagy!<br/>Az egész föld zeng: Szent vagy!<br/>Magasztaltass fel: Szent vagy!<br/>Szent vagy örökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha bűnöd eltörölte<br/>és érted halt meg Ő,<br/>énekeld a Bárány énekét.<br/>Ha segítségül hívtad<br/>és szabaddá tett Ő,<br/>Énekeld a Bárány énekét.<br/>Együtt énekeljük<br/>most és örökké.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Egész néped áld: Szent vagy!<br/>Te uralkodjál: Szent vagy!<br/>Sose változtál: Szent vagy!<br/>Szent vagy örökké!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Sose változtál: Szent vagy!<br/>Szent vagy örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

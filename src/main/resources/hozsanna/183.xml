@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Róla beszél fű, virág</title>
+      <title lang="en">On This Lovely Day</title>
     </titles>
+    <authors>
+      <author type="music">Donovan Philips Leitch</author>
+      <author type="words">Donovan Philips Leitch</author>
+    </authors>
     <verseOrder>v1 v2 c1 c2</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="183"/>

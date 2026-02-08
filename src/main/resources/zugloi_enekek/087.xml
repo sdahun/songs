@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szívem királya</title>
+    </titles>
+    <authors>
+      <author>RANDOM</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 c1 b1 b1 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="87"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Légy a szívem királya,<br/>magas hegy merre futok,<br/>forrás, ha szomjazom!<br/>Ó, csak Neked szól dalom.<br/>Te vagy a szívem királya,<br/>erős fény a sötétben,<br/>a kar mely átölel.<br/>Igen, ma rólad szól dalom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Csak te vagy jó, jó, jó-ó!<br/>Csak veled jó, jó, jó-ó!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Légy a szívem királya,<br/>vitorláim közti szél,<br/>a vihar tövében éneklem<br/>és neked szól dalom.<br/>Te vagy a szívem királya,<br/>égő tűz a szívemben,<br/>a halál elől mentettél meg,<br/>ó, rólad szól dalom.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, soha ne eressz,<br/>Te soha nem eresztesz el.<br/>Ó, soha ne eressz,<br/>Te soha nem eresztesz el.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Légy a szívem királya,<br/>magas hegy merre futok,<br/>forrás, ha szomjazom!<br/>Ó, csak Neked szól dalom.</lines>
+    </verse>
+  </lyrics>
+</song>

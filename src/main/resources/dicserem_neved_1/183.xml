@@ -3,13 +3,13 @@
   <properties>
     <titles>
       <title>Róla beszél fű, virág</title>
-      <title>On This Lovely Day</title>
+      <title lang="en">On This Lovely Day</title>
     </titles>
-    <verseOrder>v1 v2 e1 e2</verseOrder>
     <authors>
       <author type="music">Donovan Philips Leitch</author>
       <author type="words">Donovan Philips Leitch</author>
     </authors>
+    <verseOrder>v1 v2 c1 c2</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 1" entry="183"/>
       <songbook name="Adj zengő éneket!" entry="114"/>
@@ -21,12 +21,12 @@
       <lines>Róla beszél fű, virág,<br/>verebek és pacsirták,<br/>rügyező és lombos fák,<br/>a simogató szél.</lines>
     </verse>
     <verse name="v2">
-      <lines>Énekel a tarka rét,<br/>patak, folyó, vízesés,<br/>napsütéses kéklő ég:<br/>„Ő a békesség!”.</lines>
+      <lines>Énekel a tarka rét,<br/>patak, folyó, vízesés,<br/>napsütéses kéklő ég:<br/>„Ő a békesség!”</lines>
     </verse>
-    <verse name="e1">
+    <verse name="c1">
       <lines>Érzem én is jóságát,<br/>szeretete illatát.<br/>Béke legyen mindenkivel,<br/>nála öröm vár!</lines>
     </verse>
-    <verse name="e2">
+    <verse name="c2">
       <lines>Na-na-na-na na-na-na,<br/>na-na-na-na na-na-na.<br/>Béke legyen mindenkivel,<br/>Jézus Úr, Király!</lines>
     </verse>
   </lyrics>

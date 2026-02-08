@@ -3,26 +3,32 @@
   <properties>
     <titles>
       <title>Szent az Úr</title>
+      <title lang="en">Great Are You, Lord</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author type="music">Vikki Cook</author>
       <author type="words">Steve Cook</author>
       <author type="translation" lang="hu">Szilvási Ágota</author>
     </authors>
+    <copyright>© 1984 Universal Music - Brentwood Benson Publishing</copyright>
+    <ccliNo>26863</ccliNo>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Szent az Úr" entry="35"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szent az Úr, ki teremtett<br/>eget, földet, tengert, vizeket.<br/>S kezével formált engemet,<br/>s adott nekem életet.<br/>Felséges Úr! Áldva legyél!<br/>Feláldoztad az életed az emberért.</lines>
+      <lines>Szent az Úr, ki teremtett<br/>eget, földet, tengert, vizeket.<br/>S kezével formált engemet,<br/>s adott nekem életet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Felséges Úr! Áldva legyél!<br/>Feláldoztad az életed az emberért.</lines>
     </verse>
     <verse name="v2">
-      <lines>Szent Uram, ó, Jézusom,<br/>életemet néked átadom,<br/>hogy formáld azt is kedvedre,<br/>neved dicséretére.<br/>Felséges Úr! Áldva legyél!<br/>Feláldoztad az életed az emberért.</lines>
+      <lines>Szent Uram, ó, Jézusom,<br/>életemet néked átadom,<br/>hogy formáld azt is kedvedre,<br/>neved dicséretére.</lines>
     </verse>
     <verse name="v3">
-      <lines>Szóljon hát a dicséret;<br/>egész lényem, szívem, értelmem,<br/>zengjen a lelkem háladalt<br/>a kereszt árnyékában.<br/>Felséges Úr! Áldva legyél!<br/>Feláldoztad az életed az emberért.</lines>
+      <lines>Szóljon hát a dicséret;<br/>egész lényem, szívem, értelmem,<br/>zengjen a lelkem háladalt<br/>a kereszt árnyékában.</lines>
     </verse>
   </lyrics>
 </song>

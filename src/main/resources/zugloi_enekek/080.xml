@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Örvendj, világ!</title>
+      <title lang="en">Joy to the World</title>
+    </titles>
+    <authors>
+      <author type="music">Georg Friedrich Händel</author>
+      <author type="translation" lang="hu">Kőrösi Béla</author>
+    </authors>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="80"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendj, világ: az Úr lejött!<br/>Fogadd a nagy Királyt!<br/>Szíved kitárd, várd készen Őt!<br/>És zengj most glóriát,<br/>zengj ég, föld, glóriát,<br/>és zengj, és zengj most glóriát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus az Úr, a Megváltó!<br/>Harsogjon énekünk!<br/>Patak és rét, hegy, völgy bérc, tó,<br/>Zengd hát ma örömünk,<br/>zengd ma nagy örömünk,<br/>zengd hát, zengd hát nagy örömünk!</lines>
+    </verse>
+  </lyrics>
+</song>

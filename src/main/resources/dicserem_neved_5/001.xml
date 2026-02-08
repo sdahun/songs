@@ -4,11 +4,14 @@
     <titles>
       <title>A kegyelmed köszönöm Neked</title>
     </titles>
-    <verseOrder>v1 c1</verseOrder>
     <authors>
-      <author type="music">Mike és Marika Payne</author>
-      <author type="words">Simics Ákos</author>
+      <author type="music">Michael Payne</author>
+      <author type="words">Michael Payne</author>
+      <author type="music">Marika Payne</author>
+      <author type="words">Marika Payne</author>
+      <author type="translation" lang="hu">Simics Ákos</author>
     </authors>
+    <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 5" entry="1"/>
       <songbook name="Adj zengő éneket!" entry="2"/>
@@ -22,7 +25,7 @@
       <lines>Semmim sem volt nekem,<br/>amíg nem jöttél, Istenem!<br/>Most megvan végre mindenem,<br/>mert gazdaggá tett a kegyelem!</lines>
     </verse>
     <verse name="c1">
-      <lines>Mert kegyelmedből nekem adtad magad,<br/>most szemtől szembe láthatlak.<br/>Mert kegyelmedből lettem gyermeked,<br/>a kegyelmed köszönöm Neked!<br/>A kegyelmed köszönöm Neked!</lines>
+      <lines>Mert kegyelmedből<br/>nekem adtad magad,<br/>most szemtől-szembe<br/>láthatlak.<br/>Mert kegyelmedből<br/>lettem gyermeked,<br/>a kegyelmed köszönöm Neked!<br/>A kegyelmed köszönöm Neked!</lines>
     </verse>
   </lyrics>
 </song>

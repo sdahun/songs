@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Romokból életet</title>
+      <title lang="en">Glorious Ruins</title>
+    </titles>
+    <authors>
+      <author type="music">Joel Houston</author>
+      <author type="music">Matt Crocker</author>
+      <author type="translation" lang="hu">Gangel Adorján</author>
+    </authors>
+    <ccliNo>6514059</ccliNo>
+    <verseOrder>v1 b1 c1 v2 b1 c1 b1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha hegyek zúgnak,<br/>viharok dúlnak, itt vagy velem.<br/>A test elmúlhat,<br/>a Te irgalmad őrzi lelkem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ha tűzön viszel át,<br/>szívem csak Téged áld,<br/>lelkem részévé válik tervednek.<br/>Nézlek a keresztfán,<br/>ahogy minden hibám<br/>eltűnik kegyelmed fényében.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A romokból életet<br/>fakaszt dicsőséged,<br/>kiemel a mélységből,<br/>ezért áldlak Téged!<br/>Te vagy lelkem menedéke,<br/>betakarnak szárnyaid,<br/>Uram, szeretlek Téged,<br/>dicsérlek örökké!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bármi történjen,<br/>ígéretedben bízzon lelkem.<br/>Ha elgyengülnék,<br/>benned új reményt talál szívem.</lines>
+    </verse>
+  </lyrics>
+</song>

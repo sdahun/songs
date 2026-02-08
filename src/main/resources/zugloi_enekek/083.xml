@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Rád építem az életem</title>
+      <title lang="en">Build My Life</title>
+    </titles>
+    <authors>
+      <author type="music">Brett Younker</author>
+      <author type="music">Karl Martin</author>
+      <author type="music">Kirby Elizabeth Kaple</author>
+      <author type="music">Matt Redman</author>
+      <author type="music">Pat Barrett</author>
+      <author type="translation" lang="hu">Molnár Illés</author>
+    </authors>
+    <ccliNo>7070345</ccliNo>
+    <verseOrder>v1 v2 c1 v1 c1 b1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Méltó vagy minden dalra,<br/>amit éneklünk,<br/>minden dicséretre,<br/>amit zenghetünk.<br/>Méltó vagy arra, hogy<br/>Érted éljünk, csak Teérted.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus az egyetlen,<br/>minden név felett,<br/>Jézus csak te vagy,<br/>aki megmenthet.<br/>Méltó vagy arra, hogy<br/>Érted éljek, csak Teérted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy,<br/>Rajtad kívül nincs más,<br/>Tőled jön az áldás,<br/>hadd csodáljam jelenléted.<br/>Ó, kérlek,<br/>hadd lássalak Téged,<br/>töltsd belém Szentlelked,<br/>hadd szeressek úgy, ahogy Te.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szeretetedre építem az életem,<br/>csak Rád nézek!<br/>Megtart engem erős kezed,<br/>biztos szikla, bízom Benned!</lines>
+    </verse>
+  </lyrics>
+</song>

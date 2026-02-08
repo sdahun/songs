@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ősi szó</title>
+      <title lang="en">Ancient Words</title>
+    </titles>
+    <authors>
+      <author type="music">Lynn DeShazo</author>
+    </authors>
+    <ccliNo>2986399</ccliNo>
+    <verseOrder>v1 v2 c1 v3 v4 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="81"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent szavak nem változnak,<br/>útjelzők a világnak,<br/>nem téved el a vándor sem,<br/>az Ősi Szó hadd vezessen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Ősi Szó ad életet,<br/>reménység a szívednek,<br/>ha szétnézel, oly sok az út,<br/>ki rá hallgat az hazajut.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ősi Szó ma is igaz,<br/>az életed megváltozhat!<br/>Ősi Szó most tégy csodát,<br/>a szívünk lelked járja át!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szent szavak sok harcon át<br/>jutottak el hozzánk,<br/>e szavakból sarjad a hit,<br/>ó, hallgasd Jézus szavait!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent Szavak nem változnak,<br/>útjelzők a világnak,<br/>fogadd el az áldozatot,<br/>mit Jézus érted is hozott!</lines>
+    </verse>
+  </lyrics>
+</song>

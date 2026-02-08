@@ -4,7 +4,11 @@
     <titles>
       <title>Röpke fohász</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Gável András</author>
+      <author type="music">Gável András</author>
+    </authors>
+    <verseOrder>c1 v1 c1 v2 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="184"/>
     </songbooks>
@@ -18,6 +22,9 @@
     </verse>
     <verse name="v2">
       <lines>Nem vagyok egyedül az úton,<br/>léptem vezeti Ő.<br/>Otthonom, a bajban segítőm.<br/>Testvérem arcán látom,<br/>Jézus hű barátom.<br/>Kegyelméből élek én,<br/>megnyugszom kezén.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Röpke fohászként száll a dal.</lines>
     </verse>
   </lyrics>
 </song>

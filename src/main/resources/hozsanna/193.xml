@@ -4,6 +4,9 @@
     <titles>
       <title>Szívem csendben az Úrra figyel</title>
     </titles>
+    <authors>
+      <author type="translation" lang="hu">Cseri Kálmán</author>
+    </authors>
     <verseOrder>v1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="193"/>
@@ -11,7 +14,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Szívem csendben az Úrra figyel, ki segít,<br/>szívem csendben az Úrra figyel, ki segít,<br/>szívem csendben az Úrra figyel.</lines>
+      <lines>Szívem csendben<br/>az Úrra figyel, ki segít,<br/>szívem csendben<br/>az Úrra figyel, ki segít,<br/>szívem csendben az Úrra figyel.</lines>
     </verse>
   </lyrics>
 </song>

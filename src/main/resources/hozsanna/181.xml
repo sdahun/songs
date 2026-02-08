@@ -4,6 +4,10 @@
     <titles>
       <title>Rád bízom</title>
     </titles>
+    <authors>
+      <author type="music">Vándor Gyula</author>
+      <author type="words">Vándor Gyula</author>
+    </authors>
     <verseOrder>v1 v2 v3 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="181"/>
@@ -21,7 +25,7 @@
       <lines>Reménység, reménység,<br/>a holnap felől is reménység!<br/>Reménység, reménység,<br/>megtart, ha jön a kétség.<br/>Fény lesz ott, ahol ma sötétség,<br/>élet ott, ahol ma reménytelenség!<br/>Ezért hát: reménység, reménység,<br/>a holnap felől is reménység!<br/>Reménység, reménység,<br/>megtart, ha jön a kétség.</lines>
     </verse>
     <verse name="e1">
-      <lines>Dicsérünk, dicsérünk,<br/>mi téged Jézusunk, dicsérünk!<br/>Dicsérünk, dicsérünk és áldunk, halleluja!</lines>
+      <lines>Dicsérünk, dicsérünk,<br/>mi téged Jézusunk, dicsérünk!<br/>Dicsérünk, dicsérünk<br/>és áldunk, halleluja!</lines>
     </verse>
   </lyrics>
 </song>

@@ -19,17 +19,18 @@
     <songbooks>
       <songbook name="Hozsánna énekes" entry="187"/>
       <songbook name="Szent András énekfüzet" entry="160"/>
+      <songbook name="Zuglói énekek" entry="82"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Csak pillanat létünk, Te örökké Úr vagy,<br/>Ura elmúlt koroknak, Isten minden előtt.<br/>Csak páraként élünk, míg Te változás nélkül<br/>a mennyben uralkodva örökké szeretsz!</lines>
+      <lines>Csak pillanat létünk,<br/>Te örökké Úr vagy,<br/>Ura elmúlt koroknak,<br/>Isten minden előtt.<br/>Csak páraként élünk,<br/>míg Te változás nélkül<br/>a mennyben uralkodva<br/>örökké szeretsz!</lines>
     </verse>
     <verse name="c1">
-      <lines>Szent vagy, szent vagy, Mindenható Úr<br/>Méltó Bárány, megölettél!<br/>Minden áldás és tisztesség<br/>Hadd legyen tiéd, hadd legyen Tiéd!</lines>
+      <lines>Szent vagy, szent vagy,<br/>Mindenható Úr!<br/>Méltó Bárány,<br/>megölettél!<br/>Minden áldás<br/>és tisztesség<br/>hadd legyen tiéd,<br/>hadd legyen Tiéd!</lines>
     </verse>
     <verse name="v2">
-      <lines>Ha megtörne testünk, gyógyulást adsz majd<br/>Jézus Megváltó, Üdvözítő!<br/>Szerelmes dal vagy mely szívünkből zendül,<br/>hódolunk Néked, áldjuk neved!</lines>
+      <lines>Ha megtörne testünk,<br/>gyógyulást adsz majd<br/>Jézus Megváltó,<br/>Üdvözítő!<br/>Szerelmes dal vagy,<br/>mely szívünkből zendül,<br/>hódolunk Néked,<br/>áldjuk neved!</lines>
     </verse>
   </lyrics>
 </song>

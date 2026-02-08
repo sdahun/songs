@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Reménységem</title>
+    </titles>
+    <authors>
+      <author type="music">Pintér Béla</author>
+      <author type="words">Pintér Béla</author>
+    </authors>
+    <verseOrder>v1 v2 c1 c1 v3 v3 b1 c1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="84"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Távol kerültem jelenlétedtől,<br/>nem volt remény, hogy elérjelek.<br/>Kétségbe esve kerestem arcod,<br/>segítségül hívtam neved.<br/>Szerelmed áttört a sötétségen,<br/>megérintetted lelkemet.<br/>Ott, a kereszten<br/>meghaltál értem,<br/>minden elvégeztetett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felfoghatatlan, szerelmes Isten,<br/>ki érthetné meg szándékait.<br/>Dicsőségéről lemondott értem,<br/>magára véve bűneim.<br/>Meg lett bocsátva az összes vétkem,<br/>saját fiának hív engem.<br/>Csodás Megváltóm,<br/>mit is mondhatnék,<br/>benned van reménységem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, dicsérem az egyetlent!<br/>Halleluja, mindenért, mit értem tett!<br/>Semmi nem tart fogva már,<br/>elszakítva minden lánc<br/>Jézusban van a győzelmem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljött az a reggel, összetört teste<br/>a sír mélyéből életre kelt.<br/>Az első lélegzet már azt hirdette:<br/>Az élet győz a halál felett!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jézus győzött a halál felett!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jézusban van a győzelmem!<br/>Jézusban van a győzelmem!</lines>
+    </verse>
+  </lyrics>
+</song>

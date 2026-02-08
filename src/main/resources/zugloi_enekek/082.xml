@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Percek a földön</title>
+      <title lang="en">Be Unto Your Name</title>
+    </titles>
+    <authors>
+      <author type="music">Gary Sadler</author>
+      <author type="music">Gary Sadler</author>
+      <author type="words">Lynn DeShazo</author>
+      <author type="music">Lynn DeShazo</author>
+      <author type="translation" lang="hu">Ősz-Farkas Krisztina</author>
+    </authors>
+    <copyright>© 1998 Integrity's Hosanna! Music</copyright>
+    <ccliNo>2177476</ccliNo>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="82"/>
+      <songbook name="Hozsánna énekes" entry="187"/>
+      <songbook name="Szent András énekfüzet" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Percek a földön,<br/>Úr vagy örökkön.<br/>Korszak királya,<br/>idők Ura.<br/>Harmat a földön,<br/>felszáll, ha eljön,<br/>szeretet árad<br/>mosolyán át.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy –<br/>szól angyal hangja.<br/>Méltó vagy,<br/>mert Bárány lettél.<br/>Menny, föld, tenger,<br/>s minden teremtmény<br/>térdre hull Eléd,<br/>térdre hull Eléd.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megtörten, földön,<br/>gyógyíts meg, Őrzőm,<br/>Jézus, Megváltóm,<br/>Úr, megmentőm.<br/>Ének a földön,<br/>dal szerelemről,<br/>dallam, mely szól majd,<br/>Rólad, Uram.</lines>
+    </verse>
+  </lyrics>
+</song>
