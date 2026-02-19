@@ -16,7 +16,7 @@
       <author type="translation" lang="hu">Dobrocsi Gábor</author>
     </authors>
     <ccliNo>7136201</ccliNo>
-    <verseOrder>v1 v2 c1 v3 c1 b1 b1 b1 c1 c1 v1</verseOrder>
+    <verseOrder>v1 v2 c1 v3 c1 c1 b1 b1 b1 c1 c1 v1</verseOrder>
     <songbooks>
       <songbook name="Zuglói énekek" entry="45"/>
     </songbooks>
@@ -35,7 +35,7 @@
       <lines>Hatalmas neved kimondom, Jézus,<br/>a félelem és szorongás felett,<br/>a csüggedés vermében<br/>szenvedőkért.<br/>Hívlak Jézus!</lines>
     </verse>
     <verse name="b1">
-      <lines>A hegytetőkről zengjen,<br/>az utcán hirdessék!<br/>A sötétségen át kiáltsuk<br/>Jézus nagy nevét!<br/>Az egész családomra<br/>ragyogjon fel e név: Jézus!</lines>
+      <lines>A hegytetőkről zengjen,<br/>az utcán hirdessék!<br/>A sötétségen át kiáltsuk<br/>Jézus nagy nevét!<br/>Egész családomra<br/>ragyogjon fel e név: Jézus!</lines>
     </verse>
   </lyrics>
 </song>

@@ -3,17 +3,18 @@
   <properties>
     <titles>
       <title>Te csak az Istennek országát keresd</title>
-      <title>Seek Ye First the Kingdom of God</title>
+      <title lang="en">Seek Ye First the Kingdom of God</title>
     </titles>
-    <copyright>1972 CCCM Music Universal Music - Brentwood Benson Publishing</copyright>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
-    <ccliNo>1352</ccliNo>
     <authors>
       <author type="music">Karen Lafferty</author>
       <author type="words">Karen Lafferty</author>
     </authors>
+    <copyright>1972 CCCM Music Universal Music - Brentwood Benson Publishing</copyright>
+    <ccliNo>1352</ccliNo>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <songbooks>
       <songbook name="Adj zengő éneket!" entry="127"/>
+      <songbook name="Hozsánna énekes" entry="195"/>
     </songbooks>
     <themes>
       <theme>Mt 6,33</theme>
@@ -21,16 +22,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Te csak az Istennek országát keresd,<br/>és az Ő nagy igazságát!<br/>Minden egyéb megadatik majd neked,<br/>halleluja, halleluja!</lines>
+      <lines>Te csak az Istennek<br/>országát keresd,<br/>és az Ő<br/>nagy igazságát!<br/>Minden egyéb megadatik<br/>majd neked,<br/>halleluja,<br/>halleluja!</lines>
     </verse>
     <verse name="v2">
-      <lines>Kérd bízva és gondod elűzi neked,<br/>keresd és meg fogod lelni!<br/>Zörgess az ajtón és megnyílik neked,<br/>halleluja, halleluja!</lines>
+      <lines>Kérd bízva és gondod<br/>elűzi neked,<br/>keresd és<br/>meg fogod lelni!<br/>Zörgess az ajtón és<br/>megnyílik neked,<br/>halleluja,<br/>halleluja!</lines>
     </verse>
     <verse name="v3">
-      <lines>Istenünk, itt hozzuk Néked mindenünk,<br/>itt állunk, várunk Rád újra!<br/>Kérünk, hogy hallgasd meg hálaénekünk,<br/>halleluja, halleluja!</lines>
+      <lines>Istenünk, itt hozzuk<br/>Néked mindenünk,<br/>itt állunk,<br/>várunk Rád újra!<br/>Kérünk, hogy hallgasd meg<br/>hálaénekünk,<br/>halleluja,<br/>halleluja!</lines>
     </verse>
     <verse name="v4">
-      <lines>Halleluja, hallelu-, halleluja,<br/>halleluja, halleluja!<br/>Halleluja, hallelu-, halleluja,<br/>halleluja, halleluja!</lines>
+      <lines>Halleluja, hallelu-,<br/>halleluja,<br/>halleluja,<br/>halleluja!<br/>Halleluja, hallelu-,<br/>halleluja,<br/>halleluja,<br/>halleluja!</lines>
     </verse>
   </lyrics>
 </song>

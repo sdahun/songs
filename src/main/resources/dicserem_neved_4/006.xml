@@ -6,15 +6,15 @@
       <title>Zene nem szól már</title>
       <title>The heart of worship</title>
     </titles>
-    <copyright>© 1999 Thankyou Music</copyright>
-    <verseOrder>v1 c1 c2 v2 c1 c2 e1 e1</verseOrder>
-    <ccliNo>2296522</ccliNo>
     <authors>
       <author type="words">Matt Redman</author>
       <author type="music">Matt Redman</author>
       <author type="translation" lang="hu">Varga Eszter</author>
       <author type="translation" lang="hu">Bagyinszky Judit</author>
     </authors>
+    <copyright>© 1999 Thankyou Music</copyright>
+    <ccliNo>2296522</ccliNo>
+    <verseOrder>v1 c1 c2 v2 c1 c2 e1 e1</verseOrder>
     <songbooks>
       <songbook name="Dicsérem Neved 4" entry="6"/>
       <songbook name="Hozsánna énekes" entry="15"/>

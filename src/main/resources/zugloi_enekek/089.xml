@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szóljon az ének</title>
+      <title>Ancient of Days</title>
+    </titles>
+    <authors>
+      <author>Gary Sadler</author>
+      <author>Jamie Harvill</author>
+    </authors>
+    <ccliNo>798108</ccliNo>
+    <verseOrder>c1 v1 c1 v1 b1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="89"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Szóljon az ének, áldás, dicséret,<br/>Néked, örökkévaló!<br/>Nemzetek, népek, ifjak és vének,<br/>imádjanak Mindenható!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hirdessék Neved fenségét<br/>mennyen és földön,<br/>énekeljék, hogy: szent az Úr,<br/>örökkön!<br/>Zengjék egy szívvel hatalmad,<br/>mert jó és<br/>kegyelmes vagy mi Istenünk,<br/>ó, Mindenható!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Királyságod megáll örökké,<br/>trónszéked nem mozdul el.<br/>S a nép, amelyet teremtettél,<br/>magasztalja nagy nevedet!</lines>
+    </verse>
+  </lyrics>
+</song>

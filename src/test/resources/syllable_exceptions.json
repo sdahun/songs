@@ -147,6 +147,17 @@
 
   "adj_zengo_eneket/119.xml;v3;6",
 
+  "adj_zengo_eneket/127.xml;v2;5",
+  "adj_zengo_eneket/127.xml;v2;6",
+  "adj_zengo_eneket/127.xml;v3;5",
+  "adj_zengo_eneket/127.xml;v3;6",
+  "adj_zengo_eneket/127.xml;v4;1",
+  "adj_zengo_eneket/127.xml;v4;2",
+  "adj_zengo_eneket/127.xml;v4;3",
+  "adj_zengo_eneket/127.xml;v4;4",
+  "adj_zengo_eneket/127.xml;v4;5",
+  "adj_zengo_eneket/127.xml;v4;6",
+
   "adj_zengo_eneket/128.xml;v2;1",
   "adj_zengo_eneket/128.xml;v2;4",
 
@@ -647,14 +658,20 @@
 
   "hozsanna/194.xml;v2;3",
 
+  "hozsanna/195.xml;v2;4",
+  "hozsanna/195.xml;v2;5",
+  "hozsanna/195.xml;v3;4",
+  "hozsanna/195.xml;v3;5",
+
   "hozsanna/197.xml;v2;1",
   "hozsanna/197.xml;v2;2",
   "hozsanna/197.xml;v2;4",
   "hozsanna/197.xml;v2;6",
 
-  "hozsanna/200.xml;v2;2",
+  "hozsanna/200.xml;v2;3",
   "hozsanna/200.xml;v2;4",
-  "hozsanna/200.xml;v2;6",
+  "hozsanna/200.xml;v2;7",
+  "hozsanna/200.xml;v2;12",
 
   "hozsanna/203.xml;v2;1",
   "hozsanna/203.xml;v2;2",
@@ -975,6 +992,16 @@
   "zugloi_enekek/087.xml;v2;3",
   "zugloi_enekek/087.xml;v2;4",
   "zugloi_enekek/087.xml;v2;7",
-  "zugloi_enekek/087.xml;v2;8"
+  "zugloi_enekek/087.xml;v2;8",
+
+  "zugloi_enekek/094.xml;v2;1",
+  "zugloi_enekek/094.xml;v2;2",
+  "zugloi_enekek/094.xml;v2;5",
+
+  "zugloi_enekek/095.xml;v2;1",
+  "zugloi_enekek/095.xml;v2;3",
+  "zugloi_enekek/095.xml;v2;4",
+  "zugloi_enekek/095.xml;v2;5",
+  "zugloi_enekek/095.xml;v2;6"
 
 ]

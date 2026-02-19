@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Te vagy váltságom</title>
+      <title lang="en">Rock Of My Salvation</title>
+    </titles>
+    <authors>
+      <author type="music">Teresa Mueller</author>
+      <author type="words">Teresa Mueller</author>
+    </authors>
+    <ccliNo>30756</ccliNo>
+    <verseOrder>v1 c1 v1 c1 e1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="91"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy váltságom és menedékem,<br/>és életem ereje.<br/>Te vagy reményem és kútforrásom,<br/>Uram, Hozzád jövök én.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Benned ó Uram, Benned hiszek,<br/>hisz Te vagy a szeretet.<br/>Segítesz Uram a szükségben,<br/>csak Hozzád jöhetek én.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Csak Hozzád jöhetek én.</lines>
+    </verse>
+  </lyrics>
+</song>

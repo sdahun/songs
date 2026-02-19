@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Ígéretek</title>
+    </titles>
+    <authors>
+      <author>RANDOM</author>
+    </authors>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 b1 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="94"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ábrahámnak Istene,<br/>szövetségesem,<br/>hűséged követ,<br/>az ég nem lát olyat,<br/>hogy porba hull szavad,<br/>megáll ígéreted.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Ha vihar támad,<br/>a szél nem fárad.<br/>Nem remeg szívem,<br/>szavad hozzám szól.<br/>Lelkem tudja jól,<br/>abból élet lesz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nagy a te hűséged hozzám!<br/>Nagy a te hűséged hozzám!<br/>Szól a dicséret,<br/>ha a nap ébred,<br/>s míg az éj leszáll<br/>nagy a te hűséged hozzám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örök időkön át<br/>ha szerte hull is a világ,<br/>szavad ugyanaz.<br/>A múlt tanúskodik,<br/>hatalmad nem változik:<br/>ki voltál, az maradsz.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Csak benned bízom, Jézus!<br/>Te nem hagysz el soha!<br/>Szívemnek biztos horgony<br/>a menny minden szava.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Teremtő jó Atyánk</title>
+      <title lang="en">In His Time</title>
+    </titles>
+    <authors>
+      <author type="music">Diane Ball</author>
+      <author type="words">Diane Ball</author>
+    </authors>
+    <copyright>© by Maranatha! Music</copyright>
+    <ccliNo>25981</ccliNo>
+    <verseOrder>v1 v2</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="93"/>
+      <songbook name="Hozsánna énekes" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teremtő jó Atyánk,<br/>mennyi szépséggel gondolt miránk!<br/>Mindent bölcsen alkotott,<br/>adott hat munkanapot,<br/>értünk áldotta meg a<br/>szombatot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyugalom, boldogság,<br/>öröm tölti be az Úr napját.<br/>Uram, mutasd meg nekem<br/>ezen áldott ünnepen,<br/>milyen boldogító a<br/>kegyelem.</lines>
+    </verse>
+  </lyrics>
+</song>

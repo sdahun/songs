@@ -3,24 +3,32 @@
   <properties>
     <titles>
       <title>Te csak az Istennek</title>
+      <title lang="en">Seek Ye First the Kingdom of God</title>
     </titles>
+    <authors>
+      <author type="music">Karen Lafferty</author>
+      <author type="words">Karen Lafferty</author>
+    </authors>
+    <copyright>1972 CCCM Music Universal Music - Brentwood Benson Publishing</copyright>
+    <ccliNo>1352</ccliNo>
     <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="195"/>
+      <songbook name="Adj zengő éneket!" entry="127"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Te csak az Istennek országát keresd<br/>és az Ő nagy igazságát,<br/>minden egyéb megadatik majd neked.<br/>Halleluja, halleluja.</lines>
+      <lines>Te csak az Istennek<br/>országát keresd<br/>és az Ő nagy igazságát,<br/>minden egyéb<br/>megadatik majd neked.<br/>Halleluja, halleluja.</lines>
     </verse>
     <verse name="c1">
       <lines>Halleluja,<br/>halleluja,<br/>halleluja,<br/>halleluja.</lines>
     </verse>
     <verse name="v2">
-      <lines>Kérd bízva és gondod elűzi neked,<br/>keresd és meg fogod lelni,<br/>zörgess az ajtón és megnyílik neked.<br/>Halleluja, halleluja.</lines>
+      <lines>Kérd bízva és gondod<br/>elűzi neked,<br/>keresd és meg fogod lelni,<br/>zörgess az ajtón<br/>és megnyílik neked.<br/>Halleluja, halleluja.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ragyogja be fényed az embereket,<br/>hogy meglássák dicsőségét<br/>és áldjuk együtt Atyánkat a mennyben.<br/>Halleluja, halleluja.</lines>
+      <lines>Ragyogja be fényed<br/>az embereket,<br/>hogy meglássák dicsőségét<br/>és áldjuk együtt<br/>Atyánkat a mennyben.<br/>Halleluja, halleluja.</lines>
     </verse>
   </lyrics>
 </song>

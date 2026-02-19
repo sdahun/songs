@@ -3,7 +3,12 @@
   <properties>
     <titles>
       <title>Tied a dicsőség</title>
+      <title lang="en">There Is No One Else Like You</title>
     </titles>
+    <authors>
+      <author type="music">Terry McAlmon</author>
+      <author type="words">Terry McAlmon</author>
+    </authors>
     <verseOrder>v1 c1 e1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="202"/>
@@ -12,7 +17,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Tied a dicsőség és imádat!<br/>Felemeljük kezeinket és dicsérjük szent neved!<br/>Tied a dicsőség és imádat!<br/>Felemeljük kezeinket és dicsérjük szent neved!</lines>
+      <lines>Tied a dicsőség<br/>és imádat!<br/>Felemeljük kezeinket<br/>és dicsérjük szent neved!<br/>Tied a dicsőség<br/>és imádat!<br/>Felemeljük kezeinket<br/>és dicsérjük szent neved!</lines>
     </verse>
     <verse name="c1">
       <lines>Ó, hatalmas,<br/>keze nagy csodákat tesz,<br/>vele senki nem ér fel!<br/>Vele senki nem ér fel!<br/>Ó, hatalmas,<br/>keze nagy csodákat tesz,<br/>vele senki nem ér fel!<br/>Vele senki nem ér fel!</lines>

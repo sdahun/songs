@@ -3,7 +3,13 @@
   <properties>
     <titles>
       <title>Teljes szívből</title>
+      <title lang="en">You're Worthy Of My Praise</title>
     </titles>
+    <authors>
+      <author type="words">David Ruis</author>
+      <author type="music">David Ruis</author>
+    </authors>
+    <ccliNo>487976</ccliNo>
     <verseOrder>v1 c1 v2 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="200"/>
@@ -11,13 +17,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Teljes szívből (Teljes szívből)<br/>áldom neved! (áldom neved!)<br/>Teljes lényem (Teljes lényem)<br/>zeng dicséretet. (zeng dicséretet.)<br/>Hozzád vágyom (Hozzád vágyom)<br/>minden napon, (minden napon,)<br/>hűen járok (hűen járok)<br/>az utaidon, minden utadon.</lines>
+      <lines>Teljes szívből<br/>(Teljes szívből)<br/>áldom neved!<br/>(áldom neved!)<br/>Teljes lényem<br/>(Teljes lényem)<br/>zeng dicséretet.<br/>(zeng dicséretet.)<br/>Hozzád vágyom<br/>(Hozzád vágyom)<br/>minden napon,<br/>(minden napon,)<br/>hűen járok<br/>(hűen járok)<br/>az utaidon,<br/>minden utadon.</lines>
     </verse>
     <verse name="c1">
-      <lines>Hozzád szálljon minden hála, hozzád szálljon minden szó! Egyedül csak Te vagy méltó, nincsen senki Hozzád fogható!</lines>
+      <lines>Hozzád szálljon minden hála,<br/>hozzád szálljon minden szó!<br/>Egyedül csak Te vagy méltó,<br/>nincsen senki Hozzád fogható!</lines>
     </verse>
     <verse name="v2">
-      <lines>Térdet hajtok (térdet hajtok)<br/>a Király előtt, (a Király előtt,)<br/>vedd az éltem, (vedd az éltem,)<br/>légy Úr minden fölött, mindenem fölött.<br/>Bátran nézek (bátran nézek)<br/>trónod felé, (szent trónod felé,)<br/>Benned bízom, (Benned bízom,)<br/>csak Te adsz reményt, csak Te adsz reményt.</lines>
+      <lines>Térdet hajtok<br/>(térdet hajtok)<br/>a Király előtt,<br/>(a Király előtt,)<br/>vedd az éltem,<br/>(vedd az éltem,)<br/>légy Úr minden fölött,<br/>mindenem fölött.<br/>Bátran nézek<br/>(bátran nézek)<br/>trónod felé,<br/>(szent trónod felé,)<br/>Benned bízom,<br/>(Benned bízom,)<br/>csak Te adsz reményt,<br/>csak Te adsz reményt.</lines>
     </verse>
   </lyrics>
 </song>

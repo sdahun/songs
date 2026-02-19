@@ -3,24 +3,30 @@
   <properties>
     <titles>
       <title>Tégy engem békeköveteddé</title>
+      <title lang="en">Make Me a Channel of Your Peace</title>
     </titles>
-    <verseOrder>v1 c1 v2 v1 v3 c1</verseOrder>
+    <authors>
+      <author type="music">Sebastian Temple</author>
+      <author type="words">Sebastian Temple</author>
+      <author type="translation" lang="hu">Kulcsár Tibor, 1989.</author>
+    </authors>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="199"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Tégy engem békeköveteddé!<br/>Hogy hinthessem az igemagvakat!<br/>Ó, Szentlelked hadd uralkodjék bennem,<br/>és az ajkamra adj tiszta szavakat.</lines>
+      <lines>Tégy engem békeköveteddé!<br/>Hogy hinthessem az igemagvakat!<br/>Ó, Szentlelked hadd<br/>uralkodjék bennem,<br/>és az ajkamra adj<br/>tiszta szavakat.</lines>
     </verse>
     <verse name="c1">
-      <lines>Ó add, Uram, hogy soha ne feledjem,<br/>hogy mi voltam, hogy mivé lettem én!<br/>Egész életemmel, lényemmel hirdessem:<br/>Jézus él! Benne mindig van remény.</lines>
+      <lines>Ó add, Uram,<br/>hogy soha ne feledjem,<br/>hogy mi voltam,<br/>hogy mivé lettem én!<br/>Egész életemmel,<br/>lényemmel hirdessem:<br/>Jézus él!<br/>Benne mindig van remény.</lines>
     </verse>
     <verse name="v2">
-      <lines>Tégy engem békeköveteddé!<br/>Bár nélküled én oly kicsiny vagyok,<br/>a harcaim közt az ad erőt nékem,<br/>ha az Ige fénye rám újra ragyog!</lines>
+      <lines>Tégy engem békeköveteddé!<br/>Bár nélküled én oly kicsiny vagyok,<br/>a harcaim közt<br/>az ad erőt nékem,<br/>ha az Ige fénye<br/>újra rám ragyog!</lines>
     </verse>
     <verse name="v3">
-      <lines>Tégy engem békeköveteddé!<br/>Már sóvárogva vár Rád a világ.<br/>Ó, add, hogy lámpás legyek szent kezedben,<br/>aki utat mutat másoknak Hozzád!</lines>
+      <lines>Tégy engem békeköveteddé!<br/>Már sóvárogva vár Rád a világ.<br/>Ó, add, hogy lámpás<br/>legyek szent kezedben,<br/>aki utat mutat<br/>másoknak Hozzád!</lines>
     </verse>
   </lyrics>
 </song>

@@ -13,26 +13,23 @@
       <author type="translation" lang="hu">Hunyadi Tamás</author>
     </authors>
     <ccliNo>7171583</ccliNo>
-    <verseOrder>v1 c1 v2 c1 b1 b1 c1 c1 e1</verseOrder>
+    <verseOrder>v1 c1 v2 c1 b1 b1 c1 c1</verseOrder>
     <songbooks>
       <songbook name="Zuglói énekek" entry="50"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nézz rám és lásd<br/>a kegyelem hogy formál újjá.<br/>Ami régen volt, az mind elveszett,<br/>de kaptam egy új életet,<br/>a kemény szívből így lett lágy,<br/>csak Isten irgalma képes rá!</lines>
+      <lines>Nézz rám és lásd,<br/>a kegyelem hogy formál újjá.<br/>Ami régen volt, az mind elveszett,<br/>de kaptam egy új életet.<br/>A kemény szívből így lett lágy,<br/>csak Isten irgalma képes rá!</lines>
     </verse>
     <verse name="c1">
       <lines>Most éneklem, hogy végre élek,<br/>szabad lettem én!<br/>Az Ő jósága éltet,<br/>s a kiontott drága vér.<br/>Még ha volt is jó bennem,<br/>ha Ő nincs, semmit sem ér.<br/>Csak irgalma éltet,<br/>s a kiontott drága vér.</lines>
     </verse>
     <verse name="v2">
-      <lines>Úgy féltem én - óh<br/>csak a sír várt az út végén.<br/>Hisz’ annyi vétek és száz tévedés<br/>oly’ sok rossz döntés kísért.<br/>Te mégis eljöttél: óóó<br/>bűnöm nem vádol többé.</lines>
+      <lines>Úgy féltem én,<br/>csak a sír várt az út végén.<br/>Hisz’ annyi vétek és száz tévedés,<br/>oly’ sok rossz döntés kísért.<br/>Te mégis eljöttél:<br/>bűnöm nem vádol többé.</lines>
     </verse>
     <verse name="b1">
       <lines>Nincs több bűn, nincs több vád,<br/>Ő hordozta vétkünk.<br/>Jöjj hát, hozd szíved,<br/>Isten irgalma vár.<br/>Nincs több könny, nincs több gyász,<br/>Ő szállt sírba értünk.<br/>Jöjj hát, hozd szíved,<br/>Isten irgalma vár.</lines>
-    </verse>
-    <verse name="e1">
-      <lines>Csak irgalma éltet,<br/>s a kiontott drága vér.</lines>
     </verse>
   </lyrics>
 </song>

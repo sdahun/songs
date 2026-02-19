@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Tedd a terhed elé</title>
+    </titles>
+    <authors>
+      <author>PZM</author>
+    </authors>
+    <verseOrder>v1 v2 c1 v2 c1 c1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="92"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha megfáradtál<br/>és erőd elhagyott,<br/>kialudt a fény,<br/>mi eddig ragyogott.<br/>Ha föléd emelkednek,<br/>s elfednek a gondok,<br/>tedd a terhed Elé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szállni akarsz,<br/>de egy lépés sem megy.<br/>Oly nehéz az élet,<br/>s te egyedül cipeled.<br/>Már szenvedett, értsd meg,<br/>a kereszten érted,<br/>hát tedd a terhed Elé,<br/>tedd a terhed Elé!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem azért jött,<br/>hogy sírni lásson,<br/>nem azért,<br/>hogy a porba hullj!<br/>Újra tárd ki a szárnyad,<br/>mondd el a világnak,<br/>mily nagy a mi szent Urunk,<br/>mily nagy a mi szent Urunk!</lines>
+    </verse>
+  </lyrics>
+</song>

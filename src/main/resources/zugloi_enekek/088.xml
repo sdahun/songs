@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Szólj hozzám, Uram Istenem</title>
+      <title lang="en">Speak, O Lord</title>
+    </titles>
+    <authors>
+      <author type="music">Keith Getty</author>
+      <author type="music">Stuart Townend</author>
+    </authors>
+    <ccliNo>4615235</ccliNo>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szólj hozzám,<br/>Uram, Istenem,<br/>hogyha szól igéd,<br/>segíts értenem!<br/>Hadd legyen<br/>kenyér szent szavad,<br/>mely a lelkemnek<br/>erőt, éltet ad.<br/>Bárcsak tündöklő<br/>fényed látszana!<br/>Bárcsak szívemben<br/>tüzed lobbanna!<br/>Szólj hozzám,<br/>segíts megtudnom,<br/>Mi a szándékod!<br/>Vezess utadon!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szólj hozzám,<br/>lelkem hadd legyen<br/>jelenlétedben,<br/>Uram, Istenem!<br/>Vizsgálj meg,<br/>vajon tiszta-e<br/>feléd tárt kezem,<br/>egész életem!<br/>Bárcsak Szentlelked<br/>tüze járna át!<br/>Fényed űzné el<br/>ma az éjszakát!<br/>Szólj hozzám!<br/>Segíts meglátnom,<br/>mi a szándékod!<br/>Vezess utamon!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szólj hozzám!<br/>Újítsd meg hitem,<br/>győzd meg értelmem,<br/>formáld át szívem!<br/>Hadd leljen<br/>bennem visszhangra<br/>amit mond igéd,<br/>legyek hű szolga.<br/>Bárcsak fejlődnék<br/>hitben minden nap!<br/>Visszatükrözném<br/>drága arcodat!<br/>Szólj hozzám,<br/>szavad megtanít,<br/>bátran küzdeni,<br/>amíg győz a hit!</lines>
+    </verse>
+  </lyrics>
+</song>

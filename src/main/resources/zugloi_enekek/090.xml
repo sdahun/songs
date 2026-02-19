@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="byHand 1.0" modifiedIn="byHand 1.0" modifiedDate="2026-01-01T00:00:00">
+  <properties>
+    <titles>
+      <title>Te vagy az Úr</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1 v1 c1 b1 v1 v1</verseOrder>
+    <songbooks>
+      <songbook name="Zuglói énekek" entry="90"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldalak, mert jó vagy<br/>és vezetsz engem,<br/>velem vagy ha baj van<br/>és rossz a kedvem.<br/>Velem vagy a zajban,<br/>ott vagy a csendben,<br/>áldalak, mert Te vagy<br/>az igazi Isten.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szentlelkeddel átjárod a szívemet,<br/>jóságoddal támogatsz engem.<br/>Haláloddal váltottad meg életem,<br/>átadom most teljes lényemet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Te vagy az Úr, te vagy az Úr,<br/>áldom nevedet, Jézus, áldom nevedet.<br/>Te vagy az Úr, Te vagy az Úr,<br/>áldom nevedet Atyám.</lines>
+    </verse>
+  </lyrics>
+</song>

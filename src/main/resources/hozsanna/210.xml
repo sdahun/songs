@@ -3,7 +3,15 @@
   <properties>
     <titles>
       <title>Úr Jézus, Megváltóm</title>
+      <title>Kiálts az Úrnak</title>
+      <title lang="en">Shout to the Lord</title>
     </titles>
+    <authors>
+      <author type="music">Darlene Zschech</author>
+      <author type="words">Darlene Zschech</author>
+      <author type="translation" lang="hu">Németh S. Judit</author>
+    </authors>
+    <ccliNo>1406918</ccliNo>
     <verseOrder>v1 c1</verseOrder>
     <songbooks>
       <songbook name="Hozsánna énekes" entry="210"/>
